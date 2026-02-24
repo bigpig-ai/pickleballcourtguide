@@ -1,0 +1,17 @@
+[
+  {
+    "id": "claim_1771977416025_jxw9s",
+    "business_name": "Test Court",
+    "contact_name": "Test User",
+    "contact_email": "test@example.com",
+    "contact_phone": "",
+    "court_name": "Test Court",
+    "place_id": "",
+    "your_role": "owner",
+    "tier_interest": [],
+    "corrections": "",
+    "claim_date": "2026-02-24T23:56:56.025Z",
+    "status": "pending",
+    "ip": "172.249.73.34"
+  }
+]
