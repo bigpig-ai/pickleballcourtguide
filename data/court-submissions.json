@@ -1,0 +1,24 @@
+[
+  {
+    "id": "court_1771977424105_x8blo",
+    "court_name": "Riverside Pickleball Complex",
+    "court_type": "public_park",
+    "address": "",
+    "city": "Tampa",
+    "state": "FL",
+    "num_courts": "",
+    "phone": "",
+    "website": "",
+    "features": [
+      "Outdoor courts",
+      "Lighted for night play"
+    ],
+    "hours": "",
+    "description": "",
+    "submitter_name": "Test User",
+    "submitter_email": "test@example.com",
+    "submitted_date": "2026-02-24T23:57:04.105Z",
+    "status": "pending_review",
+    "ip": "172.249.73.34"
+  }
+]
