@@ -20,5 +20,28 @@
     "submitted_date": "2026-02-24T23:57:04.105Z",
     "status": "pending_review",
     "ip": "172.249.73.34"
+  },
+  {
+    "id": "court_1771978250907_5hgk3",
+    "court_name": "Sunset Pickleball Park",
+    "court_type": "public_park",
+    "address": "",
+    "city": "Seattle",
+    "state": "WA",
+    "num_courts": "",
+    "phone": "",
+    "website": "",
+    "features": [
+      "Outdoor courts",
+      "Free to play",
+      "Parking available"
+    ],
+    "hours": "",
+    "description": "",
+    "submitter_name": "Bob Johnson",
+    "submitter_email": "bob@example.com",
+    "submitted_date": "2026-02-25T00:10:50.908Z",
+    "status": "pending_review",
+    "ip": "172.249.73.34"
   }
 ]
