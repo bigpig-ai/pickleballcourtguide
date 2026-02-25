@@ -13,5 +13,22 @@
     "claim_date": "2026-02-24T23:56:56.025Z",
     "status": "pending",
     "ip": "172.249.73.34"
+  },
+  {
+    "id": "claim_1771978249835_rfvf5",
+    "business_name": "Downtown Pickleball Club",
+    "contact_name": "Jane Smith",
+    "contact_email": "jane@pickleballclub.com",
+    "contact_phone": "",
+    "court_name": "Downtown Pickleball Club",
+    "place_id": "",
+    "your_role": "owner",
+    "tier_interest": [
+      "Featured placement at top of city results"
+    ],
+    "corrections": "",
+    "claim_date": "2026-02-25T00:10:49.835Z",
+    "status": "pending",
+    "ip": "172.249.73.34"
   }
 ]
