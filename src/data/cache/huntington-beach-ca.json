@@ -1,0 +1,88 @@
+[
+  {
+    "id": "ChIJx4HNDXEh3YARlcwjyMEjCR4",
+    "name": "Worthy Park Pickleball Courts",
+    "slug": "worthy-park-pickleball-courts-huntington-beach-ca",
+    "address": "17th-Main, 1801 Main St, Huntington Beach, CA 92648, USA",
+    "lat": 33.6754563,
+    "lng": -118.0022622,
+    "rating": 4.6,
+    "reviewCount": 64,
+    "photos": [
+      "ATCDNfVzUaHs-Inf8AlJnm4ZMON3Q-_cfvrSi3dWmM6iq-0eByZUR6TOqe3rAJWjjYW8nuEu6gmA5GITIf_867nL9gAvnxpbd_BY-wcDV9dCjw5WA_l60eJAAs39bqr4Mze3LJyEpNcfIzJ5IIlXXOgmbUlg5iUQtwnvNavx8qRKPW_DOK7R5YLJzxDrVCkXgeJ6pPj_jY0PJDN1M--HmlgiCsKlQDqOMIMRU9B0xwsp8r61BAFqdzR8nvseSGAQXf4u9EfCcXaXtS92eit5inbqkM5WgxGfzsihAVFTR0X7Ul6z_ocjc2WO7JLNb_6iCid0OyDkl7zM10aQRy3O6znzAtasxkvQfPpWvncUkn4KCRvFDu64SdILbYh_7MhqozMxybhgOpSlvYcRNNbAq5u3Y5fQIR77kmwkKCwPAIpozRWdVA"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJx4HNDXEh3YARlcwjyMEjCR4",
+    "city": "Huntington Beach",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJP89pmkwh3YAR1e3PqEYUag8",
+    "name": "Worthy Park",
+    "slug": "worthy-park-huntington-beach-ca",
+    "address": "1801 Main St, Huntington Beach, CA 92648, USA",
+    "lat": 33.6744651,
+    "lng": -118.003245,
+    "rating": 4.5,
+    "reviewCount": 36,
+    "photos": [
+      "ATCDNfVMIKcCJZi7zMA1tDtI9M0SgTnFzs5304DS6isSheZs_uFl4P_T99_Qk-o4y8tQ1xr6xyn-JubBw_HDrYw2qjWYZvYX1pcziTirbOIedDKzbUXceXfQtiAL6ZIoLarT81CaZfZonAA52u13SCYgjlPbdCPHSukWYvqWxT0TYaozxEgflWEs_Q4ChbHC1VrGWTbwBi4R6UO9pBHhjOBBGSXcNOZ6sNpByH7A-an3oj-wq8K84c3OETd_DG66LIc9ps2J9Qy-nvm7mCooDAiUnaHN4YSrbH3NDvPaoPHh8ZAaOkvfPN0OIR0zsx-Izmh2uGGZHZxRfg_0JTlcFAKqDX96bc7qxsc0_awfzcjL2n-wE2LKTCDi0JYbjaMLZ5XstLnRCjK4EoLweYDQiTqcWZRZMDrgiLZ4kkExzCLzd3YeAwd6"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJP89pmkwh3YAR1e3PqEYUag8",
+    "city": "Huntington Beach",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJh7fxM1kn3YARwcBSZ8D0uFs",
+    "name": "Huntington Beach Pickleball",
+    "slug": "huntington-beach-pickleball-huntington-beach-ca",
+    "address": "15744 Goldenwest St, Huntington Beach, CA 92647, USA",
+    "lat": 33.7361769,
+    "lng": -118.0055144,
+    "rating": 4.4,
+    "reviewCount": 42,
+    "photos": [
+      "ATCDNfWdVAQiYWOUaqT7eTRc6VWKqWGNq2hjiftpv5u0exDr2Ji--RoISAKsDpG64q9hOB83ukVYQzRDg3eFwml8tP155nwn8Uojo13v1P4lD3TiD0dgqZGzaL3LXcNVgAz4RGDVnLjmxgA7qDHW_inYeAF1JIJGuD_8ruWynici4kFnryjIPkoyd3pR-ku7epGSrr4pnq-COIDGOQuOmr06pCSWJD6DEIBLEwDJ8H_y4JK-C-HBUeSNZZtrRGLOSqlgghozudBbNdAEL1FTDuAJIv0OlJOeavbALUub6SoAJ6o5iYA-9Mu901XujPLP-BYH-3FRPM8jz40FAEUriKWof7YEqiQGYJ1XYjpNTlRimaq7aq0f5CSmJS99AvehaJ9Ze4C39SjkS_goHNTUuPswnNCbhoKLwLko6skyo-lGjsU"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJh7fxM1kn3YARwcBSZ8D0uFs",
+    "city": "Huntington Beach",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJe2D1w5on3YARCE0wUeY_IKw",
+    "name": "HB Sports Warehouse Indoor Pickleball",
+    "slug": "hb-sports-warehouse-indoor-pickleball-huntington-beach-ca",
+    "address": "18211 Enterprise Ln # D, Huntington Beach, CA 92648, USA",
+    "lat": 33.6979114,
+    "lng": -117.9988477,
+    "rating": 5,
+    "reviewCount": 7,
+    "photos": [
+      "ATCDNfVmnbk7EItLIKChPmbvKAhvTjygKqBxZ1f2VyXtK2LvCESxyyeHTUTEHMtm84mv9QQRQafR2rOcUe90fnlwnQdQRp5868ykijRdXWOfhu2jQ1zkRDMnU_nf5DhL6niWvgN7fzMIKZ6FL_UTToXX1U7MH95W7BaGL00kaybePK8pwKHq3OW0Q5fW2kL7eDVVCCGhw8lbnALTaBJFYhBh2axsgmbpq-rRadW7dn6QdG0UIhgOxAqgZ0jkabZiKVMvGI-Z2isU2QLJBW6UJ5iYvQyz29hu6ByanBzCRfHhBZyhqQ"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJe2D1w5on3YARCE0wUeY_IKw",
+    "city": "Huntington Beach",
+    "state": "CA"
+  }
+]

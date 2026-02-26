@@ -1,0 +1,153 @@
+[
+  {
+    "id": "ChIJCzSgMQC1woARjfNkRE2ALu4",
+    "name": "Manhattan Beach heights pickleball courts",
+    "slug": "manhattan-beach-heights-pickleball-courts-manhattan-beach-ca",
+    "address": "1605 N Redondo Ave, Manhattan Beach, CA 90266, USA",
+    "lat": 33.8902097,
+    "lng": -118.3835271,
+    "rating": 5,
+    "reviewCount": 1,
+    "photos": [
+      "ATCDNfXkU9e2Nght2vcsDRiKIj698ZxGI8977HQRJ3dYh3Ppvcoc3rKRDQrnf4Cij4q_goSQpoZqGAS9Wp7RR3bhAIaaDcTIbmNYKQecwi6eFU1jWiftv_9IRuYO6N4ksdMud0qBgeKXFFjocP_fGG0p7AVfZU3--a6sIm6P3ANHMkZGnyquK9p3-kSSXc5szvtRw3sObSSwKWpeQ_sX6whPf16qU2_kkHcKNEiNLoajPmYVOCbMGq3fonN2lEgA5XPPJOwt3GnKhJY8d_pSn5j9gW-FB-3xESyt6IWHgfZnkncqlSYUYBY7URghlVloI3ma8WYKo10Yqz1AAVtNDnrPFCCWMh4tBcFZoNy4ROG6S9tHjllkuXfPsn-TVIbgNPVN-qu6X77qLqqs2NquIisAcxUh8WDRpkeCfCA0Gz-HObeC0WbSVNj-7UAfnCxnAw"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJCzSgMQC1woARjfNkRE2ALu4",
+    "city": "Manhattan Beach",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJJ8vn0u6zwoARaIieVOpizv4",
+    "name": "Live Oak Park",
+    "slug": "live-oak-park-manhattan-beach-ca",
+    "address": "1901 N Valley Dr, Manhattan Beach, CA 90266, USA",
+    "lat": 33.8895588,
+    "lng": -118.4104353,
+    "rating": 4.5,
+    "reviewCount": 253,
+    "photos": [
+      "ATCDNfUeWxs58Wf-0p1Hne2pxyQ2wRPQRTQ8r69NcLL8B4wrl5OSWTPYce0DRrF82AV7x6UcoqXMY92t6JQpOxplNO1fJb8vPht4eIjEvbuffR-NLTVYc48tt7oRQZqaArMvrUP3eRjv7n5AueNB9vmtSaZFLsQqekdKaxoWQO07xg8ZkptrJJ406XU9twJBQ_-u0qasftom-9bATx9q2eyQx9Ws8ALdAwVbT3lbFA4vlaaQ84I2FZ7PpXE4gRcOXlsAESv64jJ03eJG5k5xtZZx89QlEXJ5EBjvchpgVAkJVlQycNvlhK7fWatH2V9dt3ckJGLxsgwgltrxcQOnVHBHB8CE7KKUPvD5nvwPM0pCFmYJlUjOT3GmJQPafl1nTRnE1FEoCHLrS3Q6fB8k35lGO7X_wuKUTDOedtbeUvLUgm_4J6OB"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJJ8vn0u6zwoARaIieVOpizv4",
+    "city": "Manhattan Beach",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJjSvLGnO0woARRZUiruk39uo",
+    "name": "Manhattan Heights Community Center",
+    "slug": "manhattan-heights-community-center-manhattan-beach-ca",
+    "address": "1600 Manhattan Beach Blvd, Manhattan Beach, CA 90266, USA",
+    "lat": 33.8869551,
+    "lng": -118.3848311,
+    "rating": 4.2,
+    "reviewCount": 13,
+    "photos": [
+      "ATCDNfU3z8fToOmHiUExBVR4G8x1J8bY_qScXZBtOojLGJlYps-AOYHIaxdyHm5XjMNOAoYlC2qF2PbPhWxJBRMaZp_H0nc9rP_ngB1koX_pASbxrhXduX2pD63A-G5It2kg8YVzSNh0C2SaCVmiAJ7_vAOw9oWLknj01k42Bc10nBviTe-4FyhXZ8EWJFRbxRXsZUSjMy-Vlz3gYwvDcbeLt4G2KL83JVidBndSgDh-puRHhL1BYS794wjOpUJCK5WwKbolFCIGXMJcH9r3OPM6htjSPxnmCZ2EzUJLRTtZU-eyQQJ2QTfLXqHd65_q-vXcsYqKOxBz62Mp-ktU1JDgoMaiVaopCunnrcZyHRW2CdQOk3FEoAKYM5afJN0er4BCkidGNO56IqJmG1nvI4Twaz7Zn-75FtRvaMlaYWkDm7g"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJjSvLGnO0woARRZUiruk39uo",
+    "city": "Manhattan Beach",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJLb2f2wy0woARBEdenJqRCQI",
+    "name": "Manhattan Heights Park-Basketball Courts",
+    "slug": "manhattan-heights-park-basketball-courts-manhattan-beach-ca",
+    "address": "North Herrin Avenue & Manhattan Beach, Manhattan Beach, CA 90266, USA",
+    "lat": 33.8870822,
+    "lng": -118.3844258,
+    "rating": 4.4,
+    "reviewCount": 29,
+    "photos": [
+      "ATCDNfURrAyCJrGpcOTtS_f-fLuo1i9a7j1z_GbbypUxIvtbXLhIFH5s3T7IFcxzIzyUQUREdghaTehoZbI4o1xXitXrtA4VHPo_jKjrYHYhsPwVqzvp3AIcB5ERt5yFjuM76A9JE44a8y844WJvCbWRvgeG1e4Fq5j0_I1RGRYKE2RZlRPHzxzfHmKXc4P7AHz9I6QaxW61GMX6pX59etHqhkr49wxLc-ASLKVrcx6ZqT4hpHl03HxbgfWA6ScUrQZ95RJwTNog1bQiK_7D7W850NuydB3RwGkvljqqfZsRqUqpy7DMavvgMN2sqxKJgR9-xPi0kX_kmV8bzyPVgchwYSs8YwsAu9MPkco2EJt-PbEyFp305HbvRHQWSLfb5ZvG007zFFzZtKipYzdV7Yud4Nt759bHXH_3--44ikoazwBjXRT-"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJLb2f2wy0woARBEdenJqRCQI",
+    "city": "Manhattan Beach",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJl2x_ZgC1woAR30nilAHGA5k",
+    "name": "Pickleball at westdrift Manhattan Beach",
+    "slug": "pickleball-at-westdrift-manhattan-beach-manhattan-beach-ca",
+    "address": "1400 Parkview Ave, Manhattan Beach, CA 90266, USA",
+    "lat": 33.899922,
+    "lng": -118.3876837,
+    "photos": [
+      "ATCDNfVLueNzc8Xd8BNRurEE_n42DVS7ZeXRwtK_9EZlVNoeGv6a91nTnTRXU2Q26rVyAMQs4BFi5viNUd04gsyPHChfK73vMkbToFhx_eQetp2tUJZ-PIO-4_1qCLRKSYMZXV3wde6wnzoo--k2cJD9PRv-QOBaaq5cJAHgjDbRlIIKgskRMp555F1IDcvMObgfESOtJ0EOjtsi9xh51ZqdSNIW9zniyjq8yQdrZq06UvW1ZxfAnC8SxbfzzACVLxDNvsQYMMXomNDdm8LVudSgcpW7gjPFU3Hd7a_5C0W8yXUFlg"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJl2x_ZgC1woAR30nilAHGA5k",
+    "city": "Manhattan Beach",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJA5NBZj63woARLna8OKuLPCM",
+    "name": "California SMASH - Pickleball & Social Club",
+    "slug": "california-smash-pickleball-social-club-manhattan-beach-ca",
+    "address": "815 N Nash St, El Segundo, CA 90245, USA",
+    "lat": 33.9272523,
+    "lng": -118.3881054,
+    "rating": 4.8,
+    "reviewCount": 86,
+    "photos": [
+      "ATCDNfWmu9Dk78ZNyZWb-krmx8O9ymt1LQWVWykpZrWt1EXGWBlkFfdyfNZaeKyTYSwwdVbbwclUJvj8ij637fK3P9B8BT2zoK0VVmiM1DSK7n-IYOPgHlOww83EjkQX_v6XHDXR5T-hpwVe2IxxT9sn2j5yKLD9V7WBZTQPgftE_4qYvNdj3SqJ94jlAUTq2AYNHEMeWXseWXnsEgMgkIMJRmlKDkL1CYOEt_LrVfmY_5HRPr-tFSqUNtyNKdNastuSkB2yYhoBUuZVD2vd6NlV11GvCo8ZMqDWHOv0Q9Eu2PC_Uw"
+    ],
+    "types": [
+      "bar",
+      "establishment",
+      "food",
+      "point_of_interest",
+      "restaurant"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJA5NBZj63woARLna8OKuLPCM",
+    "city": "Manhattan Beach",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJVdMQrge0woARqWElEp1539I",
+    "name": "Manhattan Country Club",
+    "slug": "manhattan-country-club-manhattan-beach-ca",
+    "address": "1330 Parkview Ave, Manhattan Beach, CA 90266, USA",
+    "lat": 33.9000754,
+    "lng": -118.3900792,
+    "rating": 4.7,
+    "reviewCount": 157,
+    "photos": [
+      "ATCDNfVg-oBQiMECECqBmAuLd9irzJ19KVg5lmY9Yo-tzjvBw7H4G1KUpUSBCCr5PDE8E0gDAba2PIqEaV4FpzmxgEPfhCl9iF2kJubIiwYKjlcu0Eq7YGRueipY-W6XLA_GuWh4GfzBOvF2j41M8Dt2gjPyKI7xJ8qwmlq1ElRlVjd5E-9DY6Vr59Czw9a_5mHq2QIxqUvXin6z2oHfWDziTGcVoSdwST6U1lYEh2kP2gA3kS3hvJW7MrmGsMbMAFdnWf3rsAXJKkIgF-sgghIg8SKXeh0QTffUvAQJm7APQBwVUzQt9qyFkkumTViIsDH36Oinj_kl72bcbelF6C4CzP5a1agOEflQ1TQX0uBQDsO4FEeLm1txZDRNvD0pnfsRQTH6ddxv8oIhfe-evSLESfNBduVl_0Erlvv8nKokUIXj8Q"
+    ],
+    "types": [
+      "establishment",
+      "health",
+      "point_of_interest"
+    ],
+    "priceLevel": 1,
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJVdMQrge0woARqWElEp1539I",
+    "city": "Manhattan Beach",
+    "state": "CA"
+  }
+]

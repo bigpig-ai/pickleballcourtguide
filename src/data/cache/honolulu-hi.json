@@ -1,0 +1,1498 @@
+[
+  {
+    "id": "ChIJ70NIXVxzAHwRTrEvkG9wpvY",
+    "name": "Fort DeRussy Beach Park Pickleball Courts",
+    "slug": "fort-derussy-beach-park-pickleball-courts-honolulu-hi",
+    "address": "2131 Kālia Rd, Honolulu, HI 96815, USA",
+    "lat": 21.2786544,
+    "lng": -157.8342653,
+    "rating": 4.6,
+    "reviewCount": 13,
+    "photos": [
+      "ATCDNfUPezoYp5fwOhefEX9WpI6mXK6pWwJ3PksaRiz_y1xCuHZ8BdMxfyIHJVDx10TeIZV1duRWRN5SDVxo-8HbFiq585s_tqkv44KCrNo98KTXBbD_Au6zXqZulJEtgXi0AKcJ_8zkqkKXROigZNbJ0p4XY2021s9M-C31sNXX7OhPPzAwoCI1oiHtlGHwHyLSSV8Q_7ULJX_n_9jmuN0ziZXDGKOmIfTwNChGG-2I0Pskcd22pOu08YIzvoqVwVk_X9KTXteRCKs1WEOTeQtnpztLveSkkXji3uP9cHkJCqJ1Q7hJYuTePDqdTrEQV07pc7FMpQzK_fOAlUOCpifNlPEfD80FumpPXSlcqxgK23ESvsww9kf9YG1sY9JG-jC3XBdQ9NnHutAZHpaQj7X37ukJvDB1xLl0-m5WxBpg_MCrRopZTTkc7Dka6oCcNg"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ70NIXVxzAHwRTrEvkG9wpvY",
+    "city": "Honolulu",
+    "state": "HI"
+  },
+  {
+    "id": "ChIJUXkRH2JtAHwR9Apbv-aHV6Q",
+    "name": "Petrie Community Park",
+    "slug": "petrie-community-park-honolulu-hi",
+    "address": "1039 20th Ave, Honolulu, HI 96816, USA",
+    "lat": 21.2761258,
+    "lng": -157.7916485,
+    "rating": 4.4,
+    "reviewCount": 205,
+    "photos": [
+      "ATCDNfUOGQHZ7ioF4wrNmk14ocr8t3UxKZY3ZFD_58gSQ9pSAFxGXabphywAoOXxgjRkba_v_n_AMt-in7GkUjajKk2IFD5qUEIFp4r5iGN17A4WY_V4ie95ZAgguDWRdVsjWQVzIBbwfn6YoqkQL2D3thLr0tz0hw9yGqLRRU0bZp9UhPOMH1YaATb4fPQHZy4dfCljeewRknvIGOSVB9YHo-NKEdM-q8u0NYOISqDYHX5nys7O5JDfd0lE_C2FsAK3hxXCwAqd3lALBECeXbIDJ1H6YW_a0vMtHDjDA39VS4IdAV3hs3AFqDr9S1t5PiqFaCPciPwRYuTpyDOyPMVBIHCskyT8YuS0ef7Ge2AENxYhaU9gIfp6pgwu65isfAjrBmTMR--wRAd9cdKMkZGFkW5aZycfSb9jq9wP4OLE1C-9SLHt"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJUXkRH2JtAHwR9Apbv-aHV6Q",
+    "city": "Honolulu",
+    "state": "HI"
+  },
+  {
+    "id": "ChIJTRo0BwBvAHwR0x1Wxo_U5Xc",
+    "name": "Pickles at Forté",
+    "slug": "pickles-at-fort-honolulu-hi",
+    "address": "1032 Fort Street Mall, Honolulu, HI 96813, USA",
+    "lat": 21.30976,
+    "lng": -157.862004,
+    "rating": 4.4,
+    "reviewCount": 33,
+    "photos": [
+      "ATCDNfVibaurNg1iLzq_8jb4z4lDTP_KlJVtzjfNhnHK6fJDN77nCyuUqwD3KwWsnzQEV5ZmjW83_A99NKVBWOD4YmoZlaSWwjmvbtqL5bmOtJ-xdNVwMHew4mYSHcKNMVALq92fjz9pAn0zsoUaZwNcmc1wmME74IHNcLkmsr9VuRoHFPyXRSkoP2CilAV64sg6D070bAUZmk9hpSZYqBXCvwFkvk1pyN_6xU5rNRjODZ0QR79JEEc6PI-S7uHbnl88cGMAWNiY9EjXV3VEE9UuhqwplN2lTeJ0tVdOupFzYDkIetKG-yQWOc0rqKBWjqp8Rn84qJI-Mlo30NDj9PBn1EWL4_VdJ7lPp2h75yoAYFvD7pduhkGEtW9dD1Hw57CXPkABwkzoGDrrYdHanorkWZjirpQdV_J0aRPddikK7_Yp5w"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJTRo0BwBvAHwR0x1Wxo_U5Xc",
+    "city": "Honolulu",
+    "state": "HI"
+  },
+  {
+    "id": "ChIJGfwPF2FuAHwRE5YglaC2mLs",
+    "name": "Kalākaua District Park",
+    "slug": "kal-kaua-district-park-honolulu-hi",
+    "address": "720 McNeill St, Honolulu, HI 96817, USA",
+    "lat": 21.3273623,
+    "lng": -157.8767592,
+    "rating": 4,
+    "reviewCount": 175,
+    "photos": [
+      "ATCDNfXjCyPttANpGqbuzX1uQBWFNs_J3PPW1p6uVk_c36CYpBRXk3IDRi95gq4LxAv1hONWWtvfPVwrhLLsO0H8RdCw1qjkXa_h2BS1DFDnp0K6lqTDSW8l-X_IrLIpJmMVYQR42d1c-fH17j0x5MN6H39nrP7xB_pvsrG09xdaZp10JtIJjE4u0AWYMG-Z5LkS5R-17AEYAvxDnmo5HbWj-NV30gfPc_7DhoQ1dRGTxKxhp10J__YKh8o9nTt2IGKza_JTWsmThl33PtJNpnM2y5uOgGBjCpWkgjM8y0w0n04_-pWU6u0KmIEuy2NaUIAhjAZvua2lngaAp84V_56oI0ZFWq2ywiDR27y62sOwEFt7cnXp5JYMSqUWZk05eoc97zqQ8Bd4Q5RTZVbOIUKre8wJdwH2VU4Aa7sHECjrejnhXTQEBIr6uHb94NVijA"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJGfwPF2FuAHwRE5YglaC2mLs",
+    "city": "Honolulu",
+    "state": "HI"
+  },
+  {
+    "id": "ChIJKaIJR3duAHwRXERxul7jUMU",
+    "name": "Beretania Community Park",
+    "slug": "beretania-community-park-honolulu-hi",
+    "address": "1290 Aala St, Honolulu, HI 96817, USA",
+    "lat": 21.317076,
+    "lng": -157.862066,
+    "rating": 3.8,
+    "reviewCount": 149,
+    "photos": [
+      "ATCDNfU2ig2UVuRiQlOFMxir23I4wxwUDCBhtadWus8dSvPzYvLk9ct39CfX5DXDtbIa0wN0MHRnJnwH3CyUbVnp8iAFr13StWt6F33rDYknrL-QnONi0BzYPEtfYvxuWuhCI41uX_YD4C1bgazjcT3UWXp4zJyv9KwhYPb0GojGzIxHqLHf5h9jHvHtAvPpjBr-aNKq82R8oKcsJxaP2EHJ3g-H8lOIOvz3Bv9rK-Llez7V9ZWP-YvqVUJVls__TMU3igPv4nO2Dp3ygaUHcNrUBH3vLNYNbxWAZ3GQbSDUAHXVAXaVhRk1gZD7hqour3Rb36kIpOOnZajbdORnr4BfurMWC1mCXXGSyyAKekjyPjDpBZdMe_xXierMfcn7NNbQKUm3waLVG7wLAMukl69Mx5fU71_1jk4RxzGuUCJk9mBxrX0"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJKaIJR3duAHwRXERxul7jUMU",
+    "city": "Honolulu",
+    "state": "HI"
+  },
+  {
+    "id": "ChIJbz4KonttAHwRw2K3VgPCek0",
+    "name": "Kaimukī Community Park",
+    "slug": "kaimuk-community-park-honolulu-hi",
+    "address": "3521 Waialae Ave, Honolulu, HI 96816, USA",
+    "lat": 21.2831201,
+    "lng": -157.8008446,
+    "rating": 4.2,
+    "reviewCount": 163,
+    "photos": [
+      "ATCDNfWOrhu2OOiwtUceXKMOHueqHMpx7LSnr6quLxbWvJdOkgiwPNM9xDrGb2y6fDeUx8imFRN3qclFiF-oMSHMc6nQ0nEngIpTdqQ2HqqnsMx6fIoXSHn7pVv9CyWdsHtaWinndKstnPVJa0Hsl_1sXU4KXJVVuu5R-M0W-R7b3pRo2R3A52tSgpZdONY8prVA1epQqMHIuQIt5hJGwrrmM45JfWqPS9ZyZ7yS4hvckySP7ardYU3hUXCxbyfg1qiSVgqAOcy5MqMQJZ7W24gFq1yyrxHanwUdDvGuqXsIljxtwVCjZGZchiuZiIg-yPqt2X4v2oLoHlUAt6TbLhCOW6SDEP8LtAxzqGL0LBeMxgDPMAQqYRnlwzwYC-xaCaY68pPYsU4UTd0si1Qr2y0X5xMJFAfbOEiN3ktnNnlHXgnHuYRP"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJbz4KonttAHwRw2K3VgPCek0",
+    "city": "Honolulu",
+    "state": "HI"
+  },
+  {
+    "id": "ChIJjWeaRgBvAHwR7QqQYzwcvBg",
+    "name": "Ke'ehi Pickleball Courts",
+    "slug": "ke-ehi-pickleball-courts-honolulu-hi",
+    "address": "Nimitz Hwy + Keehi Lagoon Park, Honolulu, HI 96819, USA",
+    "lat": 21.3334513,
+    "lng": -157.8968529,
+    "rating": 4.1,
+    "reviewCount": 8,
+    "photos": [
+      "ATCDNfX5iTh10RPSwFvoHrWKnM9rNcxI-__u_uBc00vRlhqGt-a8zjzwrO4F5d8dHAVHSfHa2YSIZrL4acsIoZFwNPT0C74dmoLiCQfJBgvL_ihqlO0I0kj7Gl17_j6phqsuEExih_0yINLebckHMLqJ2uxfROa1cwqeKQFW_iSfebW-ygOEVDY1IM5CtC9IDA1kC8S2EXGJ_Rou8AOK05FlNvxFTanp2t1dRo0CtJdEjiktrRaAKmAPtLx6fzHTtov3Dt-7HID8S2T8oWxVAzgS750XMcCM3zTsaied8f0CLX2f9mwvZh_C9TJATMjnRoX8OJttLYhOOzHk76q_MopnWvdMBigcFIpHsJUOFTKyNGDPvg2yYkLfb49uy-E-aQz7gVmy0QSS3WaD6m8w05QVUK7RWb_rHNa-udnEgsZ0atg4yg"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJjWeaRgBvAHwR7QqQYzwcvBg",
+    "city": "Honolulu",
+    "state": "HI"
+  },
+  {
+    "id": "ChIJt4DtyAluAHwR6W1spIICOlY",
+    "name": "Mother Waldron Neighborhood Park",
+    "slug": "mother-waldron-neighborhood-park-honolulu-hi",
+    "address": "537 Coral St, Honolulu, HI 96813, USA",
+    "lat": 21.299116,
+    "lng": -157.858831,
+    "rating": 3.9,
+    "reviewCount": 144,
+    "photos": [
+      "ATCDNfXd3D6Bm7RLgHslT8X3ncE0zUnQNBiQtQQhQU72WGLlw3xJuCUZf3HNStvVrP_miAIDtHudELnD1ffkn5dS3IHGuPv_VLi81BDbak4sjf33QIBZUBioHpwE173AIgLWUx6O9Kplha_TgvCWcYEtc9PM_v6EbkVUcCq80Sw_rRzdX9xNFVBMsFbcELpArBSXlGIMvkASFu2Nh4hiJ5aYW2pM0HDUGM7MIbMJo0TSU_vsSBW3bxFGp57XRqesPIQ6QrwubUaYt8uuFdp4x7F3u_zZw19EUbqu096jKemsQnixENBpZcA0WwyOHkwu52TVQvSmjjz_PGJ4JePQzowdiLWoE-vGaT6Ahwf6HWZygnn_5-RYsM9MjfU0AOmORgVz-VxS5Hp8q1GK9IIaf1rhFe7RwlUHyrLEU_DVh9V6IgY"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJt4DtyAluAHwR6W1spIICOlY",
+    "city": "Honolulu",
+    "state": "HI"
+  },
+  {
+    "id": "ChIJL0l-LgBzAHwR6Vh8TZjv_JI",
+    "name": "Diamond Head Pickleball Courts",
+    "slug": "diamond-head-pickleball-courts-honolulu-hi",
+    "address": "Diamond Head / Kapahulu / St. Louis Heights, Honolulu, HI 96815, USA",
+    "lat": 21.2624274,
+    "lng": -157.8179199,
+    "rating": 4,
+    "reviewCount": 4,
+    "photos": [
+      "ATCDNfUZvJxtuGU8n96M3s5fvqGHAkmhHvWCSJ5rHZzVJF7j9B2p2R16bGB8swB3WJcGm8PvOuLW5YBmkn4FHOeRwcrhy8630iFd5m_igVL59cvSHNgNxCvOWujhHTvwN3mA8AE2Av9wUFLX43hpllDKFVpcaaY1xJe3-RH-GKZMvHT2gAfWZFHNgelkXg88uEKV4vlhxK3U8g9IIe4qTK09-X39gAqpxnju-uwmKegVgVWh2hQyO6unCvO-Vj5gzmKwUqZkH3pns2zjc2tf9gAuaZhXouuqpRrNEsw9YzbMZ6jzn1ML4Y5exsE8Yyr5qTj1k2ICtepizAWRPr3cqDBHMIZiPoiZE6T1yNK9eoC13oQSCIoYmh9I4aFUwamSyQdyimIa2S2Dx0xvUXKtvdNqzxaJ6zc7cty9b5wBlNxgd8yEdJtI1dua9eYmY7CvTg"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJL0l-LgBzAHwR6Vh8TZjv_JI",
+    "city": "Honolulu",
+    "state": "HI"
+  },
+  {
+    "id": "ChIJWWceac5tAHwRRsjMb99IHQ0",
+    "name": "Booth District Park",
+    "slug": "booth-district-park-honolulu-hi",
+    "address": "2331 Kanealii Ave, Honolulu, HI 96813, USA",
+    "lat": 21.3201759,
+    "lng": -157.8430304,
+    "rating": 4.4,
+    "reviewCount": 310,
+    "photos": [
+      "ATCDNfUJXk4DekNqimVfEHd6-EdPGVysfoRJtQXDlZa9WacvzYRsOogW4d2XvjDlRCqPzHmZV6ZkemJeXHwV22eLNIbAQsl7rvBi7uQjpC2tWkFG9U0VjFlsC1-498AL7i0214zqnBdSeRsqXVW2TfmKOtJrBoqS-WRzVGAAR9AgrdEE2Ylyw-2V0UjpM_itQL24HF7tQMQkQsD3xP620KDiOZb3x-hvtFoAb_E279zNIwsukZy9mJteqoJzsLKiGAl9WY_PGkHTG3RvCSU0-apqm8Y9YgedK4NIyKuqFNWcPssbe21a8_uAQ2TX1KCwC88nlMETSg-TzgCrSNfsHo0KLss0dbsjf4DPFwt489ZjzgQF35-bp6R3H1_X8AlKmDXH7ZxZeyG6ErnB3mnXz6eIacfnED--rQJZdC0I1vsfVJtfRcBu"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJWWceac5tAHwRRsjMb99IHQ0",
+    "city": "Honolulu",
+    "state": "HI"
+  },
+  {
+    "id": "ChIJJfUdimZyAHwRe2jBQfU0OFM",
+    "name": "Diamond Head Tennis Center",
+    "slug": "diamond-head-tennis-center-honolulu-hi",
+    "address": "3908 Paki Ave, Honolulu, HI 96815, USA",
+    "lat": 21.263186,
+    "lng": -157.817981,
+    "rating": 4.5,
+    "reviewCount": 137,
+    "photos": [
+      "ATCDNfVBy20JIz1H2sGJzZj9N-8P4MScO2cjbJNcmdbC6f_C08W1Paszzy03mgf9t-4znqBjZ4-LsNsEEfvad2aKh9mod61CPNywdKNMCYGml5bMP6sEjKFKK7oWJygGLg17Dv3Z54FRtis9eKp-izl_5dY1DthWo798FcCrN5WPPoL9HAn4WjO8T59TKbOVFDhRhq7qctJsU0withMv50ZiE7vQCBtwW3uHkBKswyCvNKYgVqPpen8KNR-2gGt6wWlqqLaG22ElbDmCtbcSt5-2o_y2yIqiii1bjBy2_AcB8WsQ95PMJkpjVE3RMY2S4USCf0V8qvBsRYtjAHyC0sL7KP7BuwyHMn_9BVDbU77uaRX1w3BZafICCwD33iL3i52KqOIpn6i2BKAGtV9qEwGvgTWQKVBf4TNCaCN3QHjQT78FRw"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJJfUdimZyAHwRe2jBQfU0OFM",
+    "city": "Honolulu",
+    "state": "HI"
+  },
+  {
+    "id": "ChIJKbHKyettAHwRF4I3aJ97eX4",
+    "name": "Ala Wai Neighborhood Park",
+    "slug": "ala-wai-neighborhood-park-honolulu-hi",
+    "address": "2021 Kapiolani Blvd, Honolulu, HI 96826, USA",
+    "lat": 21.2860885,
+    "lng": -157.8281612,
+    "rating": 4.2,
+    "reviewCount": 98,
+    "photos": [
+      "ATCDNfUgL5tij5W1_VTm5ubYlQC8XM_-z3FkQa05ppGdsTbAHldUZK5nflkcfGkTNZucazPB5wDM-6SKtPK4AcRIwxn3HQQ94yKA41qmeo1lBEj8gIWqwyvmSlKqu4ROY2Qkjyf0tkJaAoZIx-7ZtmcbCrT-nlQW0g6xQxxkkKhByOJrXHVXC4ZPg9hTyZW41EQxv8SKN-dRGfexY45gXo8-mGrKoyBBQBLEQF-lUgDr_qXHVAX7SPvIOPxRhrRjXvLV6p9AorMELR0I_LmYaPkbYQH4shBBfCCcws1Mpj12qbISOt_B_UdwxZ5xzFFH5tlvl3Cj5KfoIugUEIZQd4xVgKOmvK0kaOhMo8jC1tB_BehNBHDpyQWco5vccBeWQiO9sJsGzxLK_ThV1Ka31O_WVKc34f6NRcIGL4ozhl3kKsDpcqrI"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJKbHKyettAHwRF4I3aJ97eX4",
+    "city": "Honolulu",
+    "state": "HI"
+  },
+  {
+    "id": "ChIJhya0rB5vAHwRU3pX2myqeyY",
+    "name": "Salt Lake District Park",
+    "slug": "salt-lake-district-park-honolulu-hi",
+    "address": "1159 Ala Lilikoi Pl, Honolulu, HI 96818, USA",
+    "lat": 21.3532359,
+    "lng": -157.9104843,
+    "rating": 4.4,
+    "reviewCount": 267,
+    "photos": [
+      "ATCDNfULCkE9NvmFHLGb11oQvZobdc0Tnc74XTwXryKlMrBF9hFIuzJ9KgoeYpUTW6Hjq_A9BETZwkYcyJlasRrPnkDPGbsdN_SoCZrLcwYZtYnYBXeafOHBAwsM0eDWr4e3V4Ax7o2-_yeqD-1AcBWRvcnk1wZ6FNmBkQ-j5lvjcZEGVIHQA-z9UelIyg_w2O71Vt27fFKgsBxV5tapK5h8jx3-rHYYPolb_EW674NEenTGDHCc6qjnk3w1qMt-jle0sQa15gyR4gLkTfT0haMvL7aN72zf0x5gucbWVkMMy09mdz17tXibLjUNMuWFhIyEo4IZvspyUPF6nj34knyCuDJIDYjcitC3GthGuR8TJYvC22f0MLNDtS7DwYiL85Oh252U3lkVAsGCo7QeffhgVuEuURRjmDSX3--R57Y1DO0"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJhya0rB5vAHwRU3pX2myqeyY",
+    "city": "Honolulu",
+    "state": "HI"
+  },
+  {
+    "id": "ChIJ43pxt_ttAHwR8s8q0AJVI_w",
+    "name": "Ala Moana Tennis Courts South",
+    "slug": "ala-moana-tennis-courts-south-honolulu-hi",
+    "address": "1201 Ala Moana Blvd, Honolulu, HI 96814, USA",
+    "lat": 21.2904087,
+    "lng": -157.8510747,
+    "rating": 4.1,
+    "reviewCount": 54,
+    "photos": [
+      "ATCDNfWAOS1YwnhugAnZkw5uT4oKLu69BlF4rkZKgeRTGY-8c3fL-1Y9RRM9B2TYoTQQ-lr9gTB1xt7YtpseXAKe85xpRjHSQMyae2OOS1PkzfrSzCid-h8QXQuPwpPeQnDzcFeneHJk5pOnDk8Lx5qpcBOEoCP1Uk80RqLC9Su-qsAmr3OHx3xsdfSrMte7Q6cfBl1uRf1PsD7JLFAG_GdeVm9ABm2qSeQF03-G45RUCBZkDfBJPFHYfW28ou9TwmfN_w2gaxfVcwuYqcFfb5L5Qnri8L86TSDjCpBLSn8Yu3eT-npgNq1866AiV3KIz4dj3h3Wy0sCKNQZfiXG0uqRNCKMEjEsu2VJRbBpkh8WKGvjIJmGMpcNyqlRC3pGbS5NyevLvgFIBNMTnl_uHmWkcEvFdBpXibO66Kd7m-N0_zcv-w"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ43pxt_ttAHwR8s8q0AJVI_w",
+    "city": "Honolulu",
+    "state": "HI"
+  },
+  {
+    "id": "ChIJ3_mrhFZuAHwRDS-Xa_gkESY",
+    "name": "Keʻehi Lagoon Beach Park",
+    "slug": "ke-ehi-lagoon-beach-park-honolulu-hi",
+    "address": "465 Lagoon Dr, Honolulu, HI 96819, USA",
+    "lat": 21.3319238,
+    "lng": -157.8970574,
+    "rating": 4,
+    "reviewCount": 924,
+    "photos": [
+      "ATCDNfWwavcNTffYnMnToSblNfUhiQ2w9y8hXhVGlI27Jo15sCh7P2DHfSYaU4-MlNThFwLsTv1zTnzqx_z3z6L81lsLr_rvtxeMvaBowsSilt-EldFsDP5YskV3xCV3hX27chWXozGCFteSEXV1VWnjVlbjLrpJgZxgl5h_VU0s46tU-6wX12HJhUXahm7ucNCGEhagG7Ps2FuYFaaDP4fFUpY9QdOB4fDTkYXnVG2lx3PLWRkUcphoqKJmslr7D2f2wlYP0f-FjJqvEonMuEB5MULgqicPLdThAn42uaUv3hhmjWVIV_JDhmDeSiK5sIklnxDaScNJWHg-ITwcTxLnhKeVwaTQaMrrQz2cBSo7uU3_y3hK7WDTcuF9y_bJAp_VmIJSu7Th-VbuCJMeZ2pBUkCiSpzXE8nDs2oO4tWZJE3Uywu8"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ3_mrhFZuAHwRDS-Xa_gkESY",
+    "city": "Honolulu",
+    "state": "HI"
+  },
+  {
+    "id": "ChIJAY-zZS5sAHwR27W_Qk1Db0M",
+    "name": "Puʻunui Community Park",
+    "slug": "pu-unui-community-park-honolulu-hi",
+    "address": "2526 Huene St, Honolulu, HI 96817, USA",
+    "lat": 21.3342318,
+    "lng": -157.8473844,
+    "rating": 4.3,
+    "reviewCount": 89,
+    "photos": [
+      "ATCDNfVTy0XvP80f9IFxgx9_kPw8M8kpYK6G0n8kv_aVUhQkRcl5ZmbnLK41RZhdhwK60r0c-owN3Ox64vQ0FnMwr6QYiBnS9cVN0mTnnrrwpvlPgiqG2dQ8A4ooVLR87BDq4OgB47MR5si9NNhmGVgDD7StEDMC0ccXGojM_KKraPs1lQqCf9KUpoV1BFW4-ZMSvQHYY8_OfIcFs4IXIrD8-au4rXdoryMu9LfUammOAWcBfoYYWvLARZhG7qB_P3trlcOV3m4nPvjcWgHohzZudDnW1A58k5QNihWJMOKWFI5dDap1aQbV1JarwxJSIc1GdWUHZGsA_wbhlfcxCOTxoq_ftvaEgu3UlQtCSrBoOhhKyyF5fH61oxUhcwx_EvkrAsIErZ_84V5gaKFMpoExpkGsOI2x2pOj2lIw2IowGX-XdKkv"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJAY-zZS5sAHwR27W_Qk1Db0M",
+    "city": "Honolulu",
+    "state": "HI"
+  },
+  {
+    "id": "ChIJS0x9nwdtAHwRu5PeahJk96Q",
+    "name": "Manoa Valley District Park",
+    "slug": "manoa-valley-district-park-honolulu-hi",
+    "address": "2721 Kaaipu Ave, Honolulu, HI 96822, USA",
+    "lat": 21.3145454,
+    "lng": -157.8083048,
+    "rating": 4.5,
+    "reviewCount": 639,
+    "photos": [
+      "ATCDNfUiMX2TYJAGc0AfujTlF_qu1sZqYZBvV1ha3bzICrW0ulsIz0MXaJNoAFnBn6mumMjh0YylPYYRyVzRtxMS9mnplnupZ-HYqanj8xg_5pjLBHZkdg7vdXquxrG9bdL-8SPnAKSyc6dvqih44n4dQeoaL5V06QBGvIbCYW37Yak1qaFaaTtytP0Tmsv46CpjDroMGYEaBLscT9pPX6xy1G0ls4nQDdrOthCHIxJhl1m0lcxmCWZqk1MZv048hkGIX8MC1bDHiB-tJQPwN8cZKJ8e0ssHrg35p8ssT3BI39mwm9u3ae4p2Q9QsceTxfB2rjaN0CTmyHQLFPcsgQwxqNVI7yQBnvCndgfaUJFv7iH9JfQDIPRlMmp2GStSXgWqUrA68w9UUAdXva39a_i0GBJkRsOPBy2bUJU0NWrbwrO-YD1o"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJS0x9nwdtAHwRu5PeahJk96Q",
+    "city": "Honolulu",
+    "state": "HI"
+  },
+  {
+    "id": "ChIJiX5_6pJtAHwRiuq6bHF-Gmg",
+    "name": "McCully District Park",
+    "slug": "mccully-district-park-honolulu-hi",
+    "address": "831 Pumehana St, Honolulu, HI 96826, USA",
+    "lat": 21.2933818,
+    "lng": -157.8317369,
+    "rating": 4.3,
+    "reviewCount": 124,
+    "photos": [
+      "ATCDNfVYkmrfrX-uG6jwRkx2aShdQoxPftKt4Aeniq5wf8VyNioc8Cd49mIWL2qCmmalSF6Pw8uLjHLs2Xby2MTldAGXhDxqL4cbfC-TgtBbpAc3jT85-fHhq4D29mtGTP7t0USx-cd2asPBH9OmvZvYqEcFk8txhVYABbklUoKdjinP7PwaKy3F_8FZpawbpQWwTSkde6u0sOthLgldOmgzkG3bFD3Faieg4zrjpwT5Oc4-ufcKaejDG5W4wKaGj2WSIRZm957yv9WuZu0Uwy7T5CjlcXEzAL3M1kt2K2yBcVOSkXP0akA5DhQ_auCo88QaBViPdXALXjLmwvB2JK6G819dLUFDxdB_eSCVTSLe0miztJrLasGN5h1bEYTg85rtrdyYsChLYpVU6GbkfyyoTEQlD7iQwJHAsUiglIaFYaeGnw"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJiX5_6pJtAHwRiuq6bHF-Gmg",
+    "city": "Honolulu",
+    "state": "HI"
+  },
+  {
+    "id": "ChIJ7dOuNHhuAHwRiLjm8NmkE-k",
+    "name": "Kauluwela Community Park",
+    "slug": "kauluwela-community-park-honolulu-hi",
+    "address": "402 Kauluwela Pl, Honolulu, HI 96817, USA",
+    "lat": 21.319154,
+    "lng": -157.859926,
+    "rating": 3.9,
+    "reviewCount": 13,
+    "photos": [
+      "ATCDNfWCelgBmRP_dqWtNIjjXo0hPLdzvyFQCw2foImIEMsEcrA-krlc0VV-Y7kF1ak8IeGM-8xrDl1-9tlJyXSSYW8uM5Upd9rtJYwDtzYAUn56Kea2kOUww1qh4cvZMpfFdOP5jnPObzLBEhAB8ssQzUblqU75JBLfeBH3WImdMqZQtcMer4wxKu7DD41U92uiGrBQqmTOTExhB_rr72oUijw9rj6WrIRyWJbvTesDkhS4wEYZ8i168-guQbkYXW2To2_ELLawbBwtA8r7entjn2A2VJyekhEnayn9wnf2TqOxCJr08S55lQhLRQ8MVn3UEy9eplaI-XnEYs1ImbTwytmAuwIG3sTP9UowR0P8dWSOnM0MgjnraxUvf3HNW39kziZ7hlOkRmiFWFQJrEXce5Lqg58YGUdZBG_TyeUxOEotZw"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ7dOuNHhuAHwRiLjm8NmkE-k",
+    "city": "Honolulu",
+    "state": "HI"
+  },
+  {
+    "id": "ChIJxc8lLNxtAHwRAabsdcF91b8",
+    "name": "Dole Community Park",
+    "slug": "dole-community-park-honolulu-hi",
+    "address": "602 Magellan Ave, Honolulu, HI 96813, USA",
+    "lat": 21.3087782,
+    "lng": -157.8508034,
+    "rating": 3.8,
+    "reviewCount": 139,
+    "photos": [
+      "ATCDNfUzDy7bHvrsbzjr1RceYTMujhkBvMyHo3ENtWcj3mRT2nxbtkHTwwrOIKe4tjDBN3bOQOCcZiam62NzXmvrhe7nSGA6-GQy_lS6aggr8pZtoPrYFdrimOvf4WXF0WnLgPdYdQ7YR0xS8uiyBM_r5TUAhSr53BKTVvYitlqTEBhO9hYk3SAEdJW8x9dVnm2Co6AzDpjQhvimKgB6ur9uR5jPWVaQQCTU0j8pSWXPpTl1iViRaAe5JAz8SzC_jAN4NyEkvFTewKScuKmeGl1GwXeYpvTW38_y0ZBoyk2JTGrR8q3LLoZKibF3uq0AOtgpk7oYLHqgnQXpLfh3vXD1i2s0NuwFsiddzeW7gwtb9NXJOjJIXO4LZ-1g80gP0uO30EIQog9KA5h-yjHn0-8gwg9tF6D5zXVZFDA804Sn1x5ZcA"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJxc8lLNxtAHwRAabsdcF91b8",
+    "city": "Honolulu",
+    "state": "HI"
+  },
+  {
+    "id": "ChIJxdBy93tyAHwRdtAf5-5N-RI",
+    "name": "Paki Community Park",
+    "slug": "paki-community-park-honolulu-hi",
+    "address": "3503 Leahi Ave, Honolulu, HI 96815, USA",
+    "lat": 21.2714145,
+    "lng": -157.8158496,
+    "rating": 4.5,
+    "reviewCount": 190,
+    "photos": [
+      "ATCDNfUiwsoR_PKqeZWClL0_8Vsxbma5h5I_Wo69Q3ULE8sajNH8clZCcIjmClAvTF-QnIIB8ij_pHnc5YfafnXurEztpkaOO6a264l41MwljDEWgthvW-Q55FB4gS2_VAc3npPfAx8DsMOACRTF5U-3hs7tykk4i43JyCnVEnwTia_6OwMgR8LaOz1bS1kfNRXKh4tw2MO3U9pDDsyY09NvDBjkk66HgO9V_qSHWaYL5CGiSBDdqS0OPfY7RFIpI19z6xrkWZ36aJ6gxTsmmqyv1e3JdGYxwt6nXJpnHEIpRIA56r-clyMp4sN86G823SrvcQHqslApgN3U7jYwZJET4M31M29lZw_4iK8O7kzPQv0qMsomRuXTMwoMCNJ1qS0Gh9d_yyrQbVVBJy3SCEGh28X5etRopZoE_OjVTJ8oH21YOw"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJxdBy93tyAHwRdtAf5-5N-RI",
+    "city": "Honolulu",
+    "state": "HI"
+  },
+  {
+    "id": "ChIJrzSDAC5vAHwRD9DywJdYGVQ",
+    "name": "Hālawa District Park",
+    "slug": "h-lawa-district-park-honolulu-hi",
+    "address": "99-795 ʻIwaʻiwa St, Aiea, HI 96701, USA",
+    "lat": 21.3736522,
+    "lng": -157.9159355,
+    "rating": 4.2,
+    "reviewCount": 333,
+    "photos": [
+      "ATCDNfUBXBX9sNbTK0oxw__OWGl1V9YGzamzrT2ze1ya-DTTYvL_oVEH9er-pG9mHI2tZR5AsEQG29yLUNEyanYm5hcjmGx4WsmHyqW5MBDMTPsOUA3-lFBFI0U3tJMAqwf9VXd-98C0mzbCTYVK2apR3zvZI4mBfweubkiJrKHMcobLjPmJ8l2ryORgkpMhtOFBY6csKBDZNYxS91_pvY_4us7nn1eCZahqHDSM1pWtY8KGueSx4QP78HYVhaTlanWdKhDK-zjvPUViNPj-tKuotxZcAmdxBX0RAxviTd55WjZSJLrd6Egd8zCcjSc0P4V2DJRFYI-edkaWPza2K4BYLZKRGHrEQ9uuEcOy8ERAcQh9-RE2Nu2J266wn1mYD9w69oONkPgJbTxtwsB7qQULZrAADVmF9Z8zdBYX-reaV4NSHA"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJrzSDAC5vAHwRD9DywJdYGVQ",
+    "city": "Honolulu",
+    "state": "HI"
+  },
+  {
+    "id": "ChIJO4cRlF1tAHwRIvS-223_mdE",
+    "name": "Wilson Community Park",
+    "slug": "wilson-community-park-honolulu-hi",
+    "address": "4901 Kilauea Ave, Honolulu, HI 96816, USA",
+    "lat": 21.2812136,
+    "lng": -157.7843252,
+    "rating": 4.2,
+    "reviewCount": 83,
+    "photos": [
+      "ATCDNfWD9Khn_OHYmQJ-LDLITwU8TrA8_JYK3YClHNoWhzjKOC4EdAVzOacfs7Rcej-w7gbYjtnejuRehJ1KtA4IIXkhYrom9VGLazFUY8dUz1mTbdNZ5pb9Lb_ZW6c6DF76zDDxVYj-aH0L6AjjvxDexAUTqWtkmgSmTDxpz6YrKEAJVs18deyIXWG_lA5eWBU6Z7oZaxrM9vE2gyqJO880Emz_6yGDQrrRNYVYUHOlHEz-MAVduAGIZUWpvO-hAZE3vYafWCLZmHi_nIBksNSKulwU0T6UJqt_R9qKy5VMt1YiS0rpskhoSwpnvY9aPhpayJFfPZvsRx870r5lbhEzPZA_s0vjjRuH4yAko9kcHTYRq49QIMmm0c0_Uq5qik7S7_pWiXf5IbpweJqzN07SdX2MpsWmmAm7PW-05VZMGBIiQGZH"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJO4cRlF1tAHwRIvS-223_mdE",
+    "city": "Honolulu",
+    "state": "HI"
+  },
+  {
+    "id": "ChIJG2slGYBuAHwRhVngdRlLL08",
+    "name": "ʻĀlewa Neighborhood Park",
+    "slug": "lewa-neighborhood-park-honolulu-hi",
+    "address": "922 Lolena St, Honolulu, HI 96817, USA",
+    "lat": 21.3302008,
+    "lng": -157.857403,
+    "rating": 4.3,
+    "reviewCount": 67,
+    "photos": [
+      "ATCDNfXchWOkc5e96AZlH84MgtMyVNeO3BKr47HdQ5DUvgdbmPDIfrVQhj4tD9MeEA7ZnBM53557VXjMLhN-h67ac1WDLg5bSgJe5r-hDq-ewePYpwiR4XPK_anwdOJFR_dBMeNKHJEOS0R1U02IGbEl3patjAZFuF_L9K409C9_bjy_yMyoufMJwHyhEcMIACkIWF2Cx7w1JnoJTDR2j6bU_8GPo_Mx5lTv7oEatguFaUuu8XA7iqsKr0ajNL5ZLmgAaodPjvNU7hPRTaJ6LIX5tf88-R2lt6cB7yeHQ6_tma4m7r9ggem-nTYAUiyL1Rp2t86cQU6-hpjn48xgAZff8TwlXn9KSTClHpuECZlulgLhLuJXwosT8NwprHYyl1VXAzIJQcZKFF87FcAz2_sdexATtkMd7pudmxCzxjRmC4m6am-z"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJG2slGYBuAHwRhVngdRlLL08",
+    "city": "Honolulu",
+    "state": "HI"
+  },
+  {
+    "id": "ChIJTcU1XQBvAHwRb_96NUzBgTE",
+    "name": "Beretania Pickleball Courts",
+    "slug": "beretania-pickleball-courts-honolulu-hi",
+    "address": "1290 Aala St, Honolulu, HI 96817, USA",
+    "lat": 21.3168671,
+    "lng": -157.8619804,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJTcU1XQBvAHwRb_96NUzBgTE",
+    "city": "Honolulu",
+    "state": "HI"
+  },
+  {
+    "id": "ChIJcUt1PABvAHwR1A9fqvLnPQ0",
+    "name": "ʻĀlewa Pickleball Court",
+    "slug": "lewa-pickleball-court-honolulu-hi",
+    "address": "Liliha St, Honolulu, HI 96817, USA",
+    "lat": 21.3304897,
+    "lng": -157.8575052,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJcUt1PABvAHwR1A9fqvLnPQ0",
+    "city": "Honolulu",
+    "state": "HI"
+  },
+  {
+    "id": "ChIJ7dy5K8BtAHwRJhjzuHuAeSo",
+    "name": "Makiki District Park",
+    "slug": "makiki-district-park-honolulu-hi",
+    "address": "1527 Ke’eaumoku St, Honolulu, HI 96822, USA",
+    "lat": 21.3037912,
+    "lng": -157.8358876,
+    "rating": 4.2,
+    "reviewCount": 637,
+    "photos": [
+      "ATCDNfUBEKlBDCxer9E0lBo2a-Y3p207H4gku2Ov77JZM8_Oa-yR4I-Aiq1-aI-Jthi9NUxVEL1yaH7074k1LU7abyGbJHMNonJkaUZaYxmFDci5xmG9K8JZXaPQLp45x8oJd9FzS0vdODCsXTaI0t7xqBMeEiZYgvKpuelFmNw5dsUp6biNjVZW4LLpvlyFdfZjIZjp4fa1m_HMQ7l2T9936BCd6RC_htxmFfLZMpdoScOBOwdMrL6dLc8TnKzClYyrdBuccgi1O2P8nfMrRaWEFbIfnj-wa0jrS8k7PhMD3ZkFQRPXD0GUhkL3EEHn22H09XqKDGqBz73kiOJqeBa4hk02dYmCPjGT71tn_fVxtb4YF9A3eXvl_ooL2_GE7WkyyKrtBm8ZFgzaM6BOYg_7cWbUn1IxfS-m7xXep8If-U0gDA"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ7dy5K8BtAHwRJhjzuHuAeSo",
+    "city": "Honolulu",
+    "state": "HI"
+  },
+  {
+    "id": "ChIJk1bbDjcSAHwR_iapMJmU9fY",
+    "name": "Kamilo'iki Community Park",
+    "slug": "kamilo-iki-community-park-honolulu-hi",
+    "address": "7750 Hawaii Kai Dr, Honolulu, HI 96825, USA",
+    "lat": 21.295741,
+    "lng": -157.6866225,
+    "rating": 4.5,
+    "reviewCount": 152,
+    "photos": [
+      "ATCDNfXETUiyNZw1cp2pCdDUEaYupY5fCKhLuOumMsy0l99Iemnqlq-OctEKfFBWEOxC0-m_iNA-nKE_UkKVS3w1AwUhgq50H7Dxg21rd8CcUpgwRuCkn67LU2wZhWvqpglmZk5LXWGC66DnuOZoOguQwEvO23oTWAj0Ka_1ldfoIrxgWmeWMdNJwoUG_OZEjAsbQSc-ep0TpAnGK4n0OLrkP1kt9nS9N__sTEV9B1SaTYe5KzHwUXE_rfCabL6du3xpZLEPfzyCcpwR8IgItTbS6bFF-pgDIXa07FsjKP9w6VMTbUMSGOxFOFSrKK_RTA7RYQoxnllwyatn9lGxZnMu_oK4OFEnKYJvTOGyS4KD0ol9nPzY3sPsdz3Ul-BiHVgkNStDTFBvq0BuDLobTwraOpvXyKMwWP5EaIiijghUD2gfig"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJk1bbDjcSAHwR_iapMJmU9fY",
+    "city": "Honolulu",
+    "state": "HI"
+  },
+  {
+    "id": "ChIJR30Hft5uAHwRG7EQZUWOmXU",
+    "name": "Moanalua Community Park",
+    "slug": "moanalua-community-park-honolulu-hi",
+    "address": "2900 Moanalua Rd, Honolulu, HI 96819, USA",
+    "lat": 21.3507065,
+    "lng": -157.8944057,
+    "rating": 4.5,
+    "reviewCount": 120,
+    "photos": [
+      "ATCDNfW7IHG_fQV08Vy8czAeAz0Uz6czgUwlkLwABn6MR-NsI0rx978XPdSStSymQtPE0irP8lVjZtwr8HXhH3o02VLcnbB8zcmDiXk57sj7GT2YqXvt-ZU-zyGfxeDo9tOAOMPHe4Rn5_HptnbsFsapQdeuZXwo7wrhVx8-z7wL5DosMO4a0zogiSKLUP_dBoITcIo9KEbnk2820A1CWki6g6emMRms1fYOGyhXCYFrpm_-bEKNet7KorYUpdkzalKdX9QIe12TgfsqX8MrSlPUHqN9brZDVeZ3oDoO7m-TdiImkaII5-O9wa7ZGtwYbF5EzMEkOH4jh2X2XDzAogBEZQIN9_dPV2Y6EFkS5HFHi2pAxCJRxKY3IMcrirjA9Uc7RD_fxp-UJALpeRLW18Urgv0bM4hWFoW7-wfLTXWNhqIlKQ"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJR30Hft5uAHwRG7EQZUWOmXU",
+    "city": "Honolulu",
+    "state": "HI"
+  },
+  {
+    "id": "ChIJOWVM-IFyAHwRQfVD9rPexx8",
+    "name": "Kapāolono Community Park",
+    "slug": "kap-olono-community-park-honolulu-hi",
+    "address": "701 11th Ave, Honolulu, HI 96816, USA",
+    "lat": 21.2759346,
+    "lng": -157.8035129,
+    "rating": 4.5,
+    "reviewCount": 261,
+    "photos": [
+      "ATCDNfUtq9ilXR0BSKeQ7zSFFqvhkiFOKPX8Xe67ipafZgTn-vqXjd_4ndkkc58YK9Dl05HhbbnaOPrz2FGIbHZRbuUrtSxwSLdnk6rYjcGwqNdiVH14mOUv3fD-eLVvd0305AgTrEzn98eUL6H9CIzBOXJUnydiR_jyCmf2Oj9ZThwtPYn4M0xmSNk6CmfBIvdoZBf7iWUWtVtlx5aIZ0BlyT3B_3QO09YR0R_xoG7bn6ClFmonZOlhFFFFvqXLVcl80mWkYdJ5QThrnNiouEGssFz8ir4sA2K58Tz5JXrC6Ax1vwXY3BZks7ZkAfPr9KqtmCF63KcoWP_LoJMbCrbl1A0H5GhLGb3H88G6JXd1zpgBrf2HwaRW-r2A1BnErZgNYeRl7Qpn1mBoVSAgVmpHwejXD3aICFDcP2reVtnd_Ccicg"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJOWVM-IFyAHwRQfVD9rPexx8",
+    "city": "Honolulu",
+    "state": "HI"
+  },
+  {
+    "id": "ChIJBXPhXBMSAHwR5kcexhRrMio",
+    "name": "Koko Head District Park",
+    "slug": "koko-head-district-park-honolulu-hi",
+    "address": "423 Kaumakani St, Honolulu, HI 96825, USA",
+    "lat": 21.2774105,
+    "lng": -157.6942131,
+    "rating": 4.7,
+    "reviewCount": 7938,
+    "photos": [
+      "ATCDNfUMXIsCjDd6pOPpm4f_PQ2IIDIeJpWe2Y0EjGXe3mZxuQKqC5Qqm1BIdH7IpE-HsYZhIL59ma3tBkdjssT7gG9Pp3-6yyMyqOouKy3lxUainSiRTnPjgo632uXc3xkixTWJNh5NVPmC_Uclr045WaqzPPwX5WCloqDOyBLT7UfRipQMHlZdsi3gy3WLMtbvKArN-H-LD_Qs0IYxK-z995bsC9rUR_ZEXDN2W7sos7MclsvQKgg93dMyLzuryvr6ztQuNFevWlg6THxlPPqSaF6bFYsz2UesZXZwLJoi5n0nhOnor7GrHkhJMv1qe6mwzy-Ss_VQ9N37RXH_Xf72z6ecrT2MB631S-ulMLI7icBZO355wLconmRi76iDYLGgj_bYKMqn_rleW3_QN3vw7CiqzfHa3ct0AW7IDwsNi0M"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJBXPhXBMSAHwR5kcexhRrMio",
+    "city": "Honolulu",
+    "state": "HI"
+  },
+  {
+    "id": "ChIJjeCGCZBuAHwRX_kIi0JRRKs",
+    "name": "Kalihi Valley District Park",
+    "slug": "kalihi-valley-district-park-honolulu-hi",
+    "address": "1911 Kamehameha IV Rd, Honolulu, HI 96819, USA",
+    "lat": 21.3431614,
+    "lng": -157.8694304,
+    "rating": 4.2,
+    "reviewCount": 71,
+    "photos": [
+      "ATCDNfVWXToqvgA5jxQ2HkcbESYF8RMJItI9XN6WPUzNvHBthCyLtfhimSes12GZigtn35gtssz_7EA4LZ9xWXptZ4SW7vBsLWdfmd4Zuacd42vbkfkoNxpGEavALXKVPTo4LcfNnRwt4NdmOd57sqOVr5VfOMZ4uShuJrlgWX4QhOKyg4fRHWFIKHEB0iYPUHzIJJ3xcK0SbCnaW1RJuzGN1LZ8vxKfqCwRwPTfqPkF_Zm6IIObqkb3Py27mnzKToqb8Xap1slbQOj_MUuAE6Xv8iSyV4Dt2rdtp3VBfIi2XtvFeRr52CPSBX_JggVZMjuqZCr735KloFIuLERDNpa2mXuAiZRC8yhIOrxP-ZdDkhwVcm8_FZvQ6mxsBds0dLyaAEFy4-RNxquewACr0qDy_at703Msi2TjKozTPQ9_XOqZwg-D"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJjeCGCZBuAHwRX_kIi0JRRKs",
+    "city": "Honolulu",
+    "state": "HI"
+  },
+  {
+    "id": "ChIJAwIwiCsSAHwRB1UBKeNPJFs",
+    "name": "Kalama Valley Community Park",
+    "slug": "kalama-valley-community-park-honolulu-hi",
+    "address": "555 Kealahou St, Honolulu, HI 96825, USA",
+    "lat": 21.2996125,
+    "lng": -157.6721918,
+    "rating": 4.5,
+    "reviewCount": 74,
+    "photos": [
+      "ATCDNfUsbXzn_BqUnwmiO-BaOev1IxUTVj5T01rXFYL_zEp1WBvziuupPbdc-JZ00pXGSUTO_uag2pxC-D9-MQydrT4kf8_W8fbnQTT_WA_IJjmnd2xsnXG3eGPsVEUh-pEjyTsZb2pleu21hClYmBUXSSxBoyVqPCjkKo-EM4VG7fmHhOEc9jsD43ukCEHpLbJdtkVQPhjDkWkZyGSLCvmNUqxLKNxaxQCnlsNA_triIXqNfli47s3Ei6PRmAkuAj6P_b7EGtKEKARH8NvCp9A83_6K3to8G2dpqOdJ7c9a3ox3LAS5lBwIBFuKO2bZ02LTqsU6hHxmx5SN6xLqlhNhUxFKP8LSTCD8x1IWjxqPnc7Ufm9t2i_zYcemn3DbFqc61gQ8MGjf1nB8iJHfnq3TtT-DfZykuFa0k6uMqZwfshBXjQ"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJAwIwiCsSAHwRB1UBKeNPJFs",
+    "city": "Honolulu",
+    "state": "HI"
+  },
+  {
+    "id": "ChIJe3wbePxtAHwR05lcT8GPmrg",
+    "name": "McCoy Pavilion",
+    "slug": "mccoy-pavilion-honolulu-hi",
+    "address": "1201 Ala Moana Blvd, Honolulu, HI 96814, USA",
+    "lat": 21.2907932,
+    "lng": -157.8513722,
+    "rating": 4,
+    "reviewCount": 44,
+    "photos": [
+      "ATCDNfWz_bOoRY_09Q2S4CrUY-H9_UxqTPqCLPscCV0auPmeA-7j9uP5iGh8bCCYKwuwrJ5fjw0MU_elshH0olH6zazTfMH3eu951npgavPtDIpiNR_EDhp4SSnDE0C4KM3-prTRMezv1HpdGbmsvBktHH8FejABE9rJenvo-YT37QAkdp0OPTVGNDWp9WbJQTmyRDtu2pcLsvzY1eC33D_y8jkoSJ_Y4PSKKQlw0lGVS7Z5Lg44_bUPcO5dEfdl6x0uNDHlnBjTgpDrQV0mRGCJ_pvoZ96bJjkkCW4Nlzdv1lnamE-_dCKrL_vuHOWyl_4eBJqyXPacIEzGkdiIu6FlHzSbF4F2p0GiF2Ne47zH4lsZ5SsBiUvMcwMl3Ucica4iDN21PYzyVizj2QrQFJU_oq_OzK1J-7J4V5ftYawDE27eRw"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJe3wbePxtAHwR05lcT8GPmrg",
+    "city": "Honolulu",
+    "state": "HI"
+  },
+  {
+    "id": "ChIJz8QpRYNyAHwR2DJED6H7N38",
+    "name": "Kīlauea District Park",
+    "slug": "k-lauea-district-park-honolulu-hi",
+    "address": "4109 Kilauea Ave, Honolulu, HI 96816, USA",
+    "lat": 21.2696892,
+    "lng": -157.7943928,
+    "rating": 4.2,
+    "reviewCount": 258,
+    "photos": [
+      "ATCDNfVusC-f3UTr5TETO9o2bDkyGLh7ScPpPfeMvYDNfK0GQI-hR59cZOCRxBUqcqZl0BUP0bbL5Q8ueMiflow83ntwxhYrMWwhmwjXArUjH-A1t-yWaduenW3akFdEHT-UH6TLbwCnZlfefbMYoPZK6efywfmESv1Ita6GYg5__DxKXSYTWBmVvyLseC9SzO474V8Ne_75pDLuQPSWL8RG-mOfOJEq5Do5lbf0HTO1_xKzQUlDVdk7LFZRW8WOyvirXG9eZ1qXXSV6GawtF4HLjPda0rZET60aGxCFPv1vZ_D8DUKR9idjA7kO-iD7VsPSWRng5v9gRHZbWSYEuFZvQ098CfO8Bkaz15zzLBiA_SmR59uFTdUDRmrsZc0qy6H-F8DraOcp6TdRWbJt0AFBYWwYxr2PzOKh_mLaRF4HP_8l6Q"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJz8QpRYNyAHwR2DJED6H7N38",
+    "city": "Honolulu",
+    "state": "HI"
+  },
+  {
+    "id": "ChIJF6r9W2VyAHwRwkFdFzKzpOk",
+    "name": "Kapiʻolani Regional Park Tennis Courts",
+    "slug": "kapi-olani-regional-park-tennis-courts-honolulu-hi",
+    "address": "2686 Kalākaua Ave, Honolulu, HI 96815, USA",
+    "lat": 21.2665084,
+    "lng": -157.820782,
+    "rating": 4.5,
+    "reviewCount": 151,
+    "photos": [
+      "ATCDNfWRaNrCFcIBa6_xLh0E1D2MHBHXsTSX9aYbCFFFSyHiLA1zGtsGjLxEw8pACfp7NSu3j-8HyF5Nijj4B3_crYkcF5TjF3rXjUd-uHvyIJd2MAVC_TpkqEPNBU6eRduga-DcuZI_P4kSjsDgolTB0Hh7yp-XhQc0WjWuGHnDeyo-BCa6ee0mN3m7Cawgm6PqZfEwizZbrZNFurRoLPCvCzG4tlixaiCrXgXpYbmpp8Df2SPPPpIFdDZBXn1Te7l4JElgxqNqoVjU1qUKAHLRUwYljux2YU0pg8KQbcWYxLwAO-eR1tnT5qw79oYyw6N14DLJFHaEMGTb_nG6gRBf91D0BG5RrsmQiYyeyyPhNoVtcDCjmR3Nz9Y7n7FknMLuwKQSipmFUcMuutIx5Fn-nbIF-opeR9Du_7vHWtJOqyZzog"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJF6r9W2VyAHwRwkFdFzKzpOk",
+    "city": "Honolulu",
+    "state": "HI"
+  },
+  {
+    "id": "ChIJ3dBSXX5uAHwR_i441IhqQ7A",
+    "name": "Lanakila District Park",
+    "slug": "lanakila-district-park-honolulu-hi",
+    "address": "1701 Lanakila Ave, Honolulu, HI 96817, USA",
+    "lat": 21.3265681,
+    "lng": -157.8621198,
+    "rating": 3.9,
+    "reviewCount": 180,
+    "photos": [
+      "ATCDNfVodma08hM50RNNzEyU3beldaWxdlqgUqfSZnxwYiC_G2rrzB9NA5Vdr9_-4u5-DPnQgpfIBKH-jIJlkko0_51Jn2HakhB7SGtcy3X7KwvJ4FSdICYGeYTsYm1Vb2hcHGewKdtJ6gpyAWh2q3MqoPVmtUmpMLyPxUsxFhDIl5wzyo9nbrE-0OJeoLSc_M5Cc--VBuulu__MD67QpXPTWy0w0YqNxoQcZfDthSzLLCwKUH--5cI6i3pnC7jB0RaCxijCOMYiAS0afelte6OOLbqmX6dtLR2BFGrnFMb15PGCN5r6612rmzz-hfDnmN6fCXKExqgrx65tfKgEBLpPKh-INc3JSRehXLXrHR9fwDWyBeUbynBzkeTMXFXzfL510CZdnpgRGtvdAGcXlcgBzaSpIACaO_KBYUUURMH6MtiAMw"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ3dBSXX5uAHwR_i441IhqQ7A",
+    "city": "Honolulu",
+    "state": "HI"
+  },
+  {
+    "id": "ChIJs-EaYgBtAHwRbpQNYwq2Z8A",
+    "name": "Hale Koa Hotel Tennis and Pickleball Courts",
+    "slug": "hale-koa-hotel-tennis-and-pickleball-courts-honolulu-hi",
+    "address": "2131 Kālia Rd, Honolulu, HI 96815, USA",
+    "lat": 21.2818826,
+    "lng": -157.8318872,
+    "photos": [
+      "ATCDNfWT0jOZU9Jy2ZLvMpDyRem_kHswpCeBeu3kWr3tMElSubNcQbtf0xkQ7aPNsSf5qP62V40YECI_4oQ-1myGsK0PwyYfK6G582l3ztQbe3kJihsyVpgJloFo3h966BHmY9Q85y-k4uO8uFS91_oiwpH_INPWwB0cwWTzOK-KIwebLebtzvloa5_n65JjTckHNFMEEqnr_SU6SSMJi_UMWnM4Js1w1za5hBRmOIdObHn3zu-se7mzGms3IOr1u9Gz-vWOGr9LAHHfwB8x_xI-rvZiOrUL5Nr7PsnXA-Ul1FPVBlXktI6ah9BLbPtLoSEeW8oi5tm8Gz8yEEHogYbixAYOOiCm11vWtfjufEO7eVsay-yqIkD_tAZ2c1x1TvrJzcf6id_1aCH_fTI-A3U_A2Ap9d-EQe91U9-orpidJcA4GU0H2RX51YuRwoWdW_f2"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJs-EaYgBtAHwRbpQNYwq2Z8A",
+    "city": "Honolulu",
+    "state": "HI"
+  },
+  {
+    "id": "ChIJabxsR4ptAHwRnszzd93RVJg",
+    "name": "Ala Wai Community Park",
+    "slug": "ala-wai-community-park-honolulu-hi",
+    "address": "2015 Kapiolani Blvd, Honolulu, HI 96826, USA",
+    "lat": 21.28741,
+    "lng": -157.8301584,
+    "rating": 4.2,
+    "reviewCount": 700,
+    "photos": [
+      "ATCDNfUBCl-Ie8E3S9PT7grP1Tpc4WVViO4Y3j19WKvnhF8-aUGsJypec36PLqeuvbBxl0IN2OmuszIm0hyjVDn0mLVr_TWu8LwrLPKM752NvXGZ037Q3wdekdAQeuGENuU1RiuNhZAJRZ1ckgfTd6wHmcQ1ZVvoOZeoXWDg6MVVGcNBGnu4-pWH8OyprNAoj6pHeQeA0G2rP2IH5VjbNIJTRsAyhavYehxWkbNJhiS5Zi9QaIb096hC-5mhE5my8yObLCh4gCODMgGCMHd3JnJgUdwDrjJWFKi-IC1t3D8TBl8Y7Us13AMmstydgPD2C4EpajGoqlopTbkIYMIW0RMWem9mwqWR9yRJCuodDp7asUuZNmkM19y4MO0RGD00cKwAYrV4WrPRK_zINb_XQm-sGav9UQNzPNfZlA93-Z23wVFC5IsQFuuZZmNplCT999Jg"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJabxsR4ptAHwRnszzd93RVJg",
+    "city": "Honolulu",
+    "state": "HI"
+  },
+  {
+    "id": "ChIJ_dNb6xJtAHwRoH_9m4jrA1A",
+    "name": "Pālolo Valley District Park",
+    "slug": "p-lolo-valley-district-park-honolulu-hi",
+    "address": "2007 Palolo Ave, Honolulu, HI 96816, USA",
+    "lat": 21.2996698,
+    "lng": -157.7955025,
+    "rating": 4.2,
+    "reviewCount": 212,
+    "photos": [
+      "ATCDNfXl3fr-yzxrF1e_iKEqU9N1bTzN9VJPXIvbYUiqF8u3HSmx_5f9xWAOy6nDC0vuilnXCuAodNIX3Xc4GKsX5ZXvwcAjKJPzMZDILNLyl70jE1-1WoqZrIqTcHVGeL7zWLPMoqgDscJ1cLqot4mDb890pYbk-IizpcZKCIxUc9hXOwm97Kcx7N3FGGv37ZoU6-vCcxNDx4LVYNGbH58tNcTo0apbcpBqjOMCSleiqw_LNXnJmDhTia_nNESL4L7oCyHipxagoOJF6vP8gzaWRJg3cYaVgotRSmer_i181jdBua42qDUOWKS2jMod99US7WnrcmEpShSviNu7vJEWk7Vyi1vUcodtBjhAZe1O84Wn-7PdbEQvtIpBQLcHdymtbU3PkVAdCaWoP2NyMe80MsGIRhUYGqB72oHzAJOMabNCV6xG"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ_dNb6xJtAHwRoH_9m4jrA1A",
+    "city": "Honolulu",
+    "state": "HI"
+  },
+  {
+    "id": "ChIJb10UDOBuAHwR3n_NG2UsW4g",
+    "name": "Ala Puumalu Community Park",
+    "slug": "ala-puumalu-community-park-honolulu-hi",
+    "address": "1575 Ala Puumalu St, Honolulu, HI 96818, USA",
+    "lat": 21.3564926,
+    "lng": -157.9037573,
+    "rating": 4.3,
+    "reviewCount": 190,
+    "photos": [
+      "ATCDNfXdsvQKCL49JPAXWusO4t3b_GhdHp_YVsOO9QqXCi6ZuM8rscicVo_YVOZ8Yu-nbsVYloRzzezxrRnLL5mgz92suBdUiGxJhF5Vv43qHqwyyckEgY6UsEOVzQUt12AbkCBLD_SzEM9fEHSnpF_HpNj1puqeDYc-zTz22mV0XRmTrH0jeBibL0uRf12w5IAJyDM5aTlpi6hfCvNLqbQ40M7yW0KlEmiGlZufzRtwghg00DDHsc9lq1FYQUa4tnyiWfgEgaJ8VfQXyKD6P6Uegk3mGBI1QaNIbBSewb1WVomqZKLcZUBBCJ0eQKt2clCgzbmMNbr9H2hV4yyI4E0eDQ3zC3hIGYKgMLSBZvZS0AyP15YJ52aZeFqtK_VwaahEJSPoAz-rV6_X3cqmO9Ud70Q_B3sgKJcauXAk0-zORkPAOaM"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJb10UDOBuAHwR3n_NG2UsW4g",
+    "city": "Honolulu",
+    "state": "HI"
+  },
+  {
+    "id": "ChIJZWSCyy9zAHwR8oJZQyx0sI4",
+    "name": "O'ahu Tennis Academy",
+    "slug": "o-ahu-tennis-academy-honolulu-hi",
+    "address": "1000 Auahi St, Honolulu, HI 96814, USA",
+    "lat": 21.2948066,
+    "lng": -157.8546268,
+    "rating": 4.6,
+    "reviewCount": 85,
+    "photos": [
+      "ATCDNfWCTrZuGhAUwQDxBqaNZDXA8Lge2JP1qsGY_AI7p85XD0I7JjK597Wbt_r4z-CuOXr4Ghg2EShow57MWskVzxEQ6GeqkWW8KwKg3YonQ8sS22zdkCEDfMiMODuQMB-KLmT8woNBli9gWx_FeuIkOck57wnhQxkVGhuX-hhl6ytLppWJP2vRsLcJC_YpKMcAJSI8EUgB6Ho3vsyWfgV0U3Zl3ukuoEVTD9zhozqnMNr2z8fm8YXoKuJM6wx6KCIbWm1lB4VDnzJJm_TNGx-HMmXPg2s7rLoIOXM-Zg_mAUEdpg"
+    ],
+    "types": [
+      "establishment",
+      "health",
+      "point_of_interest",
+      "school"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJZWSCyy9zAHwR8oJZQyx0sI4",
+    "city": "Honolulu",
+    "state": "HI"
+  },
+  {
+    "id": "ChIJ6y5YNawSAHwRmimC7PAwFN0",
+    "name": "ʻĀina Haina Community Park",
+    "slug": "ina-haina-community-park-honolulu-hi",
+    "address": "827 W Hind Dr, Honolulu, HI 96821, USA",
+    "lat": 21.2783611,
+    "lng": -157.7573138,
+    "rating": 4.3,
+    "reviewCount": 43,
+    "photos": [
+      "ATCDNfU8x2OGvkp5-VYTomoKCRbOKpCu7cnrOJ-__CcZHBzdL_LGEwk02NKv4S_JugdoFP_BLkpNnllNU68yqRuZlApu-6p2kkaZQtL_8-8Yks9keDnzlFw11vPOM_X2wy0oT2CVsCm1cH_TCu73cL4jAtwhzxrt4TIiRlUNlvdWnAiwtoCcpwJk5HfqBDNz5lQuvJ5u3-4_lPSjZblN6zCXWoZ_Cz99YOq0hN4im6HTYn9vGn9pTLuJtfc1uMZqqVJIc2EQLcWuRJT_cCBzQIDt4i5ZqCxQKteIyJcamucsDhcq-vPJnz_-FDCz4jDNfaDd42tob_yW62wBHkoA6JIF7lXxWs0OFAMxcACizTJhsSGlJAtGs90BRYiFjIDJ_vfyEWr_V-CGE2mQs8SEzHcj0p7Tb22VYwrjA1wNfXN32SI_hf7o"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ6y5YNawSAHwRmimC7PAwFN0",
+    "city": "Honolulu",
+    "state": "HI"
+  },
+  {
+    "id": "ChIJU2qcVTVvAHwRlTiPO1hSIFQ",
+    "name": "ʻAiea District Park",
+    "slug": "aiea-district-park-honolulu-hi",
+    "address": "99-350 Aiea Heights Dr, Aiea, HI 96701, USA",
+    "lat": 21.3839453,
+    "lng": -157.9283216,
+    "rating": 4.4,
+    "reviewCount": 95,
+    "photos": [
+      "ATCDNfXEc1tpS1UciPUiNriWMNgGganE8q9uwZB88EdkqTLCpAlTmL2ymePeQfjB8DnSUnxcQQ4OmN5XTbN8jLmPfF3VSz4LcIm7Iw9FnG5diDoXvrWiouo62PK6QfhPIcxPwKFkL9zYaJQ-ynXjXGXjJoqq2KvTzzMyn1ipi1Iq3EUQgmBVJAknYM9I75NOpgaAsakJRA2xjBH7CSJNSb-P3ON4kaOtu14KdyiI8_N4mihVAyeVejkxxAP_3c-3rinPexgPCNVQw0i1KJwdBa2HppQY1CRi7h0GrX2xi6irU98Mps-pJ8KZAqb7PlyXjUTbRVkVhl29tmpBxL6k8nFWvyAtAipx2z7mCJyZEpU1JJ9KWP9S_WBbG7qD7fs-SzUCgCEWq_oDsnr7EszMF6wQko0rmlymhn2mUzrWOWkAcgDqbSXX"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJU2qcVTVvAHwRlTiPO1hSIFQ",
+    "city": "Honolulu",
+    "state": "HI"
+  },
+  {
+    "id": "ChIJOTyu9VVuAHwRl3wCgxiRc4g",
+    "name": "Ke'ehi Lagoon Memorial",
+    "slug": "ke-ehi-lagoon-memorial-honolulu-hi",
+    "address": "2685 N Nimitz Hwy, Honolulu, HI 96819, USA",
+    "lat": 21.332088,
+    "lng": -157.894552,
+    "rating": 4.4,
+    "reviewCount": 80,
+    "photos": [
+      "ATCDNfWLJtuzkevTNF9g0E-mW7rv61uyYni-lYNFy2rUQsilkK8JThqH3PmUqFc14I0X5lU0mejHPxl2oRl0QVCTh06azxgBP1Btx1dY4WHf2UchZzIWXtwO_LeYIQIbW9z7byb-uzp5r-24zNUs7QDxWc1iGgg4EZPOXRKsgP7urFju4vZCgXcT8VkhYDNkMZkD8V-pZxQf83E-lZ7jpwLPdmXt9yIZgkvwO1iucvn26VdrbMOYGd4Y3ET2t8fTcljMtmCpkeKNhw3f5pYXsoeKzyKuYqqwBsvT5N7aq1oRy_-HApf8swaw7pSuinBl82kZ_pEfTJqHEz3SjFOz7NLSFKFIi5qhniZ4iicjPQX1feGA0Ppn88Nz1A7cMT5diV3filpPFqMSV6OKsYGUN9JirTl7OJd5k8fZuDHYjl4zTmzMZA"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJOTyu9VVuAHwRl3wCgxiRc4g",
+    "city": "Honolulu",
+    "state": "HI"
+  },
+  {
+    "id": "ChIJDfg48hRvAHwRpBYZQ5uta5g",
+    "name": "Aliamanu Neighborhood Park",
+    "slug": "aliamanu-neighborhood-park-honolulu-hi",
+    "address": "4259 Lawehana St, Honolulu, HI 96818, USA",
+    "lat": 21.3570191,
+    "lng": -157.9258932,
+    "rating": 4.3,
+    "reviewCount": 70,
+    "photos": [
+      "ATCDNfXTPD8FWFNENY5SOd4Ex08nqzy8jiHc8WP8z5R9nhPj_o0mwptw4T2hq7dZpA7HsiaAhVzLViXP4iKrhzGVaIVZmEHnGRynDmsX-pktb58ElNKE_r3BCyYg-A8ID-L5sukY0YxxLmQK0Zi5yg0iQGlydgrAQhpyhpWSTMymvqB53_PcSzAaA4Zjibx6CQDXGge8Mf7pgnsjpQzGBaejmVGaW3VJL1sOBA-aU0TmhfbfvQwW4ZUBu6kcAD-NmxIAANRzt-xQUa4iruw7BwM3koJ6a_RRjaOP1Cintuz_OGzTHeZUZT6WqzAjwjFzKUA57hWlBU7sI5LqRP3LQLIpKnPTXkg45_JTpie9wW38KXodQREZGE9ZRH3lxJgyV8sWxtDwZts1XpBUL1ueyHWjX-knbaqAB-BvTICkBeVsGlmtBA"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJDfg48hRvAHwRpBYZQ5uta5g",
+    "city": "Honolulu",
+    "state": "HI"
+  },
+  {
+    "id": "ChIJu8U0BwBvAHwRMuNAVXj-O5Y",
+    "name": "Hickam Pickleball Courts",
+    "slug": "hickam-pickleball-courts-honolulu-hi",
+    "address": "100 McChord St, Joint Base Pearl Harbor Hickam, HI 96853, USA",
+    "lat": 21.3347539,
+    "lng": -157.9400251,
+    "rating": 5,
+    "reviewCount": 2,
+    "photos": [
+      "ATCDNfULxLxUS-JWf8LWIaWgpz6-jrFW4GbT4sIbI7gTHNvILjmxSWPGB2AvhpLbPw-AJprcMM2Ec-igL86qjeVg9jBszAKr3rm49KLnGZWDA29A20Ataom0AGKp_vIBswDDYrMQKpwCda0jqQXfcVzIJqtYY1iEzsO-1NFFLQJc5f3HzumA3O_u8JSP4EUwcQsbN6GOVTxSt4OaDseMQzmlLLggMM1YyWm2YVf1VoK-9dti1roScgBQqZ_avr9tc599wrkhl1ZN9rsYKUShL1NM_cYh7Mv1COnxX5oMB6pDIiZ-IwKjRN6H0D9GqYHXxpnAWfPjk3oeXKdp_UmJKbFAdbGarGF3m4shmXBkHm7QW_cGHiWKHx3eBobgb88VfoqonvrfsEdVb3UBQ6_cRUPqmlQcNTMdcP1or0St7XOyZNphCzCWOknNtjJb7I5Xgw"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJu8U0BwBvAHwRMuNAVXj-O5Y",
+    "city": "Honolulu",
+    "state": "HI"
+  },
+  {
+    "id": "ChIJpc5AfgBrAHwRuiZwvSAJZgk",
+    "name": "Beyond Ball Hawaii",
+    "slug": "beyond-ball-hawaii-honolulu-hi",
+    "address": "905 Kalanianaʻole Hwy Building 24C, Kailua, HI 96734, USA",
+    "lat": 21.3964841,
+    "lng": -157.7714546,
+    "rating": 4.8,
+    "reviewCount": 6,
+    "photos": [
+      "ATCDNfXHbcYV_SKu84gI_8lWyid2SXWtjC3zmJnaLuTympq_mM2W0qDUXvgXBXpiOJf6_8MXspBdNEg5QZoSz5QLtx2cTo4gu1X5AU7KAJk8PQIC6CZd1g0NSe9Dl0FZbej4l_LSvoV9rjjYiVOUpDwTixsB28j09fQ2xiry0TY_J1eJMlJtkwCUK5e-ne8avUXKFobQwvOJGwZrLXsOpgMwjj4VPLRCTNxTb_1p1Jsa1jvgunIJjB62hO3dk8UUj2RlJVNF_PgWItpolUVu-OmyNsyeeb3IRmN3cJo60LG6PFcE3qibQUziBDEbj5v4Oi5XOlD_znSDlU770ZIHx0jqrrJB9MzaiLD540VMkzoJbhNFyILeEloQfNtbq3cysSnqYdYl_BRY-6Zc47kHZ9J6baogpA8knzqfBExKj-X4NKiYDhurFB9VsqEkyvXMrnPq"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJpc5AfgBrAHwRuiZwvSAJZgk",
+    "city": "Honolulu",
+    "state": "HI"
+  },
+  {
+    "id": "ChIJw8HUtVZtAHwRztbAWgVJsDE",
+    "name": "Waiʻalae Iki Neighborhood Park",
+    "slug": "wai-alae-iki-neighborhood-park-honolulu-hi",
+    "address": "Honolulu, HI 96821, USA",
+    "lat": 21.2769377,
+    "lng": -157.7686771,
+    "rating": 4.4,
+    "reviewCount": 220,
+    "photos": [
+      "ATCDNfWiLrng-WjT5ea6iU872Fe475EVKUJ876XnQ8Dz3kDH5IqrDKUtRq0CG0fP1LdY73bwmUJ-Q5Y-z-G4zD0zqdNZyG-V5EDH5MKGzSnCmcQj34KU1RdV2bFoVI-3v27hmtUVnUCaVHdojxVf5WturlURLwCL3jCg9Rz-buolGxN-6V7gZc499rGThsEm7riB0lNURYB6QLo2HZxbHkZcB7JSwz3JE31Nho3zE_8VJpuLYFHPDM3nec0kiwjG9DZnwK5lZCOCkQ1sV2fua-RAGSAlR-8vDNmYvu8EgylWCuSP8ukZRmoBZd5GqebsmhzzGQSq2TO4IxRYq5lHXy5W1CNb2NDpetlut-UkGURiAgTkvyBV9doHf4kJfw3uTdSmiJphcQEs4BJPDTSGWImBjO32IP0GqYkpDCjMSzEC8yBibg"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJw8HUtVZtAHwRztbAWgVJsDE",
+    "city": "Honolulu",
+    "state": "HI"
+  },
+  {
+    "id": "ChIJAwo-Ts1vAHwR74FH4knXiso",
+    "name": "Kalākaua Tennis Courts",
+    "slug": "kal-kaua-tennis-courts-honolulu-hi",
+    "address": "732 HI-63, Honolulu, HI 96819, USA",
+    "lat": 21.3282454,
+    "lng": -157.8775347,
+    "rating": 5,
+    "reviewCount": 1,
+    "photos": [
+      "ATCDNfXP5pRS-tE6wymp0Sw4cLN5uYhcRCgc7PG59U0Wf1H1_b5D2xAbewrnsv6owue20a-X_FWzZoYQN1KHLfokv6ygh-wJlTpU-nizP0TrLXUqVLulpY5eCV_OxQSx7URmx7fq3ntRxZQyMJWqjG58p6encckajhs1-4RwlHsZNPOnaV49gbl8IZwJy2CGALT8LqvgfA1rspgsd3id8_1rRn03sgRdKWEzSidQdn3ODu3b4qvVvQ0Nb7XEo3f5YhQl5N3R3n09-E3pJvujf45eXOF6j91-pJR-4wpe8hVJAYZWMI4XrpqC0-K3Ab0DCY3PVy4gHjysE6wNsV1ixnnyIAYPCwSojnoicp-gHrpczDgLoGYdDN-NnkHl0YIwqIArsOmnChfqrA2Yvl0lQ-el_EQbIfPphHIkTHOcBjVYC9Tx_3sw"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJAwo-Ts1vAHwR74FH4knXiso",
+    "city": "Honolulu",
+    "state": "HI"
+  },
+  {
+    "id": "ChIJp6Q8MDdsAHwRxi5zcq1N4wI",
+    "name": "Nuʻuanu Valley Park",
+    "slug": "nu-uanu-valley-park-honolulu-hi",
+    "address": "2925 Pali Hwy, Honolulu, HI 96817, USA",
+    "lat": 21.335604,
+    "lng": -157.838463,
+    "rating": 4.6,
+    "reviewCount": 223,
+    "photos": [
+      "ATCDNfWWfYOUYWkuL0ensxu6LrLfBi3sXAdZnVsDb61JT4C-HRbcmeUHlP0m5mRIkmui_pc0mi0wGUqHv-85qQJ-eVHKcBR7PToprsF3MooTT286MIq-ZfaL90f42ptotADjitccTtyr6p-gVIjNWLxWPi_ps1QgGnlR0I6v10OWgrhpu5RCvAqcxUaNs35UxR2C62bgc9Qxoiz0RoLZKu9upl8f05tT9efKZOn1UCfx6mzsz8mxidJstL1IrZIFeuDx4S0oA7njWZRNlogmgbYEYMHlJtliy9xH6ve4ph3q5L_T2Zng4MmRJsxz15lhe1S234S9iE2769S6njsPSOgj-SVHpUD7RoQENV_dunkm8UOTfoO68r8XfMolSGNN3aCMQQ3ltu6vDXyUvDtFqSOBIZn4Fa4LNh5mmKOkQf4FwClBhnY"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJp6Q8MDdsAHwRxi5zcq1N4wI",
+    "city": "Honolulu",
+    "state": "HI"
+  },
+  {
+    "id": "ChIJz4auhgBrAHwR3VheHs1Xox0",
+    "name": "Kāneʻohe District Park",
+    "slug": "k-ne-ohe-district-park-honolulu-hi",
+    "address": "45-660 Keaahala Rd, Kaneohe, HI 96744, USA",
+    "lat": 21.4091402,
+    "lng": -157.8088583,
+    "rating": 4.4,
+    "reviewCount": 252,
+    "photos": [
+      "ATCDNfVkMkEbRbgnYFxEvdAIZqMVRdGuAOR3GObyvymvxo2dEo0oLFlnSCqYE33iaEmH-h7Cok-qJa8rQI6IBtk9EDRksB9V4hdNmG9vMOIH_fL_9g9e8neYWP6LIhSGIeX3owsLUjZd9-nCIKMzqRSYjvM-1fGOmiBSSp_eMhGexDwTrHOuvL7GOQfsZtlTgnqGxK0zQ5uqYpnj3hNtiT2SL5Nwc1LxwqcW1FcKVI_sL-4mE4_mBKh_gFx5z2hJ10ZUQDive-m_9kB1xkcWah_RLdbyE5a0sWQGxvItRbVnMMKXbH5E9CYMDQ_i87ppQ3UTJlXbSM2ct7gzLuSUmggF7e2pwvVOBXBWhM36kTArcJdcKBC6FK6qiB38UNtzGFMnHdcP5I-fqvT4lN8hNLXLWpiTsTfIYwghJ_wwHdavjHIRcQ"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJz4auhgBrAHwR3VheHs1Xox0",
+    "city": "Honolulu",
+    "state": "HI"
+  },
+  {
+    "id": "ChIJg_RywNhtAHwR7ZMNAt58JMw",
+    "name": "YMCA of Honolulu - Nuuanu Branch",
+    "slug": "ymca-of-honolulu-nuuanu-branch-honolulu-hi",
+    "address": "1441 HI-61, Honolulu, HI 96813, USA",
+    "lat": 21.3136528,
+    "lng": -157.8550987,
+    "rating": 4.1,
+    "reviewCount": 108,
+    "photos": [
+      "ATCDNfWuBIaDLPiq83jnwkGaM7Szok7wp4DmFnCIoGc4JAQ2i-WSRbJBQyebcAVmW4xpPZqI4nIJh5H_GgoxvKkCYc5ud4AEptJJsSoAB7Z0X0HB4LjHn7_HKI9km_eS_KGhd4q0xovebTfrts00H4LgHR59syNz3C2DEYc6_fogNFB_ZJkkRXfSH-1qPmwHswzG1QOeGnOcm5OJJy35kUYHv1fbMn_SfOBnbV9o3zkrkQTSkimqhx6iDxMWjZFssaeLwrgObft3bfvhlxk44WyQzgAtXuZrheiZnD8KASKrNJdSjL0EU97LvtTXcaH1egnlolxHYA9dBzUMW5kWiZIA_R5j3bywpgP8ekRkSjNbwsijeIUQLPlxuJCqwgf4RoPCXoSn_SzoYAe8YNTcLlEvuEMMCa6C4tH-geo8HbUCvPfVYg"
+    ],
+    "types": [
+      "establishment",
+      "gym",
+      "health",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJg_RywNhtAHwR7ZMNAt58JMw",
+    "city": "Honolulu",
+    "state": "HI"
+  },
+  {
+    "id": "ChIJ8S0RdFNtAHwRXsRerT8z0os",
+    "name": "Petrie Tennis Courts",
+    "slug": "petrie-tennis-courts-honolulu-hi",
+    "address": "1039 20th Ave, Honolulu, HI 96816, USA",
+    "lat": 21.2762915,
+    "lng": -157.7909929,
+    "rating": 4.5,
+    "reviewCount": 4,
+    "photos": [
+      "ATCDNfUQH34tM5nmVQ_lrvNuYNZgRB4lcV34Ya87eGfzvrfgKCg88Ltp8qpiIL97sngZ_VjcpIH4pvfR00cb8SU-Fwx29bgOdmnZtnmPwyyaX-oipmT1pge4EPYc3jCKaur3wfv9-LCmq_T6lWyZhQz9dA2V2ZiB5lr6c-S7e8qMD8IOM41bQgk5orTEyQgrFrKjtGEhq5T-p9QTYxoyTMOxTd_jYovrwM16jqikOtcZ6H4m6w1Wq2CtdXi6dyQP9dH7F9yrfDPhXSY1tEvp-NPIkGi5TVjxwkUY34_ks_FjVKmqMZvjQWLARruI1JRV-z5ZCFMTnWxh2HV_jbyoTcqinqNcOxhXyo7AE4xYr6j808FDcYXQlDhEhrYUIMhf7fVgfULoUBehV8EmOE2tbdnBA55Gn7tpuhfWxNR5kv-ZCcVQkRm_"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ8S0RdFNtAHwRXsRerT8z0os",
+    "city": "Honolulu",
+    "state": "HI"
+  },
+  {
+    "id": "ChIJIftC--VtAHwRoTVgVV_qCZ8",
+    "name": "MDP, Tennis Courts",
+    "slug": "mdp-tennis-courts-honolulu-hi",
+    "address": "1527 Ke’eaumoku St, Honolulu, HI 96822, USA",
+    "lat": 21.3029196,
+    "lng": -157.837212,
+    "rating": 3,
+    "reviewCount": 1,
+    "photos": [
+      "ATCDNfW4OP0_1lu2fbcaqtp6v_vZINmHA2vXXaEycYiKkK8PeqRGXLf_xRBbkPAMIM51eIk9bJoYiNDdeeKpOVWv934UrM4PQUU3IvXV7IlHXx2DGmcn4gf-ARkrbZkttb0TIin0by4_RlV0x7dg0tgvwmqFU_f4g-8P7_6YwZHHHPfIEL-b-5NlrHba03UGg0y3eUz-9lzQVfQX8_tGROL9PCq70_f6msJwljsLjzkySZJ4sT_qmwtpVkk0A-SPjCCkRC_w1h4XERe8QjVwaltESCPnp3l_pFlUWunsEshRyu_DT6a5ChCzu-A6eZtDik__WhUf7Q28Tzlt54zygY8QArXzJOKy-0-7PYdaUme2f9kxKJq1fyL2_8b883sRLEAlrIKAy6tQFyLIUYvOZZMcSRXqJzxQR51FNkPTLC_WNKiJyGOb"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJIftC--VtAHwRoTVgVV_qCZ8",
+    "city": "Honolulu",
+    "state": "HI"
+  },
+  {
+    "id": "ChIJZXvFWBdnAHwRTNj0ns8tqYM",
+    "name": "Pickleball Outdoor Courts",
+    "slug": "pickleball-outdoor-courts-honolulu-hi",
+    "address": "95-245 Kaloapau St, Mililani, HI 96789, USA",
+    "lat": 21.4529295,
+    "lng": -158.0190115,
+    "rating": 3.3,
+    "reviewCount": 3,
+    "photos": [
+      "ATCDNfWdqpgsudpUJh7_Xr0ONloK0o1rys-U7tw1UF0Am82oP-GRkt3tet8ux51O4sTBkc_cCixaA-Fz0XcSaQzxX9tP0PGZFSW9Q8XLRMjM8RNzyPt9UcgL8C9XaP_amQkWln_yj7L5BSCKkEB5DEGRV1vDMZyoNEuzFTuP7AjM5-rYTDlFAJZn00kBF5iTKMzlXJRl62Xvrd_g4bk8O5ZBUlypHxbnGuEUUIy2s-FiiAqZ0eWpquS8O4gXjWdPF2jAqJBNioFkRdcaBU7u0pnRKegIvTxEhSDfxfjR9h5T1Uy1JWsQsTbkSqUwgfuYpScu_uMRamWYpiQKcf63rEMoEy7ANedImqvnjtHrYvOTBHZ7moWyubkh2zCMOS3xoKXwlr6BOUevOezPBEhvLMB6ajpdhxK-IfXt1-ENMFCGhWJW0QUG"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJZXvFWBdnAHwRTNj0ns8tqYM",
+    "city": "Honolulu",
+    "state": "HI"
+  },
+  {
+    "id": "ChIJfeNMhkNtAHwRPflo7A3IAqk",
+    "name": "Waipahu Racquet Shop - Honolulu",
+    "slug": "waipahu-racquet-shop-honolulu-honolulu-hi",
+    "address": "1831 S King St, Honolulu, HI 96826, USA",
+    "lat": 21.2951869,
+    "lng": -157.8320893,
+    "rating": 2.7,
+    "reviewCount": 52,
+    "photos": [
+      "ATCDNfWKmdUhDanHaajiCY1J4PkgF4ZUift9mfmZxvA1uT88Pd0c_ckf0-KvQQwtAmniKFIX1zV-3u4fHm0w6F4ChWaA7Xy9eEUkcDX0jotHzP3JYI96no26iptF-_X6gFAtx4G39J0MDcCOKRk-n674KcfOwdQmE3lNL_nNXmRLjshKe1pMy5yrGSIQ-IuVmuW1Ystk-hdf5aPs_dhP63aBapNqr8n991scMjGePHFMLdrA_OsXJlsgWIm_pbgP8fbxifeqVqZZy4VTHSARcILND08hPuVmi2FM0mQsM3aXtfE3KOtqxslFiMqWsE5rNzwEZgHgcv9LA6ryNn4fTAUR7oTOUnKziYIYLbkcKUaMt2hJZgoNr_UTxCrWPaKIW-clvyID4s5vkFifwZBWv_2D86lJCXXBaf68Fuquw2J7LpoPA7c"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "store"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJfeNMhkNtAHwRPflo7A3IAqk",
+    "city": "Honolulu",
+    "state": "HI"
+  },
+  {
+    "id": "ChIJyz56owpyAHwRSXdRyQxdB2M",
+    "name": "Fort DeRussy Beach Park",
+    "slug": "fort-derussy-beach-park-honolulu-hi",
+    "address": "2055 Kālia Rd, Honolulu, HI 96815, USA",
+    "lat": 21.2796438,
+    "lng": -157.8342508,
+    "rating": 4.6,
+    "reviewCount": 5712,
+    "photos": [
+      "ATCDNfV21AGpeJnhsZiyDbhhhh1U6gosowW61D64cThbf_-8Z53PvrF4Hz0bIxuIDFcGITFPWVOWUtDQ2xRnm08oCnKU69fubiigRDWoExI-GnhLV_-t5_4xjTHgAqDMR5unUjUeaJJnSGYMlIBFAu3cNu9Yc-UNlYh4bdYpuR-EWXwi-O7ihGm4DWfqSYwdgybvttYMDM7JxMqzYyc1lona5LqTnKdJsLpRwwAgtNXcg5xRsHCvS05JOPNQDpOk6DSIChBX7NXlgPjlybM7w4Xg8qcrZO5C2VV-43zu-6XAudLdY5xq2xHvgU2MwWp9Xm1KAnUesk45KzeWBuuEXpQi3MbYF16CZgf5Z-Hg88kO_oPdXzPzdeSIEkRW18duSl4dnj0ufBtpjK5djEVWvHzfLdGiict-2lef8BiSCr6QA9wLYX2d"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJyz56owpyAHwRSXdRyQxdB2M",
+    "city": "Honolulu",
+    "state": "HI"
+  },
+  {
+    "id": "ChIJG3bSyllvAHwRi2IbN56fXRM",
+    "name": "Mother Waldron Neighborhood Dog Park",
+    "slug": "mother-waldron-neighborhood-dog-park-honolulu-hi",
+    "address": "690 Pohukaina St, Honolulu, HI 96813, USA",
+    "lat": 21.2992579,
+    "lng": -157.859166,
+    "rating": 3.2,
+    "reviewCount": 17,
+    "photos": [
+      "ATCDNfUcJpVvwAkwcpz2IVtuxSV-b1TgPX4CvXQZ2Fhvl8b8fzfkBkL0AyFD8CWQlGodlfUUHEoGp4Wrdr2BxCgWw4x08xPQDmBR4pTX3VEuWEHtBbG6P2sBRDi0ir0d-P1bdjw89M5t8KJEW1W-OD-6YgLErb90LB9qF80XD5UL0UzFY3UnNU8S3ogCOhutN7rYXeoXz7HUmHrBIRq-MEVUWOK-fRmIzJeMt4mEzvzIxPJn43AXmqkNqgtqVbKaWYQUVYNJJrIbMbFz5ZbOCmDS7qdo3SedhW0aKV2GyP_Y1WStcE8i0KM0xDBp5LRKw9zulzhqfRk-v7pXboAJVGNG_LuUXJhK5otRFrWsdDP8gNRHGXZzEVegHrQsHjZcxWe3rTE5pbpfzXnR9oZHt4fuYnwo0lUH3wiEL7oz7eaBytw"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJG3bSyllvAHwRi2IbN56fXRM",
+    "city": "Honolulu",
+    "state": "HI"
+  },
+  {
+    "id": "ChIJCfHS7eFlAHwRjPcaHoFr77w",
+    "name": "Lehua Community Park",
+    "slug": "lehua-community-park-honolulu-hi",
+    "address": "781 Lehua Ave, Pearl City, HI 96782, USA",
+    "lat": 21.3882211,
+    "lng": -157.9718941,
+    "rating": 3.9,
+    "reviewCount": 60,
+    "photos": [
+      "ATCDNfVIcJPX3HpGoFFekfIoshNmqFyzu0AOidhofzXQ-DaRGDn7IPYmzIMvlKTebxYgoV23PE8UxrerN4kFdb-ShYULZG0S4YOoHSidVoWC4ZENw1oeu-Ff73Ocd3uxzjliXqIdMPNGP31m81c25_40jqJlxCyGlTAQqqQFLL2Fvw-ddobiX5RJ_fk55fYwhvE_7c5VUORvwfcORvLLDUZOPvE_HwqPDkBtD84lria56bkcYgmRcA36a-6RPY17qZiMjMtsSMSPk0gTNzJY0YoSdY-CuGW_VfoizCKts22H6F8LDEhhus7bjIGEEUVkF6_8LUAn6K0c_ay8V-ZEe8vN_FyekIfAWMIs_hG3q5xreuwDXx1E5ke1cgxMGz2-IwccB710tc3ccAgQoyLFoXvnnuWaCEf9jkI9f-_vOQ8kBmcMCgx3Z4oDbaLGE1NyD2jq"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJCfHS7eFlAHwRjPcaHoFr77w",
+    "city": "Honolulu",
+    "state": "HI"
+  },
+  {
+    "id": "ChIJHwXvLt9tAHwRZ8v4dA1UxKs",
+    "name": "The Pacific Club",
+    "slug": "the-pacific-club-honolulu-hi",
+    "address": "1451 Queen Emma St, Honolulu, HI 96813, USA",
+    "lat": 21.3111883,
+    "lng": -157.8541264,
+    "rating": 4.7,
+    "reviewCount": 236,
+    "photos": [
+      "ATCDNfWnh3Urw26gVaygRGNqJitom_Df4Zb3fxXYPxZuo0OFz1L-OgLoopMc0yIuuwJsVgVqIx3Zrv2Rjxl7jBni8XAv_1XVKXlfkadUtKqbAAjnSKiB7fmFs-38uK2dltd6bzd8P95wTxUugabTpJzzL638-dD0iCOOPTjwgsFusPXG96GzfkjRpUDE5JbAxsCCQdC6Wiy2p5DkPg7mVPeM9wT-h5-A45nR0oAgYFZy_qyk8_w1YYh4BbNJu_RFnX6reNU_QcaMbFNwOpNCW9uzQGunSh3494JZdPYR4y5TJl7cvayQsa0guz3eq8gDD-GyzEmUZYNtOsBJX5uh6Qh9K03qrROguT5v8GYQ-WClraooi-UBAbr7KrFMYi-xd66AQS63ptUt2xLhVsi9oK8PWEfU8mLYfgrfGLJ6iVR-qI2DKB7n"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJHwXvLt9tAHwRZ8v4dA1UxKs",
+    "city": "Honolulu",
+    "state": "HI"
+  },
+  {
+    "id": "ChIJy2_xrXdvAHwRHKkepHwxavg",
+    "name": "Charlie Jenkins Athletic Center (CJAC)",
+    "slug": "charlie-jenkins-athletic-center-cjac-honolulu-hi",
+    "address": "99-056 Koaha Way, Aiea, HI 96701, USA",
+    "lat": 21.3734627,
+    "lng": -157.9034572,
+    "rating": 4.8,
+    "reviewCount": 5,
+    "types": [
+      "establishment",
+      "gym",
+      "health",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJy2_xrXdvAHwRHKkepHwxavg",
+    "city": "Honolulu",
+    "state": "HI"
+  },
+  {
+    "id": "ChIJs7_8elhzAHwRa06K_hKQ4Y0",
+    "name": "Oahu Tennis Association",
+    "slug": "oahu-tennis-association-honolulu-hi",
+    "address": "155 Paoakalani Ave #202, Honolulu, HI 96815, USA",
+    "lat": 21.2731853,
+    "lng": -157.8217716,
+    "rating": 5,
+    "reviewCount": 2,
+    "photos": [
+      "ATCDNfVLgTdRX7gtehIT8We6poE9E-pCnNvy2c-2SE2aiDAZLpR8q1FqFloNetN2Pox_wWCxSMt2YziCOVk243fBopUITkc77NKCPlbmrjAh8TvqIhlpRPvT0ESZ8wxSPa74lhSMKT1TUVXnYHqIwP8aANwVfVWWsBSlV3Kdr601kcNWrYDnYcZGmwtX1JtNC3sqdpnMeSor1Zws9qgUvrLZNE7DRoiysQzy1DDBEBA4ZFjn7_QYbao3IrXs18nKi0YReWdmYMVIOu2MPeXfDbKSWHSkKGLWX6WuK9hb1D0z_FyLaw"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJs7_8elhzAHwRa06K_hKQ4Y0",
+    "city": "Honolulu",
+    "state": "HI"
+  },
+  {
+    "id": "ChIJ77mSP1wSAHwR6zZG3dh5CMI",
+    "name": "The Oahu Club (ZEN Holdings Group)",
+    "slug": "the-oahu-club-zen-holdings-group-honolulu-hi",
+    "address": "6800 Hawaii Kai Dr, Honolulu, HI 96825, USA",
+    "lat": 21.2901415,
+    "lng": -157.7066877,
+    "rating": 4.3,
+    "reviewCount": 95,
+    "photos": [
+      "ATCDNfUo2XcJoRjTTKMoziqHUHXgnSar5e3FM0SA0Z9vMVsDrN6lY8mgwywUEdIi5QDjJuYHfIZ2qDpTxm8oVUtLNYqCY5Z0Ct5ESKFS-2qgrRg5OGOu6LXPW7DdESoGZe5RiVFCgmQO8AI0cxu_WNRNc23kAwAZ6HCGQGqyaOyb9MQ-qMudbkSeFmjoxHYuRIHtcbTQHy2uJyf5M-hjE3bMzChbro09dZVAREy8KqdeFl74AJp19JITaW50LYN2thHrDHeBMqjt-iCDzwIwxGqa1m9aTaVv7DI3eNzROJfQ-gud4KoYhS6E8eiNGml_zaCAGaumD_4dmoUnErmSD7u_6rIzF-Ru8hhgviSgLQ1sh3s4gbCwz9fgRdGsBiz8QsOGbbbuQz5Iab1A3XRxNzhpa_r96iFubgsKPjK_pxMdlqr-4cBo"
+    ],
+    "types": [
+      "establishment",
+      "gym",
+      "health",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ77mSP1wSAHwR6zZG3dh5CMI",
+    "city": "Honolulu",
+    "state": "HI"
+  },
+  {
+    "id": "ChIJFTr-AgAVAHwRCD98Il4_OAY",
+    "name": "Pickleball Courts",
+    "slug": "pickleball-courts-honolulu-hi",
+    "address": "6233 Castaneda St, Kailua, HI 96734, USA",
+    "lat": 21.4441803,
+    "lng": -157.7562499,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJFTr-AgAVAHwRCD98Il4_OAY",
+    "city": "Honolulu",
+    "state": "HI"
+  },
+  {
+    "id": "ChIJO4RaRn1zAHwR2CwUdDRwUZo",
+    "name": "Yhale's Tennis Academy",
+    "slug": "yhale-s-tennis-academy-honolulu-hi",
+    "address": "155 Paoakalani Ave, Honolulu, HI 96815, USA",
+    "lat": 21.2731853,
+    "lng": -157.8217716,
+    "photos": [
+      "ATCDNfXen7iwe6iGJzdcYj0YTEV6n-xWaqvAH5SwDFpgvJC-B5yXD3yPPj7A82aQKYUmG_m9rcFbm7RLO-wH6B_O7H_1gYdjh14NwdgyqnWcNCisJh_Dzq27Tb04Bi1G7f6eWNly_XSF0bxK6US_3SPoCUzCo3tMUnRF-5trywGgr0lIms1aK7MsBz7rxTchdDaTi7catfjIGImHhqgucjsEug8LRijRCSo_goaCQ6w8dGG6msDZSUY9frk710C1fZEiS_85ESbritPtZZWElIaoi0JgExXxwcK6krjullpuCGrUag"
+    ],
+    "types": [
+      "establishment",
+      "health",
+      "point_of_interest",
+      "school"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJO4RaRn1zAHwR2CwUdDRwUZo",
+    "city": "Honolulu",
+    "state": "HI"
+  },
+  {
+    "id": "ChIJaQBlHjxtAHwRbUprCp_bf28",
+    "name": "YMCA of Honolulu - Metropolitan Office",
+    "slug": "ymca-of-honolulu-metropolitan-office-honolulu-hi",
+    "address": "2050, 1441 Pali Hwy #3, Honolulu, HI 96813, USA",
+    "lat": 21.3133627,
+    "lng": -157.8551481,
+    "rating": 3.3,
+    "reviewCount": 3,
+    "photos": [
+      "ATCDNfUARha19i4fYe44ErDXH_F5X_wDGMTMJZYN7FWWiSkmyj-B-KPsPK86HDh7W-cLte8w4JhWRjpcoS97RzB-_lk1MWrRIMHimOpTJF8CugDp7fHHUMAvSDAGlX7o3OHGrJduwrAdOu8S1sxmkhqgYZ2moQzcajlBqcvI96lDyJJF5QLgmgYnhDul669NaaUxXgkwWMGrSv-4jf_41pDRZKOFk82_SLCoOqrfIQQd2tvt6tfvJat8cFbEv3lKPd7syO_EZJLJ2WqL8pSPN1JlYJXf6SxEY1BB5wh9f2e_5PdSfOysOccDAM-o5cdYZkaLnZktecrslwHSJKQleH70jen7ieK08Pu-74bye_-ECUpq7TVwI4nlNps1kMf5_okMcZD68RnWGkQCT3kwnV2GiSNeE9ZzBzwvESRJFznUCnR1D9iJM66r03OGcXVERX9e"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJaQBlHjxtAHwRbUprCp_bf28",
+    "city": "Honolulu",
+    "state": "HI"
+  },
+  {
+    "id": "ChIJr-g_TOhzAHwRnK4oUUR1pfI",
+    "name": "O'ahu Sports Academy",
+    "slug": "o-ahu-sports-academy-honolulu-hi",
+    "address": "155 Paoakalani Ave, Honolulu, HI 96815, USA",
+    "lat": 21.2731853,
+    "lng": -157.8217716,
+    "rating": 5,
+    "reviewCount": 12,
+    "photos": [
+      "ATCDNfXpGd1IPsk1f9PLsONVBRPujGJY6mE-jQeEp0Sqex_LYF3fNBtwU7LTJeysKP1Le4GNOHZxRax_699dHYKYizISw7nzE2PAP7GTylcTv8mSnViLDwvDHH93xMIRmDhlTCKH4oSQmc-Ws6iLKoFXo4uBBjQ-qGliPCUq1lmCDkWcv2uYgIUgd_wadexWVEHdTf_p4q9Dyv4vluJ3hnRKysicEv-Dl99SX3rQqy1lxEUAxP6hyOGOB5lojJq5Cz0-s_magZbh6JYB3S3-vB-lX_gNFPoguYPO6KdVkxOoDP3r1A"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJr-g_TOhzAHwRnK4oUUR1pfI",
+    "city": "Honolulu",
+    "state": "HI"
+  }
+]

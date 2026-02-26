@@ -1,0 +1,1850 @@
+[
+  {
+    "id": "ChIJFes4KQCZToYRHkVd9BBYD9A",
+    "name": "The Grove Pickleball Design District",
+    "slug": "the-grove-pickleball-design-district-dallas-tx",
+    "address": "1461 Wycliff Ave, Dallas, TX 75207, USA",
+    "lat": 32.7999422,
+    "lng": -96.8339027,
+    "rating": 4.8,
+    "reviewCount": 129,
+    "photos": [
+      "ATCDNfVjidXh7MraqL1Z-Fv3U7_gHOqL_H5BBIG7BlQqbetc3XVD9wFPRFUmfIAMTJ2GElkJAX-G4ZuSJxBcdWEywEiwjusivkgx5qcM5W6xlt9CYqzWCAsZxCyVbXV-oxe7b5KbbStzSN-aX2fKTt6jc4y3Quqpa_U7HFaC7EovHb3UPsE6CLSRrJKyKMRv-0auKOKC-d-DtvRWDAw80jLcl-6tiarNwfNHOc16Arb7qyyK6CcASA-rTptGUMaqMQXUAfA_RvksAnSBFdHameaVl9Mu6CgN1lu1EY53NTPykd4kug"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJFes4KQCZToYRHkVd9BBYD9A",
+    "city": "Dallas",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJtek9y9eeToYRSTX8pqbpqwA",
+    "name": "Cole Park",
+    "slug": "cole-park-dallas-tx",
+    "address": "4000 Cole Ave, Dallas, TX 75204, USA",
+    "lat": 32.8132125,
+    "lng": -96.7933961,
+    "rating": 4.6,
+    "reviewCount": 462,
+    "photos": [
+      "ATCDNfWjR7-NrH8nBvHdHufpGmfD4bKIbuE4qr_lNqYRCi0GtzMChpt25NhGcAhevpvXgHPrhW-Yt_2w6sYpUEtwKTw3o40URGhbeocOtwibZW7j90fQeyEqhrdQFRCsNDg2xynkmJMcZO3OUCk1A6hPesOHzb8Sa2HMQrfANEqWV4aGKQ3SjU-7a42yg_2nS5NknvcC0Kwh_wlYMNCEjbWqFVWQdXlB4jECGZfK9LPlyJZWOqpOpoXE24TZrPP94eQmMvV7ABs-0v9Cv9joXQEHY-fx5XM-734whCzqgmc3MVOpB-KhzBxmnRxeNm_V9EHcTxN0iJeSxKlarbceDBg480Clhe_rFGFrXd1hi-PYcaALWwsORxXd9yffK_INjxJycyVkY02Q3uw1rvwGBMPDIUp-qZnf075JwspF9YBvtR9wRQ"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJtek9y9eeToYRSTX8pqbpqwA",
+    "city": "Dallas",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJTShz3ciZToYR7clNuM-_lWs",
+    "name": "The Grove Pickleball Downtown",
+    "slug": "the-grove-pickleball-downtown-dallas-tx",
+    "address": "2354 Hardwick St, Dallas, TX 75208, USA",
+    "lat": 32.7728875,
+    "lng": -96.8263559,
+    "rating": 4.9,
+    "reviewCount": 80,
+    "photos": [
+      "ATCDNfVg0ItsEFnr1_wSjkQPGoJkfIW6d3LOs4yDhU_jEKNcTZ9291T53_NwIzQOVyTEt408yDEWyY3zVKq4l3pX9IT7_mYUJWK1OeWbFZUUkur0gaw5_LmRYCZsbJDolqvBRXEFCSO3RBfh2-72D9IznKhzXNq_SF6qI7_M6HzNdw-E1NwxkYFlybsKYG-fhyOYS99ad4ywOW3EfiqiDg4qF6m3dCEir0vomwL19N2MAoG3RfhWPB_hTlM3G0S66cprT20YiufJEiWhDm0zWWPW4f3gzz5u4VKII_oFgLzV7_Q"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJTShz3ciZToYR7clNuM-_lWs",
+    "city": "Dallas",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJ73PpBSafToYRKZHLMyKvtEI",
+    "name": "The Sandy Pickle - The Village Dallas",
+    "slug": "the-sandy-pickle-the-village-dallas-dallas-tx",
+    "address": "5683 Village Glen Dr, Dallas, TX 75206, USA",
+    "lat": 32.8599396,
+    "lng": -96.7615921,
+    "rating": 4.3,
+    "reviewCount": 137,
+    "photos": [
+      "ATCDNfXcHCgNxQ4jNkpfLEzP8ZVdQFiMDnQb7V7oi9Yb0auk3hiB96lYXeRQgUtFUeI5bFH_yy8rHx8wIPp47BM_sutyF5TZn7xUCwRgC6KAtMjsnoRNbKHvyfEIWhfaJouwKTNPDeguqJtC9UoAVnGlYQXlpyDCMNFnk0ao9xJAUd4ceS0o8BCuA2UkntYUoVMICVlpL6espGkJYwihmNxGxoBO5X0G50oO8hFuwjLGSkJ-kWEn2DkQpKwts0MByTV6wdElnIOwdNioCarQN_JCMrdwTGSR2PenOg4x8wCOBNa7Cg"
+    ],
+    "types": [
+      "bar",
+      "establishment",
+      "food",
+      "point_of_interest",
+      "restaurant"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ73PpBSafToYRKZHLMyKvtEI",
+    "city": "Dallas",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJnX4ToICZToYRChSKb2DLfcY",
+    "name": "Kidd Springs Recreation Center",
+    "slug": "kidd-springs-recreation-center-dallas-tx",
+    "address": "711 W Canty St, Dallas, TX 75208, USA",
+    "lat": 32.7531092,
+    "lng": -96.8342627,
+    "rating": 4.6,
+    "reviewCount": 344,
+    "photos": [
+      "ATCDNfXKXy1CcjPiWR-gg4R6yZApaMuz7g9utejYFpHY1E5zKV0oJQ0eSciKR9Jyf6QG2lEMyGUjEkByJsih2rbqoXYd-HF-xGDiz056KKKGk6MM0M-axOEiTRX6mOh8FC52fM8-AZRXyTLuXKFRirq4ADZpJL2ZPWolAWQopP8myZnFgftoyY2XZ72xKsk8o66D8qbVj44VclWKv_Vgc9l3PDCplGgvQwlg0d4mUCzZf7u1s2TsyQgVHbanWQynzRz1aZk80R0u-XVN3gS-K4SgXDCi78StY0gfmfkx1m1YOd7fbLuGHWMyXQR5-QsKsUOyhA03UeU7O3YtAgnyJA0lwZwh6cLdCmsAdxBen94KLT_MOpCuZwt0DdIWtDGmUVbVRQX-1azR6qifA5LZ3tTCM7l4VOD7kVVzVZ9X85oHr80WVg"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJnX4ToICZToYRChSKb2DLfcY",
+    "city": "Dallas",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJhcpEykCfToYRAchVG7QeJaA",
+    "name": "Cole Park Pickleball Courts",
+    "slug": "cole-park-pickleball-courts-dallas-tx",
+    "address": "4001 McKinney Ave, Dallas, TX 75204, USA",
+    "lat": 32.8123119,
+    "lng": -96.79344429999999,
+    "rating": 4.5,
+    "reviewCount": 13,
+    "photos": [
+      "ATCDNfVuaDrEgjrmTtYahMSXnCjDcT-koQVPq4B1c9d-09SEQ7quymXZ6uZsFh4FHOOTZqgHXyTmrGHzzkFU_Y1eAaiYNrsjy0Bqef2KzKVvyX5ER-xzOAdaGbyk0Ed-8DW3yNQ_1ZFQTxJDUFPEMvL-nJsfbMSkOiBAcuvp0FjIJrPhxJt1XGP16kQXdB--AwAGyvI9JKlQ6CewRSUO9WwiteIlWWcUoKQa4n-bEpuNB7JESQK7eDtbOFjnWsqs8fGv0GNbvCuh9gKr50DuyCs4ryaQx_oRK0h0aKNdcbTGvRW4nA5HCxyDh72C-050QKvn0tF2m6GZ_LMzCkMTkRGzWWuoxUegdo8VP_gXEJcjXzdpeJTS8G_IJUbjZZFtqDuayHDfUYj76tjx5xxlYdPo3eJrObCCPSwjIv39roUC5ls8xIbA"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJhcpEykCfToYRAchVG7QeJaA",
+    "city": "Dallas",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJnWEOvwWiToYRwEyQ1UNPV-E",
+    "name": "Samuell Grand Tennis & Pickleball Center",
+    "slug": "samuell-grand-tennis-pickleball-center-dallas-tx",
+    "address": "6220 E Grand Ave, Dallas, TX 75223, USA",
+    "lat": 32.7971837,
+    "lng": -96.74081969999999,
+    "rating": 4.6,
+    "reviewCount": 161,
+    "photos": [
+      "ATCDNfUAd_D_jiLKYOybPiQ5J_VuN_ixE-fAiJXMkpaNj-ZPKRbksNnYSCpe_rMDgfUaWSrTy6x31km0Ui3zsxLKE3yMEBBZ_5n4DKA7kZQgLtul-JfJ1LpJWMM9xA6ijYTPIQvmX6z0UpDeBab1fzI3VDt8kTysn62_z2-oncHhovWX1X-KkHERvo5dwNgv8AbeGGSN4xstYQpSRt2_hNe9MEbp706nKcuF1jk05-_4fEy1JXpHIwVu3GUHOCBWwwWaEpOhPHJmH83IiJLoyuahF7S6i66uzMSoqU6_xzArWWJkVdfU_45w8-0QOrJA6blWcq8HZnDE2NxnqRVAD5b9HGhqIHg_NJy0WKtE64DUkucdkbHOf0Mdj2VO77xNCE9Z9BwWFJ4Axegk89FVWzf7ou59Dj0AsrE1-gr8aEbieNbCYg"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJnWEOvwWiToYRwEyQ1UNPV-E",
+    "city": "Dallas",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJ9ZfmAgAhTIYRqByIW6laAFk",
+    "name": "Pickleball Kingdom Dallas North",
+    "slug": "pickleball-kingdom-dallas-north-dallas-tx",
+    "address": "14060 Dallas Pkwy Suite D, Dallas, TX 75240, USA",
+    "lat": 32.9385525,
+    "lng": -96.8206177,
+    "rating": 4.7,
+    "reviewCount": 109,
+    "photos": [
+      "ATCDNfXmibJNy5nPVDmcTYWsR-UajD4WMfw6nOFl7f3w7IRiPUMkKwpOkpeF2KEcoK9QodR0TumgY0RFApkQZpgLZnmPdleD73KxOZFtGmVfr97lCDDDlL66m42urcebqs0fxQ6kYbT-hoMXL4XxVfCkP1Iqzn7d4ivQilTkuZGR7tMZ7ZbzZuwoATRReJCWlBn-1aJtElch4cYf4w1yN5PQZArk5afTDT2-__UE2gRFW0iJjMiVrw77n1ILj16SVtPEE0bBqwT9_iYaD3J3BLDjKH1lIAIpBuUO8ImOjtiGxRqCZw"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ9ZfmAgAhTIYRqByIW6laAFk",
+    "city": "Dallas",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJxdk3XKCQToYR2GF38uTxWAo",
+    "name": "Kiest Park",
+    "slug": "kiest-park-dallas-tx",
+    "address": "3080 S Hampton Rd, Dallas, TX 75224, USA",
+    "lat": 32.7099533,
+    "lng": -96.8527737,
+    "rating": 4.5,
+    "reviewCount": 3197,
+    "photos": [
+      "ATCDNfUL7RL-b41xVtp5YO_LbGtpwPy0noCHoyZxzuHw5AKeV5LMMFbJ_anIVCTSfBDCWqASOO0gAikEe77Y38Ujt-M13i75KFF3V3i6s_mdttFdlOpQx3JMpbjF7kHGZ5z8IwhB-WQWNhYjodE0dKKWkAe5rIIWrp0cLReuyFlzqRTbrhCTlc4ayzPeLBTN64gnY8eFc2M-IhbPOxzcG3jvCM_OtSOwSP6gmAG0eUg-3vJmk1P1_l1zp8Q2ZhuwDNHUL6BaH3K-3pzh9hgLBmcFb93-aoYDsG6FvXlUaXKE-hao0KCtPzqylgir-OO37Q4fzmFVSzzDFGEzY3WfQ2LIpQd9_gFfSRNHzSMLbR8sXBGRnuaf1gSmtfjpSJFdTdQHWExBSYmWUaf16E8vQPxWcT77lQ83s34bN6_XmeleRj_4AQ"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJxdk3XKCQToYR2GF38uTxWAo",
+    "city": "Dallas",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJ9QGviL4hTIYRrpojPaLEcbY",
+    "name": "Preston Playhouse",
+    "slug": "preston-playhouse-dallas-tx",
+    "address": "13130 Preston Rd, Dallas, TX 75240, USA",
+    "lat": 32.9276398,
+    "lng": -96.80219559999999,
+    "rating": 4.2,
+    "reviewCount": 49,
+    "photos": [
+      "ATCDNfVHMr5ARJtjid0pBa7QJjSnknoutYw3uLZgOa8M4yGUqE5fARYEdPdsiWyvChIzH3WWhtuYYPYPEwb3sXqYb9ODtAl_M9t1BPK-Cy65TabywNp3wIh558WUvL4_WDaAXqTbKXWKOltnfa-yhcZ_J8hN8ykCXigulc1oqk2BF4dzkwZjIe-WySqzfpgUj1FiXIRuzC3nIGeC7b_aWY4ZH1kYYql3OOUncUjLd-i0lMyiFiU1EqbMyhCrxGFk_SYyn1t7x7nVWibTFCkonVpohtw77CxNps7zvRhlKP-FYV52U6xu78IL1vY-nFf85x8nSOjDyUfR-R5fmvhg_Ue9jcBq9aPclWHzKu8gJtwqTLxblTL_Qdp9xtyzG_Sw0F2FHXrP4ajps23Ee2i1xpN7GNNIVg12UlseaUxhDjC0dRh7MhQw"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ9QGviL4hTIYRrpojPaLEcbY",
+    "city": "Dallas",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJaVKTJ3UhTIYRC5VzeIOU4Gs",
+    "name": "DIP Pickleball",
+    "slug": "dip-pickleball-dallas-tx",
+    "address": "4801 Spring Valley Rd suite 108, Farmers Branch, TX 75244, USA",
+    "lat": 32.9416563,
+    "lng": -96.8279818,
+    "rating": 4.9,
+    "reviewCount": 28,
+    "photos": [
+      "ATCDNfWV0kUvt915oKZ_4k_7s94sA0BC8eKVKmKZJkZxRmZ1wUBz1ZDZX3eunh3CR4SRkdfJABzlOWfmFPCVRGBoCxvDj0X8Nla_4fKTNcvZYIrm28N3pCkBVLGSuAFuerojQIs4K3XzNVrDhg_C6vn1KmhfC8gEl20zLR-R1qECT2yDEQvBXqKAqqZvD18LBMOyIhsdgRK-gYuUDq6edJ8FevdQ749ZFvaJikiBe1oyMOKk3Fs8oFoXtanJHwtOb1snm71HiCuFPNZ2sNX8gaLIybBUubkNgtWmZLLriWL08U2Lw5joHQg9Dyza_VnpSNBTOIM7D5l5RBygYHNoJII71D9G1o1L5OhaAPiJtM8KB5vx7H-BCHv1lX3BqVlR4ajJr1zCsmPmpkSpIohT5ibgck9_v2LAaGxuJwzOgMj7_VJXOp0X"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJaVKTJ3UhTIYRC5VzeIOU4Gs",
+    "city": "Dallas",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJb3NNR4OfToYRH_HWdv5693Y",
+    "name": "Williams Park",
+    "slug": "williams-park-dallas-tx",
+    "address": "Williams Park, 6400 Park St, Dallas, TX 75205, USA",
+    "lat": 32.8447905,
+    "lng": -96.7981348,
+    "rating": 4.8,
+    "reviewCount": 19,
+    "photos": [
+      "ATCDNfV1Q4voJ8Y-e3watnDout42XOH_anycPNHXzmzUixT_px6dnP_ydSYYQWz3VlRsWIok3MIuGalbKlnJSrTxXu-B87t4lhQvBwEu65k1kwslpVySlz0h74rYg1SNwIaaOV90JUUxDWdhAsZ7LFC_ytEgmAIwXgEOCr8R2JM54_bcUAiSUYzr-Ocf1jJ09mZ2NNi7DH9zUiOgSQ90LCrzX1f175Z0NQm8NRbydlGyUg4idBewFggZqDCIESFAEXdH8TkkSuZsKT49P2pRh0VpEBckyZCAFu1xWfjzZzyP_ZYqD50Ii8Y52hSMs8_ILkq2TVzH6_azuKWt3_jvZVem4Q3oG1KDlD75tqBbdCi7OfO0Nltsi0b6Z_nM-31FSB1bs5SMqqV0PqD1PLPwlftiSxouXLv5ygg2k4wuZU9lw7NntA"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJb3NNR4OfToYRH_HWdv5693Y",
+    "city": "Dallas",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJE6T2VQAlTIYRZ3n-_k-VAN8",
+    "name": "Dallas Indoor Pickleball Club / Open 24 Hours",
+    "slug": "dallas-indoor-pickleball-club-open-24-hours-dallas-tx",
+    "address": "2661 Midway Rd #200, Carrollton, TX 75006, USA",
+    "lat": 32.9861842,
+    "lng": -96.8436292,
+    "rating": 3.9,
+    "reviewCount": 50,
+    "photos": [
+      "ATCDNfW0SFYt-B3zhxeGo-QlO7Q9pKum4d67SWhrPCYW1NROjo-CjPzU893-BMgNpPZ_q55ctGteQ1B7SFjBMB_0bpDujozu1uxFITBOGuxT11ZWE3xyzMBO1ucOCPaCmsUqxRrc5epiVZY1CAedLFfOOT54FqCv_0iwYtytA_IfKShZASr9-DCoQLaP2k6A74Ah3cnOraDdczolHnzkl4HW0j4_-_bu-HZRyW3B4AqmO_WaBC55Ev-r6PXRmfvKhJNpZlaN1yooneqDS3_QE9ToDZNw71bicT5-Km_Ztn7wXWShXGzSELKrurV74jE4xJkwnXEJtSmquBxWcaBaSl_C4xofiL1IAncyUBTC9X_h-EJen2E3cvvaeM_eJBkmLLjWoUX43qaxvEQUMnuwAXExQkG_x3NNwdzwpTeYVTV27eMWRQ"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJE6T2VQAlTIYRZ3n-_k-VAN8",
+    "city": "Dallas",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJG1fWE9ghTIYRxDDrv_l7vNQ",
+    "name": "DFW Indoor Pickleball",
+    "slug": "dfw-indoor-pickleball-dallas-tx",
+    "address": "4801 Spring Valley Rd suite 108, Farmers Branch, TX 75244, USA",
+    "lat": 32.9416563,
+    "lng": -96.8279818,
+    "rating": 4.4,
+    "reviewCount": 91,
+    "photos": [
+      "ATCDNfVHqmoVVL4fNpmCyiWlCCMoLAntTdSV71ph4Y_tdK8XGwOL_46XpbJ3j71zcGHj96s3cH44kb7zravN7FGc5YZPWO7a9wPi0v58l_z8jCbRf_YMWfhamG43WZeZ_j3GdyJ_be8iGZZ0B1PqFQ1RepEMD_jSESKCm7qAh4OZSCWQlSELV1l8LG7hHMFYBMBWUkmHHCum0r0lS734jy3ozz-j0_Pl6u3tizC9eoZo8NGqW7xSRQTOSmqtPIQT6I4hxnli-YpryMs_U7k4k9WPUd_0xTklfhXLdGMlVuGxhu_GzgwdUFQKXsnL2gylayM-t-DyXa0ZTmguLVNTxAHPa8rvZDY6ESoQBGuJ_zSTZyRztyWaI7mnp3CK0RrK3Cl6AN5li8agNdDbuMrFeQWPUx8pan-fKVWqY5y866ux9NyBZbOk"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJG1fWE9ghTIYRxDDrv_l7vNQ",
+    "city": "Dallas",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJWXTefF0gTIYRO3GcIXUxyik",
+    "name": "Churchill Park",
+    "slug": "churchill-park-dallas-tx",
+    "address": "7025 Churchill Way, Dallas, TX 75230, USA",
+    "lat": 32.9175286,
+    "lng": -96.78473149999999,
+    "rating": 4.5,
+    "reviewCount": 300,
+    "photos": [
+      "ATCDNfWq38NUy3ew3ZuCFjydldQWh7U5yeoPB7Uh-HaX7XYSfy08HC_1aK4lg0VMsYBsWD5TQTDcOBU1HK4AFtuNxwxX35H4k0Y4MDJFdkt-0T6qCvZ73d-gd50ftlkBR1UNrkP3lkMAuLWuE8Kfxem1WLT9qlU7d1dzO0Fuv0zSviXD4AHclQ1nqAYL12fzGi0UAnSG9QuWjhJW7tPw9tYLcb12nnR6fLP-h5sSTqn2bSESZuM7kFcIX09dzfJTbFC1aPwt4_qM1K96kCeFp5NRWneSJtLmU2QLzLP9VINX2FGxnfZ67C4EsK-OYYTl7WedhfqZ5CtN1StkGpGjGHC_hpZ_uE6AnVDbtrp01ST921yKIuveCSnak4Lbw1HN_spi48s3e2w3pm1ihDXFhheILEiAQQ8K9lgdRY1J1aMx-vyRBA"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJWXTefF0gTIYRO3GcIXUxyik",
+    "city": "Dallas",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJ3XQy3LieToYR23yCa4B9ERU",
+    "name": "Craddock Park",
+    "slug": "craddock-park-dallas-tx",
+    "address": "4600 Lemmon Ave, Dallas, TX 75219, USA",
+    "lat": 32.8200258,
+    "lng": -96.8160762,
+    "rating": 4.4,
+    "reviewCount": 210,
+    "photos": [
+      "ATCDNfUG1CWxZnVwGyMwMiWBzMwW1qnNw9hSZNCoCATgkA6zjQs9-ZhBn4due5PmmUKTAV7gKka7Y-ckvdyOYx5fpE_V2eZaIT9EBSWeifYiZYmrLsmLHyXGkiSvtEhxtiEmtXhf6pgjtdJkt4BneeH-hojIQ99LquukIEv0GARFscMWO84aMQtS10XNhd5P9IYDnhEhR-r5LOHVJ67oetJ50eZlgrSfwIOX9bx5YT_Fx6KCHjZm2Fl82eXJakt3wsH1c6-V-xfvSLTBJoWip_Gbxd2GuqNVCtNIo6WpvL7cpaHC01LbEnDOXWP0hHz0NwH0YIRUe1gir3mcRNOLMYk2zACMjhctgvKs1CNtiN7GUxqiFu2gRXaVRpF16B7KxwofuMrD0K1qzkkZR_zKIQWsr7Mc_1Ijkqqd2AA1nNFG1YS9Sw"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ3XQy3LieToYR23yCa4B9ERU",
+    "city": "Dallas",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJM8quUNGhToYRK5v0Ul_1CoQ",
+    "name": "Ridgewood/Belcher Recreation Center",
+    "slug": "ridgewood-belcher-recreation-center-dallas-tx",
+    "address": "6818 Fisher Rd, Dallas, TX 75214, USA",
+    "lat": 32.8466695,
+    "lng": -96.743359,
+    "rating": 4.5,
+    "reviewCount": 60,
+    "photos": [
+      "ATCDNfWnlhFnpTAcuHE9sisf4rPjKMZCYJVMnAhLn05CTUeDV70E8bNtd-ejwumRJrDy5gQaEqtlt-usSFnKNIKQwhzT2xktl4c7Ur8Xu9BnbcuTSTS0pPRbtaBYfujdpevWadmjn5tV44adTBw3b2YEuTjIIm1UopaKfqa5DOMmVsHkq7jeIcaTBs6DP8UXfvDpSLoou1b17Wk2eDmJnozw2kmmHdhMbIw5AuSXTRSTa0pMLskZtfYe67eMe6RfpWytT5pDgr9NiX2MOnrmZnkkz56UCvBbd9PMouAbwf_ETkJdajmn2cOtMqhDEHzPzWU2-7Y8ASUkmA-DSRNbDXoWiy9Iv53TZ5fxRlP5IN6c53B17y9fdINUqpUyklYcgl0KqL3EDauR_i2sDYwcyOdhujH74p0lGagmk7APwqGvCowKJg"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJM8quUNGhToYRK5v0Ul_1CoQ",
+    "city": "Dallas",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJ4UqX564hTIYR65MLkQV7pIo",
+    "name": "Fretz Tennis & PickleBall Center",
+    "slug": "fretz-tennis-pickleball-center-dallas-tx",
+    "address": "6998 Belt Line Rd, Dallas, TX 75254, USA",
+    "lat": 32.9485813,
+    "lng": -96.7830335,
+    "rating": 4.5,
+    "reviewCount": 136,
+    "photos": [
+      "ATCDNfX0AWkbYsu7Yfft7l4LvLgE6Ged5ZN-NKWJr7IoFJtE-bI0OAExWTxnyPoeQmcFpHTlzVpOW4trNmr8Slv_0WCn-a0VzenApuNvoRGnsqKVoTsuWRCNubs5LJ5ciKAXC_gEMYeP8zB7GND2sLrasbM7p6EhIDMS6j6wZ5Pdym8ONaBKRz-Ii2eHWz1VIVapNhVL1dsdJSpdj1E7P2JrChiEjyT_MLRof6y3bcjO2Fi7-czRs2QWomNeNL0NezGmtHY7sYbvOqsGKN_dkc79YlrHiCgqw5bARtrF-_CVX4lnmA"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ4UqX564hTIYR65MLkQV7pIo",
+    "city": "Dallas",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJN1kVaoghTIYRhXnkkm2iT4M",
+    "name": "Orbiter Park with Tennis and Pickleball Courts",
+    "slug": "orbiter-park-with-tennis-and-pickleball-courts-dallas-tx",
+    "address": "9100 Orbiter Dr, Dallas, TX 75243, USA",
+    "lat": 32.8988705,
+    "lng": -96.76116329999999,
+    "rating": 4.4,
+    "reviewCount": 20,
+    "photos": [
+      "ATCDNfWhjxJ_4-h4SaWlVZT2dZBIWCm5Mgqur0wS0Y9tqCAA1JTwpDjsP7VDNP3cPTgXkdqj6K9jL6_eDuA-1zYwl66UGEjyRXgWyjAk6XdxVspp7nzBhJIuyl3-404BYrF0zCQppj13xR2Z0Igmy6eI16W1-xCbzxs-_BUxRiyLKuDoJy9r7NhYryS1In73KP89jmsAwf2z2fWTmo-7QJQlddii2QfTjBk-mealzDtQWGoXl74npODNyWUI7s5KHiiRJKKjNgiYhTr_jTDM6-cqO6QWVtVHM6Hdk9Xt2cm_lGOwsnb2S2HY5hDjxW3O947-aCeqPvDwFxVyn1UW00-HuM-DJj3ZN1a1kT59oT9ec1z-VE7tNpfcHftZEghnl_Ig6xeBI1OsMgfSdpbT9kurqdgC6U2BXsoL0BjEaH6tGQ6gmw"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJN1kVaoghTIYRhXnkkm2iT4M",
+    "city": "Dallas",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJAQCwQ2cgTIYR-8eGqb27WDA",
+    "name": "Churchill Recreation Center",
+    "slug": "churchill-recreation-center-dallas-tx",
+    "address": "6906 Churchill Way, Dallas, TX 75230, USA",
+    "lat": 32.916481,
+    "lng": -96.7857571,
+    "rating": 4.5,
+    "reviewCount": 82,
+    "photos": [
+      "ATCDNfWcUjQFXVkK7bPxG1tqhg8x-hKfeR5NU55HrcVg6ko8PBeyniWS4-eLLI79bKfbjJM283N_eW0phxfvZ4NnV0ceCxAmB_m5QsFVKNl-SeiVvteF5op9IdS_X4tLhts6exn5K-MaPuMSoCeIZ6zHaoPvQRxogYKrrIM95TVs1i7fQDxBsR5pr5QFkHSsMTKNkMqJ9kt2ELJBvvo6zPLNqgWYXvZ_cXmPZIYOuIX7xU8xO-dyZi80nLR-NLbfZXsZb3028hg8HYrg4QRmqcA9VlzGRTVfeIOMqhdeH6n5fV3wR0jX6oK1Xvqs3QRFqAY2ej4z4aweLZyCY6coCXiRxFALStVdbrTLjE-mOxlRApOM5bovscEk46AQhghK83ac-hmtxh7rUIH1wUPhDs-Vj0arJW_oqgBw_Klgrb77cuVG0RTC"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJAQCwQ2cgTIYR-8eGqb27WDA",
+    "city": "Dallas",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJJaRzhg-iToYRMV2hjl9EtHM",
+    "name": "Samuell-Grand Park",
+    "slug": "samuell-grand-park-dallas-tx",
+    "address": "6200 E Grand Ave, Dallas, TX 75223, USA",
+    "lat": 32.795508,
+    "lng": -96.7406699,
+    "rating": 4.5,
+    "reviewCount": 1148,
+    "photos": [
+      "ATCDNfXrlUgpaeQcIeNdeG3yoMpWSVuEproV-KTlQT2GxnerXUELbYlvUC1DxwC_VbYwS1AbHQpHA4P-k5QGrqfs_f79VcNuU4VIiCN6bKsopNo9FGHVipo0_n9NbPTOBervLwxKdDu6-82mYiyui6iTPnPt5Tp9broGiOh8cxWLxZwE-3xlfNgpRMBhjxoLVOhnUffuGS3Ky2EVuiPHXXpATyYLFY5-Bb-mxQ14o8Ti7XdMXp77Nxchurw2ld6xIe9MSW9pjo7fvWPyiKShNdVRIW6FcGJd9PHqUFnQI05xO-g3hK9KYrUOqcK7ltemHcLXPlIyPqmJjI2eVrxSJk4lxqOx3LG-Rrr3Umb4lo7yhPVnJIWzdeDBZJfowt_2XjyHG9MiG1be1WPREB19RTSK0F03BqI0uKICyKOJbvn3QBAE3A"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJJaRzhg-iToYRMV2hjl9EtHM",
+    "city": "Dallas",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJkRHUB4GZToYR7UknaO8CkrU",
+    "name": "Kidd Springs Park",
+    "slug": "kidd-springs-park-dallas-tx",
+    "address": "1003 Cedar Hill Ave, Dallas, TX 75208, USA",
+    "lat": 32.7536943,
+    "lng": -96.8336724,
+    "rating": 4.6,
+    "reviewCount": 1632,
+    "photos": [
+      "ATCDNfVbGeS3nbR7nSTU9gB5uF309RootMvrsfbEExaTN9Gg8yfdIFpNJb7AJRK5U8G-zk3qQdRHgwVKkp6-fXsBncxVz3RTivr8EkJ8iXM_y-SC6XPHtzrR_5zkRL3MCQP03C88n1DRpQweY2aBwryxBY0IQcZXhDPj-KDNnIqLgt0eMZY4av6sDnwZQinMmRTzUVc2s5mBebD7Ex-ZA61jxrYVCPVJXF3iQ0ZIfh80OlIWF8sgGKpmTyokEavnzNkwA2CtTRrfA4Rww7YXRy8DJXeDWczr1srnXV9oGCbXveRYPNH-8nrGlEQUYRCRN8oMWrT4dGFodZzeFTMJfvKteaDzN2ArzkiqZMjkg9cc_UmRAc2Z2V8CqaF5zAFescwSVj4I1OZVTXq26kPafvLU1R94uyku1R98Hlqwr9AwV54"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJkRHUB4GZToYR7UknaO8CkrU",
+    "city": "Dallas",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJQ9AHExOgToYR9nytZ-1Owds",
+    "name": "Lake Highlands North Recreation Center",
+    "slug": "lake-highlands-north-recreation-center-dallas-tx",
+    "address": "9940 White Rock Trail, Dallas, TX 75238, USA",
+    "lat": 32.884805,
+    "lng": -96.7290142,
+    "rating": 4.5,
+    "reviewCount": 261,
+    "photos": [
+      "ATCDNfWXG7Pj565EDI9dTebs4aMcj7kFen1kDQC3SHxtb5paGQN8BO9a4rnC_ZyruO9Hz9sprujoxiOE-Ob8DQmyjyeqD72lQ2WYvF7gMgqFhoaK5Z8oxJ45nwD6lqK8FN3a7BGwHMTm6HDFZ12LavF8wZLN6J3LgLousdEGZiKX_ng4SyrrCG35yqhjum-g02RomQmScza19vPWCqfGDeJ_Tx83grHFs7LgTrdRJ8BZH372tcsynIFCqO974L6nIoGn2jHub_nZYUT_q8ShGuCKw70hWqWglFoSq66I5Rk1NTa09xczHCaUK_qU3KNvNIwoS1VpNydgS85P1w--BFibd5VXjOLHDBQKKzoNHp-FlkGv8dWFbr_zrwPTGRrKM4WCqFbgJq_athOGBOE4XudTCKxYN8rH8dcptoXMzBAkgwhsk-k"
+    ],
+    "types": [
+      "amusement_park",
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJQ9AHExOgToYR9nytZ-1Owds",
+    "city": "Dallas",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJdQWF1a8hTIYRzkOHbKbgfnw",
+    "name": "Fretz Park",
+    "slug": "fretz-park-dallas-tx",
+    "address": "6994 Belt Line Rd, Dallas, TX 75254, USA",
+    "lat": 32.9491456,
+    "lng": -96.7815655,
+    "rating": 4.5,
+    "reviewCount": 256,
+    "photos": [
+      "ATCDNfXOHm7yMuWwKgrINN3f5mV-_jBgRntCxR-IW9Koy8fZTVJhXEkeGx6fV3_QQ8V_Rgi6e2y9qVALnr1CFpE7qrifJVvvFUVLOfKzxbHujdQ4c4zCO3lk4m5Y9cBEtjLpYnXiy-I6MrgD0cjM2ow13TNqS3-STRG-doWLjsePAdyftIjk87S5_7jnhHCd0YE67-hKiK9R3PdZoFtXHKZgGB07lULuDs0QX-O6r9I-3P7ifQ6l6zJp7PDq-9S8ylKHY8fC6O3r78Ve_MvvafvQujMng2D7cDUCPqgANR9Mg8S1R0nUhhyS_3lYGwPLORQdtby4AmS5DedqYnvDtzT_Dnwe-tX4hBb2PQjkG50n6oPywth_dmRziVnoaxmvDRfkTO9iSdB5d2i1K9n9SpgrcuOf5Qq-fXELffmLgAGdLm7BdIUY"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJdQWF1a8hTIYRzkOHbKbgfnw",
+    "city": "Dallas",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJqVHRW6qYToYRMQwy_FsCV5g",
+    "name": "Willis C. Winters Park",
+    "slug": "willis-c-winters-park-dallas-tx",
+    "address": "101 S Glasgow Dr, Dallas, TX 75214, USA",
+    "lat": 32.8038673,
+    "lng": -96.751072,
+    "rating": 4.3,
+    "reviewCount": 211,
+    "photos": [
+      "ATCDNfXrIp4oBczF9e9nhpbUiVie80qYFleL6VpDuUX45Jy_ueiLr-XG9Ti0_Z6HfNlE94E-fApi_d5tRzeLvGs7grESyLqFgiaLqsD5omIZAeSGzWf5DpIj_AyQTUgHaNNObEsT0mY4JUQw4NCQz6dJBHF4TWdVzR5VhL_xWTnQsUWi_o3gG7PepK_GhxVT8696MVI3keHPrxFbzLLJ6W3lLZ3PTgiC7VHCke4zHKNfdIZWyUu0lLOId9yv3o4zCiYfBDSFgdaly95ZnG3FXAXEQKrMwMt87zt3iIa5zQyVEFbTWBNSD1M2ZM0Cfgt5ECKREQCTr2UZYiNV5Ly8jgCuFbIyLrHoRBGj0yetcN0qij9j5ohp08DD6Hos6nGHAgDF-Zpuml4budyB67QMqfLhNCCWSvER8R2NAKB2iPiMaxAzrA"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJqVHRW6qYToYRMQwy_FsCV5g",
+    "city": "Dallas",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJqREF9YMhTIYRc5Z6eN5djsg",
+    "name": "Campbell Green Park",
+    "slug": "campbell-green-park-dallas-tx",
+    "address": "16600 Hillcrest Rd, Dallas, TX 75248, USA",
+    "lat": 32.9777569,
+    "lng": -96.78701199999999,
+    "rating": 4.5,
+    "reviewCount": 820,
+    "photos": [
+      "ATCDNfVj0N-NemLFazbUPRK4-wYx0tul2OYroHQO9bz36LrCTkXQixv5DqIZylXt9nuomdkv6t3dW4v0XGlZmCLzwbVtw8DSwiPJEPyaVoZ4ayKIrgmbOwuiYtly6sM9dDFA3-NwbwbBP4XlOU9j6QOAm7EKy0tdJmn8vcke6mRyfh6VLgcKhXIZkNJnUkg7IcrdrEQ36nXRUpncytN5Vlg-Z0tuOZ8R5RLo1dYw6DRByFEqxSz8n-ujQvzVgzOAn2WZg5aYpacIZHUUQkxueYOF1dgoQsdphLGVFU4wQXU4qqMcJctSV5CFw-e_NoYAecfZOoVU3IXIbuQwBGYjHFt_R7LmR_2m6hT37jcQj-uf7VPlix6slIHgr_mxJPfM12Aty1_DG3yyu9NQYqNk7uahf4lPmQsWlH5zwCMhsvU_SuqqYVs"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJqREF9YMhTIYRc5Z6eN5djsg",
+    "city": "Dallas",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJDytXQ3-ZToYRRmE1-tcvevc",
+    "name": "Harwood Park",
+    "slug": "harwood-park-dallas-tx",
+    "address": "408 S Harwood St, Dallas, TX 75201, USA",
+    "lat": 32.7799323,
+    "lng": -96.7922153,
+    "rating": 4.8,
+    "reviewCount": 58,
+    "photos": [
+      "ATCDNfVS3QvWEAH_BkMCEh4gDHWm7Md1PMfT9FUqK8TcH93sdFu4n4g_-cVJBhA3uPzYXKqbvycANe1x9HBwnkgHXdvM5sbS03ltw29abz1mRmqeapKaisAnVCnrMR2Vr6deT6QP04slMZN4s5W7qFkgHCAd4yRGxCKoBbOVNvPFWsksCxogto_2PXSAesxrN1ww90eNTtSjltUTUl4wJndeqHI4h3fNP02fX4l4OiP4JYv8CxarIUSX4g4iivUASEGxyYA9tW0BjrevcljRsIM4tmRLD6o9vH-pFQBX_WgG4v1D4x9n-OI3DrSyI_Akr4LHhWyf_El7awBZM1ZHSw8CTtdHHhNzE09DBoFKeZfdNbp4u4WCGQcs4aRTEQ6Rzewn_wMmYJuhJZvQGQ0-xeCHpmEmjaA1tbuf39U68YNSgf3xraf0"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJDytXQ3-ZToYRRmE1-tcvevc",
+    "city": "Dallas",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJ9TnS8LeYToYREfnxZyfwMwM",
+    "name": "Buckner (Samuell) Park",
+    "slug": "buckner-samuell-park-dallas-tx",
+    "address": "4550 Worth St, Dallas, TX 75246, USA",
+    "lat": 32.7952041,
+    "lng": -96.76940300000001,
+    "rating": 4.2,
+    "reviewCount": 139,
+    "photos": [
+      "ATCDNfVuF6IQ33G6idiVE5ZWMYSfCk3MgipS8cdW8BJGJH2KOEeHt1F4_I_dBMYFSbRklgeKQj2PU2mxkCjftCKYst4dVShIEJPrNNr0A_9k3X2R38-v-Np0nr7tA_vbzaHAla0OcNIMi3lcgeQBWTDywjPZkGDaCtd5mW7NrhlWNmlJn-G0hVlZh_q4EbbGEBznm040zfpQ-DkScQcujGDKIq8RUTG9gJ5LIv3ZnkKoP7JxJzu2sAft5NKkfQL2KOMoicN-rFSMVkvZUYJVPjNbqWl0_cRXeSQfFGcSGvPkfyf3b9a1TU_0lKCxD97s-KecQlfyDrQFqiGyjDCkUTIZRizBJSiRBnbH_82a_ClGNq9qnzuTeCjlQQvWPGVmqIF7gor8zhBUZNHiKy3S3ujt5WNg8JKoYzcXEpyM2C1cEUUqngM"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ9TnS8LeYToYREfnxZyfwMwM",
+    "city": "Dallas",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJNVMw25SdToYRzs3UxJDMJWE",
+    "name": "Westside Pickleball Club",
+    "slug": "westside-pickleball-club-dallas-tx",
+    "address": "9203 Denton Dr, Dallas, TX 75235, USA",
+    "lat": 32.8439143,
+    "lng": -96.8674065,
+    "rating": 5,
+    "reviewCount": 9,
+    "photos": [
+      "ATCDNfW9AbVhHw-MiWUF496GgrtcWUwW8pPffLB-gcRMQvrt_e0f3XmoJjWOJWPuwwAVVZtmAPk_GdDXo8ZrO5BaYGTGtn9KUiUmv8GtDOHA1S-m1rf56rm2TbxwIAblg2aqc5xs9MwVfcDiZR66RP-ba51AWEZxsjLz1FBeu-HDlLV6jSCDaYd78QPzlzmZPadNWUwNNgvPLtpRtwWSOUQrK5t81rtmN0iE_0PZ12an8P8RGsrconPbWABRmmO7F9MEN51ft-YlSF8OBikc4Rti9EV-cJgmO1bHqUADzZXNQRsqxqczZcTyd6WvMWSGBNMSBAJ9tCmjgD34pslP6lvNdJiVhdiZjVUB4QkATKebtM8EOsKvyPIzd_DdSM6UQUGm2iRmSuaxjnbnvJqSDqEbtW8UwbYCfRx5hBH5U2VqrDHsd8vozpPr4vM-D6DSmiIc"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJNVMw25SdToYRzs3UxJDMJWE",
+    "city": "Dallas",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJPULAueCbToYRUO58NUj5SGg",
+    "name": "Anita Martinez Recreation Center",
+    "slug": "anita-martinez-recreation-center-dallas-tx",
+    "address": "3212 N Winnetka Ave, Dallas, TX 75212, USA",
+    "lat": 32.7808131,
+    "lng": -96.8394612,
+    "rating": 4.6,
+    "reviewCount": 102,
+    "photos": [
+      "ATCDNfX-0K5B6q2otO6XEn4QaPUeuxTwkTaB8vdWU4-F6PvAscmx4SGDAwZnj_ZOolaLM2NQ3w8oiaJPsMYiPCdYAQCt-WjYnKPbBUozZn_EUH-mv7DbkiPfdvpv5w1R1WgiWk75JiK4uLgQ1fqLjnpwo6mPVzBWXpx75F4-JLuyvEL-2Fi2x0BDY-BmynWra4ltH_huWt4HWnNsFXE7oqofwPxRKYqyqiUnCp8KSa6xDvwVtzjA0mFYnYjwf0g9FvbfQAQsWYB12eD3MMR_eAQQ6nxN-VbmC2iHIXOanZ9RXTVNkhV1BVuoh2trg_U4aJ_xy904w52oUHcKQzTPP9M66X-Z195TDBjimPCwDjGoxXeHseXCaYxL3xua76uVNU3eNaYFowt5EqkgNjoG01AnshltfX8tUU9-Un0ZBDqOA8c"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJPULAueCbToYRUO58NUj5SGg",
+    "city": "Dallas",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJwUzdqVKkToYR_WqwHl8-WQw",
+    "name": "Westlake Sports Center",
+    "slug": "westlake-sports-center-dallas-tx",
+    "address": "601 Gross Rd, Mesquite, TX 75149, USA",
+    "lat": 32.7719268,
+    "lng": -96.6175384,
+    "rating": 4.4,
+    "reviewCount": 96,
+    "photos": [
+      "ATCDNfVvS21foKcD0hqdKjewSK87IkXBRTPqXgwOGTXRZRu12ulS1-QFWhMkQnIKpGmlmkBa6VtrZM8G2pqIKbh3K8A8QNGWSsUmfPOiugkSzL3QdTqsvwk77oTeNqDRboO84aNTVHEBOYLeHSdDhjEWmMEMRBE5BLGJ7DOyYbgcDwtccE_l6Enr1xNyK3BatkBFQWcEHMxbUxOoYYZJovQDuZCZuVPwryAXD7SgstFeKN3EI1aXdeZUr0Mv0d7omUUEpvOcDBFDOa25azQ83-WvciD6ZUFlbFbrENiCdsAgHodvd8Npuz4js_NMzcd5WHVQqtePxXkI1GLQqIlVOGZ-D4CCcAJye-7KErq_qO-YBA36viuckdnRdWEJRsOPlMpbCyoxd3fZQQfiWts-c47w6V1U7F-ev2fa2qbcJDdbOJ8"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJwUzdqVKkToYR_WqwHl8-WQw",
+    "city": "Dallas",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJTTXmftCYToYRIFg0eE7KagY",
+    "name": "Exall Recreation Center",
+    "slug": "exall-recreation-center-dallas-tx",
+    "address": "1355 Adair St, Dallas, TX 75204, USA",
+    "lat": 32.7939725,
+    "lng": -96.78407209999999,
+    "rating": 4.6,
+    "reviewCount": 52,
+    "photos": [
+      "ATCDNfW65zEivRuNYS3nAJWoOnHp-d9spQ8TIqA-1484laUdTgLDzPj7DAqNayRBzV8eJf5NXaF-q0zKqeNB0a33RhDHsnKFGtC-rm0rOZ6in6rKYs5S05d8DNvaTv9iU8ZYw5IjhNz4NacOyliFDyG9g6a0s5u0en_sQIVpgz8vNtKfTAMpcUXiqTfJyZewpnfDjWZ2DbXXrGpRQ_vz75Gp82AJChIDoO_WUopUAGTP3xW9JRKkUSOwiW_y1W_iC1Qtcx1B_TpV3a5IQTOoNdVCT5zWn7zEH8rsu-VvTpJ5zVquEHRTnNNai5aRDTgsdHNbYQ7ujtjm2dv3D4flstrNBS8d2Hlt8GMUMaOLq6ecKofk2XO9SPPME6K1b-8vNSzqiQQRPvRlilNScTosgwcE2CjgkB9WC1Q9zWU6yKyJVl_2Y0I1"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJTTXmftCYToYRIFg0eE7KagY",
+    "city": "Dallas",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJXQPcwQifToYRSlRguk_1JE0",
+    "name": "Burleson Park",
+    "slug": "burleson-park-dallas-tx",
+    "address": "3000 University Blvd, Dallas, TX 75205, USA",
+    "lat": 32.8461451,
+    "lng": -96.77997300000001,
+    "rating": 4.6,
+    "reviewCount": 127,
+    "photos": [
+      "ATCDNfWoGga6yASSbDPNOtTQcOrIOVAKXVNso5HY8k0L1LtyESrKRJ2I3lJOaH_oUsKbsTZ_8U4HuX4ZXstbtHNmTFy3TsA7jlk7-HwYlrhk6kueBHO5FvYBPyJZbSxdlG7GIpFqDxFt_G8xayRKo8NTSrUBbf20EHt1EyLuR4VpNAwC8wjjlz85rYcShj7t7Nnsnu5fWICAcdB1XkNJr2mSR4wC_NSMQFIfoZVvechkdnAv5S3adOs0VXsnaeWOglhvqEiqYAszV5BQ9YmtwRI7zdNQZI0Edbkg9nb6gvAc2bFiavvwJ2HUyF6mZU_RskwQ4o0YU4XLyxCcB2KYSIUQutkNFAE6jZmWvjs8a_uoUIPYWMwmL0Aj_7K0_0n08rp3tQMuJfPVhGu_mZmMab9BlI6c2D_bLKkA_BdBxnRqvNyPBBE3"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJXQPcwQifToYRSlRguk_1JE0",
+    "city": "Dallas",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJgdX3pP8nTIYRe-NxLcyy2z8",
+    "name": "LB Houston Tennis & Pickleball",
+    "slug": "lb-houston-tennis-pickleball-dallas-tx",
+    "address": "11225 Luna Rd #3113, Dallas, TX 75229, USA",
+    "lat": 32.8887997,
+    "lng": -96.92055959999999,
+    "rating": 4.1,
+    "reviewCount": 130,
+    "photos": [
+      "ATCDNfWzvaKXrXs6CffNEjIBcS0kM-RSF9irsEnC3_xf_iak0mRoxClAXDLeezrBVzK47pC_oXGsnD2w0eGasJpkaahiv6XtaoUWMQqEhAWX6bJ_cK7wekEwKRkJNSsDt8cvjpNhSNUOPj-wgDZBtJghR0p_oTKFGNksDGtByUhHvP5Vlc_T46y9WtTbbfzNoNdjhDNhhntn1nhT3l_IgKDgZNGCF8wrRP-sfNbR_WlvMBgeBNwjqMOGYpCoajJLyL-ob7Vb3M7xzXfEPklwjtGAfPWR3SGJaLKIvMejDis94QXv0P_NirtkvF09vzvGHIGFxEwWmdaxw-YRV6PuOBCA07vbvYSqi9jdl6L_DYBy2yAVwcmucJYpO-GixnqK3OpLngF3-_TP29_Mqp79KZrccbOerQ8aqw1JJ7dwqJ9VR4Doyg"
+    ],
+    "types": [
+      "establishment",
+      "health",
+      "point_of_interest",
+      "school"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJgdX3pP8nTIYRe-NxLcyy2z8",
+    "city": "Dallas",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJLcaRzyGfToYR_0r8N_eN8sM",
+    "name": "Abbott Park-highland park",
+    "slug": "abbott-park-highland-park-dallas-tx",
+    "address": "4814 Abbott Ave, Dallas, TX 75205, USA",
+    "lat": 32.8265557,
+    "lng": -96.78905519999999,
+    "rating": 4.6,
+    "reviewCount": 83,
+    "photos": [
+      "ATCDNfUBqNjiIJh0Q4ox9jPnZqm265Efho4qHRCbED5sXIO2-6nMTUqSVvJAMi9h1iMbSwDy_ttjAVTnZUYVpPyn0CKcuOIEDAnSj8VXZf6uxRKGYcvxXqlNsKSsuGISzvgZ9DxJFRZ-7KUVyTbNJ01cGnuF_4fzEhggKc74LS3IN8v4mH6t7pONvjm1x-qGeWb1QTDwZ3y4WoGtz-IYATYBJdW4XAm1cfpydDwPY5yUmWcPQ9Ok6G54xA99vCx7kuJDGnC3TP_UkDHRbRLHSU8tEBh6MGH05IxpOl8-BqXnHpUt_8tTSAUODT8AZrhQ7Bv7rKH09E8-c9WimmZ4VLcHXMKuClJl4LqbbTOlx4pQHbR9ohpwL6rw_6a0Ryz8QI4RaVVixbfd0BQb4uHtzNNK1XNGPtMX7QE_bgIhe-ucQSQ"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJLcaRzyGfToYR_0r8N_eN8sM",
+    "city": "Dallas",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJNwRXU-eeToYRWEtxZg0yaJQ",
+    "name": "Prather Park",
+    "slug": "prather-park-dallas-tx",
+    "address": "Dallas, TX 75205, USA",
+    "lat": 32.8271543,
+    "lng": -96.7974246,
+    "rating": 4.8,
+    "reviewCount": 365,
+    "photos": [
+      "ATCDNfX1GMxRZdZkw0nyiqd9Eigm8qhtVVzxbgVuXEaq6PXYFb2VfHx-WMukLq8GHKbJD3sdpquB1SzOHwX12wUd_xxX_98X0C9qpTpd7ZEoTfsOqhNC7LGzlZANTAC7SA9ctiTB2W91DqrT8LNCsW_33LN95zJAg-BftJIOcSkIJrZe3gMudjtprnBTkdOx6bufHGlI8Etq9Kum_SuSUDtanaDg9v3FTBdKQDB_jvDJvbvyCzvojZhu0PP6rNc8bFt_SkGw_JWxYVLzvryLl0tyL1e7JgGTY9Kk3yGAICchYDxxAh9713stZKfmKyYCjDwiEiQDu60w4TL3ps-zpaml2YjkpyvhHjtEg0BNe-EpWVa8xl7xqQ5tyVFi-EoXotu3qpZkvmBF5npaBq0JCPWkyr7DIuDYym45f3pSj1y3cuQhJz8"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJNwRXU-eeToYRWEtxZg0yaJQ",
+    "city": "Dallas",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJJ5_rbDWZToYREpflEy0146Q",
+    "name": "Reverchon Recreation Center",
+    "slug": "reverchon-recreation-center-dallas-tx",
+    "address": "3505 Maple Ave, Dallas, TX 75219, USA",
+    "lat": 32.8017492,
+    "lng": -96.8124613,
+    "rating": 4.6,
+    "reviewCount": 65,
+    "photos": [
+      "ATCDNfV2JjQjKjIAk3R6cP85oNddcNQ67c43Avp-s-9Tm2MPg9Q8yNbUt2XAGTofbRxSChfeVkSF8LTKOdJLflfMu-wSp9UYQQg47E0dec_DvhmV-A2gmgeXM1shH3Y8iXTJPvTzb96jt4qskJoBKKUlHAkpHxOijNN5D3gByDb7-LvQsxgYo4TklM_R6kTUrnHoa6v5wp4AOgPQSSvWdEzOAKmTCYynSJtYYxzNXmCcqlvf5lr-S7azgNo8hoecuT1QgSmGl-s01ihHhiPExJGF7763_fIKi2akeYkxS-cKwXI9nyCCFKlkJPtqWHLS8oAHaIvzkf2UVcp2SNc0dBbzmC9ySvd1mJMGqjsnN26Za1gM8gcClizn6JSckFaUFIxpxXE7pq2m9P9oY-vJ-ffUWVNlej7xPhyfkzen00J-9S6KMhL45isvkkTnouLKQf1x"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJJ5_rbDWZToYREpflEy0146Q",
+    "city": "Dallas",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJDTyjsvSeToYRpi7MuOdWnZ0",
+    "name": "Germany Park",
+    "slug": "germany-park-dallas-tx",
+    "address": "6401 Lomo Alto Dr, Dallas, TX 75205, USA",
+    "lat": 32.8435116,
+    "lng": -96.813474,
+    "rating": 4.6,
+    "reviewCount": 284,
+    "photos": [
+      "ATCDNfUlR-2vZiz_cmLHdiD1mU6q414laPV9ZBBlcUax75bvP3wy0W8qZD_cr_Mg6g33DaYmalfVWrIOzK7ESlMbq8DGRV2WJ0sLb72GIncTobahBJxQbmGlgRb9B_clYrNdAItTXqymqCb4x4A5XZxqObx-HdZTCAcIgMXWS3q82y5dTiGa4qSyRt7KjYHbKgTeO1nz25dsEP_g8TXg0_HLZfVUTpWYRrInQKE8vUKgA_6ffReFoDW02L7P6SI2mVL-yu5pPrXnCKtbPVdI-Et-9tyEA_hFgM6D8zbACFY4Irwgw8Y5vso9Ne24Cfb0ZOo8ICGbGWfJZmrgcU7HC8aehAQp3qdSKWWPLVE0a8Z-qcKaU9ONeRp9sglqR3gh7GGCQ-J2Qd8MSOYjOrubvQ-0c4VJkp0t6Deess1gKigWjy2SNI04"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJDTyjsvSeToYRpi7MuOdWnZ0",
+    "city": "Dallas",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJQfbY_H5USYYRDU1aoSg94sE",
+    "name": "Oasis Pickleball Club",
+    "slug": "oasis-pickleball-club-dallas-tx",
+    "address": "5757 State Hwy 205, Rockwall, TX 75032, USA",
+    "lat": 32.8698466,
+    "lng": -96.4123248,
+    "rating": 4.5,
+    "reviewCount": 129,
+    "photos": [
+      "ATCDNfWyD2D23KlN3CFsgN8l80U1g-Siavg64uOADsNyvIjtHgAAjgn-gcdRqlI7tRS8enYR8pEWuXZWJMIueOyEzeDUDo58Oo4Rt7UHwQmRKmMIYQg06HZAFWqVPK7yDSDgQRFZjKZXfx6Y71GtE79xua-j70RgQN8PHWrXGTNEuOFdtfwDO8t6l2PmVmA_PHnbw7QBpjas6KhGp1n4x-P90XHaMNDiivLr2WrGKH8ZwDIzXSXoEDqSMdBrp_4nVKbAezNwxdAIxDcGKRNwHEDV-V7EHuEP6n_6HUhp_F60B9qC3w"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJQfbY_H5USYYRDU1aoSg94sE",
+    "city": "Dallas",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJ6W-CdjKdToYRhiJ9KCLlqM0",
+    "name": "Paddle Club",
+    "slug": "paddle-club-dallas-tx",
+    "address": "2119 Langston Ct, Dallas, TX 75235, USA",
+    "lat": 32.8265553,
+    "lng": -96.8518615,
+    "rating": 4.9,
+    "reviewCount": 11,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ6W-CdjKdToYRhiJ9KCLlqM0",
+    "city": "Dallas",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJC3u9gHqhToYR2YgqzU3zAno",
+    "name": "Casa Linda Park",
+    "slug": "casa-linda-park-dallas-tx",
+    "address": "9302 Alta Mira Dr, Dallas, TX 75218, USA",
+    "lat": 32.8207083,
+    "lng": -96.6989024,
+    "rating": 4.5,
+    "reviewCount": 195,
+    "photos": [
+      "ATCDNfU1reGuE65aSTwgOT04PlNs8IpIOSwEqrQxD2vVaYN8EcVYtNHf1a0Q3EZ--eek1OkQnZgPlL9favUw1ELhZ4Ze_Pxi0uf02blnG_U8iw74Z65OAYB2Y--f2kT7pO_vKZMKIQrZg1PPULn8s6mRAohMjqVas9dKMOkvJF35oFr9JccKkc5Fq6MXMPJIyX7uSsNr4sIbbTNqKr0kLG2N6cpBYKyw3s5ejZxdRiyZOj1tvdsvCZ9HyAb3wjGKNyE_aiTJ5HmhjRKMsT42mlgSDvOi79hFGRvKFaxdhgXay1z1HzW_X_F84dAO7b1pw48_zkC6Ot1MmfzjQqE5gaU1SiCkW__oq_X_PUc93dAg-jK2EAxaPx1dGvTES6lelVW_14sNgRJdirpNX9LNGez8jH3ptQSInaMRnTwhSRie6_E"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJC3u9gHqhToYR2YgqzU3zAno",
+    "city": "Dallas",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJAYIoTyaHToYRYP-x10nyK4Y",
+    "name": "Chicken N Pickle - Grand Prairie",
+    "slug": "chicken-n-pickle-grand-prairie-dallas-tx",
+    "address": "2965 State Hwy 161, Grand Prairie, TX 75052, USA",
+    "lat": 32.701606,
+    "lng": -97.025799,
+    "rating": 4.2,
+    "reviewCount": 2682,
+    "photos": [
+      "ATCDNfWyJcJWpHMxHLrGhhfsuPJalFdClOyCsLMxYgQfMb8NjmpTop5YH6vzKBGjLfkmjkhUcJUlSLJEjn3Cdc6ppNfbMoR5t_Id3SPoLOJqGHNadeu7-9YLq3ksn21wCWNxBJXrd3MeNI7HzBxIwQ0cdhdptTJ3-FETlbUXvNXKTCgOhGGEmcNiZmfsesdeGACuiXrqqPuTqipxQtg9HsKfPbXyNeu7gChYaxozj4Sk4Qq-rkwLm4vGUeG4ZrsJxYvssAsrmVAVpKj-zDl1wejRxYi7BhaevewgtPE17dnAboEK5KObtRf0_vXgwOAV0sbwFWcdom70AQNRpP0NVsW4DFO4eqSKkaRTAKfePq3DKh-5HAbB0W1wS9mw4v1Bc3445vS5kITpgxNJeglaoq2JiXj9Bj7449gwNj_nAMIRGU1KfFc"
+    ],
+    "types": [
+      "bar",
+      "establishment",
+      "food",
+      "point_of_interest",
+      "restaurant"
+    ],
+    "priceLevel": 2,
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJAYIoTyaHToYRYP-x10nyK4Y",
+    "city": "Dallas",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJuxYJ_Q-fToYRZqETyE0amOg",
+    "name": "Dedman Center for Lifetime Sports",
+    "slug": "dedman-center-for-lifetime-sports-dallas-tx",
+    "address": "6005 Bush Ave, Dallas, TX 75205, USA",
+    "lat": 32.8395604,
+    "lng": -96.7806332,
+    "rating": 4.5,
+    "reviewCount": 39,
+    "photos": [
+      "ATCDNfVP7iuo_baDSFX579vPr4nUyQlKcFw7Y8NULTBLbrvlTd-N-GiDufIV3mJF7gX6Yfz2n06TPvKMSgfdaYci56Vn6Kbdt1HMcaVHuB0O7cK9cJPvVA5g6kYVJIFFAX2xcb3_ZT46Wpvdl94U7FhBNohOzyoDJPe99yVn74D7xAwFkxXuj116Wd_m6cbhvDfRPbu8383IbfHkydkuqZOHAajOqIC36A6gL8wBxkc0Ej_9-17fuerKnmezaiXASJTuRtIV7r78m6MYzFnvtWciyz-i0LkVq6_XCvyFRaczUhnwzg"
+    ],
+    "types": [
+      "establishment",
+      "health",
+      "point_of_interest",
+      "university"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJuxYJ_Q-fToYRZqETyE0amOg",
+    "city": "Dallas",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJR_9-M22gToYRs2AQOilDw4k",
+    "name": "Lake Highlands North Park",
+    "slug": "lake-highlands-north-park-dallas-tx",
+    "address": "9344 Church Rd, Dallas, TX 75231, USA",
+    "lat": 32.8853807,
+    "lng": -96.72752729999999,
+    "rating": 4.5,
+    "reviewCount": 647,
+    "photos": [
+      "ATCDNfXTN6zUTODvaZ_ik1pd9sq6Ss0HfmBLMrKh44cqxXSVEfC5pn61nKIrjRW5E8M1Nj7pRjOOEyifO2T3BbEAIdKAX2z9SBdICmnrSVCN8axaGqe9zpfHxwCOCuOEzKZuxdhlo9xMA59YxLdFm0WDy2GrUVQskZ5o1mbghKTh3UYkxZdaFDpCyPc94dD7itLRhqhs_lI7rEaktqfPfEPUrcNL7JMjVXZw-gt8QfFwrQvPD3oVSPvvmDicgaZATVY7imVjNhxMxc0Di3_zSA-NXpIOT2YbiMC7nKEnQ1spKAM0s47WyGhSWFtuXz4V6LLpsbHRS2MdMxwiZserqNh0NeL85lveQMZxRn7RIicMXNw0PPwPsUjcPhnd3ex5r5Bqc8Jql7aUwmx0JWDGtJ1Ti9WH46iqw3FCJGYz9dt2QF2rfkI"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJR_9-M22gToYRs2AQOilDw4k",
+    "city": "Dallas",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJT8WfkBsvTIYRpy8edg-oHNE",
+    "name": "Pickler Universe - Carrollton",
+    "slug": "pickler-universe-carrollton-dallas-tx",
+    "address": "2800 N Interstate 35E, Carrollton, TX 75006, USA",
+    "lat": 32.9894479,
+    "lng": -96.9376961,
+    "rating": 4.7,
+    "reviewCount": 185,
+    "photos": [
+      "ATCDNfXkBWBEsv8cBR39CBXPaKf-lPwMbyP1OpynIiXWlB6B35BJzCghPTopVbZdGj5zHLlINHVFvPYuj0bmljbIhjNU7HtU120C56byu4Gsl36q9wC3tMSWvbBNZDaiZrgVD8dfbVJdhhfhQmVSSHtC_tfwpAXQMq_g3apdK3thOS-7NG3JCYiIySGTlAFsIvc4NcTPIdq_mv3r_CGvIboknFilm4Y9q0OsQ7_x5T11HKhEVF5UqzZzrYa1OMgo6GYaeKlxXZlpspMWnulmwUFrAb93kJqdat06_uiTY6S5EC6Av0du2Ez4Gicjqt7sgIk7CMwUfZpQsHNcWx22amYCkFlVF1nzUaHyUAXVWbyJdwcgnRUk3jPwVRILVCfiSGVXgon_-6mwokf3D410cOnzjPd7SeKYIHI3Jj86DMFFLhvtdP-P7q0QqSfxCgXzQQ"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJT8WfkBsvTIYRpy8edg-oHNE",
+    "city": "Dallas",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJURJdJ4yYToYRnDr9xUDiIAk",
+    "name": "M. L. King Jr Recreation Center",
+    "slug": "m-l-king-jr-recreation-center-dallas-tx",
+    "address": "2901 Pennsylvania Ave, Dallas, TX 75215, USA",
+    "lat": 32.7690082,
+    "lng": -96.76577019999999,
+    "rating": 4.4,
+    "reviewCount": 71,
+    "photos": [
+      "ATCDNfVCPsEUFakv_eXQysdUZ0w5QYp65QS6PGx1Sn7cW2JwDnfIrS4VRScCsRWfKN81O8pG0Z0r_SNYUmzCmi2Jki-QjqPhpGLzVjgBCsoPgY5ViJJ16zCMpWVEOZGbs8BsMV2uDNqHSAYFL-t3LjpP4-NOm4f_HQq3TUhS_tCOzNKnEUh5jqipNdB_mA4stQpCsfanZbNKk5PSjZk5TzfPrVnW_Igo5HUk55WEr1dWpzLqmWRlXiIe3Yvecb_7LcXMHopuMk7f4OOWmjO0spBVmSOvWFylLqxHKIY5aqQUFTWbbGQ2MKocd8-6X4nqQ9DtdeUD6zHiF3SNuAEt3TvcfughtuCOAuvAZfVPRElzKGFcCkPfLqsH8xlq4dvG4kQO3ABs5IaYNSHFjXNNQxRsP-SDV8Wx8Y2F_UMTOHS8z66oWw"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJURJdJ4yYToYRnDr9xUDiIAk",
+    "city": "Dallas",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJW7zK2jKjToYRipMlvMAYqnM",
+    "name": "Samuell-Grand Recreation Center",
+    "slug": "samuell-grand-recreation-center-dallas-tx",
+    "address": "6200 E Grand Ave, Dallas, TX 75223, USA",
+    "lat": 32.797397,
+    "lng": -96.74147610000001,
+    "rating": 4.3,
+    "reviewCount": 29,
+    "photos": [
+      "ATCDNfVhy7BExtsCLLd3MiLGKbFFOJiKbD9GDeONVlpiXjvNJvPV3X0J2G1vPmF-JVcHPjK4UL8rKr1FhZvVa9ztF6NSCfh4wk09MqtCl6W2Vzmswocmz-FkVuWVsj-1xGeDQdkZ3BzTMBds2kctzgt450wt0UhwjxUZxaSY1CpgCsaIv6BPYRhJRyDA717GpNXspj3WpM0K5dv8rqkzR0SrjnOKLFKg0tqVeg1VnYSNOx3r2Ok_bR-QM4kgSI7_tbLxzhcCAZfgidDw19jHSLdHNKs4Og7XmVFBNNgVacGogsuMg1HG2J3mnN0Nts-FuAD6FAkn-b5UZ7BSylwJsnrtjKrbKY6w3mh678TRBEBxX3R0jVbkwHAPaAcwS2gSWblpvIoCOSalG8UPg-SFNPaXbo-WuEPuWqQAA6kXcacnNjbR6w"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJW7zK2jKjToYRipMlvMAYqnM",
+    "city": "Dallas",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJ71fSHByZToYR3tzFssgxI68",
+    "name": "City Of Dallas Park and Recreation",
+    "slug": "city-of-dallas-park-and-recreation-dallas-tx",
+    "address": "1500 Marilla St, Dallas, TX 75201, USA",
+    "lat": 32.7762816,
+    "lng": -96.79736690000001,
+    "rating": 4.2,
+    "reviewCount": 39,
+    "photos": [
+      "ATCDNfWhzsi1Xe1_pHzWhUJmio48lEF4ayp_5LSuY0cLBa7hPPz39RmZ81DQK65NNZJZVv-7QTKorfepDtVX23cHXvJZKwg2GThMzKesy_x3T1e6oJcozdWADB8SHLAFgnPAY8IhIKxVR4brpGt1d1jTjQ0D8R3edDkEwXt4hPA92z70TXHrcseLgPHeR2IXjmN7E4BW_mLiWrTrDMFxLQ2w2t4TqbKE47hvNYLPMUAfdPbt_dnmv6HOdMLEnd1D8GSoTl_YPYezIuHDRfv2MG3C2FMqSZeOlOlzQvoDO4-nVV9YWw"
+    ],
+    "types": [
+      "establishment",
+      "local_government_office",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ71fSHByZToYR3tzFssgxI68",
+    "city": "Dallas",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJl4Fp0U-iToYR-FVIHwGHJ-w",
+    "name": "Parkdale Park",
+    "slug": "parkdale-park-dallas-tx",
+    "address": "Dallas, TX 75227, USA",
+    "lat": 32.7759734,
+    "lng": -96.7174124,
+    "rating": 4.3,
+    "reviewCount": 262,
+    "photos": [
+      "ATCDNfXYIWZAv52JORSYVIrSZnuWaCac3if_HJ9zx9s_S2KYJ8XSnszGFsUtSRxCJVgmuWN1_t3qO6calp72GEaq9ezsj_tnusVOBf0F43RXcMXVecsOiJS5-Ia33yLZuRi6ECbNQf_IhHzxSgII1Jr2ErXBMnLcOa3RQWK1DJGv6DL_BEJcihljFF7ElEZhiJ_lngILhG84Iw2Cw3h9BGNT5PbFeL8ax9cQLUaYtCOoH_o5X_fz6aE7u27vUFuQYQDAGkURPqVui6zvl7rWlPIv8qLlnud2A0QKgs5ducFM8GVQFHeJQg-H-lGpOwufa6EMvwluuA_gpkg1v_PY91FqcFe-_5RZcIvwle3vyYI-fdEo4KicJ8_TQnc2lbz1Ml8eBFjr7xtzCqeaFZbj8QyZCq8C-uboOiCoiZfFsRMODNPlOg"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJl4Fp0U-iToYR-FVIHwGHJ-w",
+    "city": "Dallas",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJg1q38s2bToYRMatz5T9E-Xk",
+    "name": "Kiest Park Tennis Courts",
+    "slug": "kiest-park-tennis-courts-dallas-tx",
+    "address": "Dallas, TX 75224, USA",
+    "lat": 32.7139835,
+    "lng": -96.85264579999999,
+    "rating": 4.6,
+    "reviewCount": 30,
+    "photos": [
+      "ATCDNfVRMmkOq72CSThEkz0HJjVQB_k7OJESV7rZftwf59vAzAmGwHKqrizgiWpaSOtotmxdtlucuaj2teEeix_yyvU0gN5y1Rm-U1tFWAzH9Fy-8Upcsd7S1sKHJ9lqBnLlSTaQJJzl37ikPzKQK86zv4GDYxGlwoKwHlPg9nYpUUifL3ZjBZ3m1R_r-wJllGJRXD7Q9fL2hETzoucPXYcJnihKbIXKwdel2f0HosXEZXBeR9HcaNchf0MigAYxadwOizbPvSVOCySXQAh58qDZ1N5CFI3kYsuUbwfBKBz26fgJlX-whTUD_zfwxCM0JS4su7X4aRngZpUzLXP2ntbPFQxwYtx_ZwJynwGVdzfAZc73_Ht3V9v3FGxC4SXT3QwmLPaTExYvQj8wdy7XGrX9qBLU21ikuONcaMXi8eM5jr2QEOlX"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJg1q38s2bToYRMatz5T9E-Xk",
+    "city": "Dallas",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJc3Zq3xioToYRV1CYA6AljcA",
+    "name": "Herfurth Park",
+    "slug": "herfurth-park-dallas-tx",
+    "address": "4601 Centennial Dr, Rowlett, TX 75088, USA",
+    "lat": 32.9003795,
+    "lng": -96.55932299999999,
+    "rating": 4.4,
+    "reviewCount": 211,
+    "photos": [
+      "ATCDNfWP6AfK0MIg_0Kt-NfugKk0yGbD4Wg3TBe0BVxIdpHRGBN4X0_KbHg-i3JLgnSOOHv80BD40hPh2S1WrUNpI1v9yYBYsRYM7Q_BPEqtl-QlaL3KN9ZGlnB_a-Yw939roIKuj3wx38JfLJetjtufT-LweltlarHDFEw4OYFfNe-53_HDo3jHrRYk3O5hNzs3jCkgSLlJHrGp_ZvTyMOLYvK4BeWDheQVmMo3C8VL2uO2rUWGjtaRH_YEZ6htrW8nO4-lvsiVro9Go_mLxNmLE8h1AYC_bRHaWBN-9r8BP2cwZt6SQxuuSfiXCOGmwLJ527d3ex2BPaeQCilha7haQwRHecKNUZOQUMefb2xhbMm7rl3feROf2QyWpmhoT5uVFNlZMMAf5AxgLqu_w4CfV0ZK4k72Aj0QBetJpd_w49ogok4E"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJc3Zq3xioToYRV1CYA6AljcA",
+    "city": "Dallas",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJZyKJx_ErTIYRd4ar-vTj7Y0",
+    "name": "Wagon Wheel Tennis and Pickleball Center",
+    "slug": "wagon-wheel-tennis-and-pickleball-center-dallas-tx",
+    "address": "950 Creekview Dr, Coppell, TX 75019, USA",
+    "lat": 32.9618663,
+    "lng": -97.0210791,
+    "rating": 4.6,
+    "reviewCount": 170,
+    "photos": [
+      "ATCDNfXh7kSMDuAAL62d4dG5oQr5Hk-RVhzrTM5I9m1GNrX1bXpHpPCglaoYjVLOV3ucPj2LzOI-P1D-qaAKyB6X0YnSNTttLlP-OY4wI3RN1UGrYtqy30uZ3SLJZS2iGTnW8IacoMAikC65mOAkiPXN19YgVyHDmO7opbMvSUyf05ITmHtFllrxuFak2El1CjfQsFB4s8zEuc3ppICqfrTesKjo84kJnipQt7A6MSSK3c0JyIIqUqGoWEddMD7eGOXoZNeDQvbX_5V56UXC1YJ1cqf0nhDvHR7FTmIssS8Q1aAnkETkmvyUOVZCEpctO3yPKnizifRsekAtxycQzTXBO6k5e2DerIgoY4EHVo9cxXshuM82a8xlBGrd_huiLWMqiRYaoIVnxqmt4E8TOHggj0hq__yy0Jw5nlKMsazSEty3Ig"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJZyKJx_ErTIYRd4ar-vTj7Y0",
+    "city": "Dallas",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJlwg2T-KgToYRnBPUREVy06w",
+    "name": "Lochwood Park Tennis & Pickleball Courts",
+    "slug": "lochwood-park-tennis-pickleball-courts-dallas-tx",
+    "address": "Lochwood Blvd, Dallas, TX 75218, USA",
+    "lat": 32.85729870000001,
+    "lng": -96.69223889999999,
+    "rating": 4.7,
+    "reviewCount": 19,
+    "photos": [
+      "ATCDNfWmWMHRcBF_vQiGbaTjS7m7A0mTlko787Yk039zvlgYB3onxrsoEAG441eb_PcD5UiXaWIVIAd1DorKyu7s0ttYPZYZscYQ25s6pXqsNm_U77cv_oJm9xV3veFRd9QomaMm9JOx9ggJxACKTFBAPjSM-_e3pgur_eBAzrs_tkT7TJxZ70DjPfVOnjujempG1zRkOPA6k8xNq-vcaCrrbgwGJR2mV9vRQxq3mdAvdg_Dw22Qx475Zh3oGltSa2mR7iM2OZMww-qqcEWhCH7CSZ6WCIAIBW4KbKvwvueKkI7x-d2M8xnKYJt_lQbf9ekUzxSI7UU1OUhAn9f-2o7fcMd_Jl-LXR84ub8VWE-EE_n4bz-PeaDrhfqX4_tukLMsypOsQA1iNDyzw7GxUOjAwKGF-uylKWmTrpu6ROoXtjo"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJlwg2T-KgToYRnBPUREVy06w",
+    "city": "Dallas",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJ03WFGe2bToYRKCFQ842ETPo",
+    "name": "Mattie Nash-Myrtle Davis Park",
+    "slug": "mattie-nash-myrtle-davis-park-dallas-tx",
+    "address": "3710 N Hampton Rd, Dallas, TX 75212, USA",
+    "lat": 32.78769940000001,
+    "lng": -96.8548673,
+    "rating": 4.5,
+    "reviewCount": 474,
+    "photos": [
+      "ATCDNfWRLyaE9P2DsJHri9Gixramta9PSlqbsnY9IK_d1hAOkLZuCbn49WrzR-SldWFhHp5JjA9B9zIA9oU8A8aNHPzwxqhKp_eAro1gUBOdyA_oWyu_hKOXy4KEcpGffnqanfwZS1iVXtvvpZLJiP45Qnk6W_ONWsgM2FZunM4e9kumBDKEd1eKGV08plig-rJRuGTcubkzjqf5b2PuY3tZT71gcxRRQqwXc20Bw532nLghbVSF_4qgbp8NHlyn7fCkWBaAfMfuxEJvTif7gRMPKXsnki_T91LV6_77pC10261Zrc621nd3hOMDAA5gawtEvRFGYFij5YU4_tePg1fsml1tbQ1wVErX-M2c_QGeaZDW70yP1Atd0vbRXJUp-YLcLm1wBQGr4A3YcytX_d4NkY9LdXMj8CAv-gLEUgjtCGk"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ03WFGe2bToYRKCFQ842ETPo",
+    "city": "Dallas",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJd9cvbtqYToYRSYeZJ4q0pa4",
+    "name": "Exall Park",
+    "slug": "exall-park-dallas-tx",
+    "address": "1355 Adair St, Dallas, TX 75204, USA",
+    "lat": 32.7932147,
+    "lng": -96.78506370000001,
+    "rating": 4.6,
+    "reviewCount": 689,
+    "photos": [
+      "ATCDNfXGoZ146cp7-BdOTnEucj-WcC5S6Zeq6JYjldQci27o3T_nljygYm00s4dzF_Mhs89wafVdX5tPEdJ65VIM6qI9seKfl6GcdJfEEWXgtyVErgOw20eqMnnKzE8xaSY6twOua5Jn-OfV4dcOFa0Rh8bnQdNq9LqMd0mJs_GClYAQyNjA7MB7CTE3Ty0lcMKM__FqtXNrsi9Nm7GEnPcW2YMOP0LshsQIKUzACT2mbKLsjVYoWGqYye11Od3hi16kxPB6r4rdqXoNRkv6c4rQZ68fqaJF56-eIO7wPpf6ocjwQIyH4eudMbZ52F1P4okmHsL9eGWSaSmPEc_rFQxHMeKbWTsv5wR_CyfhLl4d3rm8EZVfJRYn0dp3gHX7z3_IrclODoP4-58oTtCBq9YlBVVgku6CjgiSVu2uFdtOMdDCvg"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJd9cvbtqYToYRSYeZJ4q0pa4",
+    "city": "Dallas",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJfZRsB62fToYRwUReTwWh7Xs",
+    "name": "Caruth Park Tennis Courts",
+    "slug": "caruth-park-tennis-courts-dallas-tx",
+    "address": "7776 Turtle Creek Blvd, Dallas, TX 75225, USA",
+    "lat": 32.8584293,
+    "lng": -96.78937189999999,
+    "rating": 4.8,
+    "reviewCount": 16,
+    "photos": [
+      "ATCDNfUuJ17YwS_HngRGbnmFVGzYQvdr9_tm_6ePKnC6q7oepNYeZ0MKSedCN2-BGMusVvfaT0KGe0RwC-ii2McY3qOCEEWKx7Cahng-eIMwOFzVr8RzeQYDOjBdMC6J8vO5Oke_myLHvOMHCYU_1F7kKX1JuasAcAvrtKIoTkSfIsLClOK42WzrMMhPK35FL4wcewFzNYW95iu-1DgzLAGfOKq3xlWB3YrI9vC00SAevbCUO-DC51AvqZDSPvqrVLH2uJ9BM-LU16_NbRC99Q0W-0IqJ4ORwNEvJLFf5eN4svPTwxiaHo2Fur9oJkGn--qQJI4PYAiV83HRkRqEA0ycnlD6PQCetfBZh3e78znpyBTQLQjVdLvwDwvnvcBI_vAUKsi89OUeNchDmlGVLb9WreCdxJQW3GHsf7AsJiECFNczw5-u"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJfZRsB62fToYRwUReTwWh7Xs",
+    "city": "Dallas",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJ7_0_6eEhTIYRNSfrQTZliV4",
+    "name": "Woodland Park",
+    "slug": "woodland-park-dallas-tx",
+    "address": "1300 Woodland Way, Richardson, TX 75080, USA",
+    "lat": 32.9679304,
+    "lng": -96.7506069,
+    "rating": 4.5,
+    "reviewCount": 71,
+    "photos": [
+      "ATCDNfUMR09ik4r6GF26nCTBaqpfMaaWCN8i7tYAASn75rWIS4Vl3ZOAFdUF5GQFTuCNk12dc4lYf6PwDQB3iN-PYT3_2aZCiOcuT1ac2DBEBpq0twy9w4viCsNfRjCOjTYSuSDlmEQRA-Yp-LAiWma5vpI5Rco7IUjcmVAKk21KXj8nfdWm2viuBpVj6KzonnJhYxeSi-2nwD_zPyDKpWwrw_JQKHBvlKWvzMSw-BKxHeXCjlxRdAQWY2vRMYI-FidLh-l_bvGTxgMxtmvsJ785XgJd3vSj4PJGvXn9v3Ro5Ep2af5BpThw6g4xGMb6hPWznQ32jyeUrJM4bFtJ2fVuQXu2hJpQx2wNm7JK-lJ2vZDCV597uD-bIiunqU2gPdIS3sEcvSvzk7ca5buxts6luRo7sfT8Mdaq3DKXQzsAFe-TnPT8"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ7_0_6eEhTIYRNSfrQTZliV4",
+    "city": "Dallas",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJQUB7aeWfToYRJcaJVf-kV7g",
+    "name": "Netherland Park",
+    "slug": "netherland-park-dallas-tx",
+    "address": "5600 Dittmar Pl, Dallas, TX 75229, USA",
+    "lat": 32.8896577,
+    "lng": -96.8098021,
+    "rating": 3.8,
+    "reviewCount": 6,
+    "photos": [
+      "ATCDNfXHNpbCu0BPhvxKA0EroMUEr5fvU0O2tKVZ2IX-rOiwYwLuIS1SQ_oKm-oAYyoipdt4Wm7se7OhJlMgND08vJTQ_-r0KJsRRrmNFhzd7Pk_ZAvxvDim902r6olbhUvQXJ8Ytv45ED-TXeaXc1cuelSCuLi3LLIOkD54U1t0YrzVVqVoEairTfiUYMvdOJ8hyhPma6y8DSqq8z1TJzgksFmU2-7T38H-GyExZuJVKBaz6h0sz_-KWkh9L95JPE5LmXowpIITyocAlVs3ddFyzx5VrVmqY7M1dnhsh-JSlWlWcxX9ZxJchLnJqHYv9mSeHxed7qo1i9exA14Wv38LiO2LROkbpnzYWJb5z2ibBhLdR_6aWtktZNjfUz7PfGrwaT-zZ34YpE0Xo73WYYIC_ti9_xTtqg98TDsRBw8v0xY"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJQUB7aeWfToYRJcaJVf-kV7g",
+    "city": "Dallas",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJXyHx3p2ZToYRGStS5PrKohY",
+    "name": "Lake Cliff Park",
+    "slug": "lake-cliff-park-dallas-tx",
+    "address": "300 E Colorado Blvd, Dallas, TX 75201, USA",
+    "lat": 32.7567408,
+    "lng": -96.8191585,
+    "rating": 4.5,
+    "reviewCount": 1813,
+    "photos": [
+      "ATCDNfVWYz1hK9tZkiQuuxHTsfzH-bfuwBnu8Aoz9AHX0WSZXryJg1ya9YM_FZCSvm0uELw-1lUY-j4R_BhRX5SKUZ3xyDLmtpjlKx7pnhe9bXkRA369gPTkPOujIkhNM0DOdyEmWslXEGfMMJGrRZffbMBnKAOcGv1LEXD17HVn3OMZdaM_-h_Wr3Y1jyAYjjgHo51drUtTJvcinwVNJ0UkUi6hvYr90TEjOKm77Xt7F8UpYndzaXEAv3Ms9zDI4XjduucUtEyhwTLPSzbggPdt_8CF4N2jp3DQDQQwGIp9QiN-Tc-RLNA50azUdPem1OTPfgmttX5E7hI4elbfnOQi38c7hbzzkz4_KtM2cU793Uqb-2DPk42r2umLd9qxJo5kP6hOilgIWTkm4YVkAVffxG0URgvpDJ9nJyEWhZi3Uh4"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJXyHx3p2ZToYRGStS5PrKohY",
+    "city": "Dallas",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJ59R52RafToYRRbwQaQXu62w",
+    "name": "Glencoe Park",
+    "slug": "glencoe-park-dallas-tx",
+    "address": "3700 Glencoe St, Dallas, TX 75206, USA",
+    "lat": 32.832566,
+    "lng": -96.7785114,
+    "rating": 4.5,
+    "reviewCount": 585,
+    "photos": [
+      "ATCDNfV30rQeYLhcvseC0PiWK1ekyd6B_cH9aAaCzK7NG2ct1qnAAJNKXavnNo5q6bw7RNr82DbkDnBsk-0lPffUbL1LwaST68n6xQMy3H147aCrKx0xPYW9twj7J6QDe1Zg3QHEfhCN_9JI3i4FQBrDufGk7hF8c8jI3uiu0xhg579ETYFHlk140ZOpVez9m5J-P81fwPrVHLMGE8VvJ9byZEQXTVeSn5q414l7oaPxL_kA-aIZsunxXAsjONiHsItSUt8Kvn2m2yzAOHsZpaHUqX7tp2Zp1wYeHgr1_kauT-ZpvCEjTyNIXRNVunSjQkpynRAOUn8BzbqB0CIxIvQY9lSCFt-xqbB2Aow2WZMS_CGXfnOYsG3tWJZDpngtk5Fh8h15wA90f3PQP6hfD2fLWkQkiQhf0gB1rrtm9UUwqw4"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ59R52RafToYRRbwQaQXu62w",
+    "city": "Dallas",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJGVHE7uwZTIYRxOrz-3y98eY",
+    "name": "Dill Dinkers Pickleball",
+    "slug": "dill-dinkers-pickleball-dallas-tx",
+    "address": "904 N Central Expy, Plano, TX 75074, USA",
+    "lat": 33.0122729,
+    "lng": -96.706779,
+    "rating": 4.9,
+    "reviewCount": 21,
+    "photos": [
+      "ATCDNfUV63Om8sWbP3F061EX6flDAr58o-AJqk7lE5sQkP9i35gwuUoy_KlzTpJQfXLN_UOdt8D-3XOovbIr-O3QwcY0boqybc2ZJ0DkVwi9DStQ0nrHDnwZGlmDEwpsOhNW_a32tAHE02BSbSW0anX4uoxUEYdmrnaacsV1tCX746W18FIJ7QQrwMIZm_nFwbpig5VAf1wW0Ee0LAqzhFi-MlTza-GwR3NLiT49tQo4ltTAPGJz2Fl_M9Lwt2XXEIYOejII2soFmGgMoxQvsvvKHSl-vFvJfKJfAxIFgRIB6j8lF-zrWOS8AZRKvDThuW85l4gDYPPAaEICryEsyyb-rrLVPuCEbpBR7wxZvOVc0WNS515U2CVhsbhw20X_E5bVB-kJXlKvHwneuNuSeWY4sgV8ejdfk61N-QLtNOdaQDm3oBytPoDaLozxKoe1GA"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJGVHE7uwZTIYRxOrz-3y98eY",
+    "city": "Dallas",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJ_ej9taQhTIYRop1tnqB3a9I",
+    "name": "Serve & Sip Pickleball Club",
+    "slug": "serve-sip-pickleball-club-dallas-tx",
+    "address": "11250 N Central Expy, Dallas, TX 75243, USA",
+    "lat": 32.9007578,
+    "lng": -96.76692109999999,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ_ej9taQhTIYRop1tnqB3a9I",
+    "city": "Dallas",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJD2HHNDsjTIYRan6-eFid4Ew",
+    "name": "Ace Pickleball Club",
+    "slug": "ace-pickleball-club-dallas-tx",
+    "address": "4817 W Park Blvd, Plano, TX 75093, USA",
+    "lat": 33.0289352,
+    "lng": -96.79178739999999,
+    "photos": [
+      "ATCDNfW-AeGn1YahPtI0xuuuWiDcV_hFM1_iVb3bzclfkBsTVLJDUtnJXzEca87iV2mTwUfV607J7ua0ZYQ9v6GM5IBf0IlI-1kq0mDVYgedaBY6LEaBQDa57QuUreNIRB8Vs0RCh73uYNK5dfuIKalAnqB7XzPm6TZ1x-lmTirVlExFt213EWXQ93XO6bCSJ4FmBHrCfUDB3pl3dxBGHp7gEBKp7jpepmDLeR9OMScRSnzGxArIoNbhUvPBu0izF6-6J_09of61X1ptv-fbsz57cWqQwETfeoUaJjgJlxN_gC0reQ"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJD2HHNDsjTIYRan6-eFid4Ew",
+    "city": "Dallas",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJ5aEQRDEnTIYR8Xc6-e5znpo",
+    "name": "At Fault – Restaurant, Sports Bar & Pickleball",
+    "slug": "at-fault-restaurant-sports-bar-pickleball-dallas-tx",
+    "address": "2330 Jett St, Farmers Branch, TX 75234, USA",
+    "lat": 32.924143,
+    "lng": -96.89821979999999,
+    "rating": 4.8,
+    "reviewCount": 371,
+    "photos": [
+      "ATCDNfUn-rBEINi_nefjNpX2Q_nb6EQRRVGssYtoj2fMUhp8T8V8wWnYIXhcn4VNKPejhlX_CFNDq2o7-tqgctNpXcMlhRtGEpjd8qy0JOASMpjXGO_Gb8vjMNPsAeYnLjkyI9oxv1lfadGJW8ltWud298rYhKrxWLc9WzyVMthu7gY0_kHEALWOeNwSqjze377oxopsbyOBhXBeZTeiGMwDvsNpJu28cx4TiL1kV0sOoXHeX41n79Rd-rUZUj-J5iwIVFMcI4cwmFke6K-JPmc2DwKS949Y952n0WrjltrsUcy0iA"
+    ],
+    "types": [
+      "bar",
+      "establishment",
+      "food",
+      "point_of_interest",
+      "restaurant"
+    ],
+    "priceLevel": 2,
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ5aEQRDEnTIYR8Xc6-e5znpo",
+    "city": "Dallas",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJ0-Mmf8AvTIYRH0BfvKSB0V0",
+    "name": "The Picklr Lewisville",
+    "slug": "the-picklr-lewisville-dallas-tx",
+    "address": "2450 S Stemmons Fwy, Lewisville, TX 75067, USA",
+    "lat": 33.0048796,
+    "lng": -96.9646176,
+    "rating": 4.8,
+    "reviewCount": 106,
+    "photos": [
+      "ATCDNfXTY8JISigvwnwVmAnOOD1PbS3GOTgncRMMmPnKPyP4xHVJJusU1xQlAxanEkeDIb9WZhYt29Wc_T9fHi655FwKiqVwe3CALW7HNwXf8maq1alENlkGAA9RSIlSyhhfmml2Yij9uuT8r06IRw_c1zzfzW5fZFEQSv68wK2YgGFUhYLW_xbiCkZWljB7qt1cAKkRR6I3oYfgaykuEKJu6xU5gLfu4tYkGGEAlWD09vH49Dxat4H_5HR6gi3GKkN5m_C7NG8rL3bq252C7DquDwNoyEtbEm5yc304O3dUccCJeQ"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ0-Mmf8AvTIYRH0BfvKSB0V0",
+    "city": "Dallas",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJwx9tRhY9TIYRBWo-Fjac13Q",
+    "name": "Ace Pickleball Club",
+    "slug": "ace-pickleball-club-dallas-tx",
+    "address": "2930 Preston Rd suite 600, Frisco, TX 75034, USA",
+    "lat": 33.1028444,
+    "lng": -96.8029918,
+    "rating": 4.7,
+    "reviewCount": 148,
+    "photos": [
+      "ATCDNfXGNGbUpnW4eVB5xwl8F6sM6OZ13C7lFtH2hm_Ttrc6wMHKSSVD4puv4F1x3uh6KvMRFMIBv6Koxh2GkwmNBqQVBGJZ4uudMiFD269z7MkdVkaf3J2R0kdbB-oi8Z_kcQnG8iimL8l6dY2APnFonSQJrgICyDmRB2IBUL0jINWanHTWsCq9g4mqIDHJG_H5prt5aj1xE4ASW6-0epgjfa9n5ngOgDBZQ4K2slgc0YIllG1HaQo0SH5QOjjTzdXvaVT8IM1Ic1Ld1L-7Qe4SA9fQS9zUKBFVwXQbuVJvl6z9wA"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJwx9tRhY9TIYRBWo-Fjac13Q",
+    "city": "Dallas",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJN0M9qRiZToYR-7LSwDpmEAk",
+    "name": "Tower Dallas",
+    "slug": "tower-dallas-dallas-tx",
+    "address": "1601 Elm St 48th Floor, Dallas, TX 75201, USA",
+    "lat": 32.7821287,
+    "lng": -96.7980748,
+    "rating": 4.5,
+    "reviewCount": 546,
+    "photos": [
+      "ATCDNfU6lDzWLzpGRrnsK5FiWPsUZrEDf3gPQsBnYaRHt4h3OI362hwtviIUyRU1nLEADvdzM8WdcXhviba_l-75qUn0IcfFpxbjhaNyhDJB2ikU2FcQGN5L8Hg6DUN3C9E1Rp6R2OF55o6flsqulvKk2B2xJ1Rfywlj4CP-KM-kps2vEYbsiS8LKDruyJ8heXI0oAvZ75-vldflAbs7JKY7NaaxPeV-ktCGyEXCftTKee7hK677dX36xZAzOJhqu_J7JoXjQ-jNMA5wRBoVSSwRtQIFKJnS6EwYn2LnwCbiOmD3KA"
+    ],
+    "types": [
+      "establishment",
+      "food",
+      "point_of_interest",
+      "restaurant"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJN0M9qRiZToYR-7LSwDpmEAk",
+    "city": "Dallas",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJF123eSnvToYReUMiarpgofw",
+    "name": "Pickleball Paradise",
+    "slug": "pickleball-paradise-dallas-tx",
+    "address": "6260 Honeysuckle Rd, Midlothian, TX 76065, USA",
+    "lat": 32.4290237,
+    "lng": -96.9114151,
+    "rating": 4.9,
+    "reviewCount": 48,
+    "photos": [
+      "ATCDNfUIjM1_RTwXr1v8g6a7MkoIH3NwIcVq5J-WmjKX_UxyS0vrV8fNN7VFh2jqBgeN_nfVIBEDmfCOsY59-k87az2CU8xL7t6vgRpkJt77dg9KbeEAVTzak5QVe820YzrAiKyX2ET9y4XFYYFlOXLfN0k83jcQ3yb0UHKNBcPM9ESD0E35c_zXxSqYsQlTa1NojB6HRkJPDub02-Ez4az2mdiOUfRi44LYFwji7INtcyx-RVM63dSRjyuD41wkMLw_3vgkQTMkI_ueGQ5WqB50MzvAGeMAyH7DJzJlwrrLTBAktw"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJF123eSnvToYReUMiarpgofw",
+    "city": "Dallas",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJ4V8WBgp_ToYRfIV-iMCx22o",
+    "name": "ATP Pickleball",
+    "slug": "atp-pickleball-dallas-tx",
+    "address": "1313 Brown Trail, Bedford, TX 76022, USA",
+    "lat": 32.8353611,
+    "lng": -97.16223289999999,
+    "rating": 5,
+    "reviewCount": 38,
+    "photos": [
+      "ATCDNfXgOJXoTPqL42TMpsnZrVA-NFmJJq0lwR5FSJBea_ATxO91lUI40KMB7KAme5y7UKU-LxdBEn7bB_8r3CK69sRlPKbAIspZIdzRDi7a_a4IhYiNCNCkUR8myHxqQmknmjYM7z4BYh9qsQfAq3r327KUzX9CCCF8yzVNGIFjO6eMTynaOTLD35jLiQqWo8rd2MT0Lq8sxjZ0FSpBsUmx1yF4oRIWtAaXMAt6rwGc7G4eJPcWevlXpLspuoIZatXCW6EUutlszU8sNmh02MJYzQiwSQdq2ZFq85qPU3oORjgPDOKA823ZU-USfhoK7-Ok9BgRJAZTliUpV1rbiEdqFogEnv8CXHbNcpKTTeZADT4mU8vi0dN9h7ZLVEHZq9XfEZZvMSpS0DFivc0WAf81VGhOUuKwCuxLdlnqGrB7AABPlTemIi9QdmeEw3Mt9rcE"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ4V8WBgp_ToYRfIV-iMCx22o",
+    "city": "Dallas",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJRxDpbccD_yERuqD5wftu8fo",
+    "name": "Professional Pickleball Association (PPA)",
+    "slug": "professional-pickleball-association-ppa-dallas-tx",
+    "address": "2100 Ross Ave, Dallas, TX 75201, USA",
+    "lat": 32.7877832,
+    "lng": -96.79772439999999,
+    "photos": [
+      "ATCDNfXWG0to8FkRK0AmVN0ECdfMFUrwrfCqPr07NiiglNlhN-lmDp9opSB5JuNzODXao_vNBrJuBYJuPgIAJpojh0Cp5hbfQkkTpw8_To9KcxNzeo8V3OPqKSz_sJEjohgWOMVbrYHxRsxRrlNRgdyxIp1NZP0wRqOW5-qko_WsKhpfNEaz7kw6t7gHT6HT2HVvEm_gVHBMMmQ65ERAZcFGTPU2mgS6acS_BG8vg2saGvIAlvXJTOs6mxG4kqpOT720qQLzXqq9OZN72BG8chViSqqcMnuWUsldcP2NPBPJrFr4hQ"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJRxDpbccD_yERuqD5wftu8fo",
+    "city": "Dallas",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJSfBC2uX4oQcRXBysjfBAy0w",
+    "name": "Major League Pickleball (MLP)",
+    "slug": "major-league-pickleball-mlp-dallas-tx",
+    "address": "2100 Ross Ave, Dallas, TX 75201, USA",
+    "lat": 32.787783,
+    "lng": -96.797724,
+    "photos": [
+      "ATCDNfVYTw2aEWQPr3h2_vIvmPaphwIc1VRPuTSYFCGbpP40WKLWjvymkHv8_xXJ35BLYRNzWicdWhSDyeR8N6i1c5YdSCA1IGl-SJL4TJQjg1PAvx8vsAfnemlE2walq26D_ofQDXPfGRvq5jnLP54fClwa0pI7Ic_uwZcdNq-qb-daRX3NOXg9GSdyzE4-enPtBHPvpyYLDpZ5VLUrArOhg2C9UPR9xw18lqgr4c7XelasXEo66iF9-vEZGEOoUF4yn2TIYQazd9PnA3F5zRK2bIpKJV_tfZC8qsjGxwGW2sjAsw"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJSfBC2uX4oQcRXBysjfBAy0w",
+    "city": "Dallas",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJPaZRcK8nTIYRHxk-BUHQmdI",
+    "name": "Kraken Padel Club",
+    "slug": "kraken-padel-club-dallas-tx",
+    "address": "14510 S Josey Ln Suite 216, Farmers Branch, TX 75234, USA",
+    "lat": 32.945029,
+    "lng": -96.88943019999999,
+    "rating": 5,
+    "reviewCount": 63,
+    "photos": [
+      "ATCDNfVAS7PawD_bunDzsErI_yBlSgIP_tbgxRSIE1EyBxIofMei3syzypDkwM6ZvOiT6yRjlUC4DHr2vdUViPk01XkcviypSAAJRLVmvGGGc1TpAVIlHhSsBSMut3X-d8cvf1-V4O6-XRP3_zST09zq5nYRYvPanquNG2pzLYRkWzaNp6F-n0VrZGqoO29hu9RQu_XwIQpDpXhY2z02x4P2eLZsKGGuysWqxr7De6VHRFV3czNPqG2Z1fET8uFM7BLocvt5dEqOo6kk-RjWAL7aNR2hK9SlO6iU6-WeKME5kQ_TRw"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJPaZRcK8nTIYRHxk-BUHQmdI",
+    "city": "Dallas",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJS1fgEk0TTIYRkhUYSra4hmQ",
+    "name": "The Picklr McKinney",
+    "slug": "the-picklr-mckinney-dallas-tx",
+    "address": "2975 Craig Dr, McKinney, TX 75072, USA",
+    "lat": 33.172728,
+    "lng": -96.64335150000001,
+    "rating": 4.7,
+    "reviewCount": 129,
+    "photos": [
+      "ATCDNfWP44yLw1X6eaU1nQBIk_RvYVDLnTwPs6NWgrL2WKzfXsTcCsihDMC_UYiEzHiwh14SUUjsBMaxfkdrP9n34fUZp4_b42lEcJZ6hnyWjMe-tmoDd_BV520Svha-SJGOJwoZX_Xzc_BdftKZHVSQNsbLo1M9G8h3DvxQv1tftmWlbahpHV1qZMNYsnyeqlVAzBzLOmLsUKd6f5IWxx6ixdlZL3teqtKNOt2Yupz4qn56NrWhgLzl03xVCNhLpZ3EFMHIJDyNlovkcF1jWWSjy11HzFBWclabUOqivjYXT-yMlA"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJS1fgEk0TTIYRkhUYSra4hmQ",
+    "city": "Dallas",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJyw0wUgAhTIYR51kF_1kVZ_M",
+    "name": "Pickleball Courts",
+    "slug": "pickleball-courts-dallas-tx",
+    "address": "6998 Belt Line Rd, Dallas, TX 75254, USA",
+    "lat": 32.9486014,
+    "lng": -96.78234669999999,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJyw0wUgAhTIYR51kF_1kVZ_M",
+    "city": "Dallas",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJSVQDImIhTIYRSh4JATneF2U",
+    "name": "Pickleball Central Pro Shop at Pickleball Kingdom Dallas North",
+    "slug": "pickleball-central-pro-shop-at-pickleball-kingdom-dallas-north-dallas-tx",
+    "address": "14060 Dallas Pkwy Suite D, Dallas, TX 75240, USA",
+    "lat": 32.9385525,
+    "lng": -96.8206177,
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "store"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJSVQDImIhTIYRSh4JATneF2U",
+    "city": "Dallas",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJ3ZMpSwCVToYR_aRnfWAbJoo",
+    "name": "B&B Pickleball",
+    "slug": "b-b-pickleball-dallas-tx",
+    "address": "615 N Interstate 35 E Rd Suite B, Red Oak, TX 75154, USA",
+    "lat": 32.5377071,
+    "lng": -96.8254372,
+    "rating": 4.8,
+    "reviewCount": 5,
+    "photos": [
+      "ATCDNfVBhP1k7vbV4X3hcQu00EGkNkeb983X7qHlHKW4RdyRsmLyEsQfkH5LK3opSG57L0S673StN-_LqGLlc3XPM9gXX3oSHiP3xOXfp-6SlkYV0tZ68tJka-fr16_BFOFTcB_21ZYSoSibOLd3EImfLDsV1PJChErcgS78lpMPLA_pMaAVdAAtYtoFKU1VHzUX0o2iyvi2YF6zeQU_dhxE4wBS7v5ogRK4Zrw9Y1AaOsajJS02FvzM7PNR41PgQKpu2uHScNf9fTJtqunj8U4o8fxfBSHYcX5b6M1dHJxJf-bbVQ"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ3ZMpSwCVToYR_aRnfWAbJoo",
+    "city": "Dallas",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJTwfS6FXVTYYRpl74y14v5HE",
+    "name": "Southlake Pickleball Complex",
+    "slug": "southlake-pickleball-complex-dallas-tx",
+    "address": "350 W Southlake Blvd, Southlake, TX 76092, USA",
+    "lat": 32.9428829,
+    "lng": -97.1553089,
+    "rating": 5,
+    "reviewCount": 7,
+    "photos": [
+      "ATCDNfVh5kbmfen3a-NOBKVKAt3FG48ddrc6dLX4WXDK4sjlTXCQDa3a1CdSfLqQat-nAQSrAGRb6wLYiZ8Y8ZuaYHP2hvQpQWvY0C1xsAtAZpOxBHZ6JcTXdpQ7MbORx-Ya9JW6RG8kNGgjDsCZ-Nm8cmesDQOGdA-4nINoLbb__ew0IDlO6MqkHUoiInc2To7qrSh-kzTUGKZ0TAzRAxCdyaJkOkVOBg6Ss2Sgk2h-ElCss3ldk-PXQ0Z-e_Rkdcw7mek-clpcd6ZbJ5l1gFJg9VGqv8jKFei725ZAqGGLSR2ovQ"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJTwfS6FXVTYYRpl74y14v5HE",
+    "city": "Dallas",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJb1VD77oxTIYRQGZ67XJGxuk",
+    "name": "The Tribute Pickleball Courts",
+    "slug": "the-tribute-pickleball-courts-dallas-tx",
+    "address": "2601 Bellevue, The Colony, TX 75056, USA",
+    "lat": 33.1095187,
+    "lng": -96.931122,
+    "rating": 5,
+    "reviewCount": 12,
+    "photos": [
+      "ATCDNfVLI4JNCqJg7EfEtpJxXu9d2gyaM_1aVBXkErs2YU3V4n9omie2G3NUOzyOEuuZoO0-Ebr5OMnTZmcHwm9gWxSEq_zSRYcGpkjb8O5RR9t1dnrDsZhHNu9FQgm6f9wcCSEmEhNuYDJA2AkXwACQHQnM8QLtG2RwzMxPKaPtmm3ms5D42fxfba1XT-49j-cPK10BVQW5cnIUUxSCpZCE0QgQZ_XP7k_8CPiqO6F79PqoWKPpiGZPHff3nSVpIeumI8jvOs_EMeqX4jWRbdzF4S6dbbhipDT-iQT5HX4dw-caWHsi9huOWgg9rXoVW3ROARr-mibskBmMdtMwMQxu-vcpPViUX9uxjQwkbyU9kOJRjeCiEm8UhvnqVtHI68g9ZehV7LPEvzrRFZjRF2PSBZ4TrfwQ1fzmhuDDQTifWZPHKHo"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJb1VD77oxTIYRQGZ67XJGxuk",
+    "city": "Dallas",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJB_FqQiebToYRSRR_Joq60IE",
+    "name": "Pickleball Court Builder Dallas",
+    "slug": "pickleball-court-builder-dallas-dallas-tx",
+    "address": "2403 Farrington St, Dallas, TX 75207, USA",
+    "lat": 32.7991559,
+    "lng": -96.8386232,
+    "photos": [
+      "ATCDNfUjB7vq0i2o0FNGDDbwPVgpZ48a_vtmppGvT8YBp1ARodxmi6GAforlyEt3eNg2V7H_Kd-10iZrRDidLdjYS6iMO9Ivbnr2Ws_Q4MFt_H5NzLBagN1PZvE3xXYfA1YM5-JRt7tSQ63zonU0nx3PvNZpURAvGfLWN9J5lyu5IOBlu9roG91uqLZcjOLfg8V9gsh_W3881StlVTQSXbjkpfCCjnBKdquTUknfE9dudKN0LDSwMqveaYhx3MT9z49jWSOIZ2O20IW3iLG99Fk-Uu0ADXtECfDDGb7kudr9QJLR4A"
+    ],
+    "types": [
+      "establishment",
+      "general_contractor",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJB_FqQiebToYRSRR_Joq60IE",
+    "city": "Dallas",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJl5et_cCmToYRXXQk9dhN4Pg",
+    "name": "Dallas Athletic Club",
+    "slug": "dallas-athletic-club-dallas-tx",
+    "address": "4111 Dallas Athletic Club Dr, Dallas, TX 75228, USA",
+    "lat": 32.841374,
+    "lng": -96.644854,
+    "rating": 4.7,
+    "reviewCount": 288,
+    "photos": [
+      "ATCDNfUnN67t4bKeIswJ1PW7e71NNudqyB-FuGOuObOlIN6D-q0t5OCCB7ggMbIsAFgsgPR1iWpiM5MK9RPlCUnJHT6CVWUmL06e9CCgDx5JHxoL_wHjpY73fQtmueny_v1GBcVHnChzqVIKvVP0GnGcojuWsXrHONDW5Z8SHEyOtkfATSDglutpu3f07P_v8gBp5KYeKsKBIDl2G-_CaGR7MIIi_Ntjqn0vz-Dj_WNGtGkjaAsds5pdaCAP9IeYoU22uqX--h7dsIklpsGgIzz-rjHiAfsb1ivL4TkEQSxzDMqxcg"
+    ],
+    "types": [
+      "establishment",
+      "gym",
+      "health",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJl5et_cCmToYRXXQk9dhN4Pg",
+    "city": "Dallas",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJ8Trmi_ogTIYRXR15QsRvxTk",
+    "name": "Banner House at T Bar M",
+    "slug": "banner-house-at-t-bar-m-dallas-tx",
+    "address": "6060 Dilbeck Ln, Dallas, TX 75240, USA",
+    "lat": 32.9289876,
+    "lng": -96.800642,
+    "rating": 4.6,
+    "reviewCount": 111,
+    "photos": [
+      "ATCDNfUvQTS-4pmDxViABRDbrlDX1pqNwC4yBik5-Mif_yK96gUS2iVsV5hOTonlffdyP3jDsvado9ADPthDFvdkBXbKWTorEZ9ywjl4KQEjFJnLplw8Ej627I0V--bFuWi_4XKPa0wA-Tux8qG9E8902HlwgHuPNgAnEaSgqxjOxDUNK9tQR7C-wUhArCQ_ZZ8knBTkNFs1KCnWtI6L3-wy10Dipr6gCYwCf9AzgCC6vwUdQkAO4KAeo0N8ab5O7XPfitlRnUNPrp4ZFlW1TzPKiGtKbHn5_cWN6HNgfY0_aIZCeA"
+    ],
+    "types": [
+      "establishment",
+      "gym",
+      "health",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ8Trmi_ogTIYRXR15QsRvxTk",
+    "city": "Dallas",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJa8J3erhhToYRzZEZ40PBTsw",
+    "name": "Pikla Pickleball",
+    "slug": "pikla-pickleball-dallas-tx",
+    "address": "1741 Commerce Dr, Mansfield, TX 76063, USA",
+    "lat": 32.555836,
+    "lng": -97.1143677,
+    "rating": 4.7,
+    "reviewCount": 49,
+    "photos": [
+      "ATCDNfU2w4jDktujuUcFq9_YHk523j92t_30s8hr96n-eP8Fj2FNO7WPrxpYulvZd3Fq6Mrf8PKyZdVubhSwjuiEtrvzIzAeHif2DrVFiSeGtYNyPaZi9HN3NhoitM8i9LyIeLXVxRw3etyIkkwFu-VLyyg11A9dbrW3Tore8jIsBtb692L8t2MkCk26NrNOV2vp8IS1EsDWzx6t3pediL1wIrvDvcRwKB5khNLsgq6RvcMakb-Z4_Y5s_hdH22yOazigucHt7Mdld78JASz6IafSRRvbUL8WUNnykCXgXRTmsDllQ"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJa8J3erhhToYRzZEZ40PBTsw",
+    "city": "Dallas",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJ3_kMbwAxTIYRK2C-ta-5HDc",
+    "name": "Little Elm Pickleball Courts",
+    "slug": "little-elm-pickleball-courts-dallas-tx",
+    "address": "108 Lobo Ln, Little Elm, TX 75068, USA",
+    "lat": 33.1529184,
+    "lng": -96.9428885,
+    "rating": 4.8,
+    "reviewCount": 20,
+    "photos": [
+      "ATCDNfW2lb82YPng6akZqzayxgaxfEe09TQdaoUZVAWjkLFhAnip_6GoRyjGAkgImgdn9U6ItgC_vRDc83-i7atEAc0U_QOAzSYl3UJyKUhz9sscqreh3WsjJTJRkARqqDQ1FezD5FAf0zTIGqmyjefCRvyJ686BWqGCQuXWy2ChgyP9Veaus2BbyrvKvfyq4mnUvFzDKky4P9gwUxs18uDYmRvd--qCHf6lbju8cgr41mQyOnmkzYeeHnrC4bUeNvQ4vhEOHkiae6kOMPFxImHg6Jj2HRJNWqLlDWtVdlxCQh4xb_737eV9yc37wCEMPR-gTWdGihOQJ5InNBFsItQqVMcwJTwyWzw7AHlLVnFdHspn9Wmrzmj2RPfO11xdKUoZK8NRNg76OZOAdii2sQfaT4MZ0O58dadkCHgT0wHIrQQNEg"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ3_kMbwAxTIYRK2C-ta-5HDc",
+    "city": "Dallas",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJyQ7J5kaje2URB0wYZXJxpBg",
+    "name": "Supreme Court Pickleball Team Leagues",
+    "slug": "supreme-court-pickleball-team-leagues-dallas-tx",
+    "address": "4255 Cotton Gin Rd, Frisco, TX 75034, USA",
+    "lat": 33.1455886,
+    "lng": -96.8512647,
+    "rating": 5,
+    "reviewCount": 6,
+    "photos": [
+      "ATCDNfXlMNOdXDCaNYAl2wvqiPiSy4DTg1lxT9o5kSEEWUf2jGnFj4VUI6-t4IH6-8FalpqStOWL13LSrW675wJhGJBKes7j34sp_G0B14IMn1fzI9rFZ9pLaguJRE10D3KLYOoXqPOM0i7vzEpbOrmEXhwrT1fdpxjgrxw6O7MQPB50KAYW-i4In-LkGkdDhKJBluFNWTyHFINdzh47esRQlZCdpXsdujCUHx8YZWJR4VKPb4eOxE9IyQEU0pEif8Nf0m7_4QTqY_6ytmMB6zs4wipVjYM15xOp4vKN2idCKToFSw"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJyQ7J5kaje2URB0wYZXJxpBg",
+    "city": "Dallas",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJfZWZhC4nTIYRdk_JNQLBdYs",
+    "name": "Rhoton Pickleball Courts",
+    "slug": "rhoton-pickleball-courts-dallas-tx",
+    "address": "2250 Ridgedale Dr, Carrollton, TX 75006, USA",
+    "lat": 32.9499054,
+    "lng": -96.8774059,
+    "rating": 4.4,
+    "reviewCount": 13,
+    "photos": [
+      "ATCDNfUqW7OCeOcYrKVR7NjWYqwfLv3pwnmGoiGbYn0ySpTpVIw3iL9XZSHIXNzJg93fU5TGUMu1u4MVTpiVP1oZVKLCqi90rXIVKMerQUbm9LBsT-9s7jw8p1plhTG6E365cRkBq87HPcN0kHNb77y4VChFQDraoxZ9iwLtlXmy2rAIx35n91PMrSWOxoc_0Cp7zQ-oO-k5dBkoU8CbCuq-2hHRgIXgViBACCAq1GS7RoL1NHZP8abYXWmLVSFvRuTLXTFW7v5GJiG7sKx51z1AabKxtyOaflhI2P-Vj7xcKg64mD2W9zR6BAB2plD1K01RR343XBIp-xpqS9VmpMI_a2pc57fK6gyZ4K8NajGDc5Bj32-NqLIexwUxcVkZRi_HdLR_1i_XhoNXDasidNLYy8CW1YOIZ6yzC3o7qd27VDNG8g"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJfZWZhC4nTIYRdk_JNQLBdYs",
+    "city": "Dallas",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJdekPVBCfToYR8ZIdFd-6lak",
+    "name": "Styslinger / Altec Tennis Complex (at SMU)",
+    "slug": "styslinger-altec-tennis-complex-at-smu-dallas-tx",
+    "address": "5669 N Central Expy, Dallas, TX 75205, USA",
+    "lat": 32.8361754,
+    "lng": -96.7804055,
+    "rating": 4.7,
+    "reviewCount": 90,
+    "photos": [
+      "ATCDNfVwckKrIIlS466Vocd3Nmlk8i4R36E3oohu833rrsuq1OltLLIiIkxpmpzSEf_1seL9sTQLCciYdTkdW0QKrcJP8A7LnwAtHTNd8xnIugXDfU4AmFAcLVWxEDMnNdL8mi3kTFoQQA2nqOkaRGAR9dgNRpYQfLmo1NKiX_DH8mbgsHIkjic06G1flf2uCvuXwvumh5ehW8v1ovbp-_4U4l_HxGSfYuu-HKIhywMS8Zo4d40EB5UaiWWRMsb8N3JERkdt6nSSIR6qWPqzz0bLqgxIGslkVDztysRPx5RR_8jcFE4dicXcgvZr9VEcEO0cWSiXqNsY9LbK3LTZmNExmql3dT2oYF7bFN3AOL71qZfqR7svTGta9pHqNpNv7aQsXeNXe8Kjr5-3Jwo9L3XoG6oXX2YG0FJEC3MSQ8DjIqujVQ"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJdekPVBCfToYR8ZIdFd-6lak",
+    "city": "Dallas",
+    "state": "TX"
+  }
+]

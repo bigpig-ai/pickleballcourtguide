@@ -1,0 +1,1769 @@
+[
+  {
+    "id": "ChIJOXPiABzHwoARYq8dxyuKdXw",
+    "name": "Pickle Alley Los Angeles",
+    "slug": "pickle-alley-los-angeles-los-angeles-ca",
+    "address": "350 S Anderson St, Los Angeles, CA 90033, USA",
+    "lat": 34.0435401,
+    "lng": -118.2246203,
+    "rating": 4.7,
+    "reviewCount": 10,
+    "photos": [
+      "ATCDNfXBUUCGQhbvhwShTuXfDvVKi5VOn1Jmf6YxVpXqVoqq8Gjk2hdRx75dwtDyz5Sq-OSV-4kuE4jonqb9JXzp6clqtFyy4cdhhQmEhwJZcgyfvwKA2pj6ipJ0UXCqEEixRDXttl_NkJJAaIWCjqSsxAc_YhmrlSgZFWQPPo1TMCTdSlO-BLQvAuJWz4I2yY9FlFQSxnqsr-nklKpzSAZwvqsW1h2YA0MxwZ9Kc0NgVDr5NyEgMKQ1L-pbWPLhokD-yKrMgN1YkCZLZMrvlIB1PybR82R8tcaKB4sUzLx1H2uoyw"
+    ],
+    "types": [
+      "establishment",
+      "gym",
+      "health",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJOXPiABzHwoARYq8dxyuKdXw",
+    "city": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJA5NBZj63woARLna8OKuLPCM",
+    "name": "California SMASH - Pickleball & Social Club",
+    "slug": "california-smash-pickleball-social-club-los-angeles-ca",
+    "address": "815 N Nash St, El Segundo, CA 90245, USA",
+    "lat": 33.9272523,
+    "lng": -118.3881054,
+    "rating": 4.8,
+    "reviewCount": 86,
+    "photos": [
+      "ATCDNfUapTHdvCosCH5XCKVFcgMxsIIrFkBSyFOnKeJ2Evmbac3nzQV500-xC9-ejOqsYE2zKHBVJKe2AQnxvM1MectsEX5dDswVu3wibelw1_4_yqBsu1FgH3mV2AB71SyZwv50MX3vFU7wMCm_1J7bOP4hvPku4nWc09rmBt0vZ1fj0zPR8Jvnd0UQCYuoDCFxSxy4fBC1gunjUGoWBkDW07Vd8HHOhgttWKHtxtmxQd9Qk_culBPoRWu_iMfA4JVynwVo1KIPftXlBxKziZ1D_FlhLes34gtfjrH6yixuldJQvA"
+    ],
+    "types": [
+      "bar",
+      "establishment",
+      "food",
+      "point_of_interest",
+      "restaurant"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJA5NBZj63woARLna8OKuLPCM",
+    "city": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJMy8-PMi5woARLIVNR-H0Ovw",
+    "name": "PIKL Los Angeles",
+    "slug": "pikl-los-angeles-los-angeles-ca",
+    "address": "639 S La Brea Ave, Los Angeles, CA 90036, USA",
+    "lat": 34.0637101,
+    "lng": -118.3442061,
+    "rating": 4.6,
+    "reviewCount": 89,
+    "photos": [
+      "ATCDNfVgxiUwQWDu8FuH1X2tBinAtHW11jPFhvIIr9gGUC8o8jABxJDqpbAtDjfbWKQaOFCzIyd-3BSQqzooN5mI3igbsLLtGhBGo5GuPEcHWPJ294GlddSIL2U76H2NmOcc5E32Z04xp8QYhlXrSveB8cAafjHNN8wAkQSAztAKKCe70eQ_bRTiyEdphR84F6PMYZkOPJsUb8sF2HqKsGanrp6VMffYMgHKKCACYLOxTLzUYLHs1K-_uIpCxZMMQIyIig4ApNz_OMl6hjKc8WU8UOAjLfd_7Yc7jZ0zzWRdegP2xdLvXKvrffj68pgoJL2OQRsETNycKu27TlvEIU5uvZiKc86WhMCbKtVFiVHYmmVWdFmDXwI3wwZpdWwQV9fjZncxzU8wf4AYk9E7ZZHJ97mgeOu2u5g63M8PvCLQ5oKRrR7qwYFdk4_HzsEUYye6"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "store"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJMy8-PMi5woARLIVNR-H0Ovw",
+    "city": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJm4_p8NvBwoAR0ZLkxACX2I8",
+    "name": "Smash Dink",
+    "slug": "smash-dink-los-angeles-ca",
+    "address": "4400 San Fernando Rd, Glendale, CA 91204, USA",
+    "lat": 34.1324902,
+    "lng": -118.2616992,
+    "rating": 4.4,
+    "reviewCount": 45,
+    "photos": [
+      "ATCDNfWqD4uQ17YP5CH6H662KSaUUOStgw0hlW4MfD_fqcLgGemuU1dCLNksXz5aVvU_Q4lsf6GBG4N-w301b7BWnTXUNUT8Hbx-__dXIBoglN3RITIKDMPdPyvb7woNeRTJFtQ3SFefBiM_Y-3DLQp_JidCk5Ky9IyI8XGiXts9Qnl2POcQ65Wyo8Echmk5eDhoVPCnb8S4FIeoRf8LflDmbKeMRVQ0jkhTA2QZznfYpmqcrUgezxQ8EpGrvH2jZOZq3ubTy_RWiMt09FohNESS5qe4-PHQ0lalht7RzoZ5sl0_vQ"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJm4_p8NvBwoAR0ZLkxACX2I8",
+    "city": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJkRTi_VnGwoARiofzVlHvHPY",
+    "name": "Alpine Recreation Center",
+    "slug": "alpine-recreation-center-los-angeles-ca",
+    "address": "817 Yale St, Los Angeles, CA 90012, USA",
+    "lat": 34.0641098,
+    "lng": -118.2408905,
+    "rating": 4.5,
+    "reviewCount": 179,
+    "photos": [
+      "ATCDNfV6GQvz6brPukQ9qaVBu2hWD2Z-1ZHX7qbUJeJch0gYDbPEfxUCn4dHB_jc70qVHcpqrf2Tl7eBcK7IIAjzmH1XsfZ30xyy2jA2hPIP1ATAygYcp4IdF3fBNLz4BqZ4QgURl8NLV3wJZsvcC1WaH2Du383E2CzlRXf0p2-q4ROdiOq2x7k4ZF25HYLlaEal_AAbTKJpJVlySqUKxFganzbqZkcimP_yleRF1bA2AKKqDVfsSuJl-A-ktzeKSA1qty83LppXVqPGNmXE1DQJOABPq-cPd3hekWBTAtV5gHyXdGwlViSPA0KMtN20JBji2bK96zrCQM-dgWJwsOIh5vhcSC-joq7HS3izq4ww2QWLUGWnHJzaGaxLBvPwOD6spjsHYSXaLAHcYtMKIY3NDVWOTmA9m3JD06mzphI0qLI"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJkRTi_VnGwoARiofzVlHvHPY",
+    "city": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJPbypV56_woARWjoqb7FdY0Q",
+    "name": "The Padel Courts",
+    "slug": "the-padel-courts-los-angeles-ca",
+    "address": "5115 Sunset Blvd, Los Angeles, CA 90027, USA",
+    "lat": 34.0982754,
+    "lng": -118.3009903,
+    "rating": 4.9,
+    "reviewCount": 67,
+    "photos": [
+      "ATCDNfWA4aei6wxBOl99re2v3LEG03UP4kAzvcclVyERd30YRdqjkCT2qNt0ICPrksg4omMCm6ea0LIWS8WnGHmB8OABIOBl50O6oZf4ZNMRHFoy7GmCCrmxsGIBXRl-bghtQ-ViGrZenu3H8o4NTCDP-jTwl-rW6pUc8vvetBHuZp_MDXkgc3dwRae7Pz3iUbsNiL68CXiBb3KfeAaojqwMGYtksLqgOd2276TwrHzJ5giw2E2xYSTcrdwWW18aOvVG1nzU_F9zBM58cqoIwEdx053o4-bEkvZ_i-tx5dykI7dwRQ"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJPbypV56_woARWjoqb7FdY0Q",
+    "city": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJNaE3hNa-woARI3fdx-TsKeE",
+    "name": "Poinsettia Recreation Center",
+    "slug": "poinsettia-recreation-center-los-angeles-ca",
+    "address": "7341 Willoughby Ave, Los Angeles, CA 90046, USA",
+    "lat": 34.088242,
+    "lng": -118.3498715,
+    "rating": 4.3,
+    "reviewCount": 871,
+    "photos": [
+      "ATCDNfWzD85h8WFwhA_QXuHI4ZWDPehzbPxep6Xn3cJJrN5ppTCG_fZFdKFt5zcABLpCwdTkGI52IX1nyY042jWLhVD6NQJJ1i4w9fxVDH0bcrKK9-kqnNW4AtYaPZKcijeqYeyvkb0ERG50U_hWwULMqjQn4myjgw6fnw7sM3JSjQUZ2rZaKcboB-QXMMg81uZq7av7aulq1mnQaqDcQ86IB5qy5AUCtX1JqjdG5OvQQMJMOqE_R9Z9hvZVWLJ_hHxCpcio-9z1fs6i3cCuXuIjKuheNucS-XWIkUByB-FtDQ6-qVOeleY-OqiUs0Wmstbdu7aapy3wbZNcKBuw6Y3YSi_EbuhhCSp2eTSOl83a0F87FSUAGL-B3nGSQpdccEztl0JWYPKURjbmQf37sI2eytcCKU7FEE3MFKg7G-sbDL5a-YE"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJNaE3hNa-woARI3fdx-TsKeE",
+    "city": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJXeEraUi7woARBo2jd4I1irA",
+    "name": "Westwood Pickleball Community",
+    "slug": "westwood-pickleball-community-los-angeles-ca",
+    "address": "1350 S Sepulveda Blvd, Los Angeles, CA 90025, USA",
+    "lat": 34.0532553,
+    "lng": -118.4478125,
+    "rating": 5,
+    "reviewCount": 21,
+    "photos": [
+      "ATCDNfUBEi4pq9DUua3nFy9GdoQz-R7PSKucIIlU2Z4rDbMcDg4zLQa9OyhqYSU2jrVUF7vrvwDuvKRWAcJVVWBnIvVn2P68t-DUcnL02PZjf7XoTdcnR0kn9cUMznpR0XWz4i0xZIu_tKmRPmlOtDS5RTRtjv-Ay9v4zvMnvvYeCBwXVDKApG9n3WBXw-EXOkRcHdfcOONMdzwAxalRV_sANUxl_IdpkhrpY_MLRNcYv_bPXbLH9OdOCHq-sOGONwRzWIQvBjrQ0qcIYc3XIEmbxrcXuJI-V7H28b5RbwFgOijiNyoPL3KqonH3viBAbeAFNscgMV5j4Vssyo2K33pJ4FuoYD5KAEXLzRQYWlZiUR6T_LJX5B41lQOJGbLpfyYaYcDztw9aiSVOSNwQuhmIy7ofJQOb6NCmRVQHzs-pzSXtoUyXBJvdGCmKPHQiCQ"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJXeEraUi7woARBo2jd4I1irA",
+    "city": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJE-tsVyDEwoAR5ZVsfq7dWqw",
+    "name": "Montecito Heights Community Center",
+    "slug": "montecito-heights-community-center-los-angeles-ca",
+    "address": "4545 Homer St, Los Angeles, CA 90031, USA",
+    "lat": 34.0957569,
+    "lng": -118.2032604,
+    "rating": 4.5,
+    "reviewCount": 303,
+    "photos": [
+      "ATCDNfW4jf_UH1NEz973Yvvbvm7u9n8j8lYDac1YliF_h7fjz2yUZklROiZ92g3N57GIx88aJ7cxYoiMbO8wvB0Y0Y_Vjfmj0wC7WxBtCctvRqk_CFwtwzokPFO6zh0_-vzwzFQwkhWuTcXnInRyocrdxAc6oVQy4KSuhlUfRk-LL2kghvJQk-oA-ySIZ1OWTM3b0cgIFH8TslJlGTILB_xzaFKtSvv8GI8cP_abgI7NpqtMAc62iKPtmam-qEmVZZIp2-qje40le2PFrNetUgAizlHWz23Slq17VkAI1m3FQ0OSkyWb6kY3ylQTm4l3GKbCSuVN7WEdQaO9Ea3-XRF9bMHkst9uZRJm3drrb4m_foUfuN0ifX56f2YS_KN_XyLObR6rq2xCL2diEEeJDJDsj9DpDg20kTR0R7eMkpHm-Wy2_Q"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJE-tsVyDEwoAR5ZVsfq7dWqw",
+    "city": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJTfCwtY7LwoARxJ5mhV-zbas",
+    "name": "PowerPlay Pickleball",
+    "slug": "powerplay-pickleball-los-angeles-ca",
+    "address": "19401 Main St, Carson, CA 90248, USA",
+    "lat": 33.855058,
+    "lng": -118.280783,
+    "rating": 4.5,
+    "reviewCount": 29,
+    "photos": [
+      "ATCDNfXGqFDrfNcwdpgQVDdPpWS6PPGk5tSncRXFMltCX6rTzP5AGICt32Vh9heiagnOI7hi9Go1uu88hz1aJ1iuHVwm12qo53ewbNxDgX-XbJIj7yiDqT3kex0W9psgXjaIxVORNJvIq7iOdy0LRjoSHuLhqtG5JdW7E5k4GjrjtJlJaTtdb6irNFQVHb0sDP527rfbHOV6JmSmnZk-R9qKRxLQ6T05Rbt0hYwnSPpp5EBuFAYTk8eDDL7pUojtOZ1R6HxeafE28zND2iYot7-KfutJLXKC4qunfGh4UBTTlqhvng"
+    ],
+    "types": [
+      "doctor",
+      "establishment",
+      "health",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJTfCwtY7LwoARxJ5mhV-zbas",
+    "city": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJkeCkP2XHwoARmjg3Lcy-rdM",
+    "name": "Shatto Park Recreation Center & Outdoor Basketball Courts",
+    "slug": "shatto-park-recreation-center-outdoor-basketball-courts-los-angeles-ca",
+    "address": "3191 4th St, Los Angeles, CA 90020, USA",
+    "lat": 34.06795779999999,
+    "lng": -118.2893292,
+    "rating": 4.3,
+    "reviewCount": 295,
+    "photos": [
+      "ATCDNfWCIUUa4n2SSXs6ikzLTPOhYR-V8ZJvXk9y68Wmy31PMJuHLfw1p7RoAmrTHYzmRp09uKHd3wGjQelrIL45ezfPieixBwgJ6MnmRWCgtiTj95XS-5qxjk7kvfBhzE9iZWmsgtnx-yp07VVnODrz-A97NnHFtIHrAkaB9Q_OFN2-gZEre4A5HhiTrkATZqUoPmzgdglaj1Cavv9IhzUqmlofEqtrs74K_T9eJRo2tlQDWNn8-QuP_DZAV8i0G96iWU3BuJiWB1S5jsqW4DsWAiIkCIjvTRVHUewO0yCCSTkIgfrDTC0Ay4BZF9bUr1VrYT0MEE20blVNoOWo1ZSNQPW1lQMRCxeeotxB-xXcb1KsG1wFWFCVhTFqXgoFNXE2VS0JoHPpUSMfv1apeQPt5dFBJe9_hLOMTjiNEIsQjMxPKg"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJkeCkP2XHwoARmjg3Lcy-rdM",
+    "city": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJ5caPOWXHwoARi8XuYt314sw",
+    "name": "Shatto Recreation Center",
+    "slug": "shatto-recreation-center-los-angeles-ca",
+    "address": "3191 4th St, Los Angeles, CA 90020, USA",
+    "lat": 34.0675004,
+    "lng": -118.2893071,
+    "rating": 4.2,
+    "reviewCount": 452,
+    "photos": [
+      "ATCDNfXTmYufa4zmHzWJ65SKAhg1YH0uLvmi3-m9E3f6gXflqFJtYhj8xS7LCESGYqP5Zfv8OwxryubdoNSss6mAvd2ho6qfv61oEx9YowRo9t_Tn2zliWX3K6MH3UuCz1n-BsNwP7C5J4QdoRUvEHj2L8OIWKv15zqDIuUsDO53ED7kNnJXSyl2jb061ct0M6-6QUH9m7XnaJAGHWjJ48dIRTuD3C_tZ_O5mDoMZ09BrwbfSfKatKxh6M2I4YYVV2lB2p587U_r4PMSASg6yDWu6rYhkGDZv7LnAr5WVIZGZ2Jq5Yip3ShNdtWv4s_3ZgDG_N9607huX-7Xw0UGDUeF6HLNIyxayqhcGlUJ-fTqLPt5rQ48YHZCh55SJhwQ4AJuA4-vRE1zhrk0YoSx83PmPGtTN60zLyEKhOdv5z1VPmhdaA"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ5caPOWXHwoARi8XuYt314sw",
+    "city": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJVYRAhTrHwoARDWhqyIfHFnM",
+    "name": "Silver Lake Recreation Center",
+    "slug": "silver-lake-recreation-center-los-angeles-ca",
+    "address": "1850 W Silver Lake Dr, Los Angeles, CA 90026, USA",
+    "lat": 34.0923641,
+    "lng": -118.2667986,
+    "rating": 4.5,
+    "reviewCount": 129,
+    "photos": [
+      "ATCDNfUdLrYel4Svh5E1ETh001clYgf-H7gMDeK-5BA_UpZkD6yKgh3IjkZSCZ_BXhSsR7DYrb_0r0mUJsk_NwzGswopYpUkOzkKDmMK_dBt2zvJh1qRkjTRda9HDaUsK1a3f3VzzQNLVuylhEOP1dL3aCR_QagwvQ6ql7ZBuTjLcQO0R5ZUa7V2jPUrLFuGzUtDP-uzf3Y0b1JTMSrQMFQYNyiVG2drgt_oBmCIbb_OTvJiPb-G1aA-WGpe8AlOPTP31wTLJ4u-PHoC0FrBK7SlWFZoEVPwaCh0_yzHAdmvTaHoLOut9TjIP3jcO_g4hCu3SZMbELBmIkQQwbpGloDvXMiLdnzPIVGvDIRpCGZXe-MHKMGiX1kO4oRySR0b3GCH1DTJhLoQO60VwxUrIXQjNeD5SfaS4aPL6wR3lXEPHRp6wg"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJVYRAhTrHwoARDWhqyIfHFnM",
+    "city": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJq6MEgk67woAR7ufBFYFO6BQ",
+    "name": "Dinks & Drinks Pickleball Club",
+    "slug": "dinks-drinks-pickleball-club-los-angeles-ca",
+    "address": "1350 S Sepulveda Blvd, Los Angeles, CA 90025, USA",
+    "lat": 34.0547064,
+    "lng": -118.4462375,
+    "rating": 5,
+    "reviewCount": 69,
+    "photos": [
+      "ATCDNfUfNH4lY8fUc0NQxt7hN7k2VPcs7Uk3KjwROLiaK7c9V4XpJNEqjnIMVUyNQxOeAIrk7Ursda-I0OtH47Pjf80B6hGzqrhSHMtVu6-cdIU3iD5s8gwiOe8SRSUn208f5-R1AikuSLc4yDOzbdtTG3f25gP9ZTum6DfBqipbTrL-4W9f3ecDUl7uVi2-YoxRFHk2JIsoKCxWWuKKPDwTNexn4weA4a4a4-qZ-uJljAX_FDoB3q6r8uMWkoWljXN08dhyIuYDAs2EDhiS29d1qxC1Sk3u9SM5IxlfhytDxbkEng"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJq6MEgk67woAR7ufBFYFO6BQ",
+    "city": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJ_RiKHUTHwoAR6D4Hv1a9V3U",
+    "name": "Bellevue Recreation Center",
+    "slug": "bellevue-recreation-center-los-angeles-ca",
+    "address": "826 Lucile Ave, Los Angeles, CA 90026, USA",
+    "lat": 34.0841002,
+    "lng": -118.2828496,
+    "rating": 4.5,
+    "reviewCount": 675,
+    "photos": [
+      "ATCDNfVdiiDE8cBulb9gxj-fcsUI-pLOreodKJvQ85JJIh2SGgDjDSPVZVBdinf4w01Y75aiS2XcyXOq2EQL9qHxrRubuK4XvHLmVdzcfHGUzEl08r7YXIe11MhnrLc6kXBGzgVEHiy7k8qP5JmfgDtgiwsgbqk-ShYrtjp5ZMNF3nJ1tHUhJNKbxUVeHhJs4FCBMK2M7ild44jxfmL6xOHlxurXhKCl_XrrM_8lTUZPcgwq614G1Bx4s1-6uwcycuBLgXvZA4LYjlY_t2y8L8jcAnXoCnfUDbZyDN23me6ieJ23r4FPqMIlzGL-MmQESrwt5r4azqkqVlekfyerG8FvYT95JPZDi2mPqZWoq6DOHy-XZpvdtq9C-L1QIXuY0FHJkrN2ckv5I_OWgJIwKohw0sEYhvTY2Xi1xfWFwbdxInM3zbE"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ_RiKHUTHwoAR6D4Hv1a9V3U",
+    "city": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJZ7Q7bd-lwoARA97Q7xdwvdA",
+    "name": "Pickle Pop",
+    "slug": "pickle-pop-los-angeles-ca",
+    "address": "1231 3rd St, Santa Monica, CA 90401, USA",
+    "lat": 34.0177192,
+    "lng": -118.498333,
+    "rating": 4.5,
+    "reviewCount": 53,
+    "photos": [
+      "ATCDNfWxaaK695Rzhhc_gEB1tRdgurc_5pNlTF_IPtOPlkVXcb7v-kh8vFpPNxF6E-GDfI6kz3ns0t_Ny0UqSr5c8saWcQ0aA5CNvJAlxuO5-8JcaJpP-I007a7Wsdj-1Cl9yeXNx-AHQ1aOtYWmWnFyiUFiDFfxQA28DYEH64hFE6x0QXv1vP_GB6p87YuYi7jwNJwuAaBJalAeo_Br0R-cFY1l65Utxc0xFrndZjmrgJFQcYMHItoOk8Wzsab8QVDXlYiW-_EK_Md1fbiyOL71aYWVKwck_y235FW0VTGruVOkz3PTz35WOK81e-6QwUygtmUpfnEgo6CekaORMw1YnUwTiNs8Pi1EGDymjDi3Fo4bADNxHM0B0r-0r9j2aSzMNgoqhursph3qkwD54b0Y3IuJol8ORgE1mv4qw3dFvG0"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJZ7Q7bd-lwoARA97Q7xdwvdA",
+    "city": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJE-hZ8Wq7woAR6fDp-85UyPE",
+    "name": "Santa Monica Pickleball Center",
+    "slug": "santa-monica-pickleball-center-los-angeles-ca",
+    "address": "1330 4th St, Santa Monica, CA 90401, USA",
+    "lat": 34.0168373,
+    "lng": -118.4961813,
+    "rating": 4,
+    "reviewCount": 61,
+    "photos": [
+      "ATCDNfXizaODX4l7scitHjiqSBOnlJU51iP9fEBpieTU2iFMp-cuqifNUKPcF7gJZdPtU4t1dvXMidVd9sb2gy7civza7JeEknIpyf5n3VKGgDP1nLmFoYYgeaQ1wnInb5BuomAjkmqnSoZJQ5QR1SnQBokFUXO105UWKUtUtvABRZ6Lywx-yYR1hQfgS9XR0LmCRUyrFTPmHyOefmqRtAr5WhCtTD8OIc-BQ1SSlod0bpkfMDv38VaUmjVGHJUCV7Ob3m-Tbo7q-y2D2KAji1XHMD41a_oqopFgcynHvBk1o9UrZA"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJE-hZ8Wq7woAR6fDp-85UyPE",
+    "city": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJ49CwOBHGwoARcHQOinsx8pU",
+    "name": "Pecan Recreation Center",
+    "slug": "pecan-recreation-center-los-angeles-ca",
+    "address": "145 S Pecan St, Los Angeles, CA 90033, USA",
+    "lat": 34.04661189999999,
+    "lng": -118.2220392,
+    "rating": 4.4,
+    "reviewCount": 291,
+    "photos": [
+      "ATCDNfWlHvQs46cFCmEzdE7B3oJrU-HcjKxQcZ8Sw8d3fXpdamsvFR1y6AiT8Q95_AGSLaHTFOf7pu0fanoOGLXOWJ6OkKUo_8F6QJ7ioPnlHd-Z-pWJashw-HPkIAcg0iNCGk7I-PGhhHvhUPXfCFULDvmOpBEM8LZMm47b1aza7aqjER5rBh91mzv4riOs8ROMlKAXhLhUpBdTFunhVmIYRQ6PXHc16EVoSQacQ9viyVSXLCdTlek54uZPFf_KSMQzOEwRd6Vwtu6uneZEc2T5VV09qpUhOtFpJNBXx45judUr_ozSc_xmr_vyeBC33b_ditopL-DRL7Cj0pcZVa2LAtVOW-CV20WV4s5W_vFIFZLraeKKtUhleSl9WAAFq-UXagoi_bFtEkpPbdnd_zGjD9Acg4uMLEB7M_3JWdhDJxdRqjg"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ49CwOBHGwoARcHQOinsx8pU",
+    "city": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJv0wdJgTHwoARkFB-V2KKEu4",
+    "name": "Echo Park Tennis Courts",
+    "slug": "echo-park-tennis-courts-los-angeles-ca",
+    "address": "526 Glendale Blvd, Los Angeles, CA 90026, USA",
+    "lat": 34.0687372,
+    "lng": -118.260591,
+    "rating": 4.5,
+    "reviewCount": 96,
+    "photos": [
+      "ATCDNfWouZYG6EpndPNiwnOaJehCW1O5FpANvquLmpz728ey5DoaDgZ3BQ4Qf4QHD3TNcrYWI71CUnHw_c69FHb43BHuur_SYWe6Fhix2kZhvVbpBnOYZAmNcJt1ZpItZHNxotmTOHnX5zV1Rs1Kms3Y7na0A6lM1iJDLmQfAALhLRJu7hs6k-nS2oPu2TAGZRP_sBTl7rKADJfZ73slSLx1xaES7Wyl10CCP-fe2JHy9N2ITzHcSBOX4bGRgS19bKP174gbI8_mFHvLkNoPV2TROqR413BnRaaA8sr87TK3f-kY8d1VT4vSs0DYWS8TCtbMutnZb9MSp8F5JKqVIk7NFRddj-fawHooqCRvDKKjVR7iylDYLjmJncK3Rp-IDKFE2O83Ic_2KSYA-Uugqy54KfN-xtkl38hQprc7NdZ9PPY"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJv0wdJgTHwoARkFB-V2KKEu4",
+    "city": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJXcieTRyWwoARMKOrb-d18Xs",
+    "name": "Studio City Recreation Center",
+    "slug": "studio-city-recreation-center-los-angeles-ca",
+    "address": "12621 Rye St, Studio City, CA 91604, USA",
+    "lat": 34.15142489999999,
+    "lng": -118.4076908,
+    "rating": 4.6,
+    "reviewCount": 348,
+    "photos": [
+      "ATCDNfU1zEOJBnH9IBbyBRvyECcLZGqCTfEu-tli_SpcbTXxRF-fUeA0KNB_B_LfR0-guleeFZbWMut1BvGqYGcGr1dIXB4bSMJwPuRoa-_YHH_8KTtPUAXEHzGmScIic_XqBnwFyapTeIXeT7r6Wu7PGWCFztRWN5sJB0hpyn1ndT457Xpl53aKEeZe_iDFt7HW1FNmSOZ_TS0x1S-mwgQzgcwQy_0OA5zw2JNNcfLsVWFE0IipDD_mGXhpEyTWOZsZsZmWk5mM1nO8Vv4ZqQ4FroQQkrJUN7C83StxxzZsIeJ3AXF1vgJEKOX-qhcvPb_xhr06sf0Qto3Dcl-kA0eUvLloBHU6qBywNuGsPp9pKZsA8GYr_i3gAvflUsNoKbsEnu6cW1rtWcUsi5q18awCWrZpr0Yu9BJpHDcewfwhZuOgWSRG"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJXcieTRyWwoARMKOrb-d18Xs",
+    "city": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJOapgPgDFwoAR_o3LjyIdtPc",
+    "name": "Montecito Heights Tennis Courts",
+    "slug": "montecito-heights-tennis-courts-los-angeles-ca",
+    "address": "4545 Homer St, Los Angeles, CA 90031, USA",
+    "lat": 34.09579,
+    "lng": -118.2041356,
+    "rating": 5,
+    "reviewCount": 4,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJOapgPgDFwoAR_o3LjyIdtPc",
+    "city": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJmbzJDni4woAR2xaq1imo4nU",
+    "name": "Normandie Recreation Center",
+    "slug": "normandie-recreation-center-los-angeles-ca",
+    "address": "1550 Normandie Ave, Los Angeles, CA 90006, USA",
+    "lat": 34.0446612,
+    "lng": -118.2998004,
+    "rating": 4.3,
+    "reviewCount": 584,
+    "photos": [
+      "ATCDNfXHT9tMwU04R-pFHZO7Lb8bQdiZc0MLaug1TWSpmkWiGBgDvyWEU8TDaNbwxdexXdCB98LEyx33aUTnQFp_dJH-3EKgZNDxfPwcOloCizvONoBjrkMW2T-Fhroyr5U2jnjLaObtyWYqxeMTRgHRf4FDueviP-Zk4sAMQjMP4wgJIQU0jPvz1xG-SnjsO1schghjOzbh89rpp-OYifYP-RHqBc6yi3wYDiYohC7wNBQR_a1EEiE-1MqSJUwQQx4V0Z9zQQDjufzc6Qwt3upz4IRKiBNRXx_tWpR-AcXz-yFhnmPBIBwPfi7w-OnxdJJG9JkhFxIjthPL9vNd8449sCMh5NyltVr_X1AxhyPNxblMGyYKDUaKfDOhIrU_aOCzx-GQrtIdtu3hnVXxEWc9dVJFrP0RT9Fr9zjpubu5fSfqt3kugQKxvRSJiBy1iA"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJmbzJDni4woAR2xaq1imo4nU",
+    "city": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJ7aDk5dm-woARC-mb9sSsnBU",
+    "name": "Plummer Park",
+    "slug": "plummer-park-los-angeles-ca",
+    "address": "7377 Santa Monica Blvd, West Hollywood, CA 90046, USA",
+    "lat": 34.0926162,
+    "lng": -118.3514029,
+    "rating": 4.4,
+    "reviewCount": 1231,
+    "photos": [
+      "ATCDNfV4SDkltVQzcuBnYyCq4ni_dXynG-fTBll7w04VdLzkbE0-U17LOnTT7IVwlak9anXr-TCHGlKulbaaHuy7LhkQMVjHlVJPXQBhiOL7LEwMKhk6ikUNOmCO2WcGS7wVSlMlewnQ-bm6mXjwuK7TyRcFe00B7UHkxP9GYdTeYaN1uFZcNowIVudKkiv85zDz5tvFAUTRuq6teWIJ3Dx8qhXRrdwkpg9MLfj5il1Hw9QCDufz0FdeYVzutVRmxTReJwbQ3WKIuM-oxWKx-IsRMZDiOkS2lUPY7JL64BCELKSH5kYI3uIvxAcErpMbDbi3yPYy8-qikpuhVCc0mT-HZQx8R74eMmT9bXP__Kpl810u68okn5kbsRWoUq8zgekOKo7ORgZ6Zio9Ea1_QnC_kSrwJvs8jhlohbQDMtPoCIas3YAN"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ7aDk5dm-woARC-mb9sSsnBU",
+    "city": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJF8BoJOrDwoARMS2YPdy78ak",
+    "name": "Eagle Rock Recreation Center",
+    "slug": "eagle-rock-recreation-center-los-angeles-ca",
+    "address": "1100 Eagle Vista Dr, Los Angeles, CA 90041, USA",
+    "lat": 34.1429711,
+    "lng": -118.1881752,
+    "rating": 4.4,
+    "reviewCount": 472,
+    "photos": [
+      "ATCDNfXWd0F2THLSOg8TE3PnU3zkHdl9Occh4XJke34oa_WBY4TJurw881T9UDxmmctIwRROplvkUzgOriqW2dFt-NVvikHpW75SbdLZ0sYrPdjKL-P4BtK7_Uic580q3A-snTd5Wc6LJUZ8rqXK53HTTewjHNkCq8v0S-NuJKgIlzUQJcPGbs-1nci2bwVSN2U0_U3wB03OG2cKK7os-2-DhhZ6n9wG5wOvcFgEU79dj-dFjF_eo2dMxO8_0Vw39Wua7u7voinQKLOAvTAQlDq_AjePU0LGkJF-nKpI9_Ulsb8-lMTATl0n0-iwt-t7v3OPAagCW-hj_Q5FKIKH9UmNJHGu3QshizwjB6FeftzMZX5-PmbvRYOITcf96kTywMtY8UqYV9b4kBmbmENtP0BHrq8wvPqCfjM8vo5HZX5jSMOFY0wM"
+    ],
+    "types": [
+      "establishment",
+      "food",
+      "park",
+      "point_of_interest",
+      "restaurant"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJF8BoJOrDwoARMS2YPdy78ak",
+    "city": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJc8t_KGXEwoARQD9hXPXdju4",
+    "name": "iTennis/iPickle Arroyo Seco",
+    "slug": "itennis-ipickle-arroyo-seco-los-angeles-ca",
+    "address": "920 Lohman Ln, South Pasadena, CA 91030, USA",
+    "lat": 34.1165997,
+    "lng": -118.1687403,
+    "rating": 4.1,
+    "reviewCount": 63,
+    "photos": [
+      "ATCDNfVolQ0aaZSPQFMMemIk70kQHtyC1yqaWljNkfzazPtUfQ4d_FpqJZ8UFppTJvj2J76Qqkv0E56Sqe5qSs9-ul2fCK_6s1RQadoNWJid_SZrBYuzRDtR-VPas0h29oJt4aV2BBHKDzPWlF5Qkh6Fbku98ShFGeiY_aMECmYUWJmd_nTj7Sc_Bc1_GWFl3JtMC3whTHMA7WzStxkWrXY6MB8Tm-keJ8194cW_yGkDaob9s7AKC2B05YrNHuWuFxC5KELdjnDORYXHA1e4s9Tsr6LW5kel9vlrP95WA-7_Z0Ie-U9WNOB2ynfiIkueOUkQV2Lfyn9VDmACLGq-NCdXZ5wCirahR6hg8S-rTiHPaejf3nFht3VHnxDUIRHPQd411n4bOEnDmnVm4_fKoa8MJ2BHo3nqgStslsHTHx2m7IvswFC3"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJc8t_KGXEwoARQD9hXPXdju4",
+    "city": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJX614H2bBwoARz1WOyS4nLws",
+    "name": "Glassell Recreation Center Tennis Courts",
+    "slug": "glassell-recreation-center-tennis-courts-los-angeles-ca",
+    "address": "3650 Verdugo Rd, Glassell Park, CA 90065, USA",
+    "lat": 34.1153789,
+    "lng": -118.2340267,
+    "rating": 4.7,
+    "reviewCount": 37,
+    "photos": [
+      "ATCDNfVnkUJGb8oCwv5i4RsK-6PsIzSiY1TeoVzzCj5pEJ8lesPUspuWIh9GWKDupUTIvNPwkKL4ZmYgBsKxOFblD2tAH6leUVAp02zsRDkxiFGBOhXUDkYLG2U2Gt13Omt7R0yTRZiqMsBSF9C2w4jVnqWwM8DqHhiK12aTCx8kCpRPhbQLoqBN4RZOv64m-mBfWRuP98tMpHbuBWrrTN5HBoNsLgUVfdrIh_P66ZKKSM_ymcrAxr9FAwvNfmF_mNPNFPtETfodmMYZXKCuRiyypudW7nWdPeln5aknTSfsmCaE_cprRa119zZs-DMmzis1lUdLnfceGzalINeQ1MHwzy229P1BfCsR6TuDZX6DHRTteOKAI8HvZeLDwTeYIkIQF_e_s-ujuwE00ccAL75GoN0OAak9_LapwJ1FkEPxXwvLcg"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJX614H2bBwoARz1WOyS4nLws",
+    "city": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJweIKwMbAwoARylyskP28bOE",
+    "name": "Griffith Park Recreation Center",
+    "slug": "griffith-park-recreation-center-los-angeles-ca",
+    "address": "3401 Riverside Dr, Los Angeles, CA 90027, USA",
+    "lat": 34.1164741,
+    "lng": -118.2702355,
+    "rating": 4.7,
+    "reviewCount": 180,
+    "photos": [
+      "ATCDNfWmfBJhqc1iSihE-5tzqK6A6VUVCutqlqnxBOYy6p31WRpksI58VFkUNOz2ELsSYXsx5SaNF3Se5Po3F1aGBg8IM9w4gK4GQFHy-1GpXKXBaPCkOdhAjy6_vMjysqGEEeLTFA4yAgQGGp0JGTnxoRtGsuRUs6jkWB85noF2_feTaT9elZgOXqmu78vifj1GVMqhiLZbYMkcDADUfwI11_xb5K41Kq3tUdckO-Z47MKls4aNNK0e_HVy4-WkodoQcK28XsxUzdnXcD1LkHI02xDs6SG5igUycq78mggdwmVN0SrxdRTtrRlt5JlrXE3aZszqfFAx1wSwBpdG898zLEMs0r8JRSMLotzd-upLcD0OgnrFCjUuGof6O1mGhnOkp5CNyHokYhoKli7dgJpLGWMaO1Mh7d7KOdxuoXRQMUy34A"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJweIKwMbAwoARylyskP28bOE",
+    "city": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJ4ZZTD4CXwoARvC9c1k6ZVwk",
+    "name": "Wolf + Bear Indoor Pickleball & Futsal",
+    "slug": "wolf-bear-indoor-pickleball-futsal-los-angeles-ca",
+    "address": "14933 Calvert St, Van Nuys, CA 91411, USA",
+    "lat": 34.1813675,
+    "lng": -118.4585999,
+    "rating": 4.6,
+    "reviewCount": 19,
+    "photos": [
+      "ATCDNfVavtZMu14CQK4vmJ-QmmMjcGrDW89eDiQk1vX0TmT9Fr2MOf4JzJSY_X1ziBvaiP036jPOjs5OFUaAlQAYs36R5NQJQqar7Od_V8HRDpMU_j-zXPFkwubivXEvbxrqxJq2LsoWeq5bmvjeEghRfwQ4Qhb51ICnMpnznGPSiUHF8fsx1twyVvcO184YObyo-nyORAJnuUtYVh8GzDacMTPsayDT74DK9C-Yi24rr6CMoI53ahedPMkLLWPYU2UOzmQJcmltibjhoceiO6gownbwcrYauxGwTlvhi0N8792W-miBnHTOrlQTVeyXLWFD_9sgLIzOhgGhAAwdKEwh_nc3LD-G1E--LiPE1OTS_ns2IoqtwTURNgns_GhZoXCK7EJnKpqGLyvPWF6PMOVMAvaPJAheK0Ym6GRmegG_RPgx6lnOTJJWekir0_gWpw"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ4ZZTD4CXwoARvC9c1k6ZVwk",
+    "city": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJ0QElq_DAwoARp3caXPnf4TU",
+    "name": "Pacific Community Center & Park",
+    "slug": "pacific-community-center-park-los-angeles-ca",
+    "address": "501 S Pacific Ave, Glendale, CA 91204, USA",
+    "lat": 34.1392378,
+    "lng": -118.264745,
+    "rating": 4.6,
+    "reviewCount": 125,
+    "photos": [
+      "ATCDNfUuLWdY1pbe1v4Ky-E08jvjSEHMVlsZtZ_HYozYGahRWws1lcQa5vd26twy2gKyM1pXUMIXa7d7Di8hvRtXu9fKDgtTAhftZ9zAB0PsGVYkjXhdnJ8c0KjkX12NE6DulA3QmUfnPk3w5HwYILlaONk-UG-AnBbcHUmHI56fqDcDdlseWf8xho0j5KKaqhNTIKqm5coA6JEURoETpd8Ye7F19NOisgxkt4YO2eq4LA_yyDnvjYre1JDs28X0HV4PBAGYaFa2_vujpfh2uIogtvmWQLdXvFfPvKHaVQkn6YWn8zPHdMz5Eq3JLGIaFmpSYKJqItZUbE35pSCde7ZHMV_0JLOw816lErxc63ksPHciSAojpW-cDqTA-tA0NAdgGJWB6Gby6g_wZER7BA3wXMALlLj7iYUUn9ZcQlud3-5wftgVJ3NoW-SS7HwPbg"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ0QElq_DAwoARp3caXPnf4TU",
+    "city": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJ0SXfOES5woAR2ziU6g9YYn4",
+    "name": "La Cienega Tennis Center",
+    "slug": "la-cienega-tennis-center-los-angeles-ca",
+    "address": "325 La Cienega Blvd, Beverly Hills, CA 90211, USA",
+    "lat": 34.0620655,
+    "lng": -118.3766913,
+    "rating": 4.6,
+    "reviewCount": 139,
+    "photos": [
+      "ATCDNfWeVNMdKs_qV_J9_9OKk-SuGZmWrVZ9l8YSlVW10thTwX6eZBWVRQQ9PWBaFNHmwJBn_xNA37uqdHKl-ixzMHriYziXGJT5PZWAlKwVVIyO45FyDxcaMOGEoe0ThFJaf8kp_ojXQrd8_D9ENaFr-JzchpjKJK_LFBTAxkecVxngBU40oR7KcNe6iEMugFVkvJweLOIjMBFvHzAM6CIIQNbYH1wDGVNWbTQ779pxeJvLuiesz-uclLZcx6CqvToTHxtewhqf-jnjvGmd2Qzw3XHxWpcESs1SrkXUoinEK-xbt4aUe9kkGMExInRMOeTG3cLoqcdwHaQyx3n63i1C16TAj_DXy2X5RZ7kzyNHKUyc1ZYnCHrYnLuf_dD1fF1rpIs8hQARQTcroxJIaqXMwWsvxUhBnekwJLc0z7yrDil3UE2X"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ0SXfOES5woAR2ziU6g9YYn4",
+    "city": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJo462NbO5woAR6mH173F4Q3A",
+    "name": "Vineyard Recreation Center",
+    "slug": "vineyard-recreation-center-los-angeles-ca",
+    "address": "2942 Vineyard Ave, Los Angeles, CA 90016, USA",
+    "lat": 34.0282124,
+    "lng": -118.3463647,
+    "rating": 4.3,
+    "reviewCount": 194,
+    "photos": [
+      "ATCDNfV7qlZ_PuvLohuoHYGPRrtOFUOJuq_lQMAg-4Mnr9gYnvDZpAJ47ndrDuH3BoEeFOjs35nT5pS7TCw5NgmBOvJafYjQIFzLv9odGnF00o-OgbXIsiI6fhfhLfdsmpx2A-sXma9ceDvDxF5M5tOsyDtHv1CrIsMLCPi-Nkeo9CYr4UPUe50ArIMTqLSLW_TTlj4x9pOhvvutPGvgamDgT21anPrpNwx49GC8LuD6jDlYSeBwLvleTQ339ckTmpGFlAt-avkRfriXS-4wEpscZvfUNyCY3V3Ii51Gh6WDQ-TQ0b64AjZmlJrpTlBWzZGDwuWL7UqwPZ9AsAu1ZgdFaOVpu8NRaaGxRrLrelt0xFwk3WVFpLzrS6R8_mRVJy4IQTdUt0Lk0xq3FHve9RO6TKOOWUYCLzj46Otu9g"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJo462NbO5woAR6mH173F4Q3A",
+    "city": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJ47fKdq6lwoAROnoIComW2qg",
+    "name": "PICKLETOWNLA",
+    "slug": "pickletownla-los-angeles-ca",
+    "address": "1431 Lincoln Blvd, Santa Monica, CA 90401, USA",
+    "lat": 34.018921,
+    "lng": -118.4903651,
+    "rating": 5,
+    "reviewCount": 5,
+    "photos": [
+      "ATCDNfWqxET76uQ8pc7eKetB_R2EejAJNQUMYQLLZ3XQeqehwWvhGqe40vJf5qdP-wHW6sSF5CHw5_elP3liid4SLcIhdNjLjbuac4vlGJDU2v5CgqSLHy3p81n0YDeRCOQSfvPXBFSSDQtR-LFDMR83NFTROWIp1lkkyIX1s5KaF8r9CfEBGmMaCpy7Ny2iCIJGU21XKbe7T6H8UrqtnOWYX9TAWxjmFZcVD_ULjxQqcfIdIvmifQKxxzv2OcgtvMe8VAQZIHhCK1UjbfHU4tSj04EdY_esYr5nd5sO8TMlBnybSRJtUG6ewVvqXqMB-gdEbsZLRWmE3sxEZc9HQ2rmpDcQi6OhMIJI4zGOMYtVydbSpyHKhuYQTrA0SpjL5-AEgbLJ-hNMK2InQYIRKkGIrjY8Hev7USIVnUYov1gK-lRq_48"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ47fKdq6lwoAROnoIComW2qg",
+    "city": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJKemLA5vEwoARMejvnu10WUQ",
+    "name": "Allendale Park",
+    "slug": "allendale-park-los-angeles-ca",
+    "address": "1130 S Marengo Ave, Pasadena, CA 91106, USA",
+    "lat": 34.1261678,
+    "lng": -118.1448173,
+    "rating": 4.5,
+    "reviewCount": 145,
+    "photos": [
+      "ATCDNfXG3zemRr0HVnfFAXm79fS0n_d8DV_UvJkJHLur4jslsGGKp1Z_PC0EtCNVB_vp1TvjP7-ooXRkEKcqzja4ankF9Xu-5k170vVmfVQLIxESuLV3K-2dcOFmIEOseg8ZLh_S80fehTo_i9zAofqK-ObjdqxiBQMv5YxoORZmk9dXH6hh17wzroGGBQAucLPGMuB5E1HNQv2km4RdyZqbqJe3kBI6aXdC_GdgNRYSHiIzfTqVZ2dD6lXBVNzHECN-quJNgu9_3Fqzqr-pqAEI16C68naMu8L7rOof2HDe6hgNuyE_IeVJvlRw3urBfq_wejTWLcftmRDA4zmXLJGacMc4QwQoS56eECzzEf6dskeM7u47QD3grQvbq64TabhYiXYCrJSjCI9lLV9RxB40Vu_KHsC24PACNl53bX4P6WAbNk7x"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJKemLA5vEwoARMejvnu10WUQ",
+    "city": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJ0w5FLpXHwoAR-04vAnPhkeg",
+    "name": "TOBERMAN RECREATION CENTER",
+    "slug": "toberman-recreation-center-los-angeles-ca",
+    "address": "1725 Toberman St, Los Angeles, CA 90015, USA",
+    "lat": 34.0392096,
+    "lng": -118.2788365,
+    "rating": 4.4,
+    "reviewCount": 105,
+    "photos": [
+      "ATCDNfWXkku9KXqwYESXx0R-bpqyZmwckiFzmN4iQBt6Ts3bZlvSmHReoL9hCPyd32gdHFOGJrCYmQ0hKe90C9aov-aJHj3vMnLSHB1FtZ_cYfnI62l5N9Fm0Wgw-NhLfC6kfPMUfygevA7pG-rBDFBEE108dDhui8CBcLuSzlWzReWNn1EfnftUcSfHMZbcKg54dnGREK5e7OAeuf3RiIrmvq8fL6DWF-GmR75h7DuItja46Ox0UaCm-8A3VmVXLEAnra5nPNM-Up-SOpnvZrIPfdLcXpRClcOrHJczCC14d1lpgrRuD0QIJKwWHN10SrkaaJ67A2h0AmeeI-Pdlr8qZTzkQiaGxgYvtQzrkAF0n2s6N2o34DXgCDyFZjOagMWT0s_apq3IQnb6CjCMyerRUunDPHq1v3aK3cV0g3q9Wxj29udI"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ0w5FLpXHwoAR-04vAnPhkeg",
+    "city": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJE-vqtsG7woARbFuReRwgjvc",
+    "name": "Cheviot Hills Recreation Center",
+    "slug": "cheviot-hills-recreation-center-los-angeles-ca",
+    "address": "2551 Motor Ave, Los Angeles, CA 90064, USA",
+    "lat": 34.0453519,
+    "lng": -118.407782,
+    "rating": 4.5,
+    "reviewCount": 597,
+    "photos": [
+      "ATCDNfW3gC_Pm8nfUMw-6wx3qSJViu2A_SjPFrFzXq8cGJ7oODU0zxGlGZ4UlZPj1WaQRPUpG4yWM_VPJ6Wo762w-d0f2H_GLhNxjQkQRcESBefPkCSyIlu2kNHN3h5Jwujs9HF6bkMebkB4Nwj1Ovp98Qwis6HdteLX_Y7lv6wxfJjqyr5RhG0y49Ps_bN86pgeIx1z4mH5e1lJBqq2MVCObAQCHXb4lm-hAhS70Vhh1QoyO-USER_ttQgQVKaHv7fQ7jjhNLhNI8ODnGvktKKUC1hdLgg15WgCpFr3MaUtGMwuzSTDRobxf-6UvWLrWmlQIY1PlD3JBNq5EadSr1n8HbGa1AbxtK6x2ypOoc6jwl6sC6o1Je89qz0UrkTpYkpYXg4_N0k2A7FwifM0h4etzn8nWWU30t63wqQkfsWlMY6TNFM"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJE-vqtsG7woARbFuReRwgjvc",
+    "city": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJw2kLDjnHwoARnM8eD1IXegs",
+    "name": "Pickleball Court Construction Los Angeles",
+    "slug": "pickleball-court-construction-los-angeles-los-angeles-ca",
+    "address": "420 S Alvarado St, Los Angeles, CA 90057, USA",
+    "lat": 34.0603218,
+    "lng": -118.2739914,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJw2kLDjnHwoARnM8eD1IXegs",
+    "city": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJ45ZLmFG3woARLNt4ETfiff8",
+    "name": "Fox Hills Park",
+    "slug": "fox-hills-park-los-angeles-ca",
+    "address": "Green Valley Cir &, Buckingham Pkwy, Culver City, CA 90230, USA",
+    "lat": 33.9834314,
+    "lng": -118.3858654,
+    "rating": 4.6,
+    "reviewCount": 947,
+    "photos": [
+      "ATCDNfWZPxAza1IMQl1LbMlpd1S3-KBAeHek-V-_MM9AM7Omp5fJXehw5y1MqJIxYYyZTD8MSg0_w0eSW8_bmslrQZapLTIkyL4KOiwIDfh7fIynga1L6r46N6PStMMjYiXsDg3vdQpAIHSQrVaCDy5TCI_uOt-zqaMH-9r7XSQcBm0qjxwsgquSVrGsAqWQhEHslfCoBUgWvvelVv__KrrzcZIhdqvjP1_-Xe52C2-ZTmKBa3iS6Dxx0jhEC8ELQASCmJBilWXxVtq9Y3ddr_LBeKAokWc7UxZrA6byakqdrVZbkkVeP_lazEg1peV1coNHSeJnbMci3lCZLZaZkfq7EbBSRX9xzrvD0wbPe0UqZQXVCq81zFrV7uz6uSMKfwHa3a4HbQxmwtlD_hEuPJn_SyZrUn9AieImJ_oOEkpRXwF_nI1-"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ45ZLmFG3woARLNt4ETfiff8",
+    "city": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJ2zbwK7q6woAR33rLFIc36Jo",
+    "name": "Venice Beach Paddle Tennis Courts",
+    "slug": "venice-beach-paddle-tennis-courts-los-angeles-ca",
+    "address": "1900 Ocean Front Walk, Venice, CA 90291, USA",
+    "lat": 33.9850276,
+    "lng": -118.472445,
+    "rating": 4.6,
+    "reviewCount": 57,
+    "photos": [
+      "ATCDNfWYUqVq0vAIu7HiFMDl6lm_jvZuFKMeouAg8GtzuspJJ48digsov4khX3Zel1iu9Od6mgXrBPKPQ80E_DQJrlbF6CptdceOZnDNeX7uJVPZJimvcnjPMwmbe9zsq7NiL-oSLcwaMMOKwX0Kev_cqHH9kQiJ9rtdrLv8cJu7nOFlCWxcoycf_iFsjtfEVEjyPF1rwjdlMLC5-6L6Mtw8TVNjKPewK5eYPsleShwezEf2B2QmVFVKRhzVg5UObbQSv2KyXTwxKWz7w0MIr9V25lW3sK6D-MPddJQ52PmwEmbj_FBdDTPS82pua0BBR19fc52qDSYDigjwSOLeFD867uwREmpC9RUmwA6U6dBUisY4gX74qG1NeiLdbbMJkmp4qb3dNWyNB4a8WXwruN5OMC9zdxgchLJ1Adf1LSNVufGCWg"
+    ],
+    "types": [
+      "establishment",
+      "gym",
+      "health",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ2zbwK7q6woAR33rLFIc36Jo",
+    "city": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJmUxAore5woARD4QNXrTdSJU",
+    "name": "Rancho Cienega Recreation Center",
+    "slug": "rancho-cienega-recreation-center-los-angeles-ca",
+    "address": "5001 Obama Blvd, Los Angeles, CA 90016, USA",
+    "lat": 34.0223533,
+    "lng": -118.3517044,
+    "rating": 4.3,
+    "reviewCount": 1375,
+    "photos": [
+      "ATCDNfU8lVb25FJq54Gdy9y6CNl2K2EemYLs9NIZkA4ltqpSJUkEG1_jrRiuEz--MeKX9_rwVFtko8K_sDT2CbVLnx8JJCCohDKNliDuh7MsxHUZP3q9av3N2k9dTO7iT_05yd3vz26LAfGEyQqz3eVFmpERE43QPntjgRTMB_ii2hEGG0IU28iXlGXz--EocmmnI89UGcQaIjVaGGtyPv6lvhXpKi-eDA_u8Y4HgGgHC807uYPkc7qxEynZdhvFdggkBE3vnp6CY40MCd2MMQl23bhIcIzg3HThsAihPDYqI8YP_gNnSxMJFv8YwEUCqfMMyUIhOuCdWxzFvsREtNRlvMrQuT4Sz21HHVeFzR30nCK_8LDnhFij-4YuU1T8sJiXGZxpfxs_cCBQCrzWAcEHKtg9aI7JJ2C9OUa4tMuKg2HJ5I_F"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJmUxAore5woARD4QNXrTdSJU",
+    "city": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJsen3W1jFwoARKOkSAIDqic0",
+    "name": "Barnes Park",
+    "slug": "barnes-park-los-angeles-ca",
+    "address": "350 S Mc Pherrin Ave, Monterey Park, CA 91754, USA",
+    "lat": 34.0583605,
+    "lng": -118.1264188,
+    "rating": 4.5,
+    "reviewCount": 1429,
+    "photos": [
+      "ATCDNfXSAugCXWRij_8rnI8cgpy50AY5A8FsPPyFv0C5WcTZz2xkxEOJugD73VZNj6OOVD68SGQSDBbA24vllh-0pTgs1tKN0dJ8gPSDzHwVQYB1Xh1hCbrI_OMxMLFD10FIPcvlSJlOahul2g6Js0C6LJvW6PLrd8uLtt3CmOsCarGXu34Qsk3ekRmfWa6junHpTq17KyDCsdAA09GH60ctTr2EwfUTA18VLyrWzQ16laEpLV4-PhrJQjZvElSk4OR_2qdFl4xFJTwS681lwjKPwb-61gwjV85PNpDZA8GYGyKZQ6pQbfWJ6kPuO1K-GR-H6nKuB1p4SQlgu5ZoxBbh9RR8TQm1BmEZYFcX3fKCyuLWgorTCsSrrdRJxzs1M1bnoiuxpmBXdkKzMrsDOfvFA_MFfe15YK1yvFIgo3uR42ihSA"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJsen3W1jFwoARKOkSAIDqic0",
+    "city": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJYeXCX0-2woAROljIt56n02U",
+    "name": "Darby Park",
+    "slug": "darby-park-los-angeles-ca",
+    "address": "3400 W Arbor Vitae St, Inglewood, CA 90305, USA",
+    "lat": 33.9530568,
+    "lng": -118.329523,
+    "rating": 4.4,
+    "reviewCount": 831,
+    "photos": [
+      "ATCDNfXnNfRUAXUdn3BqMbbm7S0JvckMVGtM3Gb1YP88wZtjMDCV3koGPmE5tvy06oNNmPt4mL9Q9180g91idUfEdOhWzNDeYsrBV3M0gvt_05q0g4vUOj0jmcWqRuJdhh8Bw1L9SKpDs0qnKBQv9x36BlZ_-WowLW7fdXyBos0fgNe0j3-AFkda3QXbSXha9fofTlhtggRKaebr_B5RANfDlOvFO9yatjdRk96QRLtg_HpZVCk8N6b5eaR_nXuJqCztydwkUOWzzD_ZlFVjBMax6rkChVYC9gZVZfv9flYebX_mA1ZVJz4Na4LYqgcJdSbQjNTvHiTqCKE50SUB93STUEG2Vs_GYEtZUIwcMJRmcUg9l7iREbMzKf_mUi76O8JUU13iKoXXcpzwjNRLDVfosu6jKBlVgX2pD00G8AZFOVHQDGdG"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJYeXCX0-2woAROljIt56n02U",
+    "city": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJ3wqivHu7woARGhrujJfS6DE",
+    "name": "Westwood Recreation Center",
+    "slug": "westwood-recreation-center-los-angeles-ca",
+    "address": "1350 S Sepulveda Blvd, Los Angeles, CA 90025, USA",
+    "lat": 34.0532429,
+    "lng": -118.4484711,
+    "rating": 4.4,
+    "reviewCount": 255,
+    "photos": [
+      "ATCDNfX4tLTlR7ajRwk-74ntbboy7Un1Y0MghlFerlG1JwhmnsK2XytJUKFQVGfUsxmrsBVwistdxXVXZh_GVUUPedUSEm0NwryGluMvbxPg7H-4w_L9MUdfwIrLY7WMmBl3uJNYz_0QFc4uM8gaRKWOUzbJMm6WyZOzCrysFW_tEZfUZ7FnrYrHvNZZm4bd0v5Fb079-Z5AN5knMkYWv5izE1fHg4QQlE9IcTAi2PAstbv55ND3mA8z8CScAzTJ1H043gKBonobgfvSWuylSny3fvNnxQ-5ZObkhOn77Db8EdPxuqVBPWNMlprUMb7vQncVhVdD-4q8soXKXmsbq7k6wyUGsikrzM2gjvy8_392V9dYn01RBG0f_fcVxhBvwcOhZthzQQultck0ChTyRHBz4uU_0aWIK7_DO4llowo"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ3wqivHu7woARGhrujJfS6DE",
+    "city": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJwfoL8jO_woAR4x-FIM6SxAY",
+    "name": "Hollywood Recreation Center",
+    "slug": "hollywood-recreation-center-los-angeles-ca",
+    "address": "1122 Cole Ave, Los Angeles, CA 90038, USA",
+    "lat": 34.0915524,
+    "lng": -118.3292093,
+    "rating": 4.2,
+    "reviewCount": 270,
+    "photos": [
+      "ATCDNfUsUa8-qiu9rB4l2YAoNbOZvzNHLBuYRNhugXeBqoY_ERxL4izcKN0jhPkPqFx_A7z7Zp_G9BOHz_-nbIvtZt4oCdu_q1o7MsKDjUq2fAcxEJE4Gkydy_IhjgSpGfXjxKFQwxK_TY6UYNSYa74zAYaPVhKjSx1rjx6FtIAzY_JKKu0QvGnyAS8RcXFv0Fngsry_Pur0otbmJ0jkMQs1_hY1djMX5ptPSe5wEqyIoQl5aaYLQY3NacN8Vp23X95I0b8q4UPiVDj1_75vQ_k4KhtfJ5rHfp0XBHVBTkK8nwneuQv34-oZTnbfzGHEdb0hLd3FwUI17JjF2ILxU6XnTEvCw4x-1VwbJ5cj6YouddVDR-7WVRjoxD15qPM53U7_T7aHs27TS31n7PIXEmSxXQuPgVii34uIrW2Tzj5xw9FBQsiD"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJwfoL8jO_woAR4x-FIM6SxAY",
+    "city": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJ1wrKi2O6woARnTbnUmA45as",
+    "name": "Culver West Alexander Park",
+    "slug": "culver-west-alexander-park-los-angeles-ca",
+    "address": "4162 Wade St, Los Angeles, CA 90066, USA",
+    "lat": 33.9933134,
+    "lng": -118.4339187,
+    "rating": 4.6,
+    "reviewCount": 336,
+    "photos": [
+      "ATCDNfWxg5omwUBrMAVfZUGAOoj4mjOmdXnX5B_u1rw4Vb9Tu9p-GvWrK3RbN054ckqZCK4Dx2hv3u8ba5VNbruIWhr6zDuGNlCd3LIVW9pn3M7S-JVXSrHyaBiTi_GEdgrQEg4QGyszxTDlPuCisK2k9Sa9Wujlq2nniYvUe32UirFRuPGlGNzfrGJG-fXBcTfo0O6YrqEBfRGL8_FfzlSDphXmiIxx7_v-IeUf0XIkVy5Hfhkz1k4aCm_5zwpXZUZIDBqwVkcBd4GqC6-_4jaIiguViJpsSQUds1MQdTOKntFHAVPWIduzOw2imgPp56ovdRcx9no15x4wKbbEsiMa-JWK1Xb-MWLL01W5u2rTsATIKqUznHpTKxWESI8A7dUhz9Ce-CcKXV6ZoqJNhADpZSpyu-G79LU6ROwA0hAOV7s"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ1wrKi2O6woARnTbnUmA45as",
+    "city": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJEyqi2zy6woARhKjPE8pAonI",
+    "name": "Culver City Paddle Tennis Courts",
+    "slug": "culver-city-paddle-tennis-courts-los-angeles-ca",
+    "address": "Culver Blvd & Elenda St, Culver City, CA 90230, USA",
+    "lat": 34.0101345,
+    "lng": -118.4050834,
+    "rating": 4.3,
+    "reviewCount": 54,
+    "photos": [
+      "ATCDNfXfHrKO5NIsJL0xxLnHMp4rYfoEF3YMsZaWmicwK3CJJAKjkZz_xG-YlXfzgz31CW1ZNBk2qP3hnBVX7i9MleiZhx4FWuBrQxM5H0g_DpvwBVBQTWlDPDy41kEJuHmcuLeTe9WL5p1nofEpq1BVKOBZVNNefQwYtDJLz0Er0HvAqL-yU3fA_7DbuB1W1bA_XCfR5bsLE6acn8UUNepiVCixK_kd5zJhtf2l_Uin45RorpKx414s9cgZJG11Xe0JGmW9vnPVD14UvYklstLT2xN4A2Sl8WVV6NnwCbRIvm-ETqsbtjD7cnxy-K-Qti3Mi8NbsZB5g05l7nXfnGabc0V1QLqDqRk_pgnZqbOYPqqTgs5rDOAGQKtk8NEsfiFMtIJq0fLr63CCfSsU4mMFO4nch5cwGr_6OtmAMfXc8-G1bw"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJEyqi2zy6woARhKjPE8pAonI",
+    "city": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJgxogR7bFwoARc-E4yjEpxFY",
+    "name": "El Sereno Recreation Center",
+    "slug": "el-sereno-recreation-center-los-angeles-ca",
+    "address": "4721 Klamath St, Los Angeles, CA 90032, USA",
+    "lat": 34.0764372,
+    "lng": -118.1818729,
+    "rating": 4.4,
+    "reviewCount": 773,
+    "photos": [
+      "ATCDNfXc1rOeegLDy3pfDdR9C8NmoVBdI1QsyShq8BC_zuUudGrBrh3-Hmowxn9mEPdj_d0i7GE9etbWyNINa_5nSm_cfolp66VMHjS7bB7gvuO2WxK5K1bYnzZ1Qbg824DlweJ3R_C9MMgzyKCQ410a1tNkdxUiybiYmYj5CzEH82vsvDgzztwIx-Su3R1BWP6U5AZh8mOqC3OtJnTF3CbMtMaMqb9GbRapgt_sbMF8gD_cpnDc_vRJS55gso2jSgwmZ3EhlbaN7zHRD9AUROMtBEmy2sLQMBJtys6RIvBoEJ5Sx5sMy2cnWe2x534LMzzQsW90jDWI_SfAWaPhgjY0eoV0HDV54ypunBJI22DH2Pvwx_8iHhdAKaBPtANBL-rolxWohcJsoxhelUaoe3Mx718U19_X0lPCuO8J5P16j0Q"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJgxogR7bFwoARc-E4yjEpxFY",
+    "city": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJWfolaKHGwoARkXOOdrVyPq4",
+    "name": "Carlin G Smith Recreation Center",
+    "slug": "carlin-g-smith-recreation-center-los-angeles-ca",
+    "address": "511 W Ave 46, Los Angeles, CA 90065, USA",
+    "lat": 34.1020052,
+    "lng": -118.2111683,
+    "rating": 4.5,
+    "reviewCount": 56,
+    "photos": [
+      "ATCDNfWpregVlrqMdBy1fURJ-DdD-Pz8jWgrRj4MBc4UXTcWMyBpj5qNemhIELMzpoTRm26Ce8rha0kEVBRdNWPz6LapnlzgjJ77mAb-OzgNgrwaok8Eqa9YBpPsX16qk1pRplUy9I_PNs0iIPywyCiiUwL8dHADfKt4lJLpUHizK_Z3UlH4LyJ2Fl0GamBqKg38kCe_goOdlfvD_3SRE5qPTytUos-JXm9RFVKOFbym2OdyuDhK7icVUSfvnKs17hztKClRFbTESl2dbANzkBdYL45HfxbYduJpQyngAGdTDeCIl6iiz9gjezjJupT50NEvH19zL4t-19gfsbAIY8CuDn-oZXmm7bbS7EEiktLJX6KzSici7d3Zai38J0bjnzV2NyYQUjJWoKq2q9XsaIOWT5vh7CsbhvALmQ5B4ocgGNBGMw"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJWfolaKHGwoARkXOOdrVyPq4",
+    "city": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJlfkvKuC_woARNYaclUwB2sM",
+    "name": "Olive Recreation Center",
+    "slug": "olive-recreation-center-los-angeles-ca",
+    "address": "1111 W Olive Ave, Burbank, CA 91506, USA",
+    "lat": 34.1720652,
+    "lng": -118.3190615,
+    "rating": 4.6,
+    "reviewCount": 392,
+    "photos": [
+      "ATCDNfVvhEqHwsnb3KXJChPH2HvBtZq3QXyv8Ta3oV2fSwBsbvri_LhUtDtlxHAN3yv_xuOkzQp_r9iZLIxGTA6Yq6RyvYvNqrdTlsSBN-f2znRo8X_OCoflN6hUlj9W0rIw5l0Y8xgfCmiH1UlVrDDuotj0gKkbTCNULJoIcBIIWlzB4dbmDJyESRUfOm48GjSZr4kOrNf0-vzPMhMvx9xUhylCUbpuiYYW4a2T_qlOxtYsnH0RISQfsR5TRPTDuYegRLMmg-MN2cPVVIO1O_Sytsa50pXeaZ1SdNS_AH6Uj2nVeRGLEqCKKwwJfKZmYy731ypU88uyHtuSouVM8v6sgNWKmDyEFRfjovjFiO9JyQnBgliD9oEYj8iQgaOZE9xoVruOQergEBaXWcuCE8F0oOIkct0WDctWymY2DBHXkmwfLlA6XpDRhmqSdut6yITb"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJlfkvKuC_woARNYaclUwB2sM",
+    "city": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJFRI2LjTBwoAR7hkL25sCUvM",
+    "name": "Glassell Park Recreation Center",
+    "slug": "glassell-park-recreation-center-los-angeles-ca",
+    "address": "3650 Verdugo Rd, Los Angeles, CA 90065, USA",
+    "lat": 34.1160062,
+    "lng": -118.2334227,
+    "rating": 4.4,
+    "reviewCount": 391,
+    "photos": [
+      "ATCDNfVo7NPjb79AX0V37UJpW3s_lZOCkSwzDoI8HySTmxWpHT8BOO4dDrV71xC861EfsT5P0AbFrjTnZsEQ65s-sS1q9XzIJXMUucy2ByUITNlEAQ5NmDZQKMISu2-jWfmTgJv8UdELijc1b_VfZo5r9tbkxkU_MnJj8T7xXzE8zsLx4C4EYYQS3p1KHvyIyo38bOWeh9AQwoTNf_Kk7yjLQrYGyhSO5fSPbZcju-EH82m7fkMnmiOpjQ2ElCXxiswLxfNtFvPjACTWpbdwqPPpQksAmIYDKMS8X5bP6ayokzL8BWs3vzMdhjyVXYyqYWyoGJS7Ruqqj8sej-mNw3PaIXwILmiZOxdf9vRe-BoTHQAJ1QpBKJXGViL2_09T5TWYyCNUYSm4Guit-ACfgPaEb8CUCfgWqANFVvCCfvCkh4uIjg"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJFRI2LjTBwoAR7hkL25sCUvM",
+    "city": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJrY04v9KZwoAREL_xW-aadtk",
+    "name": "Balboa Pickleball courts",
+    "slug": "balboa-pickleball-courts-los-angeles-ca",
+    "address": "Balboa Blvd and, Burbank Blvd, Encino, CA 91316, USA",
+    "lat": 34.1736068,
+    "lng": -118.5030198,
+    "rating": 4,
+    "reviewCount": 15,
+    "photos": [
+      "ATCDNfX4CFdSj5kJh-9R1S1W9Pprz-5hGWv6lIfFDaWogzr_cPpARQEV_gTaf6o0TDjju6ujZh-8e_TPvD9hYG38JnIRy9gefq2FKIjaA6D0e83fylcKnu6d_KQA46KKaMilUitKRv_Cl6GVyo7Gpw7EJZNpHBx-N83FUBUoX2iPyLQDvC4xjHxiIUaOJrCIsOMfq4gPZPSMDxsY_kN3HsFkYYFcyo3puBH_r0XUEGsufZexygvc9QwXz-8hIeTy8jYRzYcr780z4e2DlMfMIYsIsZGyo_T5pCPuiOaWIIc7-d_FAvRfc-AiaF_2YyJtdnBlhy9k3tJ9D5uyWZi9qdNJSIhP47LR45g8oZ3p6xYk9nPejZMBUjurJ142kDg_AzqOnQrW5kCjGy1CKck7BEGYu-ZXVELWDGu7lDjzjQzgXZElQQ"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJrY04v9KZwoAREL_xW-aadtk",
+    "city": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJh6s3RUTAwoARY8FPFX-Fh2I",
+    "name": "Fremont Park",
+    "slug": "fremont-park-los-angeles-ca",
+    "address": "600 Hahn Ave, Glendale, CA 91203, USA",
+    "lat": 34.1569994,
+    "lng": -118.2679949,
+    "rating": 4.4,
+    "reviewCount": 390,
+    "photos": [
+      "ATCDNfVn5W0vAsYc7DJhD3J1M4dapbJ1uOZ2jZlcUrUfUUwpHkifDm-G0q8INlqdNM3NLGb6J0Z1zIjp3SeiaOx92gejWDKJz_Q2Uu5UZyFPJX9iXOtef3tAum_T9LjpLQB5MfGvuGp6ZIYbTqJRIqKTG9yqACsEMvgnfXFF7aVXH2VEWHTqsJaj-7jeC1XrOWWtCWoLbMW1WWZ3ShK3PSp52yQuyHZWEAlVg1QzxTCFHjor4z7vY6taC3-WhO4MJbXlsIcnByHyKpd1mgr_EXZYSWXrk6TLjSYE8l1lZULnGm9mW3MTWH5ji8h5gFC0d7-EyyUdQ2EFuz-gv4mZO8oAmod8TvvVCODCsUaL8dAz_Uz8fhIoJeVvazS_CODy2R3cXI97Xp8E16NIWacfXfRnqNt6TSq44R-BgDf8N2aWbxM"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJh6s3RUTAwoARY8FPFX-Fh2I",
+    "city": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJoQ5BQWLEwoAR5IQvT0i-Fzg",
+    "name": "Orange Grove Park",
+    "slug": "orange-grove-park-los-angeles-ca",
+    "address": "815 Mission St, South Pasadena, CA 91030, USA",
+    "lat": 34.1155296,
+    "lng": -118.1599948,
+    "rating": 4.4,
+    "reviewCount": 148,
+    "photos": [
+      "ATCDNfX1RhYd-2hHpI50kGKHYGmGyoj1lX-gC1hIT8KQxXW3OdM7nozKYNZB8Y-gOCgE5pj_DDnAadFBDFuYi6-HNBjEl3Lu1LUjCb1jnKHtAbo6i2C5AIJsXLMoRhoh_v73BO_TtwiB8PBriMhUwIrdUgzLLcEpKbiTxmmKFsnya9nShOdbfg0f67hk_G6rsWWgTlTyr9eDw68G2CIdC5SweXnCKP_icFGK5faRK6N1_ARKp7wrV6sorxLpmDDwGZgLZ6zdUZuoWSda4ts7qTjy3YGIDZYhkU-vaYf3cnRJ_PyWsk7p5dV2fzwS4Z_3xclJ2ARSCFwQ1f72EGomkFWGGftawTgZzCn-bPKQOnI1dQxzL7gegvmJbWHl-XMrbh0L4mjxVbwdNWZB-8j5D74icuidFP87iqegkBj4YUSRn_Oo4w"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJoQ5BQWLEwoAR5IQvT0i-Fzg",
+    "city": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJ89T1u5u5woARl1zg6Av541Q",
+    "name": "Syd Kronenthal Park",
+    "slug": "syd-kronenthal-park-los-angeles-ca",
+    "address": "3459 McManus Ave, Culver City, CA 90232, USA",
+    "lat": 34.0275289,
+    "lng": -118.37756,
+    "rating": 4.5,
+    "reviewCount": 727,
+    "photos": [
+      "ATCDNfWXrBmJgQPKEDBhRsWuo3vJ8JqB6CekKzkwn0ihQwe_Ysb02LsA0KDZxSmrZ1Da2RcT79EJwBHSp9kGjwJDBl3CIa_DQ6Ny29T5Agc1OP6Drh7V2QYRZMooNBkR1sBKBmJoRd7h4me6E0BRXO7TuiAzDEYwqxYsFNuAYFRIk6t3khZtWx0iPfqlX_t4N8PMqpV7-F0TyCUlB9WNFpf0qZpKMcFDPVicY6tDoTBORrIvTpzHLr0LpeEedZBfEZYEla_o_5nVHSht6uQNo4UHpi7iUe1uqXeb41wGHTdxrr4Mm8XY69UwHwfjs-eKZ8pIlFes_ip-JDFyl_faYzxzuMvLhiw2ZonwFKcKXsJCFyTIB-vdK8bFQUyIm92FIhT6jO70MiA4OuUlaDw4VoFNeRlQ2avXI6VFH4ESUziFledUNl34"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ89T1u5u5woARl1zg6Av541Q",
+    "city": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJL0nu4O-7woAR5_5YfjcpNZ8",
+    "name": "Roxbury Park Tennis Courts",
+    "slug": "roxbury-park-tennis-courts-los-angeles-ca",
+    "address": "401 S Roxbury Dr, Beverly Hills, CA 90212, USA",
+    "lat": 34.0585307,
+    "lng": -118.4061457,
+    "rating": 4.6,
+    "reviewCount": 53,
+    "photos": [
+      "ATCDNfU5smtbZ3hEx6hOHBxVwYs_VepwRxf92BQ5YayQFupKkpPjQTkAh0jcnh3yENvGr4jZO0fKuyOk_JnxutIVEgEP3E20xr0GojOf5UvVavskq7iZkuBILdGP6Vu4TDDV2VGpC7lKgOSZHzJY9VmVOVyfjJ89mQ46diewIg71_cGH6N4vdaNfMpkzK8rR7BGBmfgnj5VcwExKVso2IEHEuzcNfzvAazGGmYPh8EETYvOMgWXmJnNa8yTvCQ9Cza4_Fii4iFdYk6xn7G_Bg6UNux-kqhe84WTKfvWqUk7OIYnYvfjHophRx-J5Ajsyz1-3gc15re-HhjVfCyr2C3kRUDDsTqCcIFU78yh-pwtzasbKdJXb0jFsMndghcfC_T3huc9AE5MHl8e1nQkE5egSPS2V4c_ZSoBVY84yWEbVOK2nqmPzuOuFV8Qw4lRPOKYB"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJL0nu4O-7woAR5_5YfjcpNZ8",
+    "city": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJJ70FVwC7woAR7WOnkNWmjhU",
+    "name": "GLEN ALLA - PICKLEBALL COURTS",
+    "slug": "glen-alla-pickleball-courts-los-angeles-ca",
+    "address": "Alla Rd, Marina Del Rey, CA 90292, USA",
+    "lat": 33.983381,
+    "lng": -118.4317414,
+    "rating": 5,
+    "reviewCount": 2,
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJJ70FVwC7woAR7WOnkNWmjhU",
+    "city": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJObCPJ-S7woARG8eZGCWtcwU",
+    "name": "Crosscourt",
+    "slug": "crosscourt-los-angeles-ca",
+    "address": "333 N Mission Rd Unit A, Los Angeles, CA 90033, USA",
+    "lat": 34.0520833,
+    "lng": -118.2273456,
+    "rating": 4.8,
+    "reviewCount": 69,
+    "photos": [
+      "ATCDNfUPuV-mNmyUO7JjfKZblx-BAUS3wWw7UsjEXgiX1EQv0gLCTcsI0awZBXZijbiXqDlc3vOC8hWokWrBTSuLbMWEem7hYNDxdMwkhiyNxzC6gGF0B0YG8R98DQEEWs65b5WECIEwB_7q8465LCYjwmgjQ-cKa-KA6VTtv4UF3bpXfDBu1Csl4Itc4dkxzDH2VtHt0DJHv4UwmuCVUAzVNV7IMUH8OqneJV1M8N5VR8KDkN_ic4hRA55yVjkyo0cutO74J7Z0gPs42BcKNmFghQ9KTzb-hpnKxWRrqROcGplIMg"
+    ],
+    "types": [
+      "establishment",
+      "gym",
+      "health",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJObCPJ-S7woARG8eZGCWtcwU",
+    "city": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJxWr6Mq--woARNzKjmvuHXGA",
+    "name": "Pickleball at La Peer Hotel",
+    "slug": "pickleball-at-la-peer-hotel-los-angeles-ca",
+    "address": "627 N La Peer Dr, West Hollywood, CA 90069, USA",
+    "lat": 34.0815307,
+    "lng": -118.3869452,
+    "rating": 5,
+    "reviewCount": 1,
+    "photos": [
+      "ATCDNfUrF6tqwLfS7xbRiL1596tjaMrNgtZ46cRnZJY6_a7AsN1ixVDU8wtrtfpR-MiqOyetEN84t6Y9pOBJ0ZNjGGxW7hmZY9f_CdpTk9pQ-ia-Enn7AFS_AKacopNgjv8ipt3_z1GHmf0DfieCg36MSBOgJd9t5K-wd3GCPzVg-9rEQxvAbz5_YRHwBu8peZMDe1irZLC0JCqk6I16j7osGO14EWJASXBaWoEKpUrPhNkookA3sXpdWxp_fXC0yvkI0Up43W9VfnsnNeANHGkuL1UEPfg03Yig_xve1yTdYE9APky6HxLli-AS-_Y6i7Oe8D2873ISlggGcGwFfKofTgwPRaqVoKPAX7rSU5xl2srWP3QNprZj4vaja5HKuSe1xJZkx4LgeBE3GW0gMvm7kyE2qy3pIwfA8U6IAv3kdOpwtjrZ"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJxWr6Mq--woARNzKjmvuHXGA",
+    "city": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJK7gNMve4woARHzHar5Z68fs",
+    "name": "Queen Anne Recreation Center",
+    "slug": "queen-anne-recreation-center-los-angeles-ca",
+    "address": "Queen Anne Park, 1240 West Blvd, Los Angeles, CA 90019, USA",
+    "lat": 34.0501894,
+    "lng": -118.3328282,
+    "rating": 4.3,
+    "reviewCount": 274,
+    "photos": [
+      "ATCDNfV6w39bN3gysG-mMWqgXl0Cu8CxlHtJJD4RK8YMqE2d9Q0O6L2XJwPtAkXbJkuJJlSTvcIDS5tgzZsLsQUQ9TVcCpDR7zXQZE57zKkZUNU0OWWDmtK7BL-KdNFXe7UOBl1YhdU6GKL5F4NyYxSUqXp7zwY4QIAVyTZjRFQJ9-pZX6c3q5exaLscIJ__3Oxj7yZmNIw1pFfsQcrRPHllgjkaQ3zKdgklx7THaJtvT8qg-8ztsN7ksqjWD3muPmhxwXel5Gg4cuJWS9YUMOekD3biM84yzupLW2QEwfAiAXzu_-nlVIZf8RzA_jFgm0otuRL4Gbtb8WXuVuzSgfwqbTC3kzmt_juIa_K-vEs1BxdnjALDMWFYq9SjKRL5bp-_iHILY3jbLIZOwwX2pnVtXfH4oYt-7AiVhtoemv0LRlTvww"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJK7gNMve4woARHzHar5Z68fs",
+    "city": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJUx7oNgfHwoARAWIQl3W8c7M",
+    "name": "Echo Park Community Center",
+    "slug": "echo-park-community-center-los-angeles-ca",
+    "address": "313 Patton St, Los Angeles, CA 90026, USA",
+    "lat": 34.0655706,
+    "lng": -118.2593249,
+    "rating": 4.1,
+    "reviewCount": 53,
+    "photos": [
+      "ATCDNfXfpp1FR7h_IJ9XYta1GLLlqEriXrXSrR8ePP9bT1QNHJLkJhU5FVx1gjiLe2NZYltW8HZcdNrBetoqpTKzwt9PcIACH9OZeC3BzPXly2-ISm8LFlPzFLxk-DEfVvkDmd7i8Ez_s4roAOwKheXOSLavyh0EZ8TtVlvTkHouZ_2MBma51o5F8GL6cTy42NgxRvOFD1l-vdjt7wg7YoKrv4yWnQqQj5RvwBDHLIjOj7WYpFbkguiSOnxRAgREUmViCalnVWVF7tURIyrDD99xYehWoP93v2fi7wFXpStAM-Uzyg_zr5p_VqGye9meVVgoIXS1YX6HkCi9roZGB7jB1pQ_5pKBVc3bQRVxJ3H9QRg2zF3S7zGABIhVRumTR91MpvxBktTJY_OcP---heDzpinQ8r-Yi8Zpqm2d9z2EUY8Raw"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJUx7oNgfHwoARAWIQl3W8c7M",
+    "city": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJB23DQ9e-woARexfTe1WGgZM",
+    "name": "Tennacity",
+    "slug": "tennacity-los-angeles-ca",
+    "address": "7377 Santa Monica Blvd, West Hollywood, CA 90046, USA",
+    "lat": 34.0933473,
+    "lng": -118.3508769,
+    "rating": 3.7,
+    "reviewCount": 50,
+    "photos": [
+      "ATCDNfXTRinXBdfPk4kgj1_wIs86YxC_dzczzpECdg2Khnru91lduvAB2SM1X5iuXWkgeupOld1Bburj8ABVmGGgjzaHVaH0lnIbpEIznlPChPH-kIEpEnOiiGDyURshxUgwB20-ujnzE-TQjPkG0Kh8YKsGDDfb2CVCWz_wsEdjPFhIwJrbpcyv2NOdyjsZVCFp9ZfajKF9NTtWYooHOe3XXKCw3bOCdae0Vp0NabjpDhD42Xpmm_0HMFMBBVskfsRTUqfVgWwX4YuoLn5wNi5CllZby9n9pFEf7m6ArejkwGrlmNqx9qMLJMwT45GuZetjONcrvf9D3Q4EnpdI35t2HIGfC-a6Rc3oif46sZqfuCH3h17pErZY0pgf4NyjVrFbcjvWWmtSwvhwtr3BGVQ3BA2zlCfTk219TqlyUgYufP2P_Q"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "store"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJB23DQ9e-woARexfTe1WGgZM",
+    "city": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJ42KwxYKfwoARUaeD0d8e398",
+    "name": "Calabasas Pickleball Club",
+    "slug": "calabasas-pickleball-club-los-angeles-ca",
+    "address": "5155 Old Scandia Ln, Calabasas, CA 91302, USA",
+    "lat": 34.157411,
+    "lng": -118.653778,
+    "rating": 4.5,
+    "reviewCount": 34,
+    "photos": [
+      "ATCDNfUfn7yOUUzhQLWIEWBL2ZBfgoQenq6zq4je8Z1Twr-WoVV6i1sd605dtwk4YUglRdCQR2b4nFRUA8mek0KbMpiGxrpBZmIIkufg84BOHDeWInzSxKWpVyS2KoqtLc0NYWEpJaYFPhqlYYTVY2DgWwmVwC9UTFTm7hz7yNHMGzXR1eK4xqTrFr3MkKyekISHfw3KAGadgW69KBz-bdJHe6kQww7AGzu24fFihHUYHl_7EtM5xQhW-rMorKV3XaaHh4P6sBXoaCGKM-HHU5Tx9CTNAPJ_OBtm-eYgx64gLkqy7S35buN03lv4kgDfPE7Ih7ndDYgmUlspUDuuvrEuoE7nu_RRKWH_3wZnXNstLpEFpfVQoRMmrJ_ElI81jwrw5_fihmu-J7uCyw1EFH7k5qNPGtYDM89X8lxwAbG3KXSdxpY"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ42KwxYKfwoARUaeD0d8e398",
+    "city": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJ6z0pHhjHwoAROw6GvKxbax4",
+    "name": "TeachMe.To Pickleball Lessons - Downtown LA",
+    "slug": "teachme-to-pickleball-lessons-downtown-la-los-angeles-ca",
+    "address": "532 S Olive St, Los Angeles, CA 90013, USA",
+    "lat": 34.0485303,
+    "lng": -118.2532213,
+    "types": [
+      "establishment",
+      "health",
+      "point_of_interest",
+      "school"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ6z0pHhjHwoAROw6GvKxbax4",
+    "city": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJH3XsqlSZwoARXS_XQovA75E",
+    "name": "Club Osa",
+    "slug": "club-osa-los-angeles-ca",
+    "address": "18122 Erwin St, Tarzana, CA 91335, USA",
+    "lat": 34.1836603,
+    "lng": -118.5281602,
+    "rating": 5,
+    "reviewCount": 24,
+    "photos": [
+      "ATCDNfX7jBNQ5S1F3yn6TN7fjxOy_GVDE---HpigFhMLzP7uYl-9iAO1oifCUPCSNRN3p7F1RJYpTdF-rqGDE1D6yOQUmJJI3_q8nBBI62B_5s-LuiTwnl0_XdgQ5F0nEsEtj7SYV_D8dCXebqNyrodsCE_wd5ZhawGPKv5IJ4geIVAjt_xqZnfrYlrBAUMc9JI_P-SEGgeqCyJrWoyc7OlRsCvoFWoLSNzopJSAGgahhaAO13_dAwP9oMEl4bxmatpy2v970gjIDKbAJaYnPPoM45Cbes9Bwxdv_SvEKpbxIMDeOw"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJH3XsqlSZwoARXS_XQovA75E",
+    "city": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJlYCw2867woARfQL3NxXxy6c",
+    "name": "Griffin Club Los Angeles",
+    "slug": "griffin-club-los-angeles-los-angeles-ca",
+    "address": "3084 Motor Ave, Los Angeles, CA 90064, USA",
+    "lat": 34.0341332,
+    "lng": -118.4101792,
+    "rating": 4.1,
+    "reviewCount": 64,
+    "photos": [
+      "ATCDNfU9LYSwAEMCHdbMKi0Gv3JGOZuELtj0-_WTPmvRZtdsM6QImqBW5vkULjWNMt5pch627JdLIodYu6m_bLGryyiUozTxzFKSfymoeuW9hP0gSzsnWvCafJvZEcpTvj2zrBlTOhY4PGL4MGX7t1c5pgDWZGey_Z3yGSRvhyLMxSN0n3v81yGLet6he4pUlEFqpP5PVOiD_u60DEVyC7lKgsM4ElOkzkt2L8BCDHEiJnUsxsqpST6D0LQTvnSW-hWq42yJCGYQhXQ-UBY4pXb3XQoNnTHeMnMAihb7mJfbNjL1bg"
+    ],
+    "types": [
+      "establishment",
+      "gym",
+      "health",
+      "point_of_interest",
+      "school"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJlYCw2867woARfQL3NxXxy6c",
+    "city": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJMSyXbNy_woAR5LY2OjplP9o",
+    "name": "California Pickleball Association",
+    "slug": "california-pickleball-association-los-angeles-ca",
+    "address": "1930 Bella Vista Ave, Arcadia, CA 91007, USA",
+    "lat": 34.1166448,
+    "lng": -118.0482684,
+    "rating": 5,
+    "reviewCount": 2,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJMSyXbNy_woAR5LY2OjplP9o",
+    "city": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJQ4R84l2xwoARQa_jK2cOsCA",
+    "name": "El Segundo Pickleball courts",
+    "slug": "el-segundo-pickleball-courts-los-angeles-ca",
+    "address": "401 Sheldon St, El Segundo, CA 90245, USA",
+    "lat": 33.9207955,
+    "lng": -118.4118741,
+    "rating": 4.4,
+    "reviewCount": 9,
+    "photos": [
+      "ATCDNfWscfFu0a_R64-GgK4gjvUzzkgsJHq5hyC30FDHAGEXOsNGy7UNT7EBPUwPpgj9En4u85BdvaqB6D3hn4MqNL6rVG6eSusI2Jr0ag57QCol-EOv-m-q6Ia57haEmGYUNORISS6qLfdleXOEOgQ6Tw1b90vpz-Yf8rarNicH8f-kjbDFRHKgEYcwgnroqPRYjGEGcMrcY37N56VO05mWJjxjS5B2yAp6Ce0ZlGX3KbLLWfkmTZzE8y9uy_kyJWJeDz3nPvTQdFSmofIfk6OJIs60WxtWLj2ud-ZK2ObUPFVb6SQ6vWViewtJjvAY40G_Es-UmRPxGrXHAZwDCc1MbGoLd5dA5ltFHMLd-8Tl5dEPF9Y-KTbSoJIqHQFFMO1GOIAapCabSVlX7sFpsC85dqssofthU13zx0esbaTozeVx0OWe"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJQ4R84l2xwoARQa_jK2cOsCA",
+    "city": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJc9eYKwDpwoARdNvKuB8M26Y",
+    "name": "City of La Cañada Flintridge Pickleball Courts",
+    "slug": "city-of-la-ca-ada-flintridge-pickleball-courts-los-angeles-ca",
+    "address": "4490 Cornishon Ave, La Cañada Flintridge, CA 91011, USA",
+    "lat": 34.2044392,
+    "lng": -118.2033118,
+    "rating": 5,
+    "reviewCount": 3,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJc9eYKwDpwoARdNvKuB8M26Y",
+    "city": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJ-Ql9opxL3YAR9pS4DvwToiQ",
+    "name": "SBTC pickleball",
+    "slug": "sbtc-pickleball-los-angeles-ca",
+    "address": "25924 Rolling Hills Rd, Torrance, CA 90505, USA",
+    "lat": 33.7886623,
+    "lng": -118.337474,
+    "rating": 5,
+    "reviewCount": 3,
+    "photos": [
+      "ATCDNfWqYYqM0SX7oEUZHSJ6LRl83FkyC9gqDY4But39vQHpzeFSvxoF0DjuEJ4Q5NYIrSEFtK4hPIaUwrQQF_JLsYlXOujAOnLIHIzisTEdZezG4A22YJEBCGdvKFRNvKPm3t64vafqUlBWsQByjc8rlDLSO3PcSvqomW76bjmKjdHVAmw3hm1Dm-bkrUiQW3B6xzGvBm8BVSm2EpAUWALZSR9KHsIpLNLCE6G4-Yx9wTuLPJDn8WtbpIxAVpLkulv8ghnGPG4_8YZLF77g-rMr_NbxdHTKW_v6xYE-k9oQCRTXBQ"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ-Ql9opxL3YAR9pS4DvwToiQ",
+    "city": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJPabf7FFK3YARGfk5QuAPKvg",
+    "name": "South Bay Tennis & Pickleball Center",
+    "slug": "south-bay-tennis-pickleball-center-los-angeles-ca",
+    "address": "25924 Rolling Hills Rd, Torrance, CA 90505, USA",
+    "lat": 33.7880439,
+    "lng": -118.3379135,
+    "rating": 4.6,
+    "reviewCount": 83,
+    "photos": [
+      "ATCDNfW810B94XdxAwRTGj1ha_3tpRV7rWMzew7ycuq3qvc1sdvLZF6-VNX39dggwrWVWbG6puyUG9KoEy9xDT84S6KnigC0D4GnLJlPI2NOTmuONM4kQ2bE_omInxZ9ggbAm7Z_RLDNSe2vDndPkdiyrxtQqrQxTTzV12MMlr3UgqN4yYKpQgGvUi61bCBhS_CkJYOcdIihOAzraQvagfDT2jL-OZp9LSTiC8gY1963VeGFo2ElrZCpQ9hlfo2vyH26XjecrRfMkmgDlXZyS7NHM76-TXxsbUce8kO_bsUU8nzEnw"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJPabf7FFK3YARGfk5QuAPKvg",
+    "city": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJ7SOrU3G7woARaSNd6ZLKrPE",
+    "name": "Padel Up - Century City",
+    "slug": "padel-up-century-city-los-angeles-ca",
+    "address": "10250 Santa Monica Blvd, Los Angeles, CA 90067, USA",
+    "lat": 34.0574863,
+    "lng": -118.4183317,
+    "rating": 4.6,
+    "reviewCount": 54,
+    "photos": [
+      "ATCDNfWJwSBrC1D4U_7erjJZo5ACw5sFxF9lKFJfRm1g6G_QY_D8dqYVbwp93KPKtOnvlFvnK8D8arsmlarCkIMaCQe6h8FeVBeToFlqwWUkKweNPAS9jVk4H39m6cJovQ9SnpAh5CuIM5boQXjYydeiAQxdTLQwO2bT0PUDu57zK1_Do1aPia7ASGW7y7ShddMa6xr-DZV1MRQ_F82Qi0z4xZYe54uziWaidb7tVsa82WKIN6gsd1cx9zl56do1omgCs4mq70x7HDiljalITqeEpTaDpjqXH9A4Jses5vZaIO7RHw"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ7SOrU3G7woARaSNd6ZLKrPE",
+    "city": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJ41L9Yuq_woARSkI2EqiEaqw",
+    "name": "Pickleball at Le Parc",
+    "slug": "pickleball-at-le-parc-los-angeles-ca",
+    "address": "733 N W Knoll Dr, West Hollywood, CA 90069, USA",
+    "lat": 34.0842397,
+    "lng": -118.3778782,
+    "photos": [
+      "ATCDNfWiwwp6OaeD30T916wuD8en-hlu9xNfHIjWt-vWvAdCvdKUZigGqJs_VEodnewTLcUlYDvWul8ayPTdpo30bGnWDNU2R-3M7Hl4_RbEmME7y9HxZwpcbMNf8WFPpoRUYXYD1lDpOnzHNyT6DsNvfP8gRta9MokNAu5MsYJOTIFnnGaBjhC3XcE8K_s5DrCXo6bLFuN8neg3Td0ra_2Imdrs-aklLfJFC9fVdvFP6GMWKiyEMGZ25DmCBwDdeCRFYpj_lrfsdulnp1ZZfkfA2QXcNgFZXmmi6bW8GF1P4xjbBA"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ41L9Yuq_woARSkI2EqiEaqw",
+    "city": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJnZMydsClwoAR2rVPZlhdRkc",
+    "name": "Santa Monica Pickleball & Padel On 4th",
+    "slug": "santa-monica-pickleball-padel-on-4th-los-angeles-ca",
+    "address": "1318 4th St, Santa Monica, CA 90401, USA",
+    "lat": 34.0171227,
+    "lng": -118.4963901,
+    "rating": 4.8,
+    "reviewCount": 5,
+    "photos": [
+      "ATCDNfX2d71WJhaOoBSYe2L14rxuyRPPhvVrVU3c4zSLfeU5ryh93VADxEXn7Fy98CyjqXtZF6n3M5En9x9q4daRimkOcX6c5pDxhxmsB2wmqgM4p-_xZLXJLIsNnsaJIU_vf_hpqNB-gKgzQn0QpMY5jvZIsSVhEcX4dZ_6JVOzk5ZRGnvfIvrgF008hFLRoWZ3rFV0ymxhC5tH2YakESfbmT68yg3heIovf-N_CrV55LZTDsLCcGKp4GQRKJqN7TbER0fPbE8Gx0Kit1ZwebSRz8-R_23GrvUCM2t32efaXuhIlg"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJnZMydsClwoAR2rVPZlhdRkc",
+    "city": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJn386gDG7woARaJvU_acXl_w",
+    "name": "Memorial Park",
+    "slug": "memorial-park-los-angeles-ca",
+    "address": "1401 Olympic Blvd, Santa Monica, CA 90404, USA",
+    "lat": 34.0211866,
+    "lng": -118.4804285,
+    "rating": 4.4,
+    "reviewCount": 567,
+    "photos": [
+      "ATCDNfWquu22TfYZUzDzfUJpdZwgw6pr1H0if5qVIblP13fzd4mAcpNWrGT93dGfKCtwYdaFyGmVZiLXdGQKViTNMgPPqGAU_kqlRNe2VkSyYTpV6SgdN8BfClUawtiR1etCY6dGVz0UADaJ5R1ShntMIj-Wd8CVu6GsADvq0MMMJtnEj7R7tvQuWDgu3daiiMaLxTms_jwPd3SUK0zQJAmkOXpf2rRM_eBJSiH-HSAVcwaEzycHSDJu-2Toddfub3vWkXJy61r2dbrmLljeoGky-TJIV0yq4UQKaEZE434zASKrOASt0sNT-AJ6Z4bw-EIm1zMDIRBIQOvskkWgAq4fUV4KUy5luBnTnrQc_xZDmfzsU52-M595kwXUyB7SjNutlHY2aEvkZLBXmOduxCAMQPLhzLOKjMLgOlD7u6i7YlX0qMDaGWKaFX0B7J17AyBW"
+    ],
+    "types": [
+      "establishment",
+      "gym",
+      "health",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJn386gDG7woARaJvU_acXl_w",
+    "city": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJM8RbIACxwoAR7ZFc5YLMnQE",
+    "name": "Westchester - Pickleball Courts",
+    "slug": "westchester-pickleball-courts-los-angeles-ca",
+    "address": "Westchester, Los Angeles, CA 90045, USA",
+    "lat": 33.9590348,
+    "lng": -118.4155248,
+    "rating": 4,
+    "reviewCount": 8,
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJM8RbIACxwoAR7ZFc5YLMnQE",
+    "city": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJV7nUu1SzwoAR3AbfDnkkU5w",
+    "name": "Love.Life Holistic Health & Wellness Club",
+    "slug": "love-life-holistic-health-wellness-club-los-angeles-ca",
+    "address": "740 Pacific Coast Hwy, El Segundo, CA 90245, USA",
+    "lat": 33.9064211,
+    "lng": -118.3939851,
+    "rating": 4.7,
+    "reviewCount": 26,
+    "photos": [
+      "ATCDNfUHAlm6LzZGiluyMdYRRPXeD4a64kJ30D2PRWygxESt99kdNqWd3ukP1jInZqdYJf7STOSos_jQyWsa_Mdu4e01roIn6RP83jdWG5z4TtlMlkUkayQJBcph1gG2_zur2106W6UlCQzIqtFMBgZJ3oRN5Ikv11vX20iLkLdLV5-4mOXErsDwLIFIYlJKEtpCGWsD9rpDuUrGVj2jXBd7k-1w7bVcZk-Jtv5perxdOeZZu4Fp58LXZtqoBfS7aJ8ei7SRM8YDKhK7ATkZsnfVyxFHJ_ZOu1AhVzWpIBg8LBxbVAlEkfduCcSzeK51vQFEz9N6axAPOhlU-ofI9kYPsMiWH4HSwjJDqVbl1aLl1-LmbHLIbfqkvsQD1d0bD2EOsjTcRqMczlQSHsutgoR7yYIzWOlxvoHKlGVIVgK64JLEAg"
+    ],
+    "types": [
+      "cafe",
+      "establishment",
+      "food",
+      "gym",
+      "health",
+      "hospital",
+      "point_of_interest",
+      "spa"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJV7nUu1SzwoAR3AbfDnkkU5w",
+    "city": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJ_8gHC9nFwoARO3HBCHS0ZUI",
+    "name": "iPickle Arroyo Seco",
+    "slug": "ipickle-arroyo-seco-los-angeles-ca",
+    "address": "920 Lohman Ln, South Pasadena, CA 91030, USA",
+    "lat": 34.1166191,
+    "lng": -118.1689055,
+    "rating": 3.4,
+    "reviewCount": 5,
+    "photos": [
+      "ATCDNfULoqPK4vSwdWR0x2raYOLnHbw071ohz35AS7CVFWMdApvrMXhgvkmhLFIPjM86SNELuBMifSaubiSk8XiovsWkXoWVSlj7l52AKeGfvD9JuX6qfxswzoaEhviuFi5orv7XtGT2NhJEljmKqw8O1UtCbZDaaLmfnX9bmWOirx00kzresE67V_d4AuM5AVFpvQbDw0BzmPTBLfpCequ-WcGNSZa2GVEMASYoRTibOHl98sh3AHWzySy8lQkAx77Je41eSLNGFBLYnmZkE3p7rEWTtorll4uVByL8Y_bPHjiZuQ"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ_8gHC9nFwoARO3HBCHS0ZUI",
+    "city": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJ5wsTj_DQwoARg1MNPOvPiqw",
+    "name": "iTennis/iPickle \"The Narrows\"",
+    "slug": "itennis-ipickle-the-narrows-los-angeles-ca",
+    "address": "1201 Potrero Ave, South El Monte, CA 91733, USA",
+    "lat": 34.0434974,
+    "lng": -118.0572641,
+    "rating": 4.3,
+    "reviewCount": 138,
+    "photos": [
+      "ATCDNfV4HIxAz83JoDNESgR3n9CBSgXlM2DI6ckrsaUuWESSu8jbTnYr-ZSE-Kn5J03S0w0czt_IJwnAOjmiqU_SU1ZU9fGh69DUENxSPC40_gYiiOwWFc25p7o0SsOMl8KYvteuOVvYvJ-yjSG0JqqkB-5GyKcf53_3IB7jtqiFZz8aPOZesNFUVNk8UJFm_EjPMBSjNQl5DHlcG0OZjezJ43T4zOHoAimOCkzjwC_REuLQmM_d3f5wFQiixyGV2PVjm7HuENE7IJbXn-aKpQ9KEwtohDhzKbEggAGm9UQXDV8_t9yM6CYxf82oK8_2smojudP-OHGoeNx3OwHWch7mTlejuqBoSZfrTQf7pjv3DTB00ScLo0gwST5e35PFwWrb5ius9xvC6bTPFsSbV_etPnoaGoXB8Az82lJA6mmOYKdD5Agj"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ5wsTj_DQwoARg1MNPOvPiqw",
+    "city": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJm2XHhum7woAReWM8_Kfbl6E",
+    "name": "Cheviot Hills Tennis Center",
+    "slug": "cheviot-hills-tennis-center-los-angeles-ca",
+    "address": "2601 Motor Ave #3411, Los Angeles, CA 90064, USA",
+    "lat": 34.0443141,
+    "lng": -118.4071883,
+    "rating": 4.9,
+    "reviewCount": 55,
+    "photos": [
+      "ATCDNfWkEvXqv5WStQL4ReifBTJJn4tsWUXvl5LnRmMRhrSaQpMs58oYTK8dSFY2u02AHTbH5SN1_hH_G-_CWIz67YIKq46t2oFyjnkMdH-TFJYT6KtWwa5xac2VY_H56pBQT0kb8xIGs2xZPbcUnL0cF5UIZFzD8UWmzc1psNmYVkhe8HU8eTgKOr7CJ7WqYyThywpYVT75IpY1d2eFoE62nirUqWyQ4COjFjvjRQztpV2LbomTYi_yJmFYS_-9spp6j0nGp6VWDtAE8NExvDNJ_FnLKJScd7sjghI1VlyQ-YG-IQ"
+    ],
+    "types": [
+      "establishment",
+      "health",
+      "point_of_interest",
+      "school"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJm2XHhum7woAReWM8_Kfbl6E",
+    "city": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJzQpjorYz3YARLbvElvl-uAE",
+    "name": "Pickleball Badminton Center",
+    "slug": "pickleball-badminton-center-los-angeles-ca",
+    "address": "3699 Industry Ave, Lakewood, CA 90712, USA",
+    "lat": 33.824365,
+    "lng": -118.1657256,
+    "rating": 4.3,
+    "reviewCount": 143,
+    "photos": [
+      "ATCDNfWGyxjgadbmN5IxlkXXXB8jR0qfrRugtUNqqL_WSgdIxqlgXt8DrINWhE8EeEShdvV4EiOWaJlFTcHYRigGkaub1HVIhvWMWcPutL3DhsiJQum9sDyrSutwaEWyIiYPY_fuKEwMBnREH5aKFqSa45BVrLkdB8pucNX4HjvEy3ujXupapKr6biNHHchAcql0aeEGA_pUBhFaX2Hd_UAD6tqzdrdu1BkCpOlCOtFdLBh4E8uIzB41YxJJaXrbLJWqntQX3nX4axU9cc6TTrPmEV865UuBDZ0vSYXr3Qik5fpTKlsTCmC6J1NzL8VJgFiJ3ol5YDL6XyR4ZD9dlSZvZLmq8wLM0M-bzEHAWadOE-rDIZu9OFKCW5ozwFFFv2J8KzP1MsGu5wel0rMYtZcCgAvI12g587wxXrues3T9ktiSYg"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJzQpjorYz3YARLbvElvl-uAE",
+    "city": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJffrlzvrHwoARIRcBBzgsR8A",
+    "name": "Lyon Recreation Center",
+    "slug": "lyon-recreation-center-los-angeles-ca",
+    "address": "1026 W 34th St, Los Angeles, CA 90089, USA",
+    "lat": 34.0243846,
+    "lng": -118.2883821,
+    "rating": 4.5,
+    "reviewCount": 232,
+    "photos": [
+      "ATCDNfWhrYFp0aw_gXTF3OZ8WFBM5ksMOwMbwygCDFS_vziRz_AJvrFj3bufvZ3n_H304vO80dm_J5UKgv8up2wOKPSkYaFBXfU5V_qACqcbPRujI6F-6M69URTPEujVu7ZsG8f2WPvjfHePkuDbnbMPpHSGJub6wPodS-47DUl4gMWSbXEpDrI1unLb4nSi3GraJtnt4qLXQID2G4CKbMT3Qknbxwt_5s64-OnobL7teVb2yTsasuTgVaNb_Ti3wTF0scYEp6mqDjtTVlQKTMxcDxv8YMv6zARc582DX2bZXXUQa1OQr53KQwuI-aJ2cqHCJ8xR5ahcfL4xEXxNiZfWdo4d-_gaEv9G4jBkjUYWXbFxEMfxr_l0SqRkV_cSQCtwD1il0Oda18EY_oyUnQThqJUSz2-r0oCuxctjtDE1CU-4hOSh"
+    ],
+    "types": [
+      "establishment",
+      "gym",
+      "health",
+      "point_of_interest"
+    ],
+    "priceLevel": 2,
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJffrlzvrHwoARIRcBBzgsR8A",
+    "city": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJndkxCgC7woARRvpGM5cpBqo",
+    "name": "Pickleball court",
+    "slug": "pickleball-court-los-angeles-ca",
+    "address": "3H33+RF, Los Angeles, CA 90024, USA",
+    "lat": 34.0546168,
+    "lng": -118.4463354,
+    "rating": 3,
+    "reviewCount": 2,
+    "photos": [
+      "ATCDNfW9Kz3f6u6bHiK746OO-VxyKEW7HVoS5vmuj7WCFsLdMSlyFfn2ObJbgqKAGT-1YA12gkbVwqCoJlQAfbPnhw2okhnDVdewtR3r1VseUNYoA-C4pBVHtbIF4wcUiCMxLn0jWVIHMOCnAYCBMlZu0DHU9ar-k24VchpLaZXftZ0MpLYrxqACWjnVC1a_YvZAPGbE2H4SkDtSOz3Zd00vQNNg0Sj8opyc1qigaUtOnJAZNVYVCmV7H3UlZXNB71EEStmXXaz4UoBd30GBayP8CbX3gwPer8_0YMpAoEEFGcHZ_AhzDCgh4vrzLtoS9nwyCqLnsnil9frD8n9JqF5xuPld01fwF6Vhkh_eyNXp1KOVMASHCfNQ6RfEKTU-ngQ7r2ml_sgUelu0fevdqK6HwaTuMBGgzsB_pgWXzLSBSCSNZje8b_axJIhATM977q4L"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJndkxCgC7woARRvpGM5cpBqo",
+    "city": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJ0axrOwCDwoAR8vrly3VR85g",
+    "name": "Porter Ranch Community Park - Pickleball Courts",
+    "slug": "porter-ranch-community-park-pickleball-courts-los-angeles-ca",
+    "address": "11930 Mason Ave, Porter Ranch, CA 91326, USA",
+    "lat": 34.2889329,
+    "lng": -118.5819663,
+    "rating": 4.6,
+    "reviewCount": 5,
+    "photos": [
+      "ATCDNfWaIPoZPaCXXeOgTc3XOO0x5Ii77S0VPiHInFC27MRULB7XLkxCJksMnEoS44PSpxTnI666ragoQlkYc3uzTyhpRaxDeGOaFWnBs1MRppOL_gSZGuU2st5AcJpBcvM8KkXCYHBHZIadeu7m8XYCNRS9gzTXSXlHT1yq5X6krJwePI2gs9XFEz4HkhKO2sjuK8f2aUvkqq6SGO1D1SmgqwqCMYibIN0DrRDYb91kyhS86mcJtkiVoKG7rhTQfTkvriTdkQdyQwFGAMsvR5vZMhhE7ARnTTpgY9ZbsaqWC-VwL7q14ptN2gRa8LOy2vyFhv-A8_akYvc1EHW_FVcXB49It_4NIMItwdQt9fRaW81am9qO4u9GDW_8dxVAmwdwlllmc-SaCwtoB_phYakFPpYx_XBp2mJEW7hiY3xv_b_tnNXd"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ0axrOwCDwoAR8vrly3VR85g",
+    "city": "Los Angeles",
+    "state": "CA"
+  }
+]

@@ -1,0 +1,1858 @@
+[
+  {
+    "id": "ChIJ3YZ9LAAts1IRCPp85wdhtk4",
+    "name": "Minneapolis Pickleball Club",
+    "slug": "minneapolis-pickleball-club-minneapolis-mn",
+    "address": "1200 Washington Ave S, Minneapolis, MN 55415, USA",
+    "lat": 44.9748887,
+    "lng": -93.25090709999999,
+    "rating": 5,
+    "reviewCount": 28,
+    "photos": [
+      "ATCDNfWH0LfYcm7rSLvGJBYbp6EUJ3V2Q0xyTW2iIrxymTSwDnpkkqi4SFGVSS3rPXcadRnnlyyUOgJ1xF43zO1Ht0gVeB9zEGE6QI4rJmHf5pv1HJKx77QRShuZsX7OceBItC01PsIHYNGBSnTFPwvf9s0fMiijvZiA89xVheT2QeZcfn3iyygI0ZsuE-yJvmkzT7_LjjU7idZLJMegHE0O4v5pl9bFsV7C0qKpjX_5vfSNs0wyZB4inE5VxeT4biQkNuxxi7wBb0GNNALoeLEl8Q4fYpYHA3TwPKkd_UppaP_C2Q"
+    ],
+    "types": [
+      "establishment",
+      "gym",
+      "health",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ3YZ9LAAts1IRCPp85wdhtk4",
+    "city": "Minneapolis",
+    "state": "MN"
+  },
+  {
+    "id": "ChIJY65mW38ys1IRfsXg--_ye6E",
+    "name": "Dickman Park",
+    "slug": "dickman-park-minneapolis-mn",
+    "address": "614 NE 2nd St, Minneapolis, MN 55413, USA",
+    "lat": 44.9947598,
+    "lng": -93.26360059999999,
+    "rating": 4.6,
+    "reviewCount": 117,
+    "photos": [
+      "ATCDNfV2S0GFxdoe54DBAvFSK_Iw-m1mlQT227MBEHxl7gM5QPN9BGsY2qr-L72hh5vmTMOO5S56Ox8dpAetsz-mat6Eld9FGQNrVArp34caQsetOpGPRisnH06ZWS7JOiTCgY04N1pruZm136PhqzHLJ5mgIJMBtb_7aa1FhsEb4KsIW3qOwL0F1BrmUdeA0pQcNjjDXnahkQR3iUkAu8X1ZpmXn7zuONRqS_16IakGPfPJj_IXKPxSG8WR3LRuuciSXgNzEPJSYcaSXdXuRjN6KM6u6osO-FsXmG0QUbo2SwhVHHLQ6w2_IN0aquvUNUqNyDYbvpkTdHujB2EjGnnBdNshxWWbuScsBhb0M3RD6_tJy3Z3MguUxs_9sbP8iBuRfG6QerMAVvJ0NVcy2RyQ51gVZv2vTRJxzjvDfvm4Zp2TTw"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJY65mW38ys1IRfsXg--_ye6E",
+    "city": "Minneapolis",
+    "state": "MN"
+  },
+  {
+    "id": "ChIJ1VVL9U4vs1IRjPisbJia-1U",
+    "name": "Lucky Shots Pickleball",
+    "slug": "lucky-shots-pickleball-minneapolis-mn",
+    "address": "3300 5th St NE, Minneapolis, MN 55418, USA",
+    "lat": 45.0282981,
+    "lng": -93.2615209,
+    "rating": 4.6,
+    "reviewCount": 246,
+    "photos": [
+      "ATCDNfWZbMjX1y5yp1o60QnLbWvH-n-h-ObVIJAn8LK6hQABR462okzljXxyGwZiyjBX1sBNCIGu7oxETBsJwLLEWzn4wAKDPHgFP2oQySK4NBh-8zjyerND3ngb1bXFyuug8DBIn-UUlrbZG54xYWPCEdcWsWzXKWGy5vktWOy7OdT_R_900o8Rips0DACN0UQN4XoSAqK9hIEVg-TLOtVovSXKuno7S8bQiqHs9CddVKHoCS17v71bHy950NFFgNOm0o9jNHgBEgWR11tG4sEPTYhRByoFle7RFk__qi-DKET1yw"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ1VVL9U4vs1IRjPisbJia-1U",
+    "city": "Minneapolis",
+    "state": "MN"
+  },
+  {
+    "id": "ChIJK7nN9FUm9ocRCr0y0MRO-uQ",
+    "name": "Lynnhurst Recreation Center",
+    "slug": "lynnhurst-recreation-center-minneapolis-mn",
+    "address": "1345 W Minnehaha Pkwy, Minneapolis, MN 55419, USA",
+    "lat": 44.9118382,
+    "lng": -93.2986289,
+    "rating": 4.5,
+    "reviewCount": 28,
+    "photos": [
+      "ATCDNfXvuL1Lu1F8ZnHY8tN9zlEtG_dRwKjxk_8tOKfsNlsXza3BMCZtUGvZCBItaYi02GjWZAmj_NypfQ_DMDtpwfFEdYbESWLkubzzuqGSSoAI2trcEzx3YSvxnl05U1w4cFKO63L19MzRtQsBbBaTpbMXtzu_XkRTEy-rVDYxhOLtgCTvq_FATpbphwTLjbWb_D2iztClDIAjgY9QB5gHtgALQ3E1VIFL7WTBTJSiD-jVroJJ5-fJF4eMg7jYQIBORi3aeLtE-pJYKEgxVALe6HZgc5I67T92J8VPVWDEOcO7Wtq7-gf3xxafJm57mVn8tqyy11dcvuwfTjy4vvAKhgXQC5F4vMhzI03IrLwEiL4CZQMMbX6x8WBOUqVfJoXOPH_Kj8RgUaSJZRphhNQXFwWX6nVePCItR0VgD4Z4tKGtq6g-"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJK7nN9FUm9ocRCr0y0MRO-uQ",
+    "city": "Minneapolis",
+    "state": "MN"
+  },
+  {
+    "id": "ChIJl7RdUuYp9ocRgkIqpSwWa0w",
+    "name": "Lake Nokomis Pickleball Courts",
+    "slug": "lake-nokomis-pickleball-courts-minneapolis-mn",
+    "address": "2477 E Minnehaha Pkwy, Minneapolis, MN 55417, USA",
+    "lat": 44.9156743,
+    "lng": -93.2358165,
+    "rating": 4.7,
+    "reviewCount": 24,
+    "photos": [
+      "ATCDNfVBJErU8o6NeVcPLvEpYxUBxxF3xNTKB-AVH1v3aD1sRCL4113llelTlNybTJXdYBJwdgfsnOioZpIj440G4hWZw5ielUFPT2yalRLUMZo-ZT9hZzrJ66i9BNUZr7tNvD5V2J7ui8hOW1g5s9RVMRaD93GUAUewfE-uiyPAV1cTXmbN_Uvq13EbmUSqC8BYtkNHM_KWKiGBiuzwSZG5bBE0nOG7mNLRUdbw-TQOlmS4GDgxJpIuSF370q6NrNHJNDVaqT9dsRAE8aJIK-R46zbkxwFreUU-Ve9MGKmf_ZE0IUDxCF0Zah6xBMaI7I2I4Topb_QWqSGeus0vSlRSLFlxSCuTzRVbwrRXoVQOGE0sfFOVU6fMlJtGeec5pajlnXRmIqcFviWWjkQFJrmsmkUTWPkFl69Z3G_nUaHoUIvuuHgI"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJl7RdUuYp9ocRgkIqpSwWa0w",
+    "city": "Minneapolis",
+    "state": "MN"
+  },
+  {
+    "id": "ChIJd7Mi1jom9ocRBH1v5XNAR6g",
+    "name": "Pearl Park",
+    "slug": "pearl-park-minneapolis-mn",
+    "address": "414 E Diamond Lake Rd, Minneapolis, MN 55419, USA",
+    "lat": 44.9044401,
+    "lng": -93.26881449999999,
+    "rating": 4.5,
+    "reviewCount": 416,
+    "photos": [
+      "ATCDNfWAvcd22K4ren8H2tZ2om8zw812n1naQSIE6Hxi9ImDLga1C5wE58P8ukVXj9Ywr2T3lx7A08RI9mULb-Qm3IRvwA2MXZijUZImZazEkiPkMD_qTBUGKUPwasaDA_jx04CO44TyOtZP5nIo_hfoiyo03flappoKtsRzH1nBr7lyAjmU-VBOAyDpkHLaTvK7F4KmaqPPGfrM2F8IhYyVJB_yWF0Cs5U6SFdwSgS_1qAscVh-kZL5KfV5GNkWdefsWUG8aJcp76WlKV7OCN28ZXo7fnOAuVOBxnNQ45JjU77SRzBdiJdinON-xnfpNl4G-JmA5VofvuWTMJI0cgCGuw4NziaDxx4UfygOG7iZERjcT38UDg2Jhc0qqYGOhXUYLVYyRJcwS1Lg2zWnUbwska4F0XRn0lVmfwjIDmjqcRgDYg"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJd7Mi1jom9ocRBH1v5XNAR6g",
+    "city": "Minneapolis",
+    "state": "MN"
+  },
+  {
+    "id": "ChIJ96o0rQAh9ocR0KRXYpRE-4Y",
+    "name": "St. Louis Park Pickleball Courts",
+    "slug": "st-louis-park-pickleball-courts-minneapolis-mn",
+    "address": "St Louis Park, MN 55416, USA",
+    "lat": 44.936206,
+    "lng": -93.3428519,
+    "rating": 4.4,
+    "reviewCount": 21,
+    "photos": [
+      "ATCDNfVS8PqcabdqRZeivrOJCrx2kZ1_WNczSpcsV0f_I36cBXOJOiW_L5j-NDaDVpRM1ncTOJ3TawoApZjOASYo8Vy3bAzcIP3mwg-BzDIj_bbSGu5D_cNG8vWtUCDfg7h6lH5fn16v3ZpEp90KNXwreuoBIFp_VgFyC9THJHZnIWleq0L9Frme9imaMHzFov3rD59Asadz9fgvJVto4cZy24LLI7kMD4wOKiv-r6mK6RuAlQAN2sUSLxhLw4QS_EQZ1oxvs-Pk-2Nps8_YLng4AvEsuxWP6wHAEzPBTj9E0i62zLG_ArmXPVEiTWgvYfNKluk6nwie2t23eCwxceOGqcahOERXCjsE6VroZkderpoVlk7fdksEZwdlpJ-zypw_xDhhVON3j0ZQ7pejhfexgG0mJDLhe9_-ZXYjLVw_osTAmw"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ96o0rQAh9ocR0KRXYpRE-4Y",
+    "city": "Minneapolis",
+    "state": "MN"
+  },
+  {
+    "id": "ChIJ14LF_tQn9ocRCJ48f0h7xbw",
+    "name": "McRae Park",
+    "slug": "mcrae-park-minneapolis-mn",
+    "address": "906 E 47th St, Minneapolis, MN 55407, USA",
+    "lat": 44.9184095,
+    "lng": -93.2611483,
+    "rating": 4.5,
+    "reviewCount": 198,
+    "photos": [
+      "ATCDNfUuFqE1m-WPmYQOnsh4Sotc0xE-DZpDVUNCG8Y8M0-n7WB4qulcF9tzSeO8KZkPLdQKpXTq5X52w6zvctOqCmuK1tV0wGUlBjMsBD-JVtcOoWfSHVaBgInwHT0lo2b1Ssbkcq4SAjXayId5HlCly1gdsypa4QpIoHjk_CDf9bI62p-RlYWIA16fMvNWpLCk18FAsMpGyJSBMbLT31aUEhFYhAJYG0xce-Y6BeKtxhbDW3xF5ezJ48DGbrFAwzRUuUbUwNWj3C4csp1Np7xkat18FjdwLSB2RxM11g0seaNzLC99eJ0QVFV7neyY99D2uAp_NS0OIYQQhOmG_ezVSTjFwFZnuhuNhFQnz4uFUhS7OTg8CNoLwwMTtIB_dvZFgzPHf9576FbJhY62wpPAj7vPwVrhizJKv1Un7qXoDKoGCQ"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ14LF_tQn9ocRCJ48f0h7xbw",
+    "city": "Minneapolis",
+    "state": "MN"
+  },
+  {
+    "id": "ChIJM_WVB5Ats1IRHOaFKxURlCE",
+    "name": "Logan Recreation Center",
+    "slug": "logan-recreation-center-minneapolis-mn",
+    "address": "690 13th Ave NE, Minneapolis, MN 55413, USA",
+    "lat": 45.0006107,
+    "lng": -93.25319929999999,
+    "rating": 4.7,
+    "reviewCount": 38,
+    "photos": [
+      "ATCDNfV44pVBtpVq51gh6CaDVvPlEk1sFa3DIvn8Xr_WVhpZFS5TifA8TJMzohzgyyfvdCGTsU7gGoNUm2wkKxgaAJtKpSDZMMzxkzXRlkWTNb7PTPfXe2TtMrzuw1QItoRruFGT7cSOEgX29SrVym9IBDBk59EVX_3NO-W0tS5QBOo2u9f1p7lC8q7FQXebP0YjglYXAWRp62__O65SnYJc24X8mdyQcrj1KxL1O2pO1Ck1RHHVw1Ky9pcAlbtY3JgIIK8H-oF8vfVGtxiTitpfvbDAYaFRf41xFk4SWVbf6ywz2dNwlwLmweWVAwpSWa2WM0ssUQtEWJchaHuHnM2xyLVSNxKt77WQ1s65xi_YaSnWzzqW0Qw4TmUr5kDmmm5Noah0v4V5YgLtfdX-_xPfWCOuhI-DOU3Jq2WoVSIIxCg"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJM_WVB5Ats1IRHOaFKxURlCE",
+    "city": "Minneapolis",
+    "state": "MN"
+  },
+  {
+    "id": "ChIJs5uaOq4h9ocRbqKzZtiHD3I",
+    "name": "Mooty Pickleball Court",
+    "slug": "mooty-pickleball-court-minneapolis-mn",
+    "address": "4300 W 66th St, Edina, MN 55435, USA",
+    "lat": 44.88638659999999,
+    "lng": -93.33994919999999,
+    "rating": 4.3,
+    "reviewCount": 39,
+    "photos": [
+      "ATCDNfWErWHfh5YnDdESekyBPDhyGe3FsF-rN-m-ZUgWiKXNE781WezPzbm1PKjDr_gasZQLa9-c9ZoNRFzWUocE6Qg48XBeyPLzFSkwOj9DZJV3EwdxUzOJBlvvZGSybXUKTx1fklmYlw4VQ5F4XwhDI9NhVGuz1l60yoVgntsO4HA19VN6B3MTmjfXzRluSeF5uHw7EwjT98dosX2yoAcmM7ttOnRJHEemzBiHuQqrqQ3LGzh7SnS82zgrpaJBxejbdUQeC1k9u9qDfH0iMbW7PPgjMX1iB0PnHSsnU5gq-5jWofDWIjb7K6ewMO9QuwWDM7KO_W2mdZkTcb87iVb6ZQObtbJlkmzWkFmfjPUBpN_k4t6G0KSLjr3diI5PENVADevgfptU_qV4ujkAyCXpP6G5Zpi9BAdnOmzdwMTurCGq-Lo"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJs5uaOq4h9ocRbqKzZtiHD3I",
+    "city": "Minneapolis",
+    "state": "MN"
+  },
+  {
+    "id": "ChIJeW09bz0n9ocR9qIbYDD_R2k",
+    "name": "Linden Hills Recreation Center",
+    "slug": "linden-hills-recreation-center-minneapolis-mn",
+    "address": "3100 W 43rd St, Minneapolis, MN 55410, USA",
+    "lat": 44.9254356,
+    "lng": -93.3194872,
+    "rating": 4.9,
+    "reviewCount": 14,
+    "photos": [
+      "ATCDNfWKjJ2Ihy0FMCxHR-B4TvIawhxlwQ0DsEg_rq8UIQbFx4D_mTYryiXr-MzFT6ReTWyYjwktG4D7SAhQVNhu2o43epDgJS3xI2y7VEIE-S_-b3xEUfBuV0V6FSHMo7Mp2GBKKxulVdEPS23iQKOtbyavCUqdFxoZopA_o5-VhFCFDkJL8bcP-XjQsa_Qxj83n5JG22T2p5NX_rfsawlsxehGO4Boig7tAKgauq7pb5GUp_wBwJFbMKlMAbCf-EbQIAhafp5VtLF8aNtQdxb2RRoPCQtESqx8LbfhD4B4rWx9rgwSIzzJDt_ui_m71s0c2-vfgySIGF86Syxiyu6AJ-Cqry5OywZssvrrz7PlDfoGh41Bri_Ri6o-uHusC1ii1RKqpBoDhncxNvqXNBVvRCUGV4Xgc6tUqeEdc5znLK0"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJeW09bz0n9ocR9qIbYDD_R2k",
+    "city": "Minneapolis",
+    "state": "MN"
+  },
+  {
+    "id": "ChIJzUDxyy4ys1IRrigShMn5pME",
+    "name": "Folwell Park",
+    "slug": "folwell-park-minneapolis-mn",
+    "address": "2MFX+9F, 1615 N Dowling Ave, Minneapolis, MN 55412, USA",
+    "lat": 45.0235514,
+    "lng": -93.3002305,
+    "rating": 4.2,
+    "reviewCount": 546,
+    "photos": [
+      "ATCDNfVMhZVHi8EMBCVYnLzfvpxDLPF6FARh3y3XPteUQbJxl9ljp9pajmLBVGpSdCNBSMNhtt29FIFSBJwnt8cELphh5KEbygJRgMSZGaRs2eAmh0_QbASWHasTGoVCPlUO6CnZyzqD2GSVoqQij-rdEHUZKk8j-h9d4rhn4wXcQLGiRmsMP3yuSqNNXCl_pGq4s39ixRmc_EqlDad8w4z7i5r0BaCZBYM-jAvkQ-wFa12c-QERWyFEmOdr0lc2nmL4clEUFDv82nqQ1JfGPh1FnkYbrnoBoBZaiQJQCs9XcGKzLDOJmN0izQPQNFTXRge8Fd-9148r4oeBTlNQoyvk6mxL_nQ2Xww9B6c3jUaum-ahz88WNZxh3YJf54m2dD9G1Jfbhu2nbIvkszQMTK2zPipWwFs9jBlrrtZCa0Itdm6phHSi"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJzUDxyy4ys1IRrigShMn5pME",
+    "city": "Minneapolis",
+    "state": "MN"
+  },
+  {
+    "id": "ChIJUaL9YpAn9ocRaVDI3qVh29w",
+    "name": "Painter Park",
+    "slug": "painter-park-minneapolis-mn",
+    "address": "620 W 34th St, Minneapolis, MN 55408, USA",
+    "lat": 44.942151,
+    "lng": -93.28748499999999,
+    "rating": 4.5,
+    "reviewCount": 282,
+    "photos": [
+      "ATCDNfVnVTXGJrAAxozOnkwnLPoRbNRC_C102u59Ffbhtwuj-1s9lr0rWqk8aesfgpBNC8QIDeeRX8cF9cXevZkr0pRERGA4ub61EMMOgdouRuKEfksYoyt7th7icGtVgl02NrQfABxUoEOb1UGxfAchul_2hn_2xO7f-DMUaa_rdibiCy2GppSoA8zlFR8LHLh26ZVwdeSbcqetIMCy67-qixDY0MdBBykzmJg0J_3YzaQ3axBgRePUgbpXZm1RwB8KSAObR5nchxMmsbipQhfrzw1D1pBN17xYNl8myGSf-5gqItcca7gn6RXQcitNaE9CKKnxCu_PUXSKv-PsTu66y9G72Ayjbx12ADDEGR3u3wAVlNIo2Q-qOKSVTDHSeGciA-ga8agNY-AdCGdXHqE8e2rOxpykNA2EdY7w313YKhTZJQ"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJUaL9YpAn9ocRaVDI3qVh29w",
+    "city": "Minneapolis",
+    "state": "MN"
+  },
+  {
+    "id": "ChIJYVnfj7sts1IRF7x17XHCbp0",
+    "name": "Northeast Recreation Center",
+    "slug": "northeast-recreation-center-minneapolis-mn",
+    "address": "1530 Johnson St NE, Minneapolis, MN 55413, USA",
+    "lat": 45.0038788,
+    "lng": -93.2381934,
+    "rating": 4.8,
+    "reviewCount": 49,
+    "photos": [
+      "ATCDNfVA64JXKuA-UsHonEkqV4e305Mgeg0mGYVYlFlIzs2yd08s3qRCixVtz5s05rdJswAC4qniB0bjAJGB_NytwYENTRrb60fDuaz9Xcx5OQdoTi87lZg3cmb5FwUevyEVTDMAz3Mfn-RXzIFzvwv0wIUWVZzI3rbtnvXl2FiWHtx7kPj7HnOprET_aXEN-fGnoVGBk7ezAXDizGUG9rvMrkmJPpZ3qEVN18S5eZNunRJ-36paZUMxNo8VkI8fGbBp0uPL6Nv49o-BAEGBn48FdwXJ1HTaPCwQ_CaA7-4wpEVdCuJCRjLzYxVEIPKpOv_2V1TRuqn_6QtGm9eD3rI5Hek1NAPJm5QcN5cko_cEGffJzjBRe7N0BaeWYj-oRGVMbqWLPx3KvXfWYP_ffYrfFhs17Qqm2BBaCxqcDAwbcgI"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJYVnfj7sts1IRF7x17XHCbp0",
+    "city": "Minneapolis",
+    "state": "MN"
+  },
+  {
+    "id": "ChIJrx8aPLg3s1IR2ftYPK6Nm_M",
+    "name": "Pickle in the Middle",
+    "slug": "pickle-in-the-middle-minneapolis-mn",
+    "address": "7700 68th Ave N, Brooklyn Park, MN 55428, USA",
+    "lat": 45.0791418,
+    "lng": -93.3794388,
+    "rating": 4.6,
+    "reviewCount": 55,
+    "photos": [
+      "ATCDNfWT-8dyye-L5LFHJaH8z-1fxCQwJuqpd9kVhKaIG_AZT2WWzDHnn4NTuP8B_cE4cz6K79ZzXR381b8r6sZ82hcf9VgRpHKEkQgvqKBVuxreIbn63w8VFS_eukSKZXKOoo8nHPCReskhQaHNl00-MkoUBlWGwfO_y88nmNWB02XVOP4ehf8f_WUDuz0OY86U88hswsjC5I1Z-HJIM034tZnS2VPRI8TyRgDAmmARaj25dDHhjcwBBd14xfcgKw9YNGmwC7tRUuUaxuSVZCWgIRrS8SrlvSsHKPhxI_4EO4qMEg"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJrx8aPLg3s1IR2ftYPK6Nm_M",
+    "city": "Minneapolis",
+    "state": "MN"
+  },
+  {
+    "id": "ChIJp9GvLgA5s1IRdA_xmu278wA",
+    "name": "Le Dome by Lucky Shots Pickleball",
+    "slug": "le-dome-by-lucky-shots-pickleball-minneapolis-mn",
+    "address": "8401 83rd Ave N, Minneapolis, MN 55445, USA",
+    "lat": 45.10449149999999,
+    "lng": -93.388627,
+    "rating": 4.3,
+    "reviewCount": 38,
+    "photos": [
+      "ATCDNfXvV5hAHhqWRYM-YDfFAeaw2A6XPCt1y6NjgEIZOdZ3xT-KwYdwRnY49QRzKfsbO34s7MsdrmE1T2e3NfGhX6TOUn5uQW5JU5VMuWM2Z6PEKFPMiQD2oUKpBdK5ppe6Z9vc-NgATuS-pm9epXpK7aLNJRTJTqENVLtaZSX7NmMKMZZANwuPq2R6RjNX_Od0QSX_FHzSyqxTdKBxwxReFE7B-a1hUwk5yRdQTkdbAN0TJYMJUQPq0jHNIQ7v7Dq9HHKiGa5ElTckNty7aWK3qBaJtYYAx4qP8u8FHibSU6Q"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJp9GvLgA5s1IRdA_xmu278wA",
+    "city": "Minneapolis",
+    "state": "MN"
+  },
+  {
+    "id": "ChIJxyfHgEU0s1IR7z4PL-5JnSU",
+    "name": "Wildwood Park Pickleball Court",
+    "slug": "wildwood-park-pickleball-court-minneapolis-mn",
+    "address": "7401 Duluth St, Golden Valley, MN 55427, USA",
+    "lat": 44.9994975,
+    "lng": -93.37481679999999,
+    "rating": 4.7,
+    "reviewCount": 39,
+    "photos": [
+      "ATCDNfU9EdmcjxkCykwjV2B-dmktQN_RoRzCIFTpmjxq_bRxQys41jqG_vBgD1zooDiJW3xSKqnnOTJDSTCzlqIjtG27GGkNWg-jiqHXTAOkuQ9-Xbh99RAm5xslAzNK9IPOrpjhCG30yDarKhT1jk5w7dLh-Vi9SoFUlMM4h0smsmArVUrok6b41QPKDWmpTSvuY4HZikWRyf8ze7T_BpkgvNnb_42jpd6jCAHcViq9k16j23sbRP0U6j-TktfLFONvDS_FNNvhMAg6aYSxciF743r0bPIpjLr5n2PfVe2-kMHw8wbMfXkCJxUGkeF-VwFkGOT71FiXznVETl4c-T-9mi1rOo4Vbmy-tOG7svwKMryZjCKSouEiDNQAt1dgU4FUVpPpN1b5H6A0nH-Uoou8sLM6pj24rx6drDojT4nw_tw"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJxyfHgEU0s1IR7z4PL-5JnSU",
+    "city": "Minneapolis",
+    "state": "MN"
+  },
+  {
+    "id": "ChIJffiZaIgo9ocRIQyLUHoyafo",
+    "name": "Lake Nokomis Community Center",
+    "slug": "lake-nokomis-community-center-minneapolis-mn",
+    "address": "2401 E Minnehaha Pkwy, Minneapolis, MN 55417, USA",
+    "lat": 44.9157933,
+    "lng": -93.2368055,
+    "rating": 4.4,
+    "reviewCount": 88,
+    "photos": [
+      "ATCDNfWeeWyTqqB6Ape6RoyEQfYO7KaFU2sHS3869M8cSVxZlfG3F4LJnWatW-9ZwiYT0Ia7WiIQonMHvnP-h-jIzKJALlbiRO5JP8DgdSBYQbSz1SYDgK4J6cqBC27bHnXl4PMi_Qn4nXib8M82IUW1DpMOYinwmduaGOsZ32RDBA-TOyKQ6L_rPP7pyhwP_DpBbamLDhOuhc2efEIvYWzec7tcFYhQ81AtGvCWufhYT0HaE5IxrHUioOzY-zqq5EocVc_NNusvmjh_dwmenhG027XCyh6p7a20uJXv3qxcyjg_KcuC-ClxQO9Vx_A5Q-lGODLL0nxiE5qsYkQRhbEbwDRKIAsBhNksB7gc5jLlIedg7F3d8LX3v5s6n6NbBSYlgetimjWs7SCwBiHhyvw4IUkS1pu7BEy4kkQFxGLkwgMOrg"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJffiZaIgo9ocRIQyLUHoyafo",
+    "city": "Minneapolis",
+    "state": "MN"
+  },
+  {
+    "id": "ChIJIbUoAYMts1IRfG9ZCK-Th00",
+    "name": "Saint Anthony Park",
+    "slug": "saint-anthony-park-minneapolis-mn",
+    "address": "425 Jefferson St NE, Minneapolis, MN 55413, USA",
+    "lat": 44.9936868,
+    "lng": -93.2550309,
+    "rating": 4.5,
+    "reviewCount": 112,
+    "photos": [
+      "ATCDNfVrMkowDavjjoEVQGD-wSe-ThRCBcAE9WAJoYERwh1h5gWKtodYd7U5-8R9s8UTlfap6cIiE3mPoeOCQkzp2H8ztJL79vY-3qwzhkfCRVMukgriEtvqCSqHkK8xO5kJyFLdWPKWpNdjnbRNnwdRay9UVF33_25JEl7Kci6Xi_ISW2RE2dNKV_NFFVWvblJkCk3Pp4kC8H93Dl5aVhParSUFACkxlnu2Kdil7suRyeGVeIw802jgKRMUFSy60FvvGBHvFhDN_C6WHti6Gjl2wllXiLhA5nXFV8o66G5KxG76q-vJYL34FtjNSbWRBKOX-20DvElbVZweicuvDO8viZBWTD1HMlAJS5DrpE-mOvSCFSQgMETp79GiMgSL6BCn4tO6wFgvNqxH-PHr2YwoYN17hwMHOAqWJ2mUCa77D5G4AiQ7"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJIbUoAYMts1IRfG9ZCK-Th00",
+    "city": "Minneapolis",
+    "state": "MN"
+  },
+  {
+    "id": "ChIJd7Mi1jom9ocRz5ZlRttStKM",
+    "name": "Pearl Recreation Center",
+    "slug": "pearl-recreation-center-minneapolis-mn",
+    "address": "414 E Diamond Lake Rd, Minneapolis, MN 55419, USA",
+    "lat": 44.904403,
+    "lng": -93.268818,
+    "rating": 4.3,
+    "reviewCount": 22,
+    "photos": [
+      "ATCDNfVdBg9hmZAq8IfKTDAacFmXfP3X5QkaPRDJVL5MDI1JbDb_r2XmqBtV5eXrXVK0ZfI4sw3Q6kG4KlXEtZEww_WhzGDaRJr9efCtAPOA6LHUsExoPodIP-X0i8RaRz5TgDDiTZS9bhipwflMKYAHHI3TWTxYSrqsHuACCEYBcWv4VS8LowfC0DPIhu-3AOvgZ5_yqhh-Xqs1KXy3Ktq8E7bYqKSZVSqGN60yU9rapdNEfEU0mpRMRNbF-DH3YgMtAZ_cMX2wX-Qn_ID5Bh_JYmOV1wQZflFuMjpkIBOP3KQLoUxh0hw75x9emrKp1yA2eA8LnAhSZjo-sKSLXEvJTa8mUNTuQBQMvlAGUe_NxTT_PJ0NLqpLH61tMLLsLiJIbbsjmuomTKk9sLJAod_FiFkHFoAnLD263fBgb2qp3BRAWouk"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJd7Mi1jom9ocRz5ZlRttStKM",
+    "city": "Minneapolis",
+    "state": "MN"
+  },
+  {
+    "id": "ChIJF68VMQko9ocRcrNrr40jyNk",
+    "name": "Powderhorn Recreation Center",
+    "slug": "powderhorn-recreation-center-minneapolis-mn",
+    "address": "3400 15th Ave S, Minneapolis, MN 55407, USA",
+    "lat": 44.94133250000001,
+    "lng": -93.2547103,
+    "rating": 4.6,
+    "reviewCount": 165,
+    "photos": [
+      "ATCDNfWobQdxbjBQWOhd9kMPrpAHXAh-XMOukyLH9vPcQGfO9odtEvf-1e0QZDfnMSXwEvttzvXY2RVL4O5H1CH70MgeJgoQxg5V7646NAZpHXQcFN-ltsmueHkFy_zx9cNhDAz0x4xvUoYlgzLS7rezYsNIWqx4qPUP_aYE8cRv30N2g8_ulDQcI9IrQi-_p6_xCnz6GxSP2UneOXbu0G24NGYiOlv4FeG3uGNcYXvc3ldul5ixSDnv5rdL4qaDV92ISyRduBAN_tE7YLxhzDm0cHOvXn_5m1svXhoV0ZHYD_En4B1xKsZ64fNcyL9LAfcSAU69DtgZMqTfvWI81CuxbtLFwKLFT8nArdElyA_ZVP46XE321KjydX2gZRiyLL9fYKxdaLIYi4y8d07riwYYl4Kcz-T1Tw7gHI381pFSjWDALRN0"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJF68VMQko9ocRcrNrr40jyNk",
+    "city": "Minneapolis",
+    "state": "MN"
+  },
+  {
+    "id": "ChIJRaPvmlwv9ocR1VWDhTTqjVM",
+    "name": "Washington Park",
+    "slug": "washington-park-minneapolis-mn",
+    "address": "Minneapolis, MN 55423, USA",
+    "lat": 44.864728,
+    "lng": -93.250081,
+    "rating": 4.4,
+    "reviewCount": 170,
+    "photos": [
+      "ATCDNfXHNRVOwGXi99GpqXzNqiiYcKZ8EekKGOLWpJ_tDRb_BnGZTxiXywfOOryMwkb7ssxCusskzHE3Q0OGk1EjG8r6H3FNTI2q8eIf4nzDM5984BxJW71fIXe6Q_0rGK2AHv8xRabS9N6MiYJKEa467lC8QRD5AdHgOvClC_WdvbaTbWs09dSXwpUiP-7f6rjntmVmVtx1SNs7OV960yqpuItvPlsnMdZIABPAMnAf8ztHQQ063tm4PxL94m_ySEXqMlP-7iX6_O566P1VZM41hBJVu7OeF0cYqRSZvpPeMgXHH1_aqlFlp7V2DTjPKhqGsFu6Lf4qGxsGjbcDdDS0v9886ZrXIkL4m5YWbdTrV-B-nddEFAAxchHGqLYPto4_4RJ-S6lE5MxJ-cnG7N4AhVa3j2xDYRPn3UJQ4oRL5eklPlg"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJRaPvmlwv9ocR1VWDhTTqjVM",
+    "city": "Minneapolis",
+    "state": "MN"
+  },
+  {
+    "id": "ChIJ08afSKIn9ocRsjfkYdiUxOE",
+    "name": "Lyndale Farmstead Recreation Center",
+    "slug": "lyndale-farmstead-recreation-center-minneapolis-mn",
+    "address": "3900 Bryant Ave S, Minneapolis, MN 55409, USA",
+    "lat": 44.9320929,
+    "lng": -93.2914,
+    "rating": 4.4,
+    "reviewCount": 32,
+    "photos": [
+      "ATCDNfUKNLtvT0iufEm8Skdp8oZP8xMQDyrvpzFZy7ayySNbm-uEUJP-7biqOFqgZDk2MHmV6XVxyyGoU6X8JXliGYOaLgfeym5Sv3LS4kz6N0pwuR4N3X_RvPvzmHzHtT54nJcN4CiTMJf1zB5WJIcapjTn8SBLEVyv2Gb9LahLSYvHhURY_RaW0t9jUSAT2pFkHFmyQ2WW63esLULnt0xImKigdYqkxSU_ASUZqekKFpE7bwxtEa5CYfz2vRipNsVCkegRs4Vnasnj9xW9uuH0Ny32GoYLcuOfnEESiG_SsehMxkzrinDggKiXjYrwLXLrwq5aB7dYDOCKZNzCi04drNWKcQDF76m4devMua2N5rp9gI5-nf894ynEy7NdruS3BCU2Dhz890mRM1CMWVoX47JuBNKcX0zdIlJ2zBxcQvZJQ4Y"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ08afSKIn9ocRsjfkYdiUxOE",
+    "city": "Minneapolis",
+    "state": "MN"
+  },
+  {
+    "id": "ChIJKwxEkDQo9ocRzUchKKHiD3Q",
+    "name": "Longfellow Recreation Center",
+    "slug": "longfellow-recreation-center-minneapolis-mn",
+    "address": "3435 36th Ave S, Minneapolis, MN 55406, USA",
+    "lat": 44.9400713,
+    "lng": -93.2199302,
+    "rating": 4.2,
+    "reviewCount": 13,
+    "photos": [
+      "ATCDNfUr7Nw6uqrXFWadnnxBScFKrb5ecw0UQO3iD0Fm-y0rYOR8BdqDwx-ox_GLCL-VTi_fmkl4FbuCNZWJNZZ61NiWOf7c_CS4DnNIRkGpHZNUEzd13XvKxuB6kmwU-H_7c-B6CYdJvxpavpaJN5oBbHC6K6rSNhq6kjkwvEJy6SOwpF1ykty_zsBLDSBPfY6qFd5Qnw3V3vLN79y1GKLFDSYxryvWwP4evhzTMhlHpJIcHvI2g4nOHf6auWio-vvpFuoVRmeCZZT2JdrUmLHvHT2ulp3D69bYZcdrAEKLSlpZiFwSw3PWh5tQEX8bHd1USOCBlJAwURkRGGLmTXbqoBRpWX7sI8RKIZwUS8f16JoR3V-if3E7KxTYOdBNaF-IIsVYktq-RPHnwgXMKOGEwJKWqm8fzv2pe8ZY1mh_ZbSecQ"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJKwxEkDQo9ocRzUchKKHiD3Q",
+    "city": "Minneapolis",
+    "state": "MN"
+  },
+  {
+    "id": "ChIJCf9oQycn9ocRuFDyWpdbwwA",
+    "name": "Pershing Field Park",
+    "slug": "pershing-field-park-minneapolis-mn",
+    "address": "3523 W 48th St, Minneapolis, MN 55410, USA",
+    "lat": 44.9158567,
+    "lng": -93.3243725,
+    "rating": 4.4,
+    "reviewCount": 139,
+    "photos": [
+      "ATCDNfWVjL5JQS4ju7wVbRw5cFZR2yvPQmwPqksqs6xPowB-J5qo6tbn-K46KmAb8kiR9DSiieTkr91HXJeS0HxTNO6GgqmE6XwWYjXVIwQca9ryPWPIrS-bgOHBD-LorrKKOzpS8KeNxJeNr5iraUZ6v0czZ4qJCZd5vgzpVnfXsrZkrXPqbAhmVaWO0vIZvcWpCXqpZh7EXpYpHwQ6bkZ3cPAPdU3LumvHqjXA40SX2pddLnqKbJwX5qLE38tmy85v-JJR2ZStrFCFnvKda2HQVeQLOQbvj7IZTE4A_BJDrkt1v2l82QB32NeiYMpWDIxHE-rWDCOyQqKcyHSlpKLwCTvRGrVLyStGZFxplj_vRG3Y4fBNPHf00miHyuMPKPVKNwdX5Fayuz4-4nknFQQ-M9DcskbGNNdjb1l0SfTgWOCyMg"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJCf9oQycn9ocRuFDyWpdbwwA",
+    "city": "Minneapolis",
+    "state": "MN"
+  },
+  {
+    "id": "ChIJpQjUVw8ts1IRwNoM3slaAa4",
+    "name": "Van Cleve Park",
+    "slug": "van-cleve-park-minneapolis-mn",
+    "address": "901 15th Ave SE, Minneapolis, MN 55414, USA",
+    "lat": 44.9867905,
+    "lng": -93.2314105,
+    "rating": 4.4,
+    "reviewCount": 358,
+    "photos": [
+      "ATCDNfXd3AF3-ZCCe51bETrDBRNK2j7p5sOePE7sEWNQIxYex_SI6tNAMMyNO6-LllduGmetLteYP6OfzJOpW_DIXDvHo7aOVMo16TaeX9Gr_s873xF3gBPhRHBSyqyor3T68-7eo1-8u36rvWYMY07J_0EX8FQpwZN5eXzDKog-fHwJwHh-Fj2zEebpnEhIyckkR_B5Zypsodvuir50yEUKJ7-KtwUnPTnwfTKw02-RTi4b3K6xR_PiBDKYYMGkc6v7MHmSwq6DN0hbshtvtWQ_egGTT7sf1Xl4FulV-1g46aWlg46Y6ft00vqMraFyP-cGdP7QYrES2sHzrCfq9ekUug0cXzGmPjmXbQNLwWfHltRuhYznfHx7E-A98UmxWw9XN1cmp4QTcgHUq7yV-8YSf8IDekXKlsWrhzvIY3ofYc1MEu6Q"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJpQjUVw8ts1IRwNoM3slaAa4",
+    "city": "Minneapolis",
+    "state": "MN"
+  },
+  {
+    "id": "ChIJq-zZJ_8m9ocRMGaDcoB6-xg",
+    "name": "Lynnhurst Park",
+    "slug": "lynnhurst-park-minneapolis-mn",
+    "address": "1345 W Minnehaha Pkwy, Minneapolis, MN 55419, USA",
+    "lat": 44.9132119,
+    "lng": -93.2996891,
+    "rating": 4.5,
+    "reviewCount": 144,
+    "photos": [
+      "ATCDNfV_4EWvoRkCzMlBuwLl4xTo_PzfYJQRYA3fR4aXsNH9Qnj6csZ0wKXzp4Wlqb2Yx9X_MZcD6kp8ajh0nFvV3EZ-41Xx4RsgiqlrVOLgDkLI-60xKvkU5jKhPDP10JcD35KKzPLZw8Nc1rklu0bAUG7GRPuA1VenXdinb624Fe86i7G3Rf5V2bONcZKiNLCedgEIDJKwO4bZaQYjK8ZaGPA2FsLyl-ELfNSVEiyypPe9f574zDp09dBaib69SWqJi78K1NC2tLLTeglnXoSph3hTeDYl1vC-Sofld4-6oNR70YQGV3X8H9JXdztA_yycRq_h1VVodBrahRook4M851M53EGeVPxJYVQq4GJbuVmylkBMcRUjT47ZR7YT-O7VY0Yx9rhyLEPgRSTA2qze34WPOyAG0-Qfiv-qvMsAQ37j3Hw4"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJq-zZJ_8m9ocRMGaDcoB6-xg",
+    "city": "Minneapolis",
+    "state": "MN"
+  },
+  {
+    "id": "ChIJKa7tj2om9ocRNExd0RGlI3I",
+    "name": "Windom South Recreation Center",
+    "slug": "windom-south-recreation-center-minneapolis-mn",
+    "address": "5843 Wentworth Ave, Minneapolis, MN 55419, USA",
+    "lat": 44.8963984,
+    "lng": -93.2803658,
+    "rating": 4.1,
+    "reviewCount": 21,
+    "photos": [
+      "ATCDNfW4Yl314HFPFFOaomQMbi6FES8zThPmt6SgJvMFpxNLPp5MoGBf2lCyNwCBgNtLo99kym2qW-wtbeATibYD1RUofKaWHg_ICajF5h_nxZR2EVuuixDsDJVQazG4Y0gjqJK2wGh-Eunhi3DSS3QOVm8YK5pPK4uGUHEiPV7Qg4uiCtOHRGfkMI_oRuAPPCJLNeBdr_ZxTyvBvwdzqvjF-JQHbL_wvSukzOG8qrrkqML0PWKH2g-QGPCkNnSuLXgczc3Qr2xrR5kXOWXoMxpHPBEv_IpvCUIzOj20V2mXsqA8FFdJwecVuOjGzgDe5lCVocoY9k4Wfop3K0fNOyj6tLUzXQi42tSvhxL9eX0TzX73VcZq0xonZRWHE3Pxsvgl1bAZNG96vpbQgsUs13Y16hWp8zTCTST_hKoKDmeuORfWBg"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJKa7tj2om9ocRNExd0RGlI3I",
+    "city": "Minneapolis",
+    "state": "MN"
+  },
+  {
+    "id": "ChIJn_46unhLs1IRDsfpSi1bhO0",
+    "name": "Pure Pickleball Club",
+    "slug": "pure-pickleball-club-minneapolis-mn",
+    "address": "13100 12th Ave N, Minneapolis, MN 55441, USA",
+    "lat": 44.9925591,
+    "lng": -93.44701719999999,
+    "rating": 4.6,
+    "reviewCount": 67,
+    "photos": [
+      "ATCDNfXQtKPNJAiZiZYFeFCaxU_uQN7sXJH-5vOtSkO_FRL0aDp-e1J-6nsKxria7e7xMayxGobtETfb1LTnaj5EQ5GIhBsutbvRs4LRbm9kLUfg-JQaO-JM9oWrNncbZeb4EsEhpznZSc4w1QC9jSEyCHteUpIKo2ZYOthGvh5ASc9538A55IwxieHTp048aC-VnLcjgedqFPLf37-tyzP0ODKpXRGfulJUceYQcnigF6A835k8w7IuCooXV-d0RKZ6hQLuAeDAoZcZ42a84qeQUSZHGH7S8g7vMyryl3yVrnk6gA"
+    ],
+    "types": [
+      "establishment",
+      "gym",
+      "health",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJn_46unhLs1IRDsfpSi1bhO0",
+    "city": "Minneapolis",
+    "state": "MN"
+  },
+  {
+    "id": "ChIJGeht0GIus1IRU4WYJb5Swxo",
+    "name": "Prestemon Park",
+    "slug": "prestemon-park-minneapolis-mn",
+    "address": "3900 NE McKinley St, Columbia Heights, MN 55421, USA",
+    "lat": 45.0390571,
+    "lng": -93.22953389999999,
+    "rating": 4.2,
+    "reviewCount": 106,
+    "photos": [
+      "ATCDNfUkk9F3uD8o10jn70gba4dyTNrChOitbctO1AiXK2brrLFHQqSDUanG0SC7A_5Z6cPBKH9AVRi9aEHQltysfdKHfHOtAN7DyxBBoJ_hWnIQKZT3mNjchdg_bLdivG9SR1PnmiT2XMad8r1a_gWi0LIIwZdRvvgeWbSIwbX8N0PqjFxwT6GY3bpuuZd_llzs0Mhk59vXJhT7oL0O1s_obc8yuKiAJDEwCBLVtV0A5wme8akrco8uDYeDrNuWUB5XHm4Lhy4cjXGZqT3fVBbnLlEqR4Ve38nkAhsagHw5wHCslxGhNRDPlYuKS8aeMLopah0nbgjN96k3QYCpDPsZFEW8wZfTLAkDc6oj1F4E6hlxs_Q4JN3YklcjAVuqZQaqeMuV9x-QPsvaKPAD68cjVSvWJBPE9x__UVLBwuxMwLZYvg"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJGeht0GIus1IRU4WYJb5Swxo",
+    "city": "Minneapolis",
+    "state": "MN"
+  },
+  {
+    "id": "ChIJLzAwhVEh9ocRWWLp9nPHdjM",
+    "name": "Rosland Park",
+    "slug": "rosland-park-minneapolis-mn",
+    "address": "4300 W 66th St, Edina, MN 55435, USA",
+    "lat": 44.8858782,
+    "lng": -93.3363968,
+    "rating": 4.7,
+    "reviewCount": 810,
+    "photos": [
+      "ATCDNfWFlvXT4cAQUJCVR4vNl0IfCzU4gPdp0BGFqrbopGOTHdhTuS38fxweixG4ThDsxatF-XfGOqwDG0R9c8JpawoJMSqy1keqJvYgGhw7OrblA6NS4J9jeOmndQfYY995kY6CvfFr_P0qKsKnsf8ZAhs9PG2c4SkJv1WfLkwN3C45b5dWccAOh0qPg-gh_AmTVQSfM8yZQ9VEcCvq9XVYQL7--LyDS4TodTNUePK0FmMdVV_J7r0s1wxFitvZz8jh-KfpCxf3c6yQH26TlH9wny5zO7Kc1AZ_dQa0XlxKbEa-HRWTCQ_kRbA2tSoLSRxAvPYGzu61BNC9hBck5A8n1InkKIF6yClrgXXgX_NCkcg87QeyhBZ4BP8OwXSTFruCByQSFQU4Tf3tgRxyNyZG2o_gvR7LdyKMmeFbNZkQb50cPA"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJLzAwhVEh9ocRWWLp9nPHdjM",
+    "city": "Minneapolis",
+    "state": "MN"
+  },
+  {
+    "id": "ChIJBa0Ktq4f9ocRkO8gev-IOMw",
+    "name": "Shady Oak Pickleball Courts",
+    "slug": "shady-oak-pickleball-courts-minneapolis-mn",
+    "address": "VHX9+QV, Minnetonka, MN 55343, USA",
+    "lat": 44.8994375,
+    "lng": -93.4303125,
+    "rating": 4.8,
+    "reviewCount": 19,
+    "photos": [
+      "ATCDNfUrLylATGZPZqALc4A30QVvpUTjetoK8ezMFPucX-Juok7Tt2PunMd2aAQwpipanCsDN-8lEx254EMXk6LWFz7vfcXHamJm4W5RpkwzMvzYAgPRvQS1oDD95Y_M_BCpPb6yB1HNFZVaeWjDwitnZayCiL1sc8vUrqLIPpdQIFzGkUrgasz32zQmK-KAOZNVCBqo_e5_S9QFvea0sfhvbiFBY285-RNVuJeCqcZlyZZE2Fmuvr3tEU0B_XDNG658vNDZ7guiCCcLKapXOV-3gNVA3MPR0DBgc2s16LaMmQ9ZrJFsfBvo9NiRX4cJQLDzW7mIFTZqCdvNc7lbVMpXZouguVYmrq3v_xIE_WL9N1iLrO_PZQf58JKBr06dqlGUjsLN2QTFhewlHCX0m34-TilZ4L-12nlmvFAd-f1f0pT9pCGa"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJBa0Ktq4f9ocRkO8gev-IOMw",
+    "city": "Minneapolis",
+    "state": "MN"
+  },
+  {
+    "id": "ChIJ69VqQ6grs1IRan8gE9yohzU",
+    "name": "Smash Park Roseville",
+    "slug": "smash-park-roseville-minneapolis-mn",
+    "address": "1721 County Rd C West, Roseville, MN 55113, USA",
+    "lat": 45.0217884,
+    "lng": -93.1722372,
+    "rating": 4.7,
+    "reviewCount": 1525,
+    "photos": [
+      "ATCDNfVwLfqjql8FPVX1QV4rqhMD0TvmwhDiaJIthzeTjDi0Pc6I2MHzum7X0dDP_Gp8_-JMQwMoCcWiFYci8eXsEJFUVgd-mfPoRYMgHy61sb-1pgB5uXdcacCkC-JdHpRbLgBRmj8_8Jnz2TQhGzCEvyz9zDdseuGtQVyBAGHPkq0tj0cjXCzxd686_GDZRstIiDsNGE8dTFIUFq642T86ZVfx9OOHxXafXtqtDI6aeYABUPoXjV4pAeNbmsTKN0850crZqJnRVdEjm6IN8lcWFwUf9luWXLmSSnzgYlrlSmGnKDLyp0B7SUy1Dz28c6LtiBf5Nwq8ur2ZX2_GFduG69Zp-apVJnbM88yIkruHcm3D5naSjo0KppCFoxl2Gc2fsNWDq8toAA2b4aWl45j822Eh--cnQp3DMss2NEjkQuCVxat0"
+    ],
+    "types": [
+      "bar",
+      "establishment",
+      "food",
+      "point_of_interest",
+      "restaurant"
+    ],
+    "priceLevel": 2,
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ69VqQ6grs1IRan8gE9yohzU",
+    "city": "Minneapolis",
+    "state": "MN"
+  },
+  {
+    "id": "ChIJcQy0RkUp9ocRPoBxuLeInwQ",
+    "name": "Assembly Union Park",
+    "slug": "assembly-union-park-minneapolis-mn",
+    "address": "875 Mount Curve Blvd, St Paul, MN 55116, USA",
+    "lat": 44.91455089999999,
+    "lng": -93.1963184,
+    "rating": 4.6,
+    "reviewCount": 47,
+    "photos": [
+      "ATCDNfWty-a_fBtYG4eUqPydXLOZkwEEjaa3dwT7TMQmyShgDuRaLzxAv1pQVUdPfbNOAJl-uVAWJncO2vJ04-ApfA9xF8QzPpsKPz1Pl81_trUo6h7z9kE25YFx85KPF2DhOh81BeK8zCj1Or2fM1kGlXzWMAgOTQLlr5ahsvQv7m9SHVbvfm0gFEH_MuYuom6B9ldhCWzl2DzMGEjdIqR1w2TLeQrPgg21E7nFUZb7hddh-gj5lFBf11mg6ySzaCLTHO8fIJi1KaYVDJzjS1xsukFVviCk1xJ9CdolTS1chZnI-CFTo5s9-pnB6zwbV2Tc4ksAd0-nCyqcVqJk9JySHDRoc5gEB3yGz43rD-heqcIJHxUPC0PxtjLkrnJmR-plnH6pmdwxZ-Dry2VB8c-1VJEzexZwG2N_TyvcbDgSLBfxkw"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJcQy0RkUp9ocRPoBxuLeInwQ",
+    "city": "Minneapolis",
+    "state": "MN"
+  },
+  {
+    "id": "ChIJ_W1kVKIn9ocRgi9dZNy0RCQ",
+    "name": "Lyndale Farmstead Park",
+    "slug": "lyndale-farmstead-park-minneapolis-mn",
+    "address": "3900 Bryant Ave S, Minneapolis, MN 55409, USA",
+    "lat": 44.9320894,
+    "lng": -93.2913469,
+    "rating": 4.7,
+    "reviewCount": 153,
+    "photos": [
+      "ATCDNfUGeT_UeXz0LO-ItIXGi1ciJeNovLUdjqcpkg2oZEqhgg4pBmD0vEcQvFMA_JbGMVCE14acZauCkRulJJaZB1uQ8lz09_ans1UUSZdMdErbD-FHzM9t2O8MnXZF0eKi9WW8YlvSqouw6LFSXj7yxs2PB87J833HoGbyEMrYjDas-Q6_z0BshNlVdenXvDacwBkeqXzMBBoqnfcD18h34vNto5wprwX6EiNSZFpoh29phrFFld68LgE0ytpD4gpAMOvPy5LQp9eF7ZBML6BszbmEnVm_J_2h_fSmFYK1O6YSzade5oeAnNzkJ23eyKEgopUccNbYYu6zvlLlupmAiJi7D08Ih1I1kufEAtO1nx-USzlAXBvLWQSLdS0cm4SPQHGr2dQit8tmRl5WeFoRbSsoLk54Sx9bz6_IEo3Y3PG-Dw"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ_W1kVKIn9ocRgi9dZNy0RCQ",
+    "city": "Minneapolis",
+    "state": "MN"
+  },
+  {
+    "id": "ChIJcR9cTRol9ocRDH_wMoG6ABo",
+    "name": "Westwood Park Pickleball Courts",
+    "slug": "westwood-park-pickleball-courts-minneapolis-mn",
+    "address": "3490 W 108th St, Bloomington, MN 55431, USA",
+    "lat": 44.8080218,
+    "lng": -93.32379689999999,
+    "rating": 4.8,
+    "reviewCount": 49,
+    "photos": [
+      "ATCDNfU9XchiGXnsydtsrCIXPk-vGFUkyQP-JpI8Yot3oyT4TKlq_ADDR6awR6w1G_Fyzt40QZt_idGhuUAnMuyeN29MFFibaN971Y1CtA-BpF3zJCqbelqnjFTx11KyxeSEn-lmePzHlU6w8u3E3yfiJZGcdbL4P-aEdkPdnyq9y5RIIhNY3TsxB0XMos3chpJlQbeX1HVVIOtPy4gPCHIIUBIC0UbbXrHw5gMMXJbrMZie6l7aiklkjBgnKJZfkUH974_gq2wrobw8Y50uXxq5wHI8ZY0LRSxBupuiYopx67ntSu5W8dcOF6-M3xfSG1Rjn7q0lbGok0ZMbksvOtjHFEs0H_EfPdIyl2sGKQ4e_e-d9eTf9xMv9GDX5DILq_N_CoVm4tGP6drGMUw2ELIOhFKt4rSlbCCuM916-j8e4yCNxCI"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJcR9cTRol9ocRDH_wMoG6ABo",
+    "city": "Minneapolis",
+    "state": "MN"
+  },
+  {
+    "id": "ChIJiTVsIHg0s1IRiG46OW_RcGw",
+    "name": "Scheid Park",
+    "slug": "scheid-park-minneapolis-mn",
+    "address": "1856 Toledo Ave N, Golden Valley, MN 55422, USA",
+    "lat": 44.9976897,
+    "lng": -93.34556789999999,
+    "rating": 4.4,
+    "reviewCount": 81,
+    "photos": [
+      "ATCDNfUiQLSf3xCJYynX8pmBX-18Uu-x5yK81iEZW4QnR6ZctXjHG69EnPEShYaWhHEosvQNWJ3uoTcUm1W91WbVdlSKWeea7deL7HYtYvYq5-5KqqK9nLRUH1il4Zx7LTDI8rczJJkOqPohCIKxoeUCbBTBb5CGaZeXLJRBUmFi2NRAY-CwxW6bNgCWHTJ2q0PFfcY8Dzu9bzICsI4Jt9lRCWRlKJVEDpU-QjMbdOT5Shp7DhCmuurZYheaCLj_1cvTdaD_o4LTDZrQwhfin4_PsdFUqcZjGgic6D2l3MnxRnZFAc4d-A2lBzgt0Y8kWMFsyRuFu8rCuYW7XQAhwtu8dIVrH1RahHUkns2EqW_82k7GLsVAQGx8B4WxD0ZxQOj_xIan9UeltgEeHHNSrLd6SI4asvu09IVGlrpKI2CbPapv"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJiTVsIHg0s1IRiG46OW_RcGw",
+    "city": "Minneapolis",
+    "state": "MN"
+  },
+  {
+    "id": "ChIJj3DMCaors1IROFejbY293CM",
+    "name": "Evergreen Park",
+    "slug": "evergreen-park-minneapolis-mn",
+    "address": "1810 County B Rd W, Roseville, MN 55113, USA",
+    "lat": 45.0059878,
+    "lng": -93.17598989999999,
+    "rating": 4.3,
+    "reviewCount": 47,
+    "photos": [
+      "ATCDNfUMvDfJ1MMjhEVSpLic6Jv79DkDQIDOEnoI8GnDTYzOM0o2JS7Q3i18ZAlO3iPQeSw2-XNkEpfC6V_03A9xHctOF7zJf5pEejzpevb4iyjwVKTfea31eXKY4rsiJAxYNsPVU2kvckiC9VEd5Zy2Kc9eLmpUjRUXrdE4C-1TQXY4GVS21NC8q3JB5FcZiIqIzeD75rQ0GpeJnoJxmd8GqL6sRxKuWFg2JoUU_5WNkclsXHnCDqJoP38nL1WVc5jTE83pt3yRrVZQV57Y3P_BYzw-KqCGMYjLtA9G-Jin60ONbsKEQV5fBznPX2775kqoXZEg90jRZuSZW3wP_Xr1Mhj8ZSjmnuAI9aDKmmhtnG-4IQ_zRTwDOAXdM3AYvC25Z7hrhw25RcS2Rn9IopWkNRLr3I_LeewwBz6iRmI2bPs"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJj3DMCaors1IROFejbY293CM",
+    "city": "Minneapolis",
+    "state": "MN"
+  },
+  {
+    "id": "ChIJ6dNexjszs1IRfp4hQTW1uxQ",
+    "name": "Loring Park Tennis Courts",
+    "slug": "loring-park-tennis-courts-minneapolis-mn",
+    "address": "310 W 15th St, Minneapolis, MN 55403, USA",
+    "lat": 44.9708127,
+    "lng": -93.2845461,
+    "rating": 4.2,
+    "reviewCount": 6,
+    "photos": [
+      "ATCDNfUUsEUUXHL4lD_xfQivp3JC8Gs16rEYcWcjycrmP9PlVwYvYu6jfJbzWKHPrf17MikcLZgWiGF0wFp1xwcHRYvH3ACeZXBSa-WFnxipiF7efL4tzh0pny0SYGMl6t6rKswps2cfAAJApjnn2wIVVGiUp0FTa3rp2rrjVtHFPOGs8BwWxcFWn5JS26I9lOqICjD0p9AhgO9v0gjtbEDFaJGJwsgo8jEdWZnoachcwLXre3e1wKPVI-2BErrxsZ9tnFY6X0NhP0sjcv4AVyj6u16J50p2RjKs-76-2yy1q8FkL8CD3n93M2dma7ebNGru0iow8Z-c3XpNlohbKn-s-OtcpHhtjd87VZmlWTWaZUvLyGjEj2sIIIymb4J-9aN4kdCvo7eMVBMPAVC-EeigvjnZ55Th7JknKPyYheG50Xt4-soE"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ6dNexjszs1IRfp4hQTW1uxQ",
+    "city": "Minneapolis",
+    "state": "MN"
+  },
+  {
+    "id": "ChIJ_2gI0jMts1IRird8mg9W2jY",
+    "name": "Matthews Park",
+    "slug": "matthews-park-minneapolis-mn",
+    "address": "2318 29th Ave S, Minneapolis, MN 55406, USA",
+    "lat": 44.958293,
+    "lng": -93.231444,
+    "rating": 4.5,
+    "reviewCount": 263,
+    "photos": [
+      "ATCDNfUuZRp9chfKli1HZlR9oxbkdidZCDimLPEnJrej5xdMlKWfKA1HHKoMCaYEFGWu1VmxghJ-Vo975MasEY_MTAd28sCAWFuYZ0KX88uynRjyUHWhaVgmSwmfGRe4ZN4zHqxb2Nr9VRbZEBY0JvV5MuXfETi4wUSahmSurY5lqyqrKMpgB2BrUCdRAQNQYd9AOo9ljrzzunbAkUnbhukjSXBIKBEUhWFRnjnmS04VSgnXzdZqETvyLE2InyVuQIjiMx7gtReByUsOX62aKwMqZOwsql9B9NF5W7AOyhbP9UZFBhxlBh9EqG7dJXTth0YtplWsBQdXDlTiEm41c2J5CKpJY9IbpuPVKelZl_1n2rqkNep_moAOJcNP_UAoW-3P4xTsXoDoILV8jp_ijIY0_hR2J0JvnvOb-XGC84ctmDTfsAuX"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ_2gI0jMts1IRird8mg9W2jY",
+    "city": "Minneapolis",
+    "state": "MN"
+  },
+  {
+    "id": "ChIJRVyuZncts1IR1mngWGCyG1U",
+    "name": "Holmes Park Tennis Court",
+    "slug": "holmes-park-tennis-court-minneapolis-mn",
+    "address": "301 4th St SE, Minneapolis, MN 55414, USA",
+    "lat": 44.987901,
+    "lng": -93.251803,
+    "rating": 4.3,
+    "reviewCount": 17,
+    "photos": [
+      "ATCDNfU-xbXvJWp4q8Rwqp9vVwR80QBIKVn6U9CdSeRx4VayKvh1EPo2vrNhGW8l3atfaD527lCYSFWE1zy_Z9MkZvoU4oAKcLpPPyxFsTEyCKDHIok9ef_c9XxwFt7v_GctgB_S3folnaNR27nEy41qwclf-vwmt_nrNLNFyv1pGTIKvzRBZV3_f7mwxTEHmraQjMznDwTag5q0ES3dKJudDXO2fjJcKeGP8BPXRYH7QmpElfG2W8tDVN7XI8vkCiwrTfeIJS2loV2-B-fD7GQEYVeCh52wQv2HS3tav9xsnH1SZzgdgrA3SsVcwzyOHWCl5VIX_nDB3FpxrN3ivPwJCjRl-iPdl3kWOL-B4gpsmP0wkhMbr2NRPCMXf04WHG2g7LoVKJ3P3MrRu-HlU9F42tN74xTx9m3xGjwb1_aQIEdYjJ_PDmACnC6PEsWtvg"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJRVyuZncts1IR1mngWGCyG1U",
+    "city": "Minneapolis",
+    "state": "MN"
+  },
+  {
+    "id": "ChIJNSIyjhIt9ocRknj89Y7JP-o",
+    "name": "Chip's Pickleball Club",
+    "slug": "chip-s-pickleball-club-minneapolis-mn",
+    "address": "980 Discovery Rd, Eagan, MN 55121, USA",
+    "lat": 44.8342559,
+    "lng": -93.1398553,
+    "rating": 4.9,
+    "reviewCount": 342,
+    "photos": [
+      "ATCDNfXhwpmlcpwiFI7eAlSLKxtQiy5vKDA2G1XaHCvjUVS-h69YbofrQTIlN_srvIj3AAc1W6t-tnP0U87VeecGRTswxw3j2bcl8pFFByTRt0bgySzxCWLlR66DaEJLfYV7gH6ae5e7LJDV3QYLb2Psa5Z0jiuKttdb-1vl7dhQ3vTx7qlE4V5GZ-W-8jcTv9vOvsIhGWQsgLsUvbHI3fsUoYIvVMpLgXwrNB4XG8cXz1g4GnLzvb7bG3b68nqFQKWoNN1gvNHSOCSsKPymlWctAov9JS7lJSB5C5fp-HDsG5-Avw"
+    ],
+    "types": [
+      "bar",
+      "cafe",
+      "establishment",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJNSIyjhIt9ocRknj89Y7JP-o",
+    "city": "Minneapolis",
+    "state": "MN"
+  },
+  {
+    "id": "ChIJsS2zOiQzs1IR6DUXjIf3VLk",
+    "name": "Kenwood Park",
+    "slug": "kenwood-park-minneapolis-mn",
+    "address": "2101 W Franklin Ave, Minneapolis, MN 55405, USA",
+    "lat": 44.9644377,
+    "lng": -93.3057153,
+    "rating": 4.7,
+    "reviewCount": 388,
+    "photos": [
+      "ATCDNfWFp64KgZTipIjv3VTba05FQAXJepKeSmTQYQlFsRciGTJYvWH-_RClGjIk6L04uZaknToyEd_RuvXrn5bM_iFnr4dWvqxpym8Cztei5-vCKJhEHP6msw9O36BG_O2p6FpuE_UoDhziexwy7dGVe7qIqus8a9fRJU4G3pjEwd-GclZFwqZDccg7L4GbeamOkYlYzcEqubpwnkO6hqS7ZaCfMkk8YtDbgVDypZFqTXKc1l5eURQQHEBJF7p306fhk1lIKlBky8nt1iZENZohlk6HK5XxpICUuqp7wx_69dEUUp8UfOeqltkUQNKgf3GpeZieFV_9w7DsmeHe_-v1yXSyboSGq_Lw0idB-U65il8Jwxq8Ow0QN46pBeQmJUeogGysJ-8k7FJcqGG5Bch2qJfdmVqN82tluNrpx8YjGS0IJQ"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJsS2zOiQzs1IR6DUXjIf3VLk",
+    "city": "Minneapolis",
+    "state": "MN"
+  },
+  {
+    "id": "ChIJBReU0Wkr9ocR7uvRm8_Cc9w",
+    "name": "Marie Park",
+    "slug": "marie-park-minneapolis-mn",
+    "address": "Marie Ave W, Mendota Heights, MN 55118, USA",
+    "lat": 44.8921204,
+    "lng": -93.1385511,
+    "rating": 4.6,
+    "reviewCount": 35,
+    "photos": [
+      "ATCDNfUq-kQEJqVWZuANun2HMv5c9-vubtl5RAxNg90r2TNy_yeXb6XEqQGX6YbA15a9jQqugSSLgG-33eGnHipRroLcFJosI2cBwDLdDTZCHVHUQsHaegKo_pCl-5K_0ZWMyZeiMLvBmza4m3hynZQ9qWJnz1qccouw8RW4AzlBZRL0PVsvcanzaTrm3JHNtUF4Q3seMnujEmW72NE0cgupurxowJJKoMhOneoZg9C6sh8qUBzaox4WU98BZ2bjZXHDJvSX-hMxfeS8CONUAcZ5kYF30-AHjLJtMGfRfOO7NZ7XMARJmG2CtQ68_Hd3YrY4By52HYvTIsvWAC4qEpS8WT8MRHvmyIzm76fxBEqFAnP_sgeTJ1mmb2SVi9eM5fdA7Uy8TYf8lP22PIfEWk4xlxuOn_RnMcBjMnjYad_GDB4"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJBReU0Wkr9ocR7uvRm8_Cc9w",
+    "city": "Minneapolis",
+    "state": "MN"
+  },
+  {
+    "id": "ChIJxSvW6ZAd9ocRkATNj0Vy9EU",
+    "name": "Mega Pickleball",
+    "slug": "mega-pickleball-minneapolis-mn",
+    "address": "17585 MN-7, Minnetonka, MN 55345, USA",
+    "lat": 44.9120085,
+    "lng": -93.50185929999999,
+    "rating": 4.8,
+    "reviewCount": 66,
+    "photos": [
+      "ATCDNfUOHhhD-XfZSeJw9YHNPchlsqgt1Q8HoHZpgU919CwfIc-sibWER5C2mXdNxHWgtXFKbPP2GencdBT5NVT5_E5oP7JaU3owzFVdskp3ibE7WdqtXm9jk_Uabgo5nHDKwUUfBVgE_TGTN1XMG9FLLm6WIGaOA4wzGueKa9kkxFiDjrrhD8SFBHutFIzcd6Yphs2FOHFODLNPpjXWAZFg68vzJN_tYPFXjmcUQ0zCu4kwe2q7mPKPdldqREhhxzwypKL7rAEAhzk_G-yWgJ8qD74Gma6lMomIN0uOS-ZZgw1hAg"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJxSvW6ZAd9ocRkATNj0Vy9EU",
+    "city": "Minneapolis",
+    "state": "MN"
+  },
+  {
+    "id": "ChIJLw1R7ZYss1IRS1agGWfk2XU",
+    "name": "Langford Park",
+    "slug": "langford-park-minneapolis-mn",
+    "address": "30 Langford Park, St Paul, MN 55108, USA",
+    "lat": 44.97791,
+    "lng": -93.193957,
+    "rating": 4.5,
+    "reviewCount": 116,
+    "photos": [
+      "ATCDNfX7m7ZBO9vI31Y_eKTA4Fdu9g4CCFj-NvR3te-3j-SaQbw1A6HZCCIm1RVDlZVXcT0nyCsumi2E3K1rtZpxBU_H-xyvQm15oJJZlt0HnYPKyNGPrPyWIJMp0CcpHuaCW9E1Eg5s3Hl3hqj4AsOdLTJ1wBhzDEvLbeZ9iCY225xcqSIPXGyFgka3rOBgQggJ8JyITetmllgjFEZoYSFDMeA-LiXZQOEtEEU29wecXeNm5KbZJAGqHfudqV7WLRJMqvsfKmChPKCoBBGx2JOrkD2SPWgfu0o4qjeCZApjeDQl9ubfjokh-TGMynBZUNPaK5KTbQivApp3ne1XCXRr63LzqZBEFys2l3mEBEVfy6NfB7fX3WZRLY4CT4kSulMXnse_A-8XDSOOt5l7eRB3ZOLM86Va0GstxK-uHUzZmhg71g"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJLw1R7ZYss1IRS1agGWfk2XU",
+    "city": "Minneapolis",
+    "state": "MN"
+  },
+  {
+    "id": "ChIJU2lflZUxs1IR5kP2NekHF1k",
+    "name": "Bohanon Park",
+    "slug": "bohanon-park-minneapolis-mn",
+    "address": "4917 N Bryant Ave, Minneapolis, MN 55430, USA",
+    "lat": 45.0451461,
+    "lng": -93.29252919999999,
+    "rating": 4.3,
+    "reviewCount": 260,
+    "photos": [
+      "ATCDNfXNgGFs30C_Jy5SqFXdvupuagUIC_-x65cpZveq_KDEN7DtdrQzawjW6aybtOZA-_JsisgWMyJsJIoCPHQfntuEbxj1jxmzBqvjI-76Cx-HwpWWavsm7h8ac1F_vg0FYBxoHblKxDcDUnukARvYljt76j3E-JWYQ_sY1Q_RjCvW9BuEm6v9mHUo45VWFJk4sSnBHoPlYxM-O-Dk0wbVovuWnxknvLv8ZMubsKuPIZnOermJsaQ5acOCVYhyVSZMVW2hCL4wIVRKYa7jSVAt_oQ00n4R2C7T4lQwOvJ--65sgpoMxdwpAFzdSEeBlvpHFPFGNq1Otpbyd5NXbEKneJ6914MtyMvEqJuZymnCwhVskUwWdLEpvXL4yUHqTOZO4SiKzqA3hsUYJeARkwH9b7iy-orLwlnqLdzb4Zi6ofEqUx4"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJU2lflZUxs1IR5kP2NekHF1k",
+    "city": "Minneapolis",
+    "state": "MN"
+  },
+  {
+    "id": "ChIJe1j2u5Eys1IR31kGana1fnA",
+    "name": "Life Time",
+    "slug": "life-time-minneapolis-mn",
+    "address": "600 N 1st Ave, Minneapolis, MN 55403, USA",
+    "lat": 44.9795345,
+    "lng": -93.27597569999999,
+    "rating": 4.2,
+    "reviewCount": 210,
+    "photos": [
+      "ATCDNfVg0OwrjN29o2wiWdSiDFXnEC0_op7Vt72DDZsYdKX_0mkYiU7wkM4XQ-51KNVEI1fO8fRfU3Yi_ozdxtNO9ta4EkDSAVhAl0Me8AvbP8Qbvo2vftgpBEEARPccNRPXqhYjou75cgYGt_zwtY6peUJUhhSjRObMVfXin5adG3GjwTUKUYKP5r3pp7Knfwa-z3usG5fUWVYQQPdWzFdNyRS84o0oBbMJQ8jdZPGm6jPTfrHasNx14wZYTLONJmlmWORdv-htoZMaiF5yDHcvdu57EfICX4dpDL1PpW5SZbL2Ug"
+    ],
+    "types": [
+      "establishment",
+      "gym",
+      "health",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJe1j2u5Eys1IR31kGana1fnA",
+    "city": "Minneapolis",
+    "state": "MN"
+  },
+  {
+    "id": "ChIJuU1bVkYr9ocRagCVam02M2o",
+    "name": "St. Clair Park and pickleball",
+    "slug": "st-clair-park-and-pickleball-minneapolis-mn",
+    "address": "St Paul, MN 55102, USA",
+    "lat": 44.933521,
+    "lng": -93.1248674,
+    "rating": 4.8,
+    "reviewCount": 22,
+    "photos": [
+      "ATCDNfWFh7LvaBWC8eaHP5ywo1yppTZcSQmidMw3Skhjjnh-e3i0QaimUK8gIvUM3J6FyDRXUv1_1fS_sm4iw4c_4ECxTMe6-K_7DSyYq5kuMHf_k4HDM9BGCydXevPjgCx9pyxP-7nUmbrF6tFK6z27rU23ji-CKubxNM0PMrPPSKap9_TCdPGRMu9bZWXBNfnbU9v8Qk1mAtvIOKLCWrL7HLzgw3oX6qhXsN8vxfCeDEvu0ivjCFQYXhD6CEjFJQCaWwG7FTq5H2c8nfV3mkz4amWgKvU9GUuc4bDBM87JPcb0dW2TjcacRw85khIMNr7TUSXaqB-1gZHCHFQZcd7mXlJUI5WdgAb62eJO3-Yfk-1AfoEDRQ6HZCKLs0XF9HDdxcF6OAgCdu0UXlaGX5eLqjheEylb8vX_bUHKdx_qRm9vgA"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJuU1bVkYr9ocRagCVam02M2o",
+    "city": "Minneapolis",
+    "state": "MN"
+  },
+  {
+    "id": "ChIJSQxBCoUn9ocR_YZJlDIHFNI",
+    "name": "Bryant Square Park",
+    "slug": "bryant-square-park-minneapolis-mn",
+    "address": "3101 Bryant Ave S, Minneapolis, MN 55408, USA",
+    "lat": 44.94614079999999,
+    "lng": -93.29033520000002,
+    "rating": 4.4,
+    "reviewCount": 249,
+    "photos": [
+      "ATCDNfXjvRJyepc4cxdIVuvFLPae5bgGho7vvbYCNU2YwXpaE5cXX-wHhXgXGarY7kz_49x0kLyMJhwTaeeDF9vKIoaXkq2RI1tkrk8uOnEd6souGba18vtlCtQrQhyY2l0phvldFq9gJa4DhDBoyZ7UroNyc5g-tlmU1J4S3Sm-w3F_xHE0TviN4dO18tkcDhMN0Wu1Ie3Evsy8k1vSmhEnhO9iPi49lOiXdSa3gbOJ2pYnJTcshyHFjkbnwAPwTjG4YRgboBX6c9RjG8HkksyAaee7UfeUYdfMzlHKpVOuguHYFztbHGtxZUQqMUHC_YewqO3h2jIEk6KaXQZimQzHktXHlGRmEeRcBkw7XlKu0zicbWiS_scw_RxFDa_d7SsRR1YKWthp2ovk5dJJAMLR9p9JtjDt4QhvjESqBh5usEk"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJSQxBCoUn9ocR_YZJlDIHFNI",
+    "city": "Minneapolis",
+    "state": "MN"
+  },
+  {
+    "id": "ChIJrY6Fyccts1IRXxFKVZmWSvg",
+    "name": "Windom Park",
+    "slug": "windom-park-minneapolis-mn",
+    "address": "2251 Hayes St NE, Minneapolis, MN 55418, USA",
+    "lat": 45.0123057,
+    "lng": -93.2358635,
+    "rating": 4.5,
+    "reviewCount": 321,
+    "photos": [
+      "ATCDNfXg7ckERSoYEs72Dy0hHVhzC90NJ6nV9p7mcseaXuQbVuHb_2RX_MF405IWjoI0HtPGeLnzOXBq-307kecI7YSSNoVSds6xmeQu3hAvlgBAP9RKfiLJgOfhi96uYUMOekl9mFgNXxo8n_89aJq4LviMu0lomxb262UNs_QSu_J_F3RBUMMzpmHWBmQGsD2mlwk9pL8qfHDVvCOXWx1qEhyc1X2J6wYNuAE_qXinUvjLsT7pcJAiii4DEiZJgMt5rDFFWsPKZvAd7741gwuoBXk3IkEjlcAd0NNan-n0c2pLpDX9KTQ9ShJunF8ubuO1QvvXYMVO1a9nD0GoEuS55d1hQzegpcDJL2aLt6Xr3VNi5kr8nvPv8gwpT92WqCAVbX-gMj_UHQxBE7unW-m3I6e32ZUuP53H2Fcdl8QzyBndwg"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJrY6Fyccts1IRXxFKVZmWSvg",
+    "city": "Minneapolis",
+    "state": "MN"
+  },
+  {
+    "id": "ChIJ7dMdNjEn9ocR2zjbQ6OXKuY",
+    "name": "Weber Park",
+    "slug": "weber-park-minneapolis-mn",
+    "address": "4115 Grimes Ave S, Edina, MN 55416, USA",
+    "lat": 44.92847949999999,
+    "lng": -93.3334022,
+    "rating": 4.4,
+    "reviewCount": 79,
+    "photos": [
+      "ATCDNfV0Qvk1x5yLo6cOlxNtsJYWweXPpIkBxzJZTkYYQ50FmgzS0ma7i6BkZYyowpfwtPS-GqlLzxb9xkJWqELX_wEZLVIyl82lsYSO6OREvyNqDzM3SKgUJt3P8txh05qyTfGjyqwUAmEn8ehd_3tpJcQce1dXNMueLMaLKuinTy-62sA8FdnosmPw0EcP1M_ocsDAeOAYbcWSMcQW82TL72tU4M-fA9wGSrhVoGd3GkNbs87FAPHgM74u4iDOtjBcHdpDfzbYBe_kCktLR3fPz2lKaNzkbjqqAF-Iwt3bJfII5bmk4GEtKAKc_8vLQQyInMzADk-1Lx-5ms8YBSj9aH4XDt2z0SlggXpokrogHi8xOUN6AoQ9YRnzQExpIHfFK3pnOGOvzZwwbL2ZGi6E5BGTdgukji9BKXlhwxQBSM9UY6Rv"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ7dMdNjEn9ocR2zjbQ6OXKuY",
+    "city": "Minneapolis",
+    "state": "MN"
+  },
+  {
+    "id": "ChIJMUnHrQUvs1IRCWnBPFNb-AM",
+    "name": "Hidden Oaks Park",
+    "slug": "hidden-oaks-park-minneapolis-mn",
+    "address": "1550 29th Ave NW, New Brighton, MN 55112, USA",
+    "lat": 45.073961,
+    "lng": -93.2243014,
+    "rating": 4.4,
+    "reviewCount": 62,
+    "photos": [
+      "ATCDNfX2oQBu6dIE1N2mAbliHmn1g0QQNBSE6G6JQxO-bXlIvAcYvxe3yCnx0VS30ejfl0PKCvGfWs8G9qFJQOtUYJV2N_7Qp-ohyfczc75Zudzy8STSYkrMm4IYVo6jVb6c5ACpbH0pdL35uLHSGZeXKz07Nbzf4Q0F7apVjfKPwSYJy5rQ8g1jNRTS_Nq0tLEtRCaw0kgZa2DPOz0zEzcWvlYVJzSGzMoJW8_-wxoBrIMMc6vPPHetIOLro-WxEi5juBYMUqBHgXWmiIxEETdknhEscaqmXsstPPhPO6cjfVSzfMiZhm9l4KwzuOwOx3aGZcGn9QXqIHHnJfw-6P4ZAvSXxF9IMv5bqlJzKHOnXUGgWfgo10MfIMvuETnFzXHBqOatmBZd8ry3h3TpNOU5Bxo4L-73Z0s5uM_fjYHGbx8WgWhL"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJMUnHrQUvs1IRCWnBPFNb-AM",
+    "city": "Minneapolis",
+    "state": "MN"
+  },
+  {
+    "id": "ChIJqTBqzhkts1IRhkeC39PGaeI",
+    "name": "University Recreation and Wellness Center",
+    "slug": "university-recreation-and-wellness-center-minneapolis-mn",
+    "address": "123 SE Harvard St, Minneapolis, MN 55455, USA",
+    "lat": 44.9754866,
+    "lng": -93.2300849,
+    "rating": 4.5,
+    "reviewCount": 275,
+    "photos": [
+      "ATCDNfUibFGcQs0zCJT1ZA_eF-b1a14ziXw6AySR_1vCPAMELs9F4u2wFKV5fCN4FCbAoF22LbHIUpKHdq24FxsdpM7ecJy1yBd90j3bOM6bAAPeLPj12WMkvHJfoDdwfzC49V4ppCDTDNTP9qbPfYHcIppeUh7jj6dscMdCglHjI68DoPj9LaQgKZ3ZiCzsicAe6X56YC4sWGO29rY5Qtns3PyRgq-1NqbbUtxjWjvWBx_mmP6k4oD_OdR8nlqW_iA8Ybg8DsRTxk4MVJSv0pt5Wbi2IhY4cozLUYOCDSh8ldw"
+    ],
+    "types": [
+      "establishment",
+      "health",
+      "point_of_interest",
+      "store",
+      "university"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJqTBqzhkts1IRhkeC39PGaeI",
+    "city": "Minneapolis",
+    "state": "MN"
+  },
+  {
+    "id": "ChIJ2dpChBgvs1IRmU2slbe_pg0",
+    "name": "Totem Pole Park",
+    "slug": "totem-pole-park-minneapolis-mn",
+    "address": "1011 Foss Rd, New Brighton, MN 55112, USA",
+    "lat": 45.0425024,
+    "lng": -93.2010754,
+    "rating": 4.1,
+    "reviewCount": 15,
+    "photos": [
+      "ATCDNfV6Q9jR6eVHjFqCQ6c0QsEPaH0eVkueAhcOKVOR8B6qiaKv9Y6t_31e3TMJ2qmMMlLushfO-mVOjT-Gk9iKX5ztykbqkUlA3A3aP27aBbEWROiE_DbLZc53kWcXRtsYI5HU8LDxYn9Rxw6T1vWcggRCZarOZOAwNStFZu-kJ_CbLLrz81Ma3cClR8wyuZKHmhG0AeeFusD5dHoP6TT7vcN9NZp8W4CKOJieYw66pKzCEketQDb_Jg4h3L8rCrgAHRqxKCCpuaTLyHTwjQCda-eLQv2WwWL6DTLa4ZIZRQ9oweuBE3BiJeOgN8UMKrwcBFcV5-lNG7bDTomY03keOOSpbgHTifcLZ56fK37gQNrEJ_q1eKlqevq9_56VZR9vvmJEdsZaV3NCBNNWtOwKAATNeSFtklqR1P8JP6utr48"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ2dpChBgvs1IRmU2slbe_pg0",
+    "city": "Minneapolis",
+    "state": "MN"
+  },
+  {
+    "id": "ChIJw-VakCYzs1IRc4fVx-zrWnY",
+    "name": "Kenwood Park Tennis Courts",
+    "slug": "kenwood-park-tennis-courts-minneapolis-mn",
+    "address": "2101 W Franklin Ave, Minneapolis, MN 55405, USA",
+    "lat": 44.9646888,
+    "lng": -93.3043263,
+    "rating": 4.4,
+    "reviewCount": 44,
+    "photos": [
+      "ATCDNfW1cF0ZzyLVzm4wmxcXNQNU2nVQZoUUJpge_KjWlDlltvSTLHJ6corFcfHmZm4arjiSXY1Kh8soLNkjKCJ8SwxlPKdj8solZwOG1Teb4Zi-zGV1j5hOWIJ1yefibukWOafoi2xfJAiWU3dtM7L6Tx5ABMhiaxpFhjtuPdIJcqLJqzk3V5xM0A3fCQo-M7_Arrc2Dzd11eaVVNVqaftkE5uLnItjvUXW-Qh6s00iqJ4CimT04ZgDKUFWY6j3upUnb-3aF47WR0BaSga45UHDZP9Wfw0bWdGgKTs9N0q9HsvY4eGgW9RL9g_HRF5RJjfoVnUCF0fd4QSqrBoujIiRamCdhVbEfZVWWM1ogzkMGtKnyOrYcH7a0uF03QGijsGKKBnRw_1vCQw1SfAN8lULj02RDjLQdhglxRUx6UWBMNMb4i0x"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJw-VakCYzs1IRc4fVx-zrWnY",
+    "city": "Minneapolis",
+    "state": "MN"
+  },
+  {
+    "id": "ChIJIVzhSn8p9ocRZVc1LTiVht8",
+    "name": "Highland Park Community Center",
+    "slug": "highland-park-community-center-minneapolis-mn",
+    "address": "1978 Ford Pkwy, St Paul, MN 55116, USA",
+    "lat": 44.9177079,
+    "lng": -93.1830895,
+    "rating": 4.5,
+    "reviewCount": 149,
+    "photos": [
+      "ATCDNfVcT4IMhDxoggB8MKWITDh1Lf2l5-1Uo1VNd3nCgoeA6U9-ZqmH_KlGHS5yftr9Krk3Smtcd8B1Er-wwB_HOqSPHcJl6I2vHvkRLaOmLtVil9DgbbkluwWHd6X7-YDfd5QraDS_LNOScVXy_UN6pQHKP3Vc385eT3kGHIYT0TVeT219Sx3516EeNySAypCs7VFKK4agc6vEQgPfjl-e_Cu-3CrkDYVB9QPK7yWffCU4XRcrTrZOKMGtZZXkx8HSDc5WF_yn_WLeDVoDXoaINC3OjU-oGrDbyRR_Kap4nf4"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJIVzhSn8p9ocRZVc1LTiVht8",
+    "city": "Minneapolis",
+    "state": "MN"
+  },
+  {
+    "id": "ChIJq5VcPhots1IRbKuWDxTIezw",
+    "name": "Baseline Tennis Center",
+    "slug": "baseline-tennis-center-minneapolis-mn",
+    "address": "1815 4th St SE, Minneapolis, MN 55455, USA",
+    "lat": 44.9790143,
+    "lng": -93.2300683,
+    "rating": 4.8,
+    "reviewCount": 52,
+    "photos": [
+      "ATCDNfXMDkiCHShfrCw_bVMn6qjajFAixdPAcnF2LcujH8AzYG5gUPMwvUIc2I6go-oIoPwuThAbGqhRYujqE_ZTLgzjt3A44wqgYFtQ9WYpoTSIXB63m0D9h8B_h6phAHFpH8sDr5_EcymusPp-hBagoBEXOU_x6CR97zJKgDFfCJGWc4nMK_yNURlvnzfcKqIDX7USabe8P38MlDord0IDuuq4OD4oda3bXOusJDV5swS1TCb_nb8pNPQCheNMxXo6GgpSoczVIHwbXg7rd3xR9v11BI4jUwmzuT1gycS7ED2T8g"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "university"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJq5VcPhots1IRbKuWDxTIezw",
+    "city": "Minneapolis",
+    "state": "MN"
+  },
+  {
+    "id": "ChIJnZFsoTQo9ocR5gyi9mNWAwU",
+    "name": "Longfellow Park",
+    "slug": "longfellow-park-minneapolis-mn",
+    "address": "3435 36th Ave S, Minneapolis, MN 55406, USA",
+    "lat": 44.940543,
+    "lng": -93.2191915,
+    "rating": 4.4,
+    "reviewCount": 239,
+    "photos": [
+      "ATCDNfWHA72badiuTQETy_6ZlKHomXskMAnLlkh1mBT4cKTjsf9w0VwTPa9QEH5MSsr06FgDQCQgsSUpUTbSEWLnsuphczssJxQgYg-6RFNZizjJkiEDDqWeqYX8pB3huU6v-9CaEr4V9ZoGbFfHNsFL8syfH5i-3CVtyzD5YNMNa94k6U4fK0NOjpd6HdC59gBQV3LQDApYJWBgQf6Y_ki72Kfvuz6mvLSIO7e1vf8EfnRlWQ_VgeuCgweQZ12T3xyhgR9zKU_-71rtquIKof3Lvpj9drqra3lrjtXaxo5rkTJbsLVNjvvTsEjQJoW5BU-2BbKvniu1crxxsBvAvqBCfrpjNeXzxfF4Gf-xdc3_RWYOeZa1U5-WZoQLwgU9kN6g3IopnXJqlv8Aw3Ev__SmamLJzHxNlYBi1zUs7X27IzH4BME0"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJnZFsoTQo9ocR5gyi9mNWAwU",
+    "city": "Minneapolis",
+    "state": "MN"
+  },
+  {
+    "id": "ChIJo9Rmop8zs1IRU5aENHkPots",
+    "name": "Mary Merrill Minneapolis Park and Recreation Board Headquarters",
+    "slug": "mary-merrill-minneapolis-park-and-recreation-board-headquarters-minneapolis-mn",
+    "address": "2117 West River Rd N, Minneapolis, MN 55422, USA",
+    "lat": 45.000835,
+    "lng": -93.27790689999999,
+    "rating": 4,
+    "reviewCount": 38,
+    "photos": [
+      "ATCDNfVDDzrOB6EK3xRtPLlR30vvHBycwihRTj-wQ2r5cSRVMDlr3Elz4bl7JVNDvxuzFrZBT251R5_k_dPRm6-EoyIRmKl2L-VPdUArtzbZbnigP-r8QqujfsK04CAH93dtkD1muqwBA2CsFsL59ZC_RD5hSqGRvGoy7mMb7rbdc3XZDQSrovECDn7nVEAkdimBjR1JSoJw_DxsD-SE4asQc_W6jbIw86ccfW9o3x9KXt3qP1Ek_5dJoKFcLo3RZnAhj8dq1b7f6zpmGVCmizFs56Z8okBDEF4sxrzR7X2Pyc5pKiCIYkmT1LaOuy3q9kJluznMTonDUYzT8e0szUvXkCVDLHm-L4v-EWi2GJ7DD8DqRzSVvP-EWxcF05WwtEVJR6XKVk8DLAyw4XRHdgb3sZcdntijqKduwu-Z-DUl1VsYuA"
+    ],
+    "types": [
+      "establishment",
+      "local_government_office",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJo9Rmop8zs1IRU5aENHkPots",
+    "city": "Minneapolis",
+    "state": "MN"
+  },
+  {
+    "id": "ChIJXSO8HQMt9ocRqS19857BDIg",
+    "name": "The Heights Racquet & Social Club",
+    "slug": "the-heights-racquet-social-club-minneapolis-mn",
+    "address": "1415 Mendota Heights Rd, Mendota Heights, MN 55120, USA",
+    "lat": 44.8663596,
+    "lng": -93.16865489999999,
+    "rating": 5,
+    "reviewCount": 33,
+    "photos": [
+      "ATCDNfWBUjQYjtoWlVSbU70M5rmi5b10TmcRJzPJZxCaEZ2Xpjf-EWpAd33uuOq6gZr7TKO-Tevtmd4GOO1qHXfkUkij3r7KWQrB3vqijlovzhospBQLTAQxJzg3AyVvMpA2PJIBfbWd6wu1hxT-WNsYQ2OBRNwQ0O1jv8bTzdLavVApdQZmwasps1f1wm2JUmnKhpdV3UOLpvpSDGiZVGMDPZffHW_WFRDhqkiGrdUoIlk_0YG80yitfZ7nQ96rj_Ma4HeissZbm1Fdx8mBNqOSHDYCIN0rR3lUm7X6t4yMVsCkSQtfhbzz0a1bX2t1WJ3r34t3S6kRZeP_nkwLmAnX0Laj_AWmEby6Cpiu5ATFVbnKSKOM6wEQENAi5-wQa7UH5md2U_VLqRlfsZygduQY6lwnz47tSh8AzTiNnBQCgfqKqdq_"
+    ],
+    "types": [
+      "establishment",
+      "gym",
+      "health",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJXSO8HQMt9ocRqS19857BDIg",
+    "city": "Minneapolis",
+    "state": "MN"
+  },
+  {
+    "id": "ChIJK-BuLrYls1IRCgJUrOa7kNg",
+    "name": "The Picklr Blaine",
+    "slug": "the-picklr-blaine-minneapolis-mn",
+    "address": "467 87th Ln NE, Blaine, MN 55434, USA",
+    "lat": 45.131253,
+    "lng": -93.2582664,
+    "rating": 4.9,
+    "reviewCount": 42,
+    "photos": [
+      "ATCDNfVZMQwDtcvLLQPzA7t_kjD83S35BojvFRYEZqAhOHlaVIGYvkBeppfvmx2gZsh_W-dGg7oboa90v5iIQwtXMpcTvTuX3VTecsSgvgqB7VbJppavdq8vte0t733kCjrpJa_QT3wNWTRLfa-635d9DRn2igagfE78qybml2S0jBOcZQLbYWZIOekmsAoWW6cz-IqzNavE8V-brh6lPWnx0w5KVX3eaQT-S_iWS32yLiTz9JK28x6ypMB0y13i8pcm1ZDZaTQbk47pv2BXg8JqBEhaFahAMf8lWbTd41sQ0lGn06yalp9N8d8uyyiRY9Xid2_KH6iGA0MJaKut-RVQvsUB_6C1iXEHt2FndwkzSO0zE08dzhhrtICmxlRuMn4IEFDRJuqyjrc6H-BaBZFLU-IJyGzp7vYqzSOIf34k_7IvBg"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJK-BuLrYls1IRCgJUrOa7kNg",
+    "city": "Minneapolis",
+    "state": "MN"
+  },
+  {
+    "id": "ChIJ16ptgZHX94cRAaS83j4UH6Q",
+    "name": "The Burrow Pickleball Club",
+    "slug": "the-burrow-pickleball-club-minneapolis-mn",
+    "address": "7053 10th St N, Oakdale, MN 55128, USA",
+    "lat": 44.9600641,
+    "lng": -92.96333969999999,
+    "rating": 4,
+    "reviewCount": 3,
+    "photos": [
+      "ATCDNfUkKBvdg-SvqR_5ve8oRbs1Mjwtgg8xHPCGBBckvjD8jLTACrTv6BVCSjSCXYIrJYeYKLzWgDXCpDZbwbIHzwQryBXCN8zPRO4M4Pk9vmI8d49RCWWO7R0UdfFazKGjxuW1zUjfaThwVOAf-L7T4_H5FzpGA1QnspfoE4EAGW7ewJY5Bc1qRHnJCtZoTqGLWOuD8_S1C6CQDBHGWvXd5BLNBHG81Y6-qHWei_ll_QLwAa0v_G2P1XeIVTCVQUt57mq1LaJ8I4xHPQxtzB1RHpfv1oywO3HKOZ_EeUv88b9cipslaOu9ttQECcfUadMzfFqKucjKjg9CadkIPVN-gvhI0NoBCuzl1LL_cH2HDj48HC9PkXUbC0ln_ikWJnoV3MVtlpWqSlnoHxmJ3840Ottrqnbou0wF4l3JisVVkKBvFHA"
+    ],
+    "types": [
+      "bar",
+      "establishment",
+      "food",
+      "point_of_interest",
+      "restaurant"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ16ptgZHX94cRAaS83j4UH6Q",
+    "city": "Minneapolis",
+    "state": "MN"
+  },
+  {
+    "id": "ChIJO9BtJBFJs1IRmPHV4wrmurE",
+    "name": "PickleX",
+    "slug": "picklex-minneapolis-mn",
+    "address": "3955 Annapolis Ln N #200, Plymouth, MN 55447, USA",
+    "lat": 45.02799599999999,
+    "lng": -93.4559166,
+    "rating": 4.9,
+    "reviewCount": 72,
+    "photos": [
+      "ATCDNfUK0JrEIMJEku1MeDROWYRv1LfahxOuSJDBVijR1ktQtqhYgKce7g-DwB7RAVwtf1swqXyl-w7QjduEagOzLi9PcjNp0Iz_-8FimUSzKpBsp7ri16REi1d92C79Yk7V3oxBYkVbLsvV57PciGvPtRjawbC8BUULA4A8u4tetZCavuuH3ETR44-z9zD8WtUPjRElHtpFamwUYJU8cs1A8UubkVYv_t7om1ruZ2-VVykHIJr0vJgsf8VXpiujGYieM0alTLE-3uIDJtkjVFr4uU-ncHo5OilvMElMtAZTbfySROZk_194PxB4MXIhqWadrJ44e6BliM1SSkCcF9toeZheqKcU0oTXa86dmjhep0yMnzsVXv49p-370EBedSVs4fxweWTo6a_gJ9yEIqNy8QS8vaNaXgYNRPDaTx_Ww1iTh9Dx"
+    ],
+    "types": [
+      "establishment",
+      "gym",
+      "health",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJO9BtJBFJs1IRmPHV4wrmurE",
+    "city": "Minneapolis",
+    "state": "MN"
+  },
+  {
+    "id": "ChIJqf9h3fkR9ocRhjtMdCLQm8c",
+    "name": "Dropshot Pickleball Club",
+    "slug": "dropshot-pickleball-club-minneapolis-mn",
+    "address": "1100 Shakopee Town Square, Shakopee, MN 55379, USA",
+    "lat": 44.7856489,
+    "lng": -93.5536632,
+    "rating": 4.9,
+    "reviewCount": 79,
+    "photos": [
+      "ATCDNfU5oU0tX3TAtg3cKg0ppX1QGHk-ENesdtor-EFbNSCzjYKPJUDYh6ZnK8RO4aBZtv3qlu8IvlDSOxJIa9QwXC4fAd-zQdha3Ngpsneko-cdL7iGbmRQChONsF0uClGNv3jEqJe6kABFJRgoPHKFg76P51TXcF9fWCXt7GXkVda9VUXeAIfXHn2H91tOeFTFKjbaU-0W26r-H8fqBUOMoueJ2zeEdVPdCPgOvfROng78CKUqL7A1HPdYfU-3vVNd3Jk6Tw8-_AujR993qmyB7gHL-Bv8vnqUCEyeeShItqM6FQ"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJqf9h3fkR9ocRhjtMdCLQm8c",
+    "city": "Minneapolis",
+    "state": "MN"
+  },
+  {
+    "id": "ChIJqzexTUwr9ocRDzFrw9oHjT4",
+    "name": "Saint Paul Pickleball Club",
+    "slug": "saint-paul-pickleball-club-minneapolis-mn",
+    "address": "741 Holly Ave, St Paul, MN 55104, USA",
+    "lat": 44.9434238,
+    "lng": -93.13164929999999,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJqzexTUwr9ocRDzFrw9oHjT4",
+    "city": "Minneapolis",
+    "state": "MN"
+  },
+  {
+    "id": "ChIJ-ZkaGjDX94cREWucrgSBB6o",
+    "name": "Score Hub - Indoor Pickleball, Soccer & Golf",
+    "slug": "score-hub-indoor-pickleball-soccer-golf-minneapolis-mn",
+    "address": "895 Hale Ave N, Oakdale, MN 55128, USA",
+    "lat": 44.9607234,
+    "lng": -92.9594396,
+    "rating": 4.8,
+    "reviewCount": 58,
+    "photos": [
+      "ATCDNfWtpdBX2p1PoqYBnfxBfFuDQ2Lfaok4V-wA5-zShmDuzojTTw65P6Zg39tEf2SNgsGEwTftTplF65quzgQGrS8EeUCY_YEnkFv6KM9vcnL_S12Boctb8ZxpksKWy8Qvvd3J0BnVbtTRDo5trivfdGic0r8rUppAy_KwrpLrAQAnwphr0nm5mBTDdg4k_LG_CFebAAtO0dvMgeLpJg62iXuEYKkbySnw10ubmsXMYIVimOasR4pq5ZjMU0u206OAGWaPVX7jDaKCnFggpEMI49i8VKeXb8uyD5tqK540QdVcsg"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ-ZkaGjDX94cREWucrgSBB6o",
+    "city": "Minneapolis",
+    "state": "MN"
+  },
+  {
+    "id": "ChIJW12KAaPX94cRYpETB4YOS7I",
+    "name": "Legacy Pickleball Club",
+    "slug": "legacy-pickleball-club-minneapolis-mn",
+    "address": "2122 Wooddale Dr, Woodbury, MN 55125, USA",
+    "lat": 44.9182618,
+    "lng": -92.9755011,
+    "rating": 4,
+    "reviewCount": 10,
+    "photos": [
+      "ATCDNfV9sAQtL-_qtoZ9pZjtNId07SUZTsSPMrpNjqqkI0syBgGEB9PeysTqtiStZ7KnMXZ8UyctuHiTX5jcg1uTmJn-ibX5D3__yzrOQyivubQ5jDqR6atnSjKAmsBAkCqd40TEbCdaiwqoi4PbqKXGzndkNeKyboSBK9xejlJTdMYpmOMHp6cxNpEhZN_VJi7vI1ne3HCaPfwtoF5ta2ceTBSUZJ3NRiV4fc5-yTjpL9it48xUKtk80A8N7ky3N5Q6zpuabFTQCFNZBkSFrENLKFu3NzNXV4kbcy9rmu2UlOOeDPTHzE45_PlYzbgoe9eo7n9O3dWYI0w8GonB-d0Nj75-le5QSlmkOnr0Uhlk-DBXUB50ZsyHDbVS_swAS_8QX_-AHdifxMpLBYf4wQ_rmYJhEWFEbKm1uZckCeJT8YWPmeEO6CXmQzJp-DeFk2rZ"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJW12KAaPX94cRYpETB4YOS7I",
+    "city": "Minneapolis",
+    "state": "MN"
+  },
+  {
+    "id": "ChIJXZxKVwAF9ocRsEGxIG7FHdQ",
+    "name": "Mega Pickle and Pong",
+    "slug": "mega-pickle-and-pong-minneapolis-mn",
+    "address": "2929 Water Tower Pl, Chanhassen, MN 55317, USA",
+    "lat": 44.8580498,
+    "lng": -93.59490160000001,
+    "rating": 4.9,
+    "reviewCount": 104,
+    "photos": [
+      "ATCDNfW-tYOagppX19FPtiGSdeIuND1_E-UOQ8MnG9ibMXTjWgl-GDqhAj5XTbQ-DoHNauKTZPYeKRE5MBBdNl3c6tq1sIN7WPwquevIoFWwcz6lUUAYldfxAR9SDh2_Rzq2lR1x4PjRyZhN4Ku2EBT3_4sZQpl1OX6HhGlvLr-w6P_HBN0z9lfD4Bufg7WN8qH39pX5TPS7Ui3Y4gQKP04UEi6h1l2A746ryWCoZLnUUza4213zs8r_L1X_c5vuJZekTg0v-JeRS90DciEqnIaMyORi2XeRncDIEE_kBC-A_FDzpPLnFoeBsM9RFQ-rfjlQoON3dqscrretKnwnCQUEs6HJza1XHuA_JM5Jyp4H2Ybit0qiSGkS-AnguNwgQuaATUZjDo1wLGlbHeAIntT0a_6Pog-G1Arknoz36orgO8k"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJXZxKVwAF9ocRsEGxIG7FHdQ",
+    "city": "Minneapolis",
+    "state": "MN"
+  },
+  {
+    "id": "ChIJPTUuRVfZ94cRDydk-r-ViWM",
+    "name": "All-World Pickleball",
+    "slug": "all-world-pickleball-minneapolis-mn",
+    "address": "11650 Hudson Rd Suite 200, Woodbury, MN 55129, USA",
+    "lat": 44.9457637,
+    "lng": -92.8716578,
+    "rating": 5,
+    "reviewCount": 829,
+    "photos": [
+      "ATCDNfXNzEZ9HP54G6pquphdbEGKX4U2E_w9XVt3rspruX2Ufu6rBhcK12BJZWfPoRWKC08ONeFF-tq7MTQcAU7UNVSjFT6S5h3uBYsBIjIiYTOA8JExT334wpFmpghhYRkW2Newr1Elq3Im9nHy_UJ9IC5GZtsgh4AIJ-iQe9FTJm39leIytCj9i00NbNLozw4NPFmLPrT4cWzWwi18zHKf9p1IPvZa-ghB-lIp0YogW1aKR129ei_X-2bEWFpa0gthbawC5qH_ORRuBZHUyJaZUst1TuFTu2gp7J3QK3Zs4xSKig"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJPTUuRVfZ94cRDydk-r-ViWM",
+    "city": "Minneapolis",
+    "state": "MN"
+  },
+  {
+    "id": "ChIJadzy9N8ts1IRYwCPSSDavWU",
+    "name": "Minneapolis Cider Company",
+    "slug": "minneapolis-cider-company-minneapolis-mn",
+    "address": "701 SE 9th St, Minneapolis, MN 55414, USA",
+    "lat": 44.9895639,
+    "lng": -93.2413138,
+    "rating": 4.8,
+    "reviewCount": 606,
+    "photos": [
+      "ATCDNfUdHEQTJMq4gfrvTbF-0_W3u1gRRXwOGnKOhhWbfXc1bv9tZEruWl0WWt7qTnyxxNGTFnXKQw1cyUPbcbHsXo5a129MkzgnH3ut0z-KCOdGUVXold0At5hFJj9iQlT2vbM7-U5mvxk31NSPOFoQpkxO-NyWa30qAQ4uc1nkXJVFgecuva9kJi4JWIf_QYWaCsE2kfC0zev_wS1OIKBUHwUZchIA8trPb4CGSyFGBg3wg-PIAr-jqw28vxZg8X60XNJAFaiWzwOyLq_Rznlqiw3mu4NyaOAd8DVEzSj15jndUg"
+    ],
+    "types": [
+      "bar",
+      "establishment",
+      "food",
+      "point_of_interest",
+      "restaurant",
+      "store"
+    ],
+    "priceLevel": 2,
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJadzy9N8ts1IRYwCPSSDavWU",
+    "city": "Minneapolis",
+    "state": "MN"
+  },
+  {
+    "id": "ChIJyX6o2bHTslIRVucZyOoFKO4",
+    "name": "Bigfoot Paddles pickleball Academy",
+    "slug": "bigfoot-paddles-pickleball-academy-minneapolis-mn",
+    "address": "3001 White Bear Ave, St Paul, MN 55109, USA",
+    "lat": 45.03158029999999,
+    "lng": -93.0222714,
+    "rating": 5,
+    "reviewCount": 4,
+    "photos": [
+      "ATCDNfX41kI87zk9HAPBKB_UPmeMXx0BoFDCABSrePUziFN9RIvIPyN0w8Zcoi2AEAf1BChyh-S7KUozcUZKA67mEfs8b-JOclWS3y87jdKc4QPQEq7mcQ8ogPGKFh2HckQqPEBOvHTx0ErGlMyI2NHgBlnww6zPUpBswX8roXiTS35TUQ_zAJ46kgeVfcwuzN0Riq6kN9Y9KFzp6khNaBnSk3MXRlKvvHfHb_C-V0pVKA05l2BnlUu9PvLWIpEtwoOiXmFf1GojfiE7xbAhIIJoCvWyIkW3riiXakCtOG4G-ylAWQ"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJyX6o2bHTslIRVucZyOoFKO4",
+    "city": "Minneapolis",
+    "state": "MN"
+  },
+  {
+    "id": "ChIJQ2Bzkaw99ocR8DSy45WJDDU",
+    "name": "Savage Pickleball Courts",
+    "slug": "savage-pickleball-courts-minneapolis-mn",
+    "address": "Savage, MN 55378, USA",
+    "lat": 44.7551667,
+    "lng": -93.3638969,
+    "rating": 4.8,
+    "reviewCount": 34,
+    "photos": [
+      "ATCDNfWrzWp7zkvGpzSlN1NJW2pvQkfWJ6Sr3Hv5D00dCi0Ss03l1DKppJnNDwO7BUUTWYIKKAFkIv4DYxfjB4MZhNDcbLpuJtfhTiagLt7iYCttYwDaPaASqxn_c4n2n2nEygae6zUldLnXhnn7KULw8i3gtfcQc1l08RjSLdzkPRF8hGZSKfGqdVnceWWsibsEhD52uHVQqVRLfVqBtjkkk1tp7sQBQ3qGfXQixek92WVfzfl2zpMb_DBCLhUSh_3G7V5Reog-007p9nZCijiKQzac2TbRh2IPgSHic92d86FzCViPUcdMiPE-tcyctoRV_7IvC2cHA6hMx52fNqKzcGgDPJKAfMdb0T8hhfyWd4TmpzkMALW30IV2Jf99PnjpTureDikAiIc7P_OGT-GncIdUC7fKVW-_tFQKhfiQ5Mw"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJQ2Bzkaw99ocR8DSy45WJDDU",
+    "city": "Minneapolis",
+    "state": "MN"
+  },
+  {
+    "id": "ChIJxWijaQDZ94cRwo_uR86lTAc",
+    "name": "Colby Lake Pickleball Courts",
+    "slug": "colby-lake-pickleball-courts-minneapolis-mn",
+    "address": "9715 Valley Creek Rd, Woodbury, MN 55125, USA",
+    "lat": 44.9183067,
+    "lng": -92.9089254,
+    "rating": 4.8,
+    "reviewCount": 5,
+    "photos": [
+      "ATCDNfXPagWhW6VBu6VByJ_8U6DebWEY2vmOfZDcg3ia2GpbjxehAP9EPKJvt0in4FImhLvOHieq4_H7qfYdUvKLFIeRwFzFWyp8irEoM6O10fFfL4EUq1-416KcqMwivJ4eqtOU8aRIQxXypvpHcj41vJvBwc7jHXi3MSr4kEvEk-qcaK00eGqKVr5tIw1iHM3yQrholwBxUkj2uATIfxNJW9jib9KDyituPtRcnWz5aUf2SXodi7IkBM20_u2Zd6Z87cb38pvB4Ukp9SXmootA3Gg50aqCHFqLEXSvN0bYMlNPEtBxsAjuL4f0_FYZBDleDQG4FHh6AtGjiTseUZiamLuFg47L4gIsNVW4adj7T63AnrtoL8a6Bws5dVR62d5ndcjg0OHBtJQ-NilCcp2x2ZT5Lk8Tyd5dEfSWS3uH8S0Oc1p7Pler_mUiPa0-8Ss8"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJxWijaQDZ94cRwo_uR86lTAc",
+    "city": "Minneapolis",
+    "state": "MN"
+  },
+  {
+    "id": "ChIJTeYhzCQg9ocRRZcVwkYP_Qs",
+    "name": "Northstar Lacrosse and Pickleball Company",
+    "slug": "northstar-lacrosse-and-pickleball-company-minneapolis-mn",
+    "address": "774 Mainstreet, Hopkins, MN 55343, USA",
+    "lat": 44.924248,
+    "lng": -93.409813,
+    "rating": 4.7,
+    "reviewCount": 89,
+    "photos": [
+      "ATCDNfXEtHXRDeX2-t-ku2TOG-HHSY3jroQJsvMQa9l6XmrC0eLaRar2F7UGxsN5ZB3f8-Z_r4cqbxJPSqJXyRC0z3TZ0fYVg3OyWGOAIfCccw3QYXgUSiwnyj6i_kDPcZyVr6aHEkYNb8b6blUdn62E884p5EuSsC0vMz4vMsdmXh0yabNaBJxvbu00s686_J53D8PLeOXkQBhIG-F_LjoX4GaUqmE2RUuhCBaAU1rUYw74X6zOsXnj8HPbVGRUXnqRUzBGjFg1PPnYC4pdqlrlrNLR3Zah0Lq8rGzrh1tsxowtuQ"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "store"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJTeYhzCQg9ocRRZcVwkYP_Qs",
+    "city": "Minneapolis",
+    "state": "MN"
+  },
+  {
+    "id": "ChIJf0bkTQAv9ocR03z2TNTFBNE",
+    "name": "Quarry Pickleball Courts",
+    "slug": "quarry-pickleball-courts-minneapolis-mn",
+    "address": "3340 Coachman Rd, Eagan, MN 55121, USA",
+    "lat": 44.83671529999999,
+    "lng": -93.1792383,
+    "rating": 5,
+    "reviewCount": 3,
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJf0bkTQAv9ocR03z2TNTFBNE",
+    "city": "Minneapolis",
+    "state": "MN"
+  },
+  {
+    "id": "ChIJI9LhVMk5s1IRES4EKIKlgwE",
+    "name": "Champlin Pickleball Courts",
+    "slug": "champlin-pickleball-courts-minneapolis-mn",
+    "address": "7200 117th Ave N, Champlin, MN 55316, USA",
+    "lat": 45.16915400000001,
+    "lng": -93.3727186,
+    "rating": 4.8,
+    "reviewCount": 4,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJI9LhVMk5s1IRES4EKIKlgwE",
+    "city": "Minneapolis",
+    "state": "MN"
+  },
+  {
+    "id": "ChIJddKlyxYx9ocRcwqXXmvDuLg",
+    "name": "Apple Valley Pickleball Courts",
+    "slug": "apple-valley-pickleball-courts-minneapolis-mn",
+    "address": "Apple Valley, MN 55124, USA",
+    "lat": 44.7418048,
+    "lng": -93.19125559999999,
+    "rating": 4.8,
+    "reviewCount": 5,
+    "photos": [
+      "ATCDNfXn56fPa0b0fw2JaxL-zMI0X5gZlWfQuMZBSQEBlNtBwo0Y6lAZrANQTA8ENyqBANQLy1yZxxyFdslz4UrznjgR__-QbEsY0MkC9nVuPwVPdh6JAEcVqXh7TQJTC73hYdK4qZAwH-LHAhmXAMajQ-0f60m_5hCoJ-t_zdqniU1jGZQAUAlmFLNnC1Kl1WUOiAwlu-knkKl7AlikQ8matitYX3lQHbI7W4riSqwvLJKGsQm0QGzRbFme2X2u1F3clu6FvpheTKt-vSrbrCX7aGi6Rff-Nmh0cmK5mr3IFz837GstivmyGpKzwCwCw9EkUuFSWKl-bLPHUr729dz05JRBSaQJiaETbGxFIhgZ_31QyvzLL6CDwjeW--JYL2LQU0BfnDcsqvY8LsOlrhIIv_sPPEqQJUJ1xVvhZVXlM1e7MQ"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJddKlyxYx9ocRcwqXXmvDuLg",
+    "city": "Minneapolis",
+    "state": "MN"
+  },
+  {
+    "id": "ChIJE36A2LtH9ocRm0jhT5DSe70",
+    "name": "Pickle in the Middle Lakeville",
+    "slug": "pickle-in-the-middle-lakeville-minneapolis-mn",
+    "address": "21300 Juniper Way suite 400, Lakeville, MN 55044, USA",
+    "lat": 44.6402805,
+    "lng": -93.2797301,
+    "rating": 4.7,
+    "reviewCount": 9,
+    "photos": [
+      "ATCDNfWAmlGi67U3rEZ-BuMlXMndqDEceLU5XXlO9_6FzKp1EAGOfxaycRMb6se3Dc2-Lcc9syIUB5mBVkNtrBhSI9FCOYkUKr4FYKM0yBS7Au6z0vwhIpf5XEnH3qdJhsyxRbxDP8zRxfK1P-ch1MxqJa6haNVIe8XU9q-1tK0OK89GZJSLXQFfgxSJW8vX_b4DWfGhw5JFXAf8EzK6BE-dkxVjkDhHaPhLdQ_4xGYxGEZ-PgqGib6QyyH-t3UjGvo4jpz5ASGdBF22k1yP3rG-kzM_rnwwjrwQRRUfBthigfriDw"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJE36A2LtH9ocRm0jhT5DSe70",
+    "city": "Minneapolis",
+    "state": "MN"
+  },
+  {
+    "id": "ChIJ9c5JZgjT94cRCvlZAfBb27g",
+    "name": "Salem Hills Pickleball & Tennis Court",
+    "slug": "salem-hills-pickleball-tennis-court-minneapolis-mn",
+    "address": "5640 Asher Ave E, Inver Grove Heights, MN 55077, USA",
+    "lat": 44.86639,
+    "lng": -93.0735158,
+    "rating": 4.6,
+    "reviewCount": 7,
+    "photos": [
+      "ATCDNfVhUZV3JRjRmR2yTc-0EjfvwhrOXXmOx_ad9q2qD4KcxDlUI53M8ndcK7A76t3JLdvyljJDXWrq2mX5oKIIqJjRPHXzxABlhXm67I_wlkn6fLgeT9ULvv7H1Qqm7_Mz_5aUGL9JojkdJx5c1YEo_stb26_EfQnufo_WjZsNmWYxCq3FCS__oe9XKOJEemt57QrTFnC3Mnr07KdkFY4KjtCACt2qn0PsdbGpc2iRmBV5LdslgKuMABrBl4OhIIGyZxcs1sc24rbcurfnLt5OcQTHmf4Spx7eHRMJ9DMe4TYJmEupTGKmx27SWNsHEsb31RWokkIIDXjXasXZVSYjfO-VrvnW8j4SLoB53zye12fwTnhz4tLTqYY4UuHhY4AjlUJ-2zl2Dg01U4ssOW0M3PeuPvrbXq08MU9z7RdYfJ9MvcRX"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ9c5JZgjT94cRCvlZAfBb27g",
+    "city": "Minneapolis",
+    "state": "MN"
+  },
+  {
+    "id": "ChIJ8wCVtQsw9ocRhYCuOflyHCU",
+    "name": "Sport Court North",
+    "slug": "sport-court-north-minneapolis-mn",
+    "address": "9208 James Ave S Suite 5, Bloomington, MN 55431, USA",
+    "lat": 44.83677000000001,
+    "lng": -93.30230689999999,
+    "rating": 4.7,
+    "reviewCount": 59,
+    "photos": [
+      "ATCDNfWC_T0hqDWSOlTw8mp5M-nWmnAD0ow8d3OM-mszO9bSc1dVC1nqhK7j3ZHmF5yldjklQ9N2PT8k48VHEOnwSe0fo46CeaTprC0-snDpO7nkgMlRrS9K9QaNRh1Ued3h95iQY5IX-FathuM_E34p66yd4JtPKwvGAGTJXZI8a0Id7EAWQzy41Df89inyI3gdnjEofbrQxB2mhIgYOQ5-x_nwpNXsQMpd3yn-_xDTrz13XRmW_TYHJnyOPDI0aV_fx604pGAegVhND48mQrSZiO_9vDAcSQ-ZpQ2cN9Q51utKBg"
+    ],
+    "types": [
+      "establishment",
+      "general_contractor",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ8wCVtQsw9ocRhYCuOflyHCU",
+    "city": "Minneapolis",
+    "state": "MN"
+  },
+  {
+    "id": "ChIJPyzTBqYV9ocRtZB_obigFF0",
+    "name": "City of Prior Lake – Pickleball Courts",
+    "slug": "city-of-prior-lake-pickleball-courts-minneapolis-mn",
+    "address": "15651 Skuya Dr, Prior Lake, MN 55372, USA",
+    "lat": 44.7177057,
+    "lng": -93.47373569999999,
+    "rating": 4.6,
+    "reviewCount": 13,
+    "photos": [
+      "ATCDNfXkhmCK7_aPrJ0JxaDrQNX24Udagk6EWeV-j_9Zo8S_LWUtg1rJLIn68HjWG-FxcUfgW5fLCqCnyGaTCOyNtCTZsIkVjkQDjBsVk9-VeGsA6cxPFnuqenQ8E6HHs7SQaqVbkupbwhsofULwAxBFa8v2bOXOyGY_PZ-Hn73D8rXCfXC6FhT7N93G4n9uah-d3sytiz6_TgWsayGE5bNzX40Tz0XrhQzTTc-skprmijyYyLXYalQvO7rKGT1epVjSRHqu-E2WiZ87i4YMHrkVJm5eiMS-Ub0I5jNLgDWbW4zz7WnTU08wtu1cZ-p96kSDKz6eSedw-iIt5yPVfKMTOVDC9THUq_BnUNx6w3lOw9d-hv-GuZ4kKOqSqota_MaJvC_wNDR22_UIvIYzr8if5mYH1f2x2u6Ov_2Kfl6m_5FFgQ"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJPyzTBqYV9ocRtZB_obigFF0",
+    "city": "Minneapolis",
+    "state": "MN"
+  },
+  {
+    "id": "ChIJCdIucQA3s1IRKNfKqa5utEQ",
+    "name": "Pickleball court",
+    "slug": "pickleball-court-minneapolis-mn",
+    "address": "Becker Park, 5530 Douglas Dr N, Crystal, MN 55429, USA",
+    "lat": 45.053103,
+    "lng": -93.3613675,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJCdIucQA3s1IRKNfKqa5utEQ",
+    "city": "Minneapolis",
+    "state": "MN"
+  },
+  {
+    "id": "ChIJ-dAyic9Js1IR-Zq977TXU9c",
+    "name": "Bass Lake Playfield",
+    "slug": "bass-lake-playfield-minneapolis-mn",
+    "address": "5450 Northwest Blvd, Plymouth, MN 55442, USA",
+    "lat": 45.05144019999999,
+    "lng": -93.44394559999999,
+    "rating": 4.5,
+    "reviewCount": 144,
+    "photos": [
+      "ATCDNfVLZtCDdgh0xw9gDjrSD-A9iX8WOnCKunbZDjxASJ_oSWucLnlirofgaZjzRhLpGuwY1ju8upp6Wxu7jsHI1YDTD2oMWl-Mq_DR9pUR1YQ5hdR2mWtGuuhreh_yS1dO66d2L_u7g3GvaEeLkjZekEnHz_RwlRMOpD_TAnLhNKbNcOyEaWVR4S4Pqrh21fSOawawEH4a-f1VkpmGE_RpEcqxd2kb4DVNlAND1qYJxum7xODzmnCY-EwxzU4FQsu03zmS7EXX5SE_Ll5ROovqYYSK_1sb6zp-PKI6P6sOHPNCNrws3E5W0kjPhTy96v4HxeHovAkDPZMVzrerQMgMVIu7C0w6PXgLaN6M9HJIZYT834X6qvznRghnqI4cimxnyzqtHmtAbd7LZj6qgIDX74wmBejwpMVuMP3Ir3vdU-z3vF1GoeFkg9a1excueosC"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ-dAyic9Js1IR-Zq977TXU9c",
+    "city": "Minneapolis",
+    "state": "MN"
+  },
+  {
+    "id": "ChIJHVldmrc2s1IR9OHb23Yh3nE",
+    "name": "Crystal Community Center",
+    "slug": "crystal-community-center-minneapolis-mn",
+    "address": "4800 Douglas Dr N, Crystal, MN 55429, USA",
+    "lat": 45.0421968,
+    "lng": -93.3588608,
+    "rating": 4.5,
+    "reviewCount": 284,
+    "photos": [
+      "ATCDNfUwQv2fZWQf0M2ESd1wgkIubPrwWvCF4EeFJizPJx3JpjhTpVd6fYZM56dzB53b874N47ekY7YVqMIK8XlD4B92oAn6_fHwQRcxw-vGvLtjpy4g7pJ_KCZVBYTXS5LBIyQWU4U7drLXnSdxkTgWxP633iQRYGSTstD8g9nrfLxlmIUY_oFV7FdYIejNIkwXXRztt2mMq3C_rQcWfJ_h_hotrSWsrE9DKSblFBYi83vxQDS01tmfvf5Bqrvcrt99afpDLiHCTaDiUbii3RBFgV0ljYhgvHv_R1uwqZKMBx8iwQ4dscXDDIdvlOvbZjBydqUUEwtQI9L8od4mz7sFjH540ZCm-4LDcI1WwnJRn0ecH9oF_FAqcdVoc9LM2oaiOSA6v8IT8XT4TujXKRLHah5ylAmieCHZXPhRsn_60EVIREk"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJHVldmrc2s1IR9OHb23Yh3nE",
+    "city": "Minneapolis",
+    "state": "MN"
+  }
+]

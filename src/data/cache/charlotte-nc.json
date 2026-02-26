@@ -1,0 +1,1859 @@
+[
+  {
+    "id": "ChIJv9JWCvChVogRrI3H7F1IS9o",
+    "name": "Tipsy Pickle",
+    "slug": "tipsy-pickle-charlotte-nc",
+    "address": "201 Camp Rd #120, Charlotte, NC 28206, USA",
+    "lat": 35.2468217,
+    "lng": -80.83180709999999,
+    "rating": 4.7,
+    "reviewCount": 608,
+    "photos": [
+      "ATCDNfVo4B5IyV6IkvCA455j9_7fWAHG3kVGXpEroH7C8IGIjEU704YTRLv4GD146nzcIZ4WpfZKGZfrNJN3JqG9URzkyoGixXRhs8zyvzuOoiUQUMbup8DB3Qc2rD0zBfk2gA5GryxqlXotgkQqSxgvW5BfbjvkaUGftElaVdTx65DlO2xCBSenUsceea78fyCSW7VHE7f6va8_BPZ9RsAWaD5a20I-2xW26wbSCbV0ePsVm3gmqnqTd8erCZ-37wupjuX3zO2EovH0Y59zfh4sP9CVtLA6Q6_-1HQ7IPCh33MWrw"
+    ],
+    "types": [
+      "bar",
+      "cafe",
+      "establishment",
+      "food",
+      "point_of_interest",
+      "restaurant",
+      "store"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJv9JWCvChVogRrI3H7F1IS9o",
+    "city": "Charlotte",
+    "state": "NC"
+  },
+  {
+    "id": "ChIJRR1EsY6fVogRF4N3Tz54UHU",
+    "name": "Pearl Street Park",
+    "slug": "pearl-street-park-charlotte-nc",
+    "address": "1200 Baxter St, Charlotte, NC 28202, USA",
+    "lat": 35.2125335,
+    "lng": -80.83837410000001,
+    "rating": 4.6,
+    "reviewCount": 193,
+    "photos": [
+      "ATCDNfUzQTUVH3HQKbFxldO3vk8c81cL-95py31YQQacZ24RILEop_RvwSJtXD0eIyqtfKq2l7_X626vQBCKADWiUgYoYDhzctWERVe9myi5nc-Lb-dcknkeCV5jlvAWN8sbIoekduEA1Yh5aWHHZYAYzCoeZAcVHr1L8cm0OKW4nAhf-7E7PZJnJs9AbRcQuV0-NxuBwtElzHuvbh5nGqC5Qa2pCSPFeJ33aN90vJsDRc8UGlSpt-rIARRSdm3qIUJCFWOgUzo9bHcgUhatcCArtUlertNZYH7Gtv44TC46dxKUfV9vLx-ACPRqTEj0xxmxKQ5n-2_bW7PYIbewpNgJdplN8ZqcOBwmcjpqK2kAx0zu4sVi01SY6v2XfAW4zEGpoVWzldTq3fQ7guFwqtjN_coRnIowLKj24HvXijnKiZHYnQ"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJRR1EsY6fVogRF4N3Tz54UHU",
+    "city": "Charlotte",
+    "state": "NC"
+  },
+  {
+    "id": "ChIJMaGqB8SfVogR9giG_-6-Bxc",
+    "name": "Rally",
+    "slug": "rally-charlotte-nc",
+    "address": "101 Southside Dr, Charlotte, NC 28217, USA",
+    "lat": 35.1846819,
+    "lng": -80.8790277,
+    "rating": 4.6,
+    "reviewCount": 416,
+    "photos": [
+      "ATCDNfUloP4cSfMKGTpVhJSaoka0F1x6Oy9GG6oK7E3OHBlkrKjSoNqkDfXlgkKMFjlJRweIYKGC0Du8YoMRTDh3FO8FTl2CFshrivQmBHoS8Q3aanm87AmWFiT1Mks0Tmixv3F1t6eGvbPoG-Y3-RAeeG8ZzmENN0SnDcQ_4oridJ1PWAcj8f7HZH99JWsNvifS-mv4Cvf5xUxp6s68jobQLANo36gpK_7rbhDtZ7bfj7JvEV1QByXYSD2jGo1UyY4lat6v_UHUvwjXTNNrt9D83frDpYr4yTZQikH2aMuqE_e4Pg"
+    ],
+    "types": [
+      "bar",
+      "cafe",
+      "establishment",
+      "food",
+      "point_of_interest",
+      "restaurant",
+      "store"
+    ],
+    "priceLevel": 2,
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJMaGqB8SfVogR9giG_-6-Bxc",
+    "city": "Charlotte",
+    "state": "NC"
+  },
+  {
+    "id": "ChIJgxJJqYSfVogRMxvRPzB8ki8",
+    "name": "Latta Park",
+    "slug": "latta-park-charlotte-nc",
+    "address": "601 E Park Ave, Charlotte, NC 28203, USA",
+    "lat": 35.2089699,
+    "lng": -80.8482793,
+    "rating": 4.7,
+    "reviewCount": 910,
+    "photos": [
+      "ATCDNfWPxiQQi9hKeuo6SBuWYzpKzvlY07O_NsGXPt5YyM8PtP2h5DiDNMUH5toeQDhSxQG5lJqMW1sxdEY_Y8BKS3ZfDSn3zfu6mJClxNph6JBmccZwTqe9ratSNX5U6yDQYJOahznh5sKKHoZWOaIQu6N2tB58vTHz_F97HZ7ylglXD7MKYlyC0cSqCNEfxljKZ9w8J_6L5G29vStd9WDI3YwtNa1mvhH9mu_bgegMCX3TsVE1gREoSlIUvKTLpsmZv9GjmOtei-nBSRsHX2vW0Ugia7sZ5ueMKJ35N8bXA1pWFk8ceuSBQOzka4KMGoin6VLuiQxH9n0U_g7uhqqlWeA0_zcKx3tHL5_d7jRoWwOFh-7VgrHp6ZIzVVheBNxXX_EbNXVQqaMQWCgV2lmezKgAIj_elN3gsZB0pOkGDQKqHu0"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJgxJJqYSfVogRMxvRPzB8ki8",
+    "city": "Charlotte",
+    "state": "NC"
+  },
+  {
+    "id": "ChIJTXkDdwCfVogRWk5aqQH8fvQ",
+    "name": "Latta Park Pickleball/Tennis Courts",
+    "slug": "latta-park-pickleball-tennis-courts-charlotte-nc",
+    "address": "1501 Euclid Ave, Charlotte, NC 28203, USA",
+    "lat": 35.2116757,
+    "lng": -80.85265389999999,
+    "rating": 5,
+    "reviewCount": 2,
+    "photos": [
+      "ATCDNfV-0OLPH8deDmRJpx3suh7xnUPJUEg9M53PgdlGtYkj8pyh9It1P5A_seiYlXwnFEbwX9x-yLcvMd27-F_v-F3_Xbnu-Dec6dhlcffguawI4ueMG1MSmPOUzZhnp8tlgij2tXw7_zwaXOGo2WbL8z9aDoTBJDU2v5uIYeuTzGGTUJFDZ0Vwz_B3rtYtzckYWilj1SGH3rE_losyUoD49qzatI1v1fw7siV7ZZU9UC-6KFuwC8sguWEQgADMwc8zBzSriC80rRqxTqB09sZ0hwZk4mwgFzDlpkRetl4YveBDGZPZ8LIy44HlcIZLbdaKSCFi4IND4UED1zL-2PoEt9z7SMQG79X-mKl1h2FmYONq3n1ANlFcckjOAgE_5gD4tWjDxxw7GOqCwlXaw6QrL30yyJ_xyJjdBudjgONbnTY"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJTXkDdwCfVogRWk5aqQH8fvQ",
+    "city": "Charlotte",
+    "state": "NC"
+  },
+  {
+    "id": "ChIJlXi1zcqnVogR5xmpAjuGcy4",
+    "name": "Pickleball Courts at Clarks Creek Community Park",
+    "slug": "pickleball-courts-at-clarks-creek-community-park-charlotte-nc",
+    "address": "Charlotte, NC 28269, USA",
+    "lat": 35.3505822,
+    "lng": -80.810936,
+    "rating": 4.7,
+    "reviewCount": 42,
+    "photos": [
+      "ATCDNfVdcMpGzziPjH1PTnYa5UL6wxN5Ib36weQmB3gUyA3wgX4NAN0kSkrz7HV_puuM_ecVp9raKNNwCsw2wZ0Dpul8HpsrZRk3Zoh_sgthmtCZ5b4Iprj3oOkWq36p8iAJMvH6DsFkK8u39Rx3uMeGeaUjet_yVFlki-M5hKwqd2yuP_IYW4GMm6Bgw2xVFFowAotuWrBciUQkVBRob6e9xk56rHetvbUpxSqRDhQYtcezFASrn0eJACOnr3qq2RkaT5xFEI6-xAUnzTYXjmPlnJU0U8Jnt5DyQxwYHjuwIRhmW47SulqfCEFfAsuDrsX7goeYb7XKIMOkbcH4bbYh3P6G57k5eNO0_95Kc86Klqer-nYf53zxOR0OUZr4p0ZDDft7Abv83Tp46kdCCqVB-_ecp9Pk7ggk1aM0Dg-EO7Y"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJlXi1zcqnVogR5xmpAjuGcy4",
+    "city": "Charlotte",
+    "state": "NC"
+  },
+  {
+    "id": "ChIJO8QcuLihVogRZ9f4oVvK2bA",
+    "name": "Martin Luther King Park",
+    "slug": "martin-luther-king-park-charlotte-nc",
+    "address": "2600 Ravencroft Dr, Charlotte, NC 28208, USA",
+    "lat": 35.2438032,
+    "lng": -80.870121,
+    "rating": 4.2,
+    "reviewCount": 104,
+    "photos": [
+      "ATCDNfWbsEi4xNnlN3jhV9RJ4jlCb-8vnhWZhfFTZZLWzR8Wpup7FOqYoGL--4Hr8UQiSOP_5o7vyxphCTcNYHxy_f6mrR3RfVAO_c2DLO3Bhd7elwxUL-wBFI2u2vLhfHR11kydZLjy0w07Zu29KwH6Q_2tI0yuqV2obeyKjb-A3QfLer_vtoEZle9dHUsNSQZOoJOBidqZARf_2GkBhS-6E1YooBHkEKwPz7TqqJdvvOH4kcM0w943_eq1eXGNKow55lqw8HxR2idLHTqNlVB2C-Li1JTFQ2QEIOl1FpEO3WvZHyS6hoPFxMjc6IwAFVl5QZuAZ5Sy4KB9V_Qktw_vemNuPZJHHnGTORPPBTWHRA2akDT43_hUhAggMJOmVM-It6N_9zoBD4H9OAda1g8-_uubyQhyyLp4_epnEXn3xyEN0A"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJO8QcuLihVogRZ9f4oVvK2bA",
+    "city": "Charlotte",
+    "state": "NC"
+  },
+  {
+    "id": "ChIJIyjJqzucVogRfWcb4IIScjU",
+    "name": "Pickleball Charlotte",
+    "slug": "pickleball-charlotte-charlotte-nc",
+    "address": "8401 Sharon Lakes Rd, Charlotte, NC 28210, USA",
+    "lat": 35.1197069,
+    "lng": -80.86850489999999,
+    "rating": 4.4,
+    "reviewCount": 97,
+    "photos": [
+      "ATCDNfXBKcRQCwwUkkGsi1trNgGTrLcdybxeI73WI1PgIxdojZ8yOPjB7uiuIr6j9Oaoph5MpCf9NwtvFfaItH2eGKHhVs9F1O7tH2_srIk-1xGv_JaHexNHEEUKV_apmP-PIN_16dKdawC92IdRiOE5T1B219EKDuAvDsM1JQndxdxnWGmXZf3bl8-3uegzI-lRn8HUEmgipYDVYn-46rESQjoHc_SySwmO4DoQuJv9uCGOoNUfjl3suvQqW__9mgiA2zBOmvJCb4guv5AG2gma4l_eNbtgaDPRqKjhFqBhCZOZlPJVixRaWjmKpRq88b1snUMEph2RUqoMBTnGssU2Bp6N0oLItz32Ee9cBxgg7FqrkzeaC3ycDea2qtdrr8MYxXpTcuQlPUSe0Nmh15XHeIdQB9-5e6dq6hUCUwemBigP8933"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJIyjJqzucVogRfWcb4IIScjU",
+    "city": "Charlotte",
+    "state": "NC"
+  },
+  {
+    "id": "ChIJaZvydeefVogRAzRY2bq2L3s",
+    "name": "Pearl Street Pickleball Courts",
+    "slug": "pearl-street-pickleball-courts-charlotte-nc",
+    "address": "1200 Baxter St, Charlotte, NC 28202, USA",
+    "lat": 35.2132481,
+    "lng": -80.8383169,
+    "rating": 4.8,
+    "reviewCount": 5,
+    "photos": [
+      "ATCDNfXf-Agcr_H1dQUn6Y2a1jGlsvl96_MyjWgq2AYb2WqhB8rCsxtls9Yo4B8RsQjSjPSNhzcd94dWZ_8PLK1BMBG7U7KgOQmOpRH6sXN8poY2ArwGV2OAwfft0TV_eMR1GSTbF2U2EOrGPgFBsmi9PdK_h7QfbcgYQWYKIGOZncy1TsREhHjBJ2Y1pmSxaP7PUVBASPCjQcjSOTVib52YBp4j1oDcKrusuiiNxm1UWfeLmmtY1uc9BQyDWc3PsiJZ4vBQvwZg2s9UQ0noiyWZglz0PUL8sn8bAwfFAvYaBICNmmZcNaio0Oa8NQbKW_llIF7R2u86KXYj0FjMnrpB01Gj4q3VhppcxhyYMgxxZsBHsySnK6YqYpqJNN5L7HrIdmB48XXuIN07c0LFInLBZu04VZUwdzKrHiEo5kFYi925Cw"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJaZvydeefVogRAzRY2bq2L3s",
+    "city": "Charlotte",
+    "state": "NC"
+  },
+  {
+    "id": "ChIJvWAcaE-fVogRIiv-ZjVNkpw",
+    "name": "Clanton Park",
+    "slug": "clanton-park-charlotte-nc",
+    "address": "1520 Clanton Rd, Charlotte, NC 28208, USA",
+    "lat": 35.2081398,
+    "lng": -80.8881341,
+    "rating": 4.5,
+    "reviewCount": 329,
+    "photos": [
+      "ATCDNfUpjl_Ei9ePWHMs4yiBpe_20iTDAY38GSDTivKy0ovalR9Negwo9TS_uv8q3l5NxMT6a4QeuybB5m5fArTyyJK4bNSVyxM-6zPxI8JFG4rEU5JfjkxbBpusIChq2Y6_z9mJbBxzljlPHTQg_TRp_zPE-szCxMmm6QCPwX13x3HD5WQqtajd10uyA8o2bYXmqrsk-GIM4pPhynqwVPWp3k5CpDAT_qIWti9YAxFzlEMWWNK63eWiMnaMc2dFrD6Q5WrJGIpaoAZ0NqAgk4sXDhYuQ4iiROpzTy0DAdYcyiR2gUu2iPIcQvSxbk8Liz9OLY94PSYH2_sisdW3amNuJeZbyo9t7IXfDBX0s-ABuFDiVrH5UUo6G01X31r8WGIAvsGSsd-Y_PnHdqqqKKQM0g3PS4-YrDAqGjNoounDpg4o9jls"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJvWAcaE-fVogRIiv-ZjVNkpw",
+    "city": "Charlotte",
+    "state": "NC"
+  },
+  {
+    "id": "ChIJR9S8sZ6DVogR5o6iQqXFZkk",
+    "name": "Pickleball Charlotte",
+    "slug": "pickleball-charlotte-charlotte-nc",
+    "address": "11611 Ardrey Kell Rd, Charlotte, NC 28277, USA",
+    "lat": 35.0210577,
+    "lng": -80.84596859999999,
+    "rating": 4.5,
+    "reviewCount": 79,
+    "photos": [
+      "ATCDNfX2ef_0cMovxumONF7d8FsqWuhA-ceBw-EOFJw3hNZmaxR580U21t9WasW3FvjqARZEsSZqQzQfuppTp44fvLDnCzPDppyBL-Kng3X8tZ-4--clwwom8mqRurR-SzGnV-hwquuns77hc1p6BhuGB3koBvfxOd0y2vW32Z3qmWcy2VqP4Sj1ZF8pNJKS20Sn5exzxQr97rCGKHH2IC9B15iOI2DXlJ3OGNGq4ag1XDGw-YcBgbSbHTq1W2Z48uLks51usiepD9Cg0NFSj3zF5j1adxhvqS83zrZNUUSE8Wph4mPK5DuRTJikFzycRrCFX3FXBygQ5UyqSHUxXwKZZUr0OrAkKTSZtJbISTC0D1wC3ltVrb1eZbpzvzRahcWy9BEwI0CmvOMMswzAVwMkyFHBWBYhlTsqjaT1AR8a0x_x74vg53MH2Te8JwALNj0G"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJR9S8sZ6DVogR5o6iQqXFZkk",
+    "city": "Charlotte",
+    "state": "NC"
+  },
+  {
+    "id": "ChIJjVLGQuQfVIgRydcxfmFM-Rs",
+    "name": "Midwood Park",
+    "slug": "midwood-park-charlotte-nc",
+    "address": "2100 Wilhelmina Ave, Charlotte, NC 28205, USA",
+    "lat": 35.2301475,
+    "lng": -80.80304079999999,
+    "rating": 4.6,
+    "reviewCount": 214,
+    "photos": [
+      "ATCDNfVoexe9aZoPMvgZHFb-JKIpRGa0DxzdjYazBbU2XGJPIuKuwiW-vmS_IsH-aSG84_HMUQoZR9ruEWaUiQz-e9MEwKIMElIFRPkMfhT2jTuomXyFVLBdCieatg_TjoZocA-imz0JhqcWD4dT3dqN3zHkfZ_5NLcjoxBwILKA6MtY__V64rZQQvaxRddEqBFxd-v5mHrp4s-wib8gT8HBvLMmFA3Y4ipWGVYuBVAVz7cFmWPsiyqBFfatD8oouycwG1sUauS_FyAEhac0W9AcXmpqtrkCA_asVZ1-M44Kc9H2rT2lnGvDGfTcES1fboUYO5UHwUcZUMXFjyDNIlMEJR0SBF_pEhNndB0aklOf126AkDxS-5MhpgMVeGSH2iOqBPT0RMqfCCL5ZF1PMK17MjoacHylFMwBryOmtfcMAX15AU9r"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJjVLGQuQfVIgRydcxfmFM-Rs",
+    "city": "Charlotte",
+    "state": "NC"
+  },
+  {
+    "id": "ChIJR4hH4ESgVogRfftRXrYmda4",
+    "name": "Ivory/Baker Recreation Center",
+    "slug": "ivory-baker-recreation-center-charlotte-nc",
+    "address": "1920 Stroud Park Ct, Charlotte, NC 28206, USA",
+    "lat": 35.2495613,
+    "lng": -80.8402512,
+    "rating": 4.7,
+    "reviewCount": 90,
+    "photos": [
+      "ATCDNfUGEW8C4pajyPX_yeQivJMQtPgg0p8AZMpMoOc-zEr3PAjk2oIvPTJzpMRxOgQ5w5MEPWSVOBA5WIJ0fyXRTnDknPyejH22brUJcJPh9ySxYJknM1DRxpSFQvYlBKJtdpfnfDlp-GmVlhgUypAFkgsz68XnO7FmPHck1O9YgAvTfVKgKl1h62Zwv0mcp17ivEXSjGvuJUY8hew7YQehjZ3aJPTxm37sk24ncLGAN9GeQ3gTiwvuhe-pJjvqIV4JbTkxlSaERv9UYpMu-wOX4cVPy9Us7D9SY0ngKXVfpQElK_Lc5AdZ2zho1B0d9Le-9wv45WbYyJKVp-DUgnQPIkcACMgXQLLlt8SqfV1uFTWixfDIfP6ipYuhK9lKbVlO1mIq7cDMLfniKGu0jCakC15aj6M_Q_iNrEgRod2W6ZPTrg"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJR4hH4ESgVogRfftRXrYmda4",
+    "city": "Charlotte",
+    "state": "NC"
+  },
+  {
+    "id": "ChIJQ1j07SifVogR4fpwsHm5wo0",
+    "name": "Park Road Park",
+    "slug": "park-road-park-charlotte-nc",
+    "address": "6220 Park Rd, Charlotte, NC 28210, USA",
+    "lat": 35.1494037,
+    "lng": -80.8523208,
+    "rating": 4.6,
+    "reviewCount": 1720,
+    "photos": [
+      "ATCDNfUxiBY5YNnRifYnTSPv-8IlXrZrI2h0uPZ0k0sv9eCKCCAaXAZ7GVuU0ytQ_nc_3xM1yKXazvBDZQqGDgn5ptlPP2-pepUuwcGnroto9S6-Umv-uK1QHMBhT4wK7Nls0gQdPupORvVsab-KHUD8WY-LFtYprGzVKj43auWM5xnWpeusnEjo_0IUDESeWdrn-TMFKB1KZHFXo_zUzmGCi0s4AGkM2WH7a-ZraG-xmRQBbiL3ymlX3V-l8OuVbAYY-MQbCaaJP6Xn-xKUFJ1IDJUzPjy13Oef-0yy3gmOSqZYgJv_RfXfdPDz4EVCvkx6uqZJ7XryCXwsbCR_puTfJyswJzWoqnbzQUc5iH0Tl44QKYBDfYlVhz45ftCZilXoolYnMr-j6e7qxzjJ8KxeXZrxXU-IwSUHn1Y7nukoDlWcRg"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJQ1j07SifVogR4fpwsHm5wo0",
+    "city": "Charlotte",
+    "state": "NC"
+  },
+  {
+    "id": "ChIJvzWXk7GhVogRX3v1MEPLYTo",
+    "name": "Alexander Park",
+    "slug": "alexander-park-charlotte-nc",
+    "address": "910 N Alexander St, Charlotte, NC 28206, USA",
+    "lat": 35.2279262,
+    "lng": -80.8268186,
+    "rating": 4.6,
+    "reviewCount": 29,
+    "photos": [
+      "ATCDNfW6MLRG-q787iZZnox0YqB1qXIbM3naZMwzwhHerPhikPeGJ-Y4j118O-5Pk6q48NE0U81PZrGz5w1L7fgQF2XwhWxazMb2fHZsGMOoE4R_k3GOmlUsYys8crn4y_tghpzz8v-nCy2ikwrI5xdrI9CpCSykG8VMxSKnNXSkO7z5kg8cMzn3tpqDTX0NShBskToXfbq9vWgLkdj2wSTjXluwjQJfZnyuB2JmI0scFr9wKjjC78ur0qJ5UktaY0osvVHC-VwZk5xQBEqUdRa9CXcnwEfJiRgkwinTQDtqOpTqf4jPqp2619rEOWJmL0cJXse_bshryGBVggt3sEiBftXjH4UPtY30qgB79MN0FBOrfYYmUbnVJuPdLUNSsGp-6Ih-tLgcSOdZfwZPD4lR55e9CoV3Aa9t2Sq4h6ra8ZFm4xY"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJvzWXk7GhVogRX3v1MEPLYTo",
+    "city": "Charlotte",
+    "state": "NC"
+  },
+  {
+    "id": "ChIJWYFMdQGhVogR7Bf3imIH21k",
+    "name": "West Charlotte Recreation Center",
+    "slug": "west-charlotte-recreation-center-charlotte-nc",
+    "address": "2401 Kendall Dr, Charlotte, NC 28216, USA",
+    "lat": 35.2684796,
+    "lng": -80.85720599999999,
+    "rating": 4.4,
+    "reviewCount": 144,
+    "photos": [
+      "ATCDNfXvUgoh9y02_2sbEQUxGZYt3oCNBwaCsyloxq6BLFfo10_xCz5I5GwZCRXrBbow_8ybAWnGzoglnCv9586cIy_ARmrS6c3IVO89JwNSli2LT8IMOu-tCyloicOeddq0oVTvUf8Ars3_F111JOKkYuzmXGpYKI8WZwlBKeJehb1Ie8V7ufHmipkXfsrT2ghrNybP4tOCBy24EXQdrX-3RcZS1B88OYHKO4sKOZOzA9v32Jf_fkfYVSGHT4ZB6QIRemF7iPepnSfIsjAG9Z2b93S4hq0xK7qzHY7apOzJk1G9ebTGmVdFN5sDgz8sm1R8jO_T_QEpl2Ys3mWGmby__v3dIECG4nqjHn4UH60PJFP-61kutCKmBkoKkxgYvPEqglkvWtdXolOh_bLnxJt7E710a1usBuIKqb1JkJSLsepVhA"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJWYFMdQGhVogR7Bf3imIH21k",
+    "city": "Charlotte",
+    "state": "NC"
+  },
+  {
+    "id": "ChIJo34XG0GhVogRHSd-yODGfBk",
+    "name": "Peak Time Pickleball",
+    "slug": "peak-time-pickleball-charlotte-nc",
+    "address": "1515 S Clarkson St, Charlotte, NC 28208, USA",
+    "lat": 35.2226198,
+    "lng": -80.86439399999999,
+    "rating": 4.6,
+    "reviewCount": 21,
+    "photos": [
+      "ATCDNfVJ-tzDKlTgPJXN1vEpRKnmWXJO_eNhqgQ_P3wmCFyYxaNDrhXXoxGQfa18tjwpX8vX7i_cjJ8n9Qy2zCkwA_gvJ9Udqx0oNHC4OkHiNG3gIdnzAEhQ6cm2xNygz-CkEbq5khmGT4HTtURMqwUi2i3Qa3NGBajH8dJrRkPELPMNeONYOSvDaB-hOrtr-2LhRMHmUThCWLhc2NMy1tcpFr61qeHjEs82FhHT7wK8QTzEe8ikT4o3gsMMs9JLr0BTr1PUMq_ANVl5-HbAqR32gosBl-hbnGp39LaTohyiMWSJPaHcdrQ6I1XXjf77GO_Rnm2Os_eVz-or4PU-fG0LhywtENBXbhsu-53vBJvymyqR4A4XhhEQ50xzMJ6KKksvi-qGYvLTBg1Ijw_0Hsp7Lrp19tDdg9CHc2QDI6cSA0sxMJFjVQfp24dfT4oqxQ"
+    ],
+    "types": [
+      "establishment",
+      "gym",
+      "health",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJo34XG0GhVogRHSd-yODGfBk",
+    "city": "Charlotte",
+    "state": "NC"
+  },
+  {
+    "id": "ChIJUayL1fWeVogRfuEj1m75wOM",
+    "name": "Marion Diehl Park",
+    "slug": "marion-diehl-park-charlotte-nc",
+    "address": "2219 Tyvola Rd, Charlotte, NC 28210, USA",
+    "lat": 35.1608841,
+    "lng": -80.85705569999999,
+    "rating": 4.6,
+    "reviewCount": 544,
+    "photos": [
+      "ATCDNfX8rOuQQDVWOhZWepzgwTcXM7n5P58kSe_4KlL_2lmVrReQ0c0h5UrFPRPFU65ZB7YPAh3zEMZEihn9e0Q1Ua7ntfDHp9b8NWfuQDRiUUjgnEnvVT7v-3NWnFLFKmdCahIQQQhHa79qDq7oxTiDotRvQTkbKd16yHpkN0CFFsz7R5OS2xfOw3ZtGIWNfaX__WninVQKu96ZUQJj8MEN9W2XBKM3oZTS026O4eb6zzVgXfQDWdaALR51mhuawNsUdpjtlwoM2IqDLNLcTEsRWnt5IdEq3V6OhHzGHEjXRI6V4ZxpP0GOq3b_ue7RCLGCzbaMbpEC-ko9dAKCwDLKA8bX9QK6EickxSDU2JwQuRQUZ6sT2eUlEmlJ8oGIG21ePIsVFlLvxJ2lAvJrSusDLTMmiHRBSN1RYFcZ1mTk6o-j5Q"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJUayL1fWeVogRfuEj1m75wOM",
+    "city": "Charlotte",
+    "state": "NC"
+  },
+  {
+    "id": "ChIJJ8WXmaSfVogRHKtq9R9COPk",
+    "name": "Freedom Park",
+    "slug": "freedom-park-charlotte-nc",
+    "address": "1908 East Blvd, Charlotte, NC 28203, USA",
+    "lat": 35.1915966,
+    "lng": -80.843212,
+    "rating": 4.8,
+    "reviewCount": 8244,
+    "photos": [
+      "ATCDNfV06LhITrfMPQ5478Rpoz51_cgnlJtRypFv2D6J9aZNmsoJkCa_JMkU4RjzCoN5zCLmoj1eQJNhOHA8UCwDCOmgd1Hw-HvxSevA2phb2AGWz2ACcOFPjDKyOoWFJFt1pzNbFQt5glWBl3BxBF-4iZHtC0d0WNdb0opuxo9tbPupN6AioEs9RSHu1xwq48Qjs9vukstnigo1hkrB3xDpCZU1wGaO2-FKMfPc-AphCW-ty6a0vBolMSvdalLLYZfALFZ3PNQJs9v_zyn9_86yAaMevJPKZgwKkymnAAI1t-X5lPDrr7UewFex97IlcMSSOEOARts_svJmoRGVltFdovoBlnxgmO39jNpy7_uztUdU2CG2UaeutyqKk5m9Jv2cEL0uSysG7VuBO2zVwZnZ7bi9ertgQujsf1Ih-czryz_Fxbg"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJJ8WXmaSfVogRHKtq9R9COPk",
+    "city": "Charlotte",
+    "state": "NC"
+  },
+  {
+    "id": "ChIJc0LRrPefVogROIAd9aATNMI",
+    "name": "Independence Park",
+    "slug": "independence-park-charlotte-nc",
+    "address": "300 Hawthorne Ln, Charlotte, NC 28204, USA",
+    "lat": 35.2156822,
+    "lng": -80.8236462,
+    "rating": 4.5,
+    "reviewCount": 549,
+    "photos": [
+      "ATCDNfXIQiBd_AtbyJIjqnlgUWZFeku_uh2WE_qd-uo8M3L2TAlErIk1GQWRgEd3RFePbGwxArHMQt0Qfm3EKooCtRLAILs8qnTjRoOUNBTn2S4Pv4lTM9FUF5M0szvDtN0YcxFESG_xL_mqqCWO2hNFJoR7dek4-Jo_LG9x7F_Le87sKZxClyLRUzdo9XjU5s795iCP9QXTZXKKlTE2MvCLh0dJ8UORqd3E3ii_ly7Z6pFaRTgaqk4cjZvyV_sLpWa0YWFdYHRtZ3uyts-HseeFzkmhRZBp00GtZhXPpLwm_ToJI42VtX0_m2EdXVDHjajBemWWT26CnPGz1p1HqK5_QFliL92DtXebV850TlqHY703VyInfmrnr4tbumB5aybDzPUb0uFqxDfwPZGg_mpCqPPyKfTJ84BOh_3mEJlnPsx1CRs"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "priceLevel": 2,
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJc0LRrPefVogROIAd9aATNMI",
+    "city": "Charlotte",
+    "state": "NC"
+  },
+  {
+    "id": "ChIJ10-YNL2fVogR1_Je4N2FctY",
+    "name": "Freedom Park Tennis Courts",
+    "slug": "freedom-park-tennis-courts-charlotte-nc",
+    "address": "1900 East Blvd, Charlotte, NC 28203, USA",
+    "lat": 35.1953183,
+    "lng": -80.83897309999999,
+    "rating": 4.6,
+    "reviewCount": 89,
+    "photos": [
+      "ATCDNfWNHowBjVMVMFcOeWoiGOSm5rhVaQD-V27w3mwd1Sf5fBOVqVN8Lbdlf7s5pO5gYuBztDWvGW6YlVo-gXZnpj4WLVqBvItouqJnDhQHzsFMDwnDIEKanMmP7lri0dUOibrw9kM-xjkvxJIgmhsGNiTiF3fGImvgDddlV4Jz5EkkhRNyTw2ukInq0yz7Pc5Tjy69stxKj0HwrkUWsjLKTgAJskYEJHlyHoF3vrNKe7upnLQnF5fZRdWoQgmkxHhSgKfKvYipnkDLUt2ztHmkR8Mkl9nz1oM2m1GVNSIRaE7OZg2Tiwwp1nkWYZto5j-pwZnOcpRK0M6VJHrax0yBfjI8KGZhIpuJfPq5lQMAAFx_oKSC1GbK4x3aeOEZV68ipjpE69AnXqwxa2yNWclN9KTKSF5L6m5cXUKmYHfU2B8GK2Jv"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ10-YNL2fVogR1_Je4N2FctY",
+    "city": "Charlotte",
+    "state": "NC"
+  },
+  {
+    "id": "ChIJQ0I4ToQfVIgRJtbR4d984rk",
+    "name": "Kilborne Park",
+    "slug": "kilborne-park-charlotte-nc",
+    "address": "2600 Kilborne Dr, Charlotte, NC 28205, USA",
+    "lat": 35.2207516,
+    "lng": -80.77404539999999,
+    "rating": 4.5,
+    "reviewCount": 854,
+    "photos": [
+      "ATCDNfVncrPpShs7CJBZYvcukZj6JL9LI1aZ-5Dk1IcbDQC_CFEolV6_EACUA566AFT77N2mqjVDnExVjlFtUdx4ptlcMFm3SIEfJ_B1pNLHOwWqGjNtLlBROA7bvxQJd5KVAfo_5VHNkjI0fEXT4GV1M0-Xrl6DH_ujipCvqT_7y4vipsNFh-Phe7jYSqIY4z2S6cblvYoCD-lG11n9evxUr-iMvihcM8ljIfHJFvpacl0n1FxT_P5tRGrYsBSEM8VgR3nH8hh1v7YvI5XnEbTIzNh4NIu35TqUnrN1do5Qn0zHabRedfco-Yc9hUDQdOdBBvFJUbqk7ha7yZm9lG2dJfW7GeCAWD5vUf0GC6D5BnAmI3CUDCTBZi_blESFSMWaUKeKkcQpewwY1C3FWf0U95SVZkpc-VuIWDJMEn9UeDTavg"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJQ0I4ToQfVIgRJtbR4d984rk",
+    "city": "Charlotte",
+    "state": "NC"
+  },
+  {
+    "id": "ChIJz9tYKPCfVogRhEPF1ZvW4ik",
+    "name": "Colonial Park",
+    "slug": "colonial-park-charlotte-nc",
+    "address": "219 Providence Rd, Charlotte, NC 28207, USA",
+    "lat": 35.2065798,
+    "lng": -80.8235309,
+    "rating": 4.4,
+    "reviewCount": 51,
+    "photos": [
+      "ATCDNfUTHeUNxp4XGO8hRS3ERqotvQ_Znc6Zyk_TJ6nToUvVpKBhXwPJNMvDWJsUJsxU5s-OKA8oyDbkIPkjE4FeZtxoMPEtdeKu0bnkiGpN3Rui1xGbMrriyAPjKKShaQjrjt6XE9iRzh_29Ll_YTQp8eK6erGOmeh8FWDRRw49LFz_wcknleZd51vOei_dkCikKTCcUfsH5011sOYWsBdaqsVXT3mVHcDEYiYJsjsM8FkuvgzkFV_YdRHr6TkXsGQf4lc69IkZBVMpEciGEGS4-4MDIHGBM2ouLgLaXIPZde_qYg"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJz9tYKPCfVogRhEPF1ZvW4ik",
+    "city": "Charlotte",
+    "state": "NC"
+  },
+  {
+    "id": "ChIJ1fsDoqchVIgRjNchKkNFpjA",
+    "name": "Mason Wallace Park",
+    "slug": "mason-wallace-park-charlotte-nc",
+    "address": "7301 Monroe Rd, Charlotte, NC 28212, USA",
+    "lat": 35.1695856,
+    "lng": -80.7523975,
+    "rating": 4.3,
+    "reviewCount": 238,
+    "photos": [
+      "ATCDNfWNJXiQJFo-b0ZJqXzx4SluzgZFl4tF1tZ-YyMrJ1nlgRmzJeYLukraKhpeqvjZ5Y8Uuux5dLDStZydTrW1ak-tHg0VWfk3wXp4ozrjx0UXjNH3TT82zg0LZmiCa6AmzpLzUlhiD6UTxNE68T19dhGE6exBU_96vTtwi32CoJ-mInW_XWQu9Jy9meCfKVwyebIIk4RH-bIhQpIKziZrIZDtreNp49cWixJJL2BhLAWEuti2RRTLDGlltdVRBTqLVhwmcRm_6vkiPqlGWv05ukOZvQ4Zry_AvAgqTgejboZYnFIPX9Oc6OxhANTkNBuL1AyWJk5RBN-Y7SKA3wRn8uCizCvO0B1gEnQJbAblyLy9iJAioiqURLZiBODeRqZe6a3GvO3_Di8g75v1QZjWWr_jKAmJXgRbZyTQ3qs7M_rPyQA"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ1fsDoqchVIgRjNchKkNFpjA",
+    "city": "Charlotte",
+    "state": "NC"
+  },
+  {
+    "id": "ChIJ11FAnyOiVogRPjnzY59PrjA",
+    "name": "Tuckaseegee Recreation Center",
+    "slug": "tuckaseegee-recreation-center-charlotte-nc",
+    "address": "4820 Tuckaseegee Rd, Charlotte, NC 28208, USA",
+    "lat": 35.2494293,
+    "lng": -80.90617639999999,
+    "rating": 4.3,
+    "reviewCount": 485,
+    "photos": [
+      "ATCDNfW75vFtallC_wigpbHx5x3B5ARNvm2158al1NgvtPP0d2aivmwuvPo13i01009XOaIhC7r3OOeB2nQRLuDlu-xSbBcowJl3z2CpBqQRd0kvmuFYqtqFeOxsG6arr1N-cszjAZbLq7yTBln7004UhUhIbrRne-EsMnEZM3l_LHpaTQPEEdwsZh2fNkAtMb3_yx5j6X6eqlMYj3uCIMeAvifJyMTB9s6RGCbuH2qcNKSKKovsbpHIBfcGaDYLZqNuQ89FwQwM9dsjyRbMSaa4pgwpLTgmmYH1_dovzhVpSvePDAF566ijECN28PDq-O-J-DgQ7ShURDnLLqIzp32GacdFCEE38tb90f0K5E3TFObdknqZFy0YSo7c7tUGIpfNXcpO2DmojUHc2L6F24y4mIxX3OnBkg1G2EcVqj4DTMpVUw"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ11FAnyOiVogRPjnzY59PrjA",
+    "city": "Charlotte",
+    "state": "NC"
+  },
+  {
+    "id": "ChIJgZ9IX-0FVIgRm2bdY1W8Z2A",
+    "name": "Concord Pickleball",
+    "slug": "concord-pickleball-charlotte-nc",
+    "address": "443 Pitts School Rd NW, Concord, NC 28027, USA",
+    "lat": 35.3840429,
+    "lng": -80.6890536,
+    "rating": 4.9,
+    "reviewCount": 90,
+    "photos": [
+      "ATCDNfWtchuaL3xiJxvtiRBYHa3Y-TOKOkoFRegb4W71BDV7MYUXeaddhk0AMigLVsyiCT85UL-cD13Jh-8B5hxHo5zZD5Xt2IcygteUDkFZR5i9zp2255xous0cBIWlPhqL5iLvZ3i9Iolm9qSfC2tLTrpHlwcTF-jet8qhsFtIF92E76V-GX5WyUAEGxv5nuMhfdrrqScvJkjORG0A1HjVuDnlZCiDoWwDKWA4_npk09sLFb14i0AGdX6rKkv4q48KTH2mTCtiQQJDBt7vbJn3RQJWQxCD85RBDKblfLxOpbJRffyDGIHk7W-Dm2II6saRumsJMvYVjpJ2wVqwKaEEKMRw7i2QITaGn2yZ0zYP787Uc1k9bakwJSayFel0KHfcMqu5BwKT2x6kR7DBTUJsQom1QCFv0K1HXMtrmcKMbQ95-Zfl"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJgZ9IX-0FVIgRm2bdY1W8Z2A",
+    "city": "Charlotte",
+    "state": "NC"
+  },
+  {
+    "id": "ChIJSwUaGSicVogR60Ats4jB3Zc",
+    "name": "Huntingtowne Farms Park",
+    "slug": "huntingtowne-farms-park-charlotte-nc",
+    "address": "2200 Ramblewood Ln, Charlotte, NC 28210, USA",
+    "lat": 35.1275199,
+    "lng": -80.86334599999999,
+    "rating": 4.6,
+    "reviewCount": 161,
+    "photos": [
+      "ATCDNfUAVsWLIHQZX4ThLZ5gFTd5R8pPQtH1p0pAPoIwWMDDzFQKN3BD1QDNK1V5RzwMcNvl11wXshGyWy80sACU6fgfP0XcUpGCdyK5e0E1-EijWG6IF1KSu-dzoW2IMzvd3iw1QRT1Os_Q1X5bOzmHNzSAYTzWWsatg_SWqVqlXWJNhAgli_E1c9yil4TkveNDOjNTt_XUwMpUgosxahRggF14DSFrYsZUK_nkHgO68Kb8Y5nQzdeLGwcWQqtAHmNm1Hf8Iknrl0zGt_6lBVqNcni2xs9WclZT2g0HhROaPkM-dZT13CTfWtHqKY3KtON9sfzHAhkTWzXrL12TUYNwc2rrFZAlIqyZhXlWzBJlye47m5DvtC64DRaWmthTJQDpkDBlBekRfT86TCZ60amSUs08yCrcR5Ft9-XTDuTjSq-OGA"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJSwUaGSicVogR60Ats4jB3Zc",
+    "city": "Charlotte",
+    "state": "NC"
+  },
+  {
+    "id": "ChIJ8XHLSIKfVogRURyHpbKvFgA",
+    "name": "Tom Sykes Recreation Center",
+    "slug": "tom-sykes-recreation-center-charlotte-nc",
+    "address": "1501 Euclid Ave, Charlotte, NC 28203, USA",
+    "lat": 35.212378,
+    "lng": -80.8522041,
+    "rating": 4.7,
+    "reviewCount": 47,
+    "photos": [
+      "ATCDNfVb0xBviDgIT4A4Q9HWCuXa4QdnBKfTKC4YxZUOas9VWUgMjB3nkx_Or0hWLd4MjpEW9j8MFKV2jaYKTTuH3DxodUxqnN13PXqRhpcDUQw5oju8M4nw7ncqZGZCFlHz9_zzkN-Snf3eMV92LltYIVBc7s-4Sw5MtTM5FNBoEmgMCG8kSaDK6lgTWcNDDrSz0nMk3WYiJ_JH_UWTEEqMcmgxkw9hAfb5dQ-zcCLa1zZQGwh405eTjChcNIpB37UACCGFlKVsj-tVcg6y61ROSWZu-r8LEWhMZ00sgYEjjPiEng"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ8XHLSIKfVogRURyHpbKvFgA",
+    "city": "Charlotte",
+    "state": "NC"
+  },
+  {
+    "id": "ChIJ-zsgCwChVogRIriD-6NfkHs",
+    "name": "Martin Luther King Park Pickleball Courts",
+    "slug": "martin-luther-king-park-pickleball-courts-charlotte-nc",
+    "address": "2600 Ravencroft Dr, Charlotte, NC 28208, USA",
+    "lat": 35.2444959,
+    "lng": -80.8713006,
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ-zsgCwChVogRIriD-6NfkHs",
+    "city": "Charlotte",
+    "state": "NC"
+  },
+  {
+    "id": "ChIJOTC2sfGhVogRAMFRHWScjBw",
+    "name": "Camp Greene Park",
+    "slug": "camp-greene-park-charlotte-nc",
+    "address": "1221 Alleghany St, Charlotte, NC 28208, USA",
+    "lat": 35.236982,
+    "lng": -80.887818,
+    "rating": 4.5,
+    "reviewCount": 165,
+    "photos": [
+      "ATCDNfXWLLG1y2sxYpmBcGLl7SZKb7DFI_ljxC1I18e-vfPbGcgLlOR1tSPwzGYa2adjOoNQ7-Nna9Nz0VqS7CsTMm89JhBsh9AfNwJTim2v8wue5V4vUeEBdY7tgIvPFUzLqsruPa36iDOCVosaHYxFIyh-Z3x0vfHwqGMI49z_Mh0NHMJMCkFTFz2T153tJi06zLlY6wM_zWSCCgmbuGl8NLWAw09uUnRPUudi4hB_zVw8huElAtLDfJvvz5nuh9BTEMkS8xXbvSJJNnWumptrA-orDyEEXrcuoGoEJmmXvWPy9w"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJOTC2sfGhVogRAMFRHWScjBw",
+    "city": "Charlotte",
+    "state": "NC"
+  },
+  {
+    "id": "ChIJZQPUmQifVogROck4OU-eRm4",
+    "name": "EB Moore Park",
+    "slug": "eb-moore-park-charlotte-nc",
+    "address": "901 Marsh Rd, Charlotte, NC 28209, USA",
+    "lat": 35.188063,
+    "lng": -80.8582653,
+    "rating": 4.5,
+    "reviewCount": 46,
+    "photos": [
+      "ATCDNfXkiYIN_B9t-IlYKfbee15Qu6eRfTmNZTdPSRAF_DA2VoSEQhcIH4VhqYsR_0oR4bhyZqROghvkW_LCN_4jeDXHdxllGPKw71JZcH3E2g78fM7YB8jQdKPECaRjZEVECJ-GXBb3LBDGvvR1Y8VWNiEB7JSS-bTMKMqIvtxAiEptqrdEyoiAk-fC9kcltEIOjWHRQZrT4acmzzLscHAgVXMQX8P4v07NybA3L_h8xPuUxPQEjo0RyfCOXRkrdr6CcQSK2oksshe6tXcfNZTy57SBDbJmbplSK3esllahe5WdEDdaNUitpxEyV_99eInxLnwT_hj9r7hqu6X1wFsn6SYROiRJvuR1OQ49ktmCBXW4_2V9hMkWKfny080ITK6335zEA_UvMS-XpBiJHVojnTA7NxA76t5mQglRmrTtyLOF8w"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJZQPUmQifVogROck4OU-eRm4",
+    "city": "Charlotte",
+    "state": "NC"
+  },
+  {
+    "id": "ChIJX6hPtCGnVogRaNI9Im0uQfE",
+    "name": "Clark's Creek Public Pickleball Courts",
+    "slug": "clark-s-creek-public-pickleball-courts-charlotte-nc",
+    "address": "5435 Hucks Rd, Charlotte, NC 28269, USA",
+    "lat": 35.3504586,
+    "lng": -80.8114143,
+    "rating": 4.8,
+    "reviewCount": 4,
+    "photos": [
+      "ATCDNfXrd4ztj9viFcZSIn64S6t5rX1_l-d7vYIpq5ulyCCNGvTbZJA7uta2-LbtYeVjZZt-5YHtyMx_mdmAVIA1ROqiau7D-HTg7yssC8FxcIW2H461s-qYLK7Warf3_ZkvZz9GJSBgKwycnVxv3SipRtSX8WgUdk6v_2zJuBVoT8d1A_YNb78vaiBtyyq_jSweszNsv1duYZX0mMrdBCIWFbI1gekCLwkFSoD5IR9atj-kZ8cD1SrtRtVjxKp93tzkrd_9aiv7xRv2J_ZP0rYqYgae6Ho17bHp4kygCN1BFfqNfayfmS-wtWxVEVcBGbD_5WFzE4R9WKA0KjB2kpqX6X-cvCw_p4gbQZ6cQto9OthZps_gVFAm55LBPfcIP1BG0gNagNkoxQKn5OHn7n-M6nBQ-ihBp0P0c6XKbSLh0l_u-K4"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJX6hPtCGnVogRaNI9Im0uQfE",
+    "city": "Charlotte",
+    "state": "NC"
+  },
+  {
+    "id": "ChIJV1UB4awfVIgR4mLe4DNMi-0",
+    "name": "Eastway Regional Recreation Center",
+    "slug": "eastway-regional-recreation-center-charlotte-nc",
+    "address": "3150 Eastway Pk Dr, Charlotte, NC 28213, USA",
+    "lat": 35.2549567,
+    "lng": -80.77489949999999,
+    "rating": 4.7,
+    "reviewCount": 504,
+    "photos": [
+      "ATCDNfUtA8lpX3HnagkvQl-Ee43meHVSGmJioQby4c5j3KQ8eZrva48yGMAwwWywnAApvlUkPdsQ_63pjGTltDBSFAqwoB0CXs18qANyisRgTdJlNPFo0yV-VfrNfGSjU3NL_9uITd0jL4QsIT6512JpI-jlsL1WFcwdwDlQpDKr3uSW-41A-D-2xcY0nC3ewdIBmxIGq7cE9zZfwMOZ8SvG_JcYOTo1LkecNAI1k7W8TkQQ_-6tKWZZ6tr_pws418p0Jbv33g0HSmjGMVckY1vS5oNppj24EXs1O4AG_BFduzLoXw"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJV1UB4awfVIgR4mLe4DNMi-0",
+    "city": "Charlotte",
+    "state": "NC"
+  },
+  {
+    "id": "ChIJkWxRsB2fVogR_u6KH22_93M",
+    "name": "Marion Diehl Recreation Center and Pool",
+    "slug": "marion-diehl-recreation-center-and-pool-charlotte-nc",
+    "address": "2219 Tyvola Rd, Charlotte, NC 28210, USA",
+    "lat": 35.160511,
+    "lng": -80.8576202,
+    "rating": 4.6,
+    "reviewCount": 202,
+    "photos": [
+      "ATCDNfWx8DHuFGH_O9Liu_0Vb9A4HACnqf2LSMcOC4PB9IbdDmPaK6W8Uhzue3Rltmst6WE3ZxUs4RO0O0bppndYTh-e4QUiOeTBbUx-pUsXBEMzHr-GV4HGj2z3EYP470P0aHgypQcAMjeT3-1DvK4-X556zCPs7TgrD5x8V_gGrYdrJ2zJB1kAluCMdrXH_ZrpwXt9F_6rc2QdzAOcD-F0J8m0LyNpzboyXHEXzixFfS9vJQg4b9Otzpqrsa4e-Qrr22RHj9QaeyRLaONde4duK9kbkXwxg5D2_HIkD5drjDWwdw0h8p1EVtSj7LPC63psT6EW1GoZLqRs462CUnGfyjWeW_FDNxeRoHIpv2cUXnCezJwF1WT6aHmXAWt2NSLRIRGS9siMvQK4Tp9Xn2maFYBP4ebLGpv5suy1S291Avr38Q"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJkWxRsB2fVogR_u6KH22_93M",
+    "city": "Charlotte",
+    "state": "NC"
+  },
+  {
+    "id": "ChIJbxRVQfKdVogRX-xmX9KFpTY",
+    "name": "Pickleball Courts",
+    "slug": "pickleball-courts-charlotte-nc",
+    "address": "11405 N Community House Rd, Charlotte, NC 28277, USA",
+    "lat": 35.0580123,
+    "lng": -80.83725989999999,
+    "rating": 4.1,
+    "reviewCount": 9,
+    "photos": [
+      "ATCDNfVDU75MOWvIPVLTR0fvbdWHdO1Bz0trBCVi8XlK5lnzi7YqRY5MVQZUk83605joqHAqLtwkNC7rEzP8Wrhou9q30udmOKI_vYRgkPjH51WoAV9qm2185FavbMUtYdVHP08vBKoOfMPsVQuxiZlGxKKshsTUCzjY4Iczjmvgo9cwa-bDIOvMYReyuD-Bsbq8oV6CNAnfjCKSeVqsfOD9enTEjKWyMHDnywlPkFeW0plIITT23vPfRE3H1Fkf_WPonTDhGG4T9HRBu1Lj5mthGxk1qI60zsAUR6wIfmEjd1aU5oUrjzbjh5-pqe15NW9iz0yiPyycUVQ91y0Owmoa19YiT3uJ8c1iUfW9r6f33Pfxd0JwY1gb7o9sKf7G5Odj0RhxvAGf-f5DmyYh_F75_gGdVLb46CHTTXfNuClAjHFAmA"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJbxRVQfKdVogRX-xmX9KFpTY",
+    "city": "Charlotte",
+    "state": "NC"
+  },
+  {
+    "id": "ChIJ6y6TghinVogRNksSkjFiG-Q",
+    "name": "Clarks Creek Park",
+    "slug": "clarks-creek-park-charlotte-nc",
+    "address": "5435 Hucks Rd, Charlotte, NC 28269, USA",
+    "lat": 35.3538217,
+    "lng": -80.8067305,
+    "rating": 4.7,
+    "reviewCount": 439,
+    "photos": [
+      "ATCDNfWYpiN-PTBdIfMSefcOmt49SSlVhLAa1a5SbgNHrkgRtbBPCCQ3yiEqIpbAejXxUSVPyYAH0Nz-wtz2G3JzGYZ5OGTXrHx-VfjRVSIZXXeViFhC-GDHrAhEzBAWAMb8uHc5nhqIFuWLlGZWxj-bzz-BctEQJlCdh5JjWYhoqz2D1KkANPz-qMU74ckA58eKBHVqJlXVVnrYRvpO4yYJG8pKiXgzfraMSPg-vEfJrsaaFM0SuXH0s7OUf-VX6if63MjnQ0J_ErI7hrF-EZJGsySqEi-1DyNv6t_F7QhQmMlS2eT8jxxivJ6zfAqlIXUBps4E17Hg9LG6NVWcS_4yniM73H_uxnU4qrdDyX5x2RR7P70J-g_TYlgzZVKpmd05qcYFKqLevtVMb9FPiuA3POXzgElVXjjdGxycxLME26Cw6Nhy"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ6y6TghinVogRNksSkjFiG-Q",
+    "city": "Charlotte",
+    "state": "NC"
+  },
+  {
+    "id": "ChIJVSKSIsamVogRUdBH85lRt2Q",
+    "name": "Hornets Nest Park",
+    "slug": "hornets-nest-park-charlotte-nc",
+    "address": "6301 Beatties Ford Rd, Charlotte, NC 28216, USA",
+    "lat": 35.32095109999999,
+    "lng": -80.87358809999999,
+    "rating": 4.6,
+    "reviewCount": 1093,
+    "photos": [
+      "ATCDNfXkGtCbToWwXmgqJ-FeTKP7Vyh5u6XPGbSYkdty41COG0tKpmL-AisKuSZTRjvIls2M3TW38rCaIetRnbud-B0yOdyyb28JQC4tc7ORevfyNTijkxcT2T7fHsW-Waen-gb99rPWYd_e1zwmAo2Vo6rrwdt43XJE5wVlnY4JF7Wv9QPtfNMgMso08uSB8r-o4l4x13lLuUX135VYDUe-qOl2UEjFNLLmZRhrO8BcxNT-jkyk5nbPGv4Y9w5gp5sbtZN5PYiZ63wxfVXy1tRJeFGkt-j6kWdcYQSk8KxHzZNMkC3n--c52SsOY39LJoeLUlgy7H7o182T8B22oShsIfVgp4zxANTE3Xn8I2uwVGejRzl6LoQ1ZzMp2DfpAhrBXDrOnn44eNwA8rGebyOLnmYDJy2gfLwKxe1CCEtK139uJw"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJVSKSIsamVogRUdBH85lRt2Q",
+    "city": "Charlotte",
+    "state": "NC"
+  },
+  {
+    "id": "ChIJe5FMJYefVogR1_yub4PrCBk",
+    "name": "YMCA",
+    "slug": "ymca-charlotte-nc",
+    "address": "400 E Morehead St, Charlotte, NC 28202, USA",
+    "lat": 35.2175661,
+    "lng": -80.8491172,
+    "rating": 4.5,
+    "reviewCount": 529,
+    "photos": [
+      "ATCDNfUxVNJEya9dfCPHbzJMP9E-kvzI2siOT-U0iTCpxMgJGwsOXzQWL-U4noHlnvuk5UdwUZg56F0obztceQYxnKjJosEbp4mRCFQuIsF_-OoHg2nhZOOPvTo2zpFInBz3caZwzEprIkSpzWJ6xIp7bg90JIb6tOJTYfafzuGXYPTER-2MrbSiEzfENblIOIUoEVqtQvAWF67RFsTQr4gJBVa-c07qjeMdT_WAoxLJBHBoIwkNNGxXfSYURbuSUnyDUgFBMZ91ofX3yS7TLL_7-ERqjPfAePBPGQatIL4r_zvJkbFjk8PChmLUIm1WcgoSP2jhSX8w_jC2g7vyazDnl94qkxMnxszUJfRY7ai5gwpvUonaFgwwp47xHyD_4totKt-Sr-bCbAB2MMk4cECM-x1zubWf-V884r49l6CZqVc8VQ"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJe5FMJYefVogR1_yub4PrCBk",
+    "city": "Charlotte",
+    "state": "NC"
+  },
+  {
+    "id": "ChIJvcZ6fOQcVIgR4_CGCdhaGg0",
+    "name": "Mallard Creek Recreation Center",
+    "slug": "mallard-creek-recreation-center-charlotte-nc",
+    "address": "2530 Johnston Oehler Rd, Charlotte, NC 28269, USA",
+    "lat": 35.3570067,
+    "lng": -80.759945,
+    "rating": 4.4,
+    "reviewCount": 218,
+    "photos": [
+      "ATCDNfUcrdZ4xE3Xb6c7fSmoMT0IbW0pjUph8bmyqn4Yr70mvJBkpXQE9e3nLbaDxp6X_bI2scZb4ujiAPZd4wvSme-gnFuoCRBpCttfKFjn0CXk3s2wWeQNShzdUnbYuiXiEbSULwMexH1HKkWu6I9zxueY1xL-oYlj0lamW_-ekb0GlQmGaeaxprnyvnp171bhbWHDqDt5q_oru3C6w6RFGvcKqa58PnCi1PrYDt_33nmJ9lidPB5KZuqhgm8iFvep2u2rXGYxzxzbSOiO0XkpXab0ccCCPzUNYKvmn1DlnrZ0qg"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJvcZ6fOQcVIgR4_CGCdhaGg0",
+    "city": "Charlotte",
+    "state": "NC"
+  },
+  {
+    "id": "ChIJszENlQEoVIgREE5ZYct6f8c",
+    "name": "Veterans Park",
+    "slug": "veterans-park-charlotte-nc",
+    "address": "2136 Central Ave, Charlotte, NC 28205, USA",
+    "lat": 35.2178619,
+    "lng": -80.8037301,
+    "rating": 4.6,
+    "reviewCount": 1289,
+    "photos": [
+      "ATCDNfWNXZNUP4GeIw7nHewCreyc6JowKffuv4dZpnQ6av0u-5Q1lnB2CUfQ8JuRjdalx5mZ-DXWd3Q7-Tnm-_Ev-MXYlrzazHqsu4UkhhC4IZfl3Hf8r99ZJLIwU5G53ZYKi-ZjiMRkQ1ComfEHJ1nXP1Wjt9oOCjaZR8Rttfq_9xvEOQopmHkCfpefXJE-CIia_XTmJTz_GM44-bPYTUiS9ZjiacAhePUGECthRhuRE4ggok4AzTO_yquhH4HappFqlji4q-Pps6r-YRLb9J9xtjhlcYa8F4m7pa7cpMWLIjjP-vJUZZ2GdXwAQX7vaUxTcqQ70Ih9tXN1wm1r741_cWTeKL52tOgGuGDWZgH2yAL63VHZFlJ8eHhVFMrBSNUNL6mUjscEHJGzCxWkffMSzzoEiSA1BDO3eLH4UqBAveXunRnMLVjEMnoL-E10C27O"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJszENlQEoVIgREE5ZYct6f8c",
+    "city": "Charlotte",
+    "state": "NC"
+  },
+  {
+    "id": "ChIJa-KSICiZVogRY-9WryxDoUw",
+    "name": "Renaissance Park",
+    "slug": "renaissance-park-charlotte-nc",
+    "address": "1536 W Tyvola Rd, Charlotte, NC 28217, USA",
+    "lat": 35.1767526,
+    "lng": -80.9067544,
+    "rating": 4.5,
+    "reviewCount": 518,
+    "photos": [
+      "ATCDNfXIRA2DbWmhe8tf68_caQCmHsJbgIgiYlVDylfzq2Dl8Yu3NkrzXmBykCKJwxSjTGUYcFsyvTnC_ygiI1iF6Ez3PCi5faAgbuQvKGmoy2BzoSAVULeg5JpHlWImgPMaxlLCWhdP78__yin3mzKGPZ9Gt2hKRXESNGxrXavLAM3OFVTg-usDRQp9-Rme7DMDFauVjfjG-pez0Jh4z-L7ShR3Zcbc_ZkkMhxoZR-ChVGy4La-64ecpkX8no8_eL4oqnc5VA9YTqMsa5hX69yKKd5o7jqsEYowKKETyXwL11dwTsEGfAImPl655xlqRSkodAJAHu8VebpYRHKKy8-l_tQEtdTPmKgWqcL1FNwyM0hwOrwLMlEhYcGwLHCZdak0HiwMeWL_wb-gsBSHp4ZbHKf5MXtYa6x7sRI72nhSrKhYmAzI"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJa-KSICiZVogRY-9WryxDoUw",
+    "city": "Charlotte",
+    "state": "NC"
+  },
+  {
+    "id": "ChIJ02DbN2cdVIgRli0SMtNxl0Q",
+    "name": "Prosperity Athletic Club",
+    "slug": "prosperity-athletic-club-charlotte-nc",
+    "address": "9300 Browne Rd Suite B, Charlotte, NC 28269, USA",
+    "lat": 35.3669091,
+    "lng": -80.8037358,
+    "rating": 4.2,
+    "reviewCount": 82,
+    "photos": [
+      "ATCDNfUcj65mE4cfyHKypUqm13iiul20n9KFOwxKDtNtsnEL9_yDUPnmcixquqUgAizCbryYEh1E6tdcPx8CSaB3zqCth3HmUDH-FU66LmUN13bC4zNDVXnb-TzXHmBOYnPFy27FjngPOgV29WkvmoydyFK_mU8JTZ4skZnTbV_ho0OtZfP8nGiE5xCPGGeqBkksx_QEtlXb9nQitX5S5YbWXIS9fsYmUhpWTDeB1l8cVAGen9y8x22cgTzuz_jTFIvJhCHxREoZ1_E5_L3WgBdOq1Wk8PDKbkEy4V_Wc3RIx1tgF8VqrqX4b25KERn4x3PHT6KbhY4g_p6hK9U8QXR078Y-83gcp4AM3LCPcqaeuuN1qMzf9TgOIo0u_0BpGW3lW0lUtSP9cSxO0O7c7Yj_Cda1-gvQLEB7-wx5kNe1hi8"
+    ],
+    "types": [
+      "establishment",
+      "gym",
+      "health",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ02DbN2cdVIgRli0SMtNxl0Q",
+    "city": "Charlotte",
+    "state": "NC"
+  },
+  {
+    "id": "ChIJ6yGZb78gVIgRgvBfLbi-hNU",
+    "name": "Levine Jewish Community Center",
+    "slug": "levine-jewish-community-center-charlotte-nc",
+    "address": "5007 Providence Rd #102, Charlotte, NC 28226, USA",
+    "lat": 35.1470216,
+    "lng": -80.7866394,
+    "rating": 4.7,
+    "reviewCount": 404,
+    "photos": [
+      "ATCDNfXT4iPkYiTcAGKzqXxJB_LVOeglH_QaxpRB1JFtXA4caQhGcoWsspDn_F5FhluXFnM3o6KLPpVyHIkvhqA0IzTfECn6VJKzAUglKlCpAyfUeI5U6c7k5zIh0SCEh-jCokd-g9XQbzACAFbSUeSvoC-xZY3IAl7-JQ4uBwq1i6KioYvRXl5789gYpbcmjShr2fQ6Ivpf5OPPq3nopjEsxfMJLLDS2T9KhHGkjGxRC6Kyrdd2UJUorYZDN__DyAubo1-UZdUnYjC1goRZ2ZkeMIgfi6NNDL1LZTIEapxr1tQ_sg"
+    ],
+    "types": [
+      "establishment",
+      "gym",
+      "health",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ6yGZb78gVIgRgvBfLbi-hNU",
+    "city": "Charlotte",
+    "state": "NC"
+  },
+  {
+    "id": "ChIJ7-rxey6ZVogRuwDeAfLebN8",
+    "name": "Jeff Adams Tennis Center",
+    "slug": "jeff-adams-tennis-center-charlotte-nc",
+    "address": "1200 W Tyvola Rd, Charlotte, NC 28217, USA",
+    "lat": 35.1720407,
+    "lng": -80.90452739999999,
+    "rating": 4.8,
+    "reviewCount": 88,
+    "photos": [
+      "ATCDNfVoKNO1fW9VuYJSr3Vn_Cu9C10y0oxJ0YNXKAq4rIZ-h7HcdDKCgm5EOCuSHw4gNP9EIzuywQnJVUiBYRAW379pOFTPV2E7Re_rBwGq8kmh_Cto958MzBFiMPfH3__VCuQAcFySdKgIwjKcQGlYzjVjHkHuf-mltVqR9eqhkH79Lx0FbUwyjMRC9BvmfFVubEPeiYqr4kvRf1Ko3KSoHtGGfkwF03i-xBrSn9vTTN_JavvLS96I3NAgmXrLVt03Nw8-2vqkzHLyDiDJERBqmDFIAne6FqGJj_XXhinMBkmJr9QWVe-ArLWW4BL20-aqgVTXp24T-P8446c3LWV2EZSJfjBly2aYj88q9VSNKNnFgPSBFM1gLYwTZ-QBettOmpsaLek7DlCCErXfkT4LCSJcvyKtaIGRTghmIwrC1i1P1C7X"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ7-rxey6ZVogRuwDeAfLebN8",
+    "city": "Charlotte",
+    "state": "NC"
+  },
+  {
+    "id": "ChIJ7Woklh6fVogRdBmz0jdZESw",
+    "name": "Collins Park",
+    "slug": "collins-park-charlotte-nc",
+    "address": "4525 Collingwood Dr, Charlotte, NC 28209, USA",
+    "lat": 35.1816313,
+    "lng": -80.8721556,
+    "rating": 4.5,
+    "reviewCount": 77,
+    "photos": [
+      "ATCDNfXlxypzRpurr0_ns92EZn4axcUx4NLcliB1H1tGLpA33YyEGKMYYuFpcwtLqcnD7TvpnGtUgs7CFeNCIe24UKmTCSYrt6-67nxG-IoekQab4MCZ1D8nSnxDPOfhsivBNu7CO5Ie6DGUmvie0h74U1EnQkPUCsVEqOmbUWpHfAIrzzpYJlYU8diUpl-LezSeZw_Vbok7atSz2mLvsv8krCEv8B_AAUC0fr8edZKptNZfkqT7q9Jz9TFQwZKxbcs8n7gPnapEF_uzWbOpbRB_zHGIbyOZejwT13tbXInMIuFdrS4reUGi6PVrKcyH0TbaxSiXLqTLUWOglFX1owH4smSGmcNg1Rjr-O1opGTdVMVrKE6vpsHJqFDuEbDTPu06l-w1InDoO2qqa9YPA1doxcDvzuMRT7d5x3kKeTUGIfetOA"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ7Woklh6fVogRdBmz0jdZESw",
+    "city": "Charlotte",
+    "state": "NC"
+  },
+  {
+    "id": "ChIJr_KjuOyfVogRh04o0dku_AU",
+    "name": "Edgehill Park",
+    "slug": "edgehill-park-charlotte-nc",
+    "address": "812 Edgehill Rd S, Charlotte, NC 28207, USA",
+    "lat": 35.2026769,
+    "lng": -80.8306389,
+    "rating": 4.8,
+    "reviewCount": 27,
+    "photos": [
+      "ATCDNfULvyFzrZ8Zw9v11-EQZYXa7UZPGMlOSdAohK9ZJyWDhvGlmlgV72Z58dkKWgiT1J4aH25D4csxrae-DoBcQV4t1LXGsCRzcwMcMhAlWiT-6bn2tDhBXZFsoUnXHwjl-ZjeNholP5B-eMiTB5NDFiEl4P2Q77UwdGum0XNdTiLHbp_WqBEurIO3Bw68D8PRHyIuTGhHjG8UPrBVlvoDsOLSLcpetdV8ZIZBgYKEBLF4bws8f36qM1JbtUbcInQ58ABlhr2RJs7zdwTRv8cdMyXilHjKuQDAo0gsfq3_jrBvro8ueUbdR5O4HCPWvCx65cPjrgARECpzPW1to63XyOmBinbM4UaYGge9dfkmJkLJaGXOZnjszMMEzM1LG9Gw5vpNvQrobX4JnbqKYQpb78p63Uw3HOdPejduybyWMWBFRA"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJr_KjuOyfVogRh04o0dku_AU",
+    "city": "Charlotte",
+    "state": "NC"
+  },
+  {
+    "id": "ChIJebtbiukhVIgRHFb2KGvfpNQ",
+    "name": "The Swish Factory at LABCITY",
+    "slug": "the-swish-factory-at-labcity-charlotte-nc",
+    "address": "2803 E Independence Blvd, Charlotte, NC 28205, USA",
+    "lat": 35.2053753,
+    "lng": -80.7935425,
+    "rating": 5,
+    "reviewCount": 5,
+    "photos": [
+      "ATCDNfWW2tLcLu1ftqKaLe07ZCLRfpXoUqJJj7qo0bbinrzxE1KCD3g4Ay_9gIk7IjsZM8NFGGYhbnaPKYdlh3kGcun-fqQ05ykg5ffrTPI7xInxIwGIUqTv4Mr876GDqlN6yfb1v0W2GCjIpYyvCFYIGLFX-1yYGYSoGO7KRF-meZBnEoigl5fFrLb3h-46fAIqcERZPnBTvAVkcnXzHPziPnUgT5Z0AyBZexSgEcDMu9avE2FPf4RLs97j5uj46kZxywD3-gxDREpHsV3nkH2e374pe1jVT9ZsyQo7fnMx5CCV7A"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJebtbiukhVIgRHFb2KGvfpNQ",
+    "city": "Charlotte",
+    "state": "NC"
+  },
+  {
+    "id": "ChIJuT6AAWSeVogRruxVtkSRqQ4",
+    "name": "Park Road Tennis Center",
+    "slug": "park-road-tennis-center-charlotte-nc",
+    "address": "Charlotte, NC 28210, USA",
+    "lat": 35.148408,
+    "lng": -80.8485476,
+    "rating": 4.6,
+    "reviewCount": 48,
+    "photos": [
+      "ATCDNfWYreM915HPhlcLgLnfDTkqEM43YFr_N-P3L2z2MeOQKeYEMT6Ib6FvypRMdJq-5yhXB0xJmotbNduKm_02hwaum49f_ADA22DR4zqKGU02IGENPv6QDsv4Ykdxs-DmIHo-NByEPQUaPestlH63xywJl4fDAVEoJRe9bZdKYQy9Xuqp5n5ygBP8RQS1qjcM7HUm4-4KdGuZWDZUXCw46QXXXKD3B4jg06Mjc6aj2wphIHa3xESaYvJxxtg0SSMbb68Q1r_D7iCY1M0ALQabg05Sv8EzglNJfJglfskg61g_dYvwPqAn6eFcHRH7MwOv_od0fadxW2I6GjQudzPZitFu8KxVPa0HuVhapEd-MoJ99-BxD-wJBZG4-FUhISK02DkzGvI2KCCGNnLOTlDQd7Jqrp6p0TrLxaUiogXb358"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJuT6AAWSeVogRruxVtkSRqQ4",
+    "city": "Charlotte",
+    "state": "NC"
+  },
+  {
+    "id": "ChIJa09RegCfVogRqQ-I-WytEBE",
+    "name": "Pickleball courts freedom park",
+    "slug": "pickleball-courts-freedom-park-charlotte-nc",
+    "address": "1914 East Blvd, Charlotte, NC 28203, USA",
+    "lat": 35.1944093,
+    "lng": -80.84387219999999,
+    "rating": 3.7,
+    "reviewCount": 3,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJa09RegCfVogRqQ-I-WytEBE",
+    "city": "Charlotte",
+    "state": "NC"
+  },
+  {
+    "id": "ChIJuZS5_DoeVIgRKfYzym6XZ-E",
+    "name": "Sugar Creek Park",
+    "slug": "sugar-creek-park-charlotte-nc",
+    "address": "941 W Sugar Creek Rd, Charlotte, NC 28213, USA",
+    "lat": 35.272272,
+    "lng": -80.79563929999999,
+    "rating": 4.3,
+    "reviewCount": 549,
+    "photos": [
+      "ATCDNfVtg9GPT3i7H7cGzyb6pDY1kjqoT0We44TBfcAHTUT7wTAcp4wa0hK8qYSQrRDtxi3mQ8EtNRfOKgDTz_L4ioSbRfiyH83-Z9dd8DC5_SUnWYgTp9Y56JriVtn3CjyJpuAtV6f_q_AGO5EiDEnBkeReINnR1Oz4jb6_Yu9jlVlynqHnDc0k6oSC23-xdo1sBBijZmprSbaZe7ghoiK2cqgjWIN_Uock09s1jykA0wwR1RyvHe0gmyv2Z46JdwR3MkWkMitq1m5mxootwaPcOqvJAlMeX6vlWffABZgbTwdT0ItmTK3auJYF-dtkDT37jLj9MpJu1KsBPFjrqdf1RWb8C-qo3fWQCYxqSAiADVuyTI5t37c8fTqvjpxTdrmOVFhFV0cvrJrWyFBhQOGcXec403Nf04mifvmKdxt0vZmrUsI"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJuZS5_DoeVIgRKfYzym6XZ-E",
+    "city": "Charlotte",
+    "state": "NC"
+  },
+  {
+    "id": "ChIJo_EV7iuhVogR-1st4UEwo2M",
+    "name": "One Athletics",
+    "slug": "one-athletics-charlotte-nc",
+    "address": "101 S Tryon St #200, Charlotte, NC 28280, USA",
+    "lat": 35.2261983,
+    "lng": -80.8433029,
+    "rating": 4.5,
+    "reviewCount": 82,
+    "photos": [
+      "ATCDNfVO3pqjyJ-xMR2od8Z5WfkCFG__AqDh-YUzZtaje3pZDarExZsYke3IoRX6PVNK8X5-PidO0suKNDFdSsiLGBkJEb5HlpaVGRylhUZnlobW63R-89_KnRhggjYdN4iT2WB5qVqt1t4wt8qN5LJd1Pf45eweJMEc2x6cBoEEeP31Zf5vJ7CpxVmK7RM7nfz8h46abnfgPd0qv8fed2Xv815SwkvPVG3XeQKCUXdBTfET8aRXT9IXfNBAaJPjqjkTx-p4cXifs-yxc8uGYoZdDF5MqB2CSbiNzWYNXiR4gOYfhLGHINARcrPiTBWZcO3tgysPUQZqic3PW-iD69hpBK9TpfkS6GkiV3FP1xhIev0azRHfVOXdx5BO3Yimy2-agdBOFnn_GjJfcom6VTE8ilNaRdCEvfKxWhECGg31RpsKlndf"
+    ],
+    "types": [
+      "establishment",
+      "health",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJo_EV7iuhVogR-1st4UEwo2M",
+    "city": "Charlotte",
+    "state": "NC"
+  },
+  {
+    "id": "ChIJGRxFbeyhVogR_t1mE3qD4dQ",
+    "name": "Enderly Park",
+    "slug": "enderly-park-charlotte-nc",
+    "address": "1501 Enderly Rd, Charlotte, NC 28208, USA",
+    "lat": 35.2397002,
+    "lng": -80.8821469,
+    "rating": 3.9,
+    "reviewCount": 111,
+    "photos": [
+      "ATCDNfVHp9c9myk5767KcgiBLQZTWtS2IJ6KaoX_aRL7GyOIDEvtXOIY-BL8p9oLNYGSjfsdP025CanA00KvrgrOsxeGN_fXUxSWr7IMmdOwSb_kHA7BtqZHLm5w1qby4PaBFENBDJGDkrNJ5h5bYUYeXcwSU0r8Ons0ypImTACS6mU-RQlltTEZ87FWTaiN7bX94AIv8Kjkd-TIbAI-Yc6sc-z_FRtEbP9xUCMAnRmeuDeNkC5TihdiAfpS6TIVG7Rl36tJ677RHpn-wxgKiGIHTI5hvweAF14No5KdEofwIWdWyUOX0qn6uBWz8ehI0hsLXk2nfNJbZF10_Zba6gMroOXGmVHMw5r9tYvzZfJZ-t8aqsa9MngXxOpja1wC2zgGQMmsr-OBqfHPOq2TImztLjgv3X4I5qIQh8IrZUWYC0diOFY"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJGRxFbeyhVogR_t1mE3qD4dQ",
+    "city": "Charlotte",
+    "state": "NC"
+  },
+  {
+    "id": "ChIJ779yhqkgVIgRh3KGwDFxlPM",
+    "name": "Carmel Road Park",
+    "slug": "carmel-road-park-charlotte-nc",
+    "address": "2365 Carmel Rd, Charlotte, NC 28226, USA",
+    "lat": 35.1348044,
+    "lng": -80.80794879999999,
+    "rating": 4.5,
+    "reviewCount": 123,
+    "photos": [
+      "ATCDNfUMrsDjImd0gnPRYxOaRmgdqmXSV5d4McnkqheiYmiwm60v5T1j1pYyCi4i8co7fzrBhBBybyIxTpdQ1wnUBn_kaq4Mx_KuvSZ6q8iaID7bj7vIu8TRdfnL3PVUAjxbg1IoZmsPxsh3D408WxRnwatZC1Mxzum9a-UDpdJtCmF0JCjbz4RlCszJAWPVlmsdxkrLqjKkVM7UZH_54Ov-0gowW9miS_xy3Tna3Ov3Tkh5hgwOq49BnJKaGbsQzqS9g4Xuz6MtljPhPGH9EDduwOzub8CR7rkbja-hyVOUPJv1vrEzTfhSryU56nJuzoZkXT7l9X83LlASIn-pqGMiEtajDKR8UWaxNRBZ4eQqNNQrAQH9JPVe8S7_aRV-mMfztx2kgfz-SXsidLF1HEwFrAzITJ0j8MQlO02l0fblA-s9SA0p2CBxpVy0cQ1rEF4H"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ779yhqkgVIgRh3KGwDFxlPM",
+    "city": "Charlotte",
+    "state": "NC"
+  },
+  {
+    "id": "ChIJxZAF-wynVogRdAN54dSg4Z8",
+    "name": "Sports Connection - Northlake",
+    "slug": "sports-connection-northlake-charlotte-nc",
+    "address": "8626 Hankins Rd, Charlotte, NC 28269, USA",
+    "lat": 35.3417405,
+    "lng": -80.8340183,
+    "rating": 4.3,
+    "reviewCount": 502,
+    "photos": [
+      "ATCDNfXNmKknVqKwIqAo4rTBaw9ypbml6IM6I-KAqhhHHdMw6pI106EGIlac2D4LXTzIP5nTq9rN01Ipu6a4NfM7wiWJDgqeYGPYl-OexPvqEMLJ8vacTfX0eioU1cEjoZpxL9BFI4JCWSl9VPsUhzSDB2dzXoLa7GQlYOP9YGq560nCob8nWNomQbOEZNGtEVuGRGDjd9FCG_pD88SL9-g03wDtukGXordLa-D47GgaukAzhgnEs0i8ICRHAKCVi5rj0V9mslzgu6MrQvs7zaOy5xCrixYVRbBDBfFh5TEhCyrhjg"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJxZAF-wynVogRdAN54dSg4Z8",
+    "city": "Charlotte",
+    "state": "NC"
+  },
+  {
+    "id": "ChIJAcwnV2GfVogRuspxDppEpwg",
+    "name": "Abbott Park",
+    "slug": "abbott-park-charlotte-nc",
+    "address": "1300 Spruce St, Charlotte, NC 28203, USA",
+    "lat": 35.2156815,
+    "lng": -80.871323,
+    "rating": 4.2,
+    "reviewCount": 73,
+    "photos": [
+      "ATCDNfVNFazFnjObhcIncVKUptdJd0zwC5x-9XlbS4DjdKeXbTsDdUK8U43mrrlWdV8jde5btAlYy2AoEk9BrXVZpJ9HBnLlJHV421iXiMwJCTTy6R0ctNzoTj4Z6dKbeZhkgavDdVLFUWmkD0G1kUVOgSspBd5tx2Ip4hcJtqRR2yJzkv-Jj44y7-nVD3C7MJQKmFl-_XkmIOl1LNANZA1elTpf9JX0TbaXlWCvFjG9utS57GDQLT2oGP5rwOjjjc9Xlr_mEJvPl-TfTO9ET-tUEadG1hymoladaWwKDIMlbrBaeSji5SZYRnTIAqc3qQLP48FbA4yPZ1iyPj_Odjdh6piljxXDoeOe4ghtT08vdkrFeSBne6Pu7mBN7c1t8vRrpXXB7yYjbcsXhyXPvVGIDzScMwhKjyNu5xLZM6xI3SeRvg"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJAcwnV2GfVogRuspxDppEpwg",
+    "city": "Charlotte",
+    "state": "NC"
+  },
+  {
+    "id": "ChIJef_F68mnVogRAhVJwpnsnH0",
+    "name": "Playground at Clarks Community Park",
+    "slug": "playground-at-clarks-community-park-charlotte-nc",
+    "address": "5435 Hucks Rd, Charlotte, NC 28269, USA",
+    "lat": 35.35078290000001,
+    "lng": -80.8114811,
+    "rating": 4.7,
+    "reviewCount": 59,
+    "photos": [
+      "ATCDNfXQXQ8KNwaUTs8oEzVpM5wMAZgGBAh7E-g6Mrgpsn32xazXGwoHFC-sQ8g-sRr0GviSLdQ8pkh4mMZbwAJhkWSYbGDsLeLvDjgZNyccmhjFDWBGVvFI0qRDdfrYSH1sNMBQVroqEmIjfqLoL6LYToCTikH5CJYMAGIAl8uFRbVUfq0ycN7kMVFkoLP2wE3gnRq1ROZqD_yN77_AEdtH2SxmV82-g3_fHMvutk08r4SzRtR1KAUxg0_x9Q0-nvQLEE_LV23fdOxa1USeYTqz2yL8WYF7OkaUaRaZ5n4parRk6uzx-Ecn9Nt-JOd5BWpoYRmkPjIl89oDbTF_LWtHaidiLu3XnIgewlN6C2zHR4RqECPSPjLfIReMP7Z3yhv7j-UTHfUyIo3hPtSWf3p__MasLCW_nHSFmjJns9WxoLvBCwk"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJef_F68mnVogRAhVJwpnsnH0",
+    "city": "Charlotte",
+    "state": "NC"
+  },
+  {
+    "id": "ChIJ-W1lx8abVogR0uhafMWxh9Q",
+    "name": "Sports Connection - Granite Street",
+    "slug": "sports-connection-granite-street-charlotte-nc",
+    "address": "10930 Granite St, Charlotte, NC 28273, USA",
+    "lat": 35.1198882,
+    "lng": -80.9269462,
+    "rating": 4.3,
+    "reviewCount": 205,
+    "photos": [
+      "ATCDNfUfrWQPq7HcuxtY9ObUAPlVOjP4xERCc0zXLjUdJpytWrv2fLPHjSjSMCQkTUL-zsZm33BDHuGX-MJf-C6wgvYLwJmC-E1UAqHqwJdD24eVKd7up9__Oogs3yFrdXlKbQ_iKOz_DB7a8obml_i1m3jqJ0hxUMC90xvRkxQVpY6HI3_uyWvwStQu_5qGODVfgSrEQ953esjTKegwRSM26URCInbXfbpJT_u4LHP7JYV3UP0XDnMQJww3kv4nyjQlw2XVmEHoTkznVaf2r8hn1Tr942YMmPDwc7G-QbvSQk3v35LRtaF6Lt7BwVEuWek-bs_2ps4hZNVnPmku2GS9TQm_7NzhirolKikcqDDIXtmmvNbZsIAQfmM5cwR68G7Ce2IMqYRWB-dMTC3-GkSkeoVuQ6_FgxCA_2iH_eWjFavagK41Nq3aNKRdsCJEOg"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ-W1lx8abVogR0uhafMWxh9Q",
+    "city": "Charlotte",
+    "state": "NC"
+  },
+  {
+    "id": "ChIJ853AJxqgVogR84vnftltHxo",
+    "name": "Tennis Courts at Alexander Street Park",
+    "slug": "tennis-courts-at-alexander-street-park-charlotte-nc",
+    "address": "803 Seigle Point Dr, Charlotte, NC 28204, USA",
+    "lat": 35.2268513,
+    "lng": -80.8269712,
+    "rating": 4.5,
+    "reviewCount": 17,
+    "photos": [
+      "ATCDNfWbWmWqNnbEnFP9HEvVAeItU5o-PDXlwYX-uSFa146HEu-rSiaGJX42Ep8UdtTov30gIJ7WsN30UXxCIdt0iBkUIjZpiXg9tbdnRakquRqSNmVblwswNArU2TtO8QMPszepoCTqtx0ujJrjnOP2waMenXo7xxrIiC68KNlfmTw3zO1DFiGY2rusiQKepKWjfwkYMzyQ4vYMsk0DMlhxF8me5y1LkCedXFpJGnbdHfeyr1joeBEJwYc3vjjL1EHM7WSb8pM_LyLm_NnkhUuMItyb5nOJbN3_pbEutDAn0RjKM8mcwcrXfxFjMLzU65pidc83ZsonresWN9paMC1aFFj4JbgslvkX-Bw-sISv0ibXREfhPQvx14SKXPpp86rC6D24EWcUB-5QiIqoXZFwDSCNGSjmrJz5Z-llfUrJxtlxBA"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ853AJxqgVogR84vnftltHxo",
+    "city": "Charlotte",
+    "state": "NC"
+  },
+  {
+    "id": "ChIJbeLpTO6fVogR2W_z7JUYVqI",
+    "name": "Freedom Park",
+    "slug": "freedom-park-charlotte-nc",
+    "address": "2100 Lombardy Cir, Charlotte, NC 28203, USA",
+    "lat": 35.1948101,
+    "lng": -80.8406013,
+    "rating": 4.9,
+    "reviewCount": 16,
+    "photos": [
+      "ATCDNfUAVBBUnWvK48Mw7gkDFttvghrs5XJDkZUsbCRYCgn8VxTWF7Ysq2NXqV_AUyQMI-utrUSYSgKc6rB5zc2f_fUsLRPJBdx_Xb-UoE7zr6zCcUSt43K9EhzWcTFctTM5YTYG9KRTN-3e-NjADtXVYmH1BpRccQSGVIjYH00QnVR0ryElwMPO-BIyOQYFlBEdvBT1blrhPL6U1vjwhFeMa_WcWZxEkqqFwfdqpoxkPskFzm6MrHj2-xibP2jgK_dvfnUAXhuSgxYzMue3-gauPaXkg0dyNSUU2ZrUy0VJN9WK0bfkwUJClXu6z7bYxu8pYlLz7v1Tjf6xNr98tpBr5eAenrq2tXFWW7sasyOIOJrGjUyzJvxHlChQIvy7H54zdChOitLO9nT6SupvqPqqf_wtS-ACzFouQpYAQeJFzKwLK_s"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJbeLpTO6fVogR2W_z7JUYVqI",
+    "city": "Charlotte",
+    "state": "NC"
+  },
+  {
+    "id": "ChIJI09Ac5ucVogRLQr_6PIEXSM",
+    "name": "Belle Johnston Community Center",
+    "slug": "belle-johnston-community-center-charlotte-nc",
+    "address": "1000 Johnston Dr, Pineville, NC 28134, USA",
+    "lat": 35.0786185,
+    "lng": -80.8928236,
+    "rating": 4.6,
+    "reviewCount": 214,
+    "photos": [
+      "ATCDNfUmzF4CL2wVhpBsR_HA24-XWIhQ7dWJX5nCV5jEEGkb1LjE1RSBOkOlfno9SSD1mVI2Y6c5az6KV-DYgIpgGRtGAYOI_W98twK2tObNrl-zqKL9DciVcj75s0QXDIgAE9jlbMjEzAzmvv2eIOak1i4ZSkgZ0bJGST6m4hu7dFZNUgnVvl6dvjSp1Np8PRugTC2gWB3rXTgtJf2EHGS8-0UPiAFn8T09pmfUPYROCsDIpjtIXsfZce19-IWvZelWL2I7I8H6k5NnkHfP2cfRfwqM--OUop_ZoLPW7py5Jhwlunmbwm8KteK30XUQqdPBmcyWbTga0w8mfOQQY6hFHQq0n5HZuZsIG4Ab0ppZedsUt6UqfAWZ1RzVxuNvdJwYymsCUviu5XNaTs_p_QEx4nMohjFEh7V15DkUGqa1N2lfk1A3"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJI09Ac5ucVogRLQr_6PIEXSM",
+    "city": "Charlotte",
+    "state": "NC"
+  },
+  {
+    "id": "ChIJxzT9foaPVogRmuNaFL31p-4",
+    "name": "TC Pickle",
+    "slug": "tc-pickle-charlotte-nc",
+    "address": "1135 Dove Trce, Tega Cay, SC 29708, USA",
+    "lat": 35.0488551,
+    "lng": -81.00438659999999,
+    "rating": 5,
+    "reviewCount": 14,
+    "photos": [
+      "ATCDNfXsiUdZ5CnLmAIB2MKxF0D_r50ecWDiT9ZRRkKJ_Gah1xgAW3ntC-ZDl4ccc32ob_9rZ2-SOBOOq7Jk8Qog4X-kR7JSKxeLj1WYqsAkjmK7_Y0gQP8PSG-FaTNeyvDXnRkFYeHvA-f0wcZbsjmlVb9yUgm_2YtPJ_AQjsMasb58XKl_anJm-fDKzZSedRp8v89-lXIZda7R3bZ8Mq1LuZLkeUooXpvAzhaSBYHThuiS6XvSygyJNX14CiH4cfoVQdouxRldJGB_KNdghZgOnaR_Pdzb-r8wZotE3sUqXDwc4w"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJxzT9foaPVogRmuNaFL31p-4",
+    "city": "Charlotte",
+    "state": "NC"
+  },
+  {
+    "id": "ChIJH7aiQRipVogRGbQVWxSHjaM",
+    "name": "The Serve Pickleball + Kitchen",
+    "slug": "the-serve-pickleball-kitchen-charlotte-nc",
+    "address": "20220 Chartown Dr, Cornelius, NC 28031, USA",
+    "lat": 35.47385,
+    "lng": -80.87899,
+    "rating": 4.9,
+    "reviewCount": 198,
+    "photos": [
+      "ATCDNfXRgdJHmjBGKHAw8Ta3Jt5aMMKTPPnhDejbJCvAezW29kcFNvaK-WjD9l0PdkUCUe_uSGouEeFjUa4cIKNuGqfVbhz0xChSVzqUukUz5h2kKqf7k1hLOJJ8rd53iP6RysxauY2lINEKoMR1Hw2k96Wt4guNhZ93ZbuH6u9eTShGU3Hn0OUfwfqZU1s0KQcTBjM6HHA9DTVCJ25DWALjlv5AoJUPnqFytB2ylElZTC3AGKxx2xpwVDCrkXD61wDXxW9Y_CaVMjp_SmcM3JtZbr79NGvbY1iqN8Qr8XfIagnKX_n_mIXoW7sfyabqCpMOA0s1F1vLx5s4EFPuKRmgb7jyU3pj9dewqkz2AzE1PPJGtmAwU1xsU5bo3sDHVuBriXYjwtLQF9LGha99Ym0PJx4hEHqx43ucB4wkE8D1P2FCXCLE17X6RjdDXtb8fQ"
+    ],
+    "types": [
+      "bar",
+      "cafe",
+      "establishment",
+      "food",
+      "point_of_interest",
+      "restaurant"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJH7aiQRipVogRGbQVWxSHjaM",
+    "city": "Charlotte",
+    "state": "NC"
+  },
+  {
+    "id": "ChIJIVxBpqIJVIgR-9jt559W_x4",
+    "name": "Carolina Pickleball Club - Kannapolis",
+    "slug": "carolina-pickleball-club-kannapolis-charlotte-nc",
+    "address": "724 Chipola St, Kannapolis, NC 28083, USA",
+    "lat": 35.493976,
+    "lng": -80.6104022,
+    "rating": 4.9,
+    "reviewCount": 94,
+    "photos": [
+      "ATCDNfWTz-EtzC3naszqsbGLVd7tusnVC1b2I55-6YaupjIxX80osmhQHei_2lsBUZ4qrdNb1RwST91rCNY9ZZjmyJZYCR2_vwEq4-o_0TbFFyY84Uo7c6Iaj965wsEF79hkgby1B1rPyb3QOScDZhqN2jgJFZ8yyEP0j9OKj8bM_XIFVB8ztFUaRj2gwD-IuOmyJWK0M6D24BPquJQTxr_BDmgxKgRP1JDctABdK7jzgiu08FElYsdsFB_DnyM2qwupGEwl8wknX1mOHWJSGo61eagDCv4Jj0YmyQS9iz8DsqYETA"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJIVxBpqIJVIgR-9jt559W_x4",
+    "city": "Charlotte",
+    "state": "NC"
+  },
+  {
+    "id": "ChIJWwbId2mpVogRFATPu4RN8mg",
+    "name": "Pickleball Huntersville",
+    "slug": "pickleball-huntersville-charlotte-nc",
+    "address": "320 Seagle St, Huntersville, NC 28078, USA",
+    "lat": 35.4211909,
+    "lng": -80.8387722,
+    "rating": 5,
+    "reviewCount": 1,
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "spa"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJWwbId2mpVogRFATPu4RN8mg",
+    "city": "Charlotte",
+    "state": "NC"
+  },
+  {
+    "id": "ChIJlXZ9Xy0DVIgRcCtMoO30JtM",
+    "name": "Clarke Creek Pickle Ball Courts - Private",
+    "slug": "clarke-creek-pickle-ball-courts-private-charlotte-nc",
+    "address": "6000 Clarke Creek Pkwy, Charlotte, NC 28269, USA",
+    "lat": 35.3874206,
+    "lng": -80.7544631,
+    "rating": 4.9,
+    "reviewCount": 29,
+    "photos": [
+      "ATCDNfVF4cNSKQBHXi5SUp9ntmi-0knFvIGrZCTdiaxIxIw9b057gms7p2cKsWRS_rxEnHutxy5mZKKgCxIz-X-eHWXN5Y6jsOhBvICW36ntAEalw5-pFQ2K492Do-X_wk3xZkvruUvsvAQU7QYN_r6c_xZHz-cMYOxr4Iu6H4AFwD2gTnjSOJCJtJHxPKhP77cHfQAa8wPQpZ7WL1QpyLgX6W5yTYhC_UUJPq-ro7dL1BLIuO8fxq4ltBCN2hT0-2kmI3YNSlXaHqmxP4ILQy9k2g00sKlLMqUu5VGlFcKx8xp1R1lMnI5wDJTTCetGID1_vB1aJn7ZZob15jwSEwfx_QAWSs4qGgH8X07R_aISz_MLTzU8KzDutyt98hhAfBomRfQ99anpnETRrPwRk0eMOwidisdMkp_ixMBI6njoQ6jpjg"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJlXZ9Xy0DVIgRcCtMoO30JtM",
+    "city": "Charlotte",
+    "state": "NC"
+  },
+  {
+    "id": "ChIJ-Yz_mwJc6SERviWZZTAgxzU",
+    "name": "Pickleball IQ",
+    "slug": "pickleball-iq-charlotte-nc",
+    "address": "443 Pitts School Rd NW, Concord, NC 28027, USA",
+    "lat": 35.3840429,
+    "lng": -80.6890536,
+    "rating": 5,
+    "reviewCount": 29,
+    "photos": [
+      "ATCDNfUbltky2n99dhAxpxsDTCxOJgUTqoIG38B8EnYtRQzi4N9cFl3KnaWcXMsw5HdSoLwLi5PiGfVbB7zgD_T0X28WejdJjfkM-gcSkF_o5LPwlid7B8dVJU_OdgnCRI8lBl7qAsFXz6gd934nwyNn5GOJVgnmO0X49rkpyuBJ4ZE-AwG-tdjhQlsRrUi_2G5rXSnPhTVryzKZjUkaJs2uWueFVYkCZ5wUwt_u06TCbHU3FyGWBq6ybxYQG8H-i96SXyKqOo96u8KZWwN0AUm61A2IkLtSMCDrfJPImKaUvnNtUg"
+    ],
+    "types": [
+      "establishment",
+      "health",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ-Yz_mwJc6SERviWZZTAgxzU",
+    "city": "Charlotte",
+    "state": "NC"
+  },
+  {
+    "id": "ChIJp01Hi3dVUYgRLVKYfVCf22E",
+    "name": "LNPC - Lake Norman Pickleball Club",
+    "slug": "lnpc-lake-norman-pickleball-club-charlotte-nc",
+    "address": "140 Raceway Dr, Mooresville, NC 28117, USA",
+    "lat": 35.5884995,
+    "lng": -80.87145079999999,
+    "rating": 5,
+    "reviewCount": 5,
+    "photos": [
+      "ATCDNfX6GR9OFKxhFREpvOgp2uzCPUUMiwkMdk_Ekc66kZa3W6fIhNvI9QXCvdkhAe57GCYYWwHfTa4FWEDELU7VmvhKBFpwK2V1mfyfTsf8c-HV9ZDOss7PvBB4GW0eICRpP_BouYbdSO-HyTZv3nOnK4SVYhnB0xCu_sxorbLot0C0jEzDivFE96KeMcxAwmVVpDwGk6T_ebIbRS0eCgJ_x0PWMdOd9cdzqaOOy5IzH__E44m_wFiekr36hpLJyD_EvzWi8g1MVJgc-9L-OxMQ1rkSRsvzJRfW3OCwfNJhkLulDg"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJp01Hi3dVUYgRLVKYfVCf22E",
+    "city": "Charlotte",
+    "state": "NC"
+  },
+  {
+    "id": "ChIJPdEJqBMkVIgR8TbHxyuQc_k",
+    "name": "Crews Recreation Center",
+    "slug": "crews-recreation-center-charlotte-nc",
+    "address": "1201 Crews Rd, Matthews, NC 28105, USA",
+    "lat": 35.1254774,
+    "lng": -80.72088029999999,
+    "rating": 4.5,
+    "reviewCount": 155,
+    "photos": [
+      "ATCDNfVgb2mjmAHmPjQnKTYsOgEFPwgZQx5Cx9W-qvWkvGxSRQJPYu6NWWsp52T7xeoPeYnxPZcqUgOKMUCHYeQTYKtq5PFwwT2BiXT9wRyvhCdB4zriwUocGMH06DzGsjtIcWPF73wBamXNNb4Ki559azwxzOqQxvCYo5PShEg4K7hyrOsqavmzSvhqsH60UkJ0CKB3264r2aD01dJTWW80xsw0QjGR0ZWb9tz-rVtSBh__42RLoEGWTXra3L1lwcczJaZq-6o-CqjcAGtz44p4W53kVCYZq5Ip7hnvjOJKubCIdA"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJPdEJqBMkVIgR8TbHxyuQc_k",
+    "city": "Charlotte",
+    "state": "NC"
+  },
+  {
+    "id": "ChIJNQLdLX4FVIgRrOKZzJrPIl0",
+    "name": "Labcity Sports & Events Center",
+    "slug": "labcity-sports-events-center-charlotte-nc",
+    "address": "2803 E Independence Blvd, Charlotte, NC 28205, USA",
+    "lat": 35.2055801,
+    "lng": -80.7937037,
+    "rating": 4.5,
+    "reviewCount": 62,
+    "photos": [
+      "ATCDNfVmAAGUCfv6cDV86fz8dxQTxEjZOfbceCZrNQ1bPRKUclijNCasYHuf0wRcgR0uM_cJcTKR86ngHtMWuKVN-k5bb7GeJjRRYTEzwn5dCkkiMmyqtq1ez6pv9-v085Heax9Rmw5F8152NltOwUiKGEhVK8raqKy96yg7vWj0swlktzeWTHMKKkr1Q96y0Z3KoQP26LksA02rQaHTMihy1iAKltpsW_2vKexnX5ffqKe-oTiSPHgA_LT7FTqW1bzKaZ7Q00gn5_BTV8sw3wnk8YUlm7bhovp1sqjHFyiflcKG_Q"
+    ],
+    "types": [
+      "establishment",
+      "gym",
+      "health",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJNQLdLX4FVIgRrOKZzJrPIl0",
+    "city": "Charlotte",
+    "state": "NC"
+  },
+  {
+    "id": "ChIJvXzKDkwnVIgRm8WxtNmGfUI",
+    "name": "Olde Providence Racquet Club.",
+    "slug": "olde-providence-racquet-club-charlotte-nc",
+    "address": "5630 Sharon View Rd, Charlotte, NC 28226, USA",
+    "lat": 35.1233629,
+    "lng": -80.793523,
+    "rating": 4.7,
+    "reviewCount": 80,
+    "photos": [
+      "ATCDNfVjvJgEkU1YT4sXthyIbr4W4h8RveIHrtj7aLHFPSxiTZSa8Zd1bj-Kv8VRceYHxgGFHUVH-0P04-vHVbs3d30G8oTchtXtp5a4Kz1VcP3aTd0yS9Ox_c_FJlCDlzvPGh5BSf3uRN-wwhgap-1kkFfh5kmfO0Jsdn0erdT4VJiQVjO2eoSUDKsg8jvMRtsk4QesOwvF29WP3swa_fodSxlrJTfWGoj8-uEGEGVjKR14-xlN_6H3LdICXZ_oFeV5XdgU0t-stQYlnCXRrMWc9fF_NHOP_ssuxC4IwJRLaQ7tcw"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJvXzKDkwnVIgRm8WxtNmGfUI",
+    "city": "Charlotte",
+    "state": "NC"
+  },
+  {
+    "id": "ChIJt8IgGSwnVIgRJkjRpQFckl8",
+    "name": "Charlotte Padel Club",
+    "slug": "charlotte-padel-club-charlotte-nc",
+    "address": "2110 Pleasant Plains Rd, Matthews, NC 28105, USA",
+    "lat": 35.0924784,
+    "lng": -80.723393,
+    "rating": 4.9,
+    "reviewCount": 28,
+    "photos": [
+      "ATCDNfVtEWlfh_7kN7hr2muQGsw2LCBdiEloSiI5Am6DGh0rTaSHDg5TnleRKmJlTT1YUi5roHzhzkuFmha9N9Yod1I61pjhchy4AZaigsT7KQix4167XJlGGo69_a3cWmAqe3f_3FbHPGE5O7FxQdw0TJ-3N6crPUbFDnQWAIaDipbFvIYVULlo4hvbwvZ8SUK83bmycWivFQThcJ5zjqaOJQBRr6qDtSnFA0Ae7SM6dpt15UHZuR2_b5aTp3nRVsitu_5zCCtcd7OJbfihrCZaAQ21WWQ7mgruDeso_SlhmsOPsw"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJt8IgGSwnVIgRJkjRpQFckl8",
+    "city": "Charlotte",
+    "state": "NC"
+  },
+  {
+    "id": "ChIJbaGPJ12FVogR_UpozUTx70I",
+    "name": "Fort Mill Tennis and Pickleball",
+    "slug": "fort-mill-tennis-and-pickleball-charlotte-nc",
+    "address": "Behind the YMCA Complex, 971 Tom Hall St, Fort Mill, SC 29715, USA",
+    "lat": 35.0098668,
+    "lng": -80.92238549999999,
+    "rating": 4.7,
+    "reviewCount": 6,
+    "photos": [
+      "ATCDNfUJcdQmKoloxFmVaSGjsrAZg6zL61PgMZ1tXxwU9vEbqZXbwiETymzaGV5zDY7W_RdazeEHhLqcD-bLYNA70iwe3HS4OCd07aoccxJOqDqgiuK5l_oCZVzrRF1QDgGEEeTgD-wfrQL4YP4MBWfaMhcom7HW1wvSTOkp7v68v43dFdx47HZeVv3tYjbaaLOMcOxgD6s1QJxuxO_5gxkqj5SNPhWh374Xu5Wisv8BabsRVsi81OaQwG2IC0m7ijy9uCugbyxtAcE6eVCTaOz5-32s_kAXNzJGQWtbiewcy0vHIQ"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJbaGPJ12FVogR_UpozUTx70I",
+    "city": "Charlotte",
+    "state": "NC"
+  },
+  {
+    "id": "ChIJ8QdPt88gVIgRp76gWEo_Ivs",
+    "name": "The Charlotte Squash Club",
+    "slug": "the-charlotte-squash-club-charlotte-nc",
+    "address": "705 International Drive, Providence Square Dr Shop C, Charlotte, NC 28270, USA",
+    "lat": 35.1346277,
+    "lng": -80.7788772,
+    "rating": 4.1,
+    "reviewCount": 26,
+    "photos": [
+      "ATCDNfXbZLZD_NWLk_1tZkgxrKbhcgkE_0htF2OU7pjZI42b54lyH9HNpkBiIVg-_EOJKaiVabUZTmmiJ3WTAOdZUotyIHM3EE6vchGTi7qaFAiNPPGNdUF89TaWsVT7hhJV0Owf1eA26kDCi5tnek-C1W9X2uv6L8pescGmUCsQUNaMdwEBRslVTt43HRaUyBO7hHDzjUnkj3yfH0T0y8t3UwYQSRtpQLWxG7tCTDQOsWKYzHy-xZZ0Z0GzubYPq7wyB8pwd5g4pWlgn-ud24fvPl7VXvVtgRnTCd9fULNMiD6sAQ"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ8QdPt88gVIgRp76gWEo_Ivs",
+    "city": "Charlotte",
+    "state": "NC"
+  },
+  {
+    "id": "ChIJn-T6cueCVogRoUwQZCempqU",
+    "name": "Sports Connection",
+    "slug": "sports-connection-charlotte-nc",
+    "address": "11611 Ardrey Kell Rd, Charlotte, NC 28277, USA",
+    "lat": 35.0209935,
+    "lng": -80.8460757,
+    "rating": 4.4,
+    "reviewCount": 1202,
+    "photos": [
+      "ATCDNfWRDgX9N7Gf49mM88osQNzNHVq-p3OKAzcPfMh9jGPVmNknYTabLFj7ZSA1aMIKoQqjff0Kg5PcvJxESquzctt3QfuGHI3RwIlqqW9cuQL7e9fHBhXjovS96svTShkLMl1UNV0AlwdM3U2l9VJNk8xxELBXCMF4xPhoAgtU3wWHKcv9bh7HZVCSty6UEGJMeHMdNMcE0siQgd-uoww3xn0MrJxA5aDRt9Yks7jm0g0F_8t5-pvQdIRW4nj2hrK191ZEHZaDL7vs22_rdnsd3EoCne93hqJh0dQg_0Gl5HxUa7Z5RyOLqzOvKQfwwpKGFL7IuANhxZSZQsw5PM9HRkCWhEc9q1WiEfI_WXrugZxjpmOzVcO9OBNNWp2vyDmjmqYUhSn3wwgpJOLdy7PEtErGTioECvZa0d2KIwxprrzbRLwq"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJn-T6cueCVogRoUwQZCempqU",
+    "city": "Charlotte",
+    "state": "NC"
+  },
+  {
+    "id": "ChIJM3kZOjQDVIgRyXO-_cR7mX8",
+    "name": "Highland Creek Sports Club Park - Private",
+    "slug": "highland-creek-sports-club-park-private-charlotte-nc",
+    "address": "6616 Clarke Creek Pkwy, Charlotte, NC 28269, USA",
+    "lat": 35.3901097,
+    "lng": -80.7471443,
+    "rating": 4.7,
+    "reviewCount": 60,
+    "photos": [
+      "ATCDNfU5jw3aQpNNbLR22_w11kqczQCYBeu1W24APov_9uHk8Dmcomm9dFAbwHMy_M9MQ14erftwz02TvWgFD23CPpdh_-N7QiKilQ7vRUCgSQuqEwj4zqarGxoT6qmkfyhdOmMDwedRi6m8y91bfhH75X5jaDufFfRKTEJ6gCRyQXM_Nvyl_smxLtx7sRqSFlyJtooj28Ol-yPWUkSKAPQx-ZH-j_UCU82SFf0b82WTYp3b-dtImvL1U3uP4_qiTrtWeD8Lqk1ZKLIvKqFgYbJrWzQth5efW7Ja-fYtUG1OmWkupTnlcBu0EAsgNS8lk3QQfayokTO6lp_uBE0F0XueQ3o443VHlQbAlmoCJmBuNQDi2lermKzUWChF3HoT4lJDIHiFMc9sqYPrtYKX8tSbjL1wH2CldSxbsPHnZZlhg_rq-g"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJM3kZOjQDVIgRyXO-_cR7mX8",
+    "city": "Charlotte",
+    "state": "NC"
+  },
+  {
+    "id": "ChIJBZnWtyigVogRgxNhMk6qTyU",
+    "name": "Childress Klein YMCA",
+    "slug": "childress-klein-ymca-charlotte-nc",
+    "address": "301 S College St #200, Charlotte, NC 28202, USA",
+    "lat": 35.2234759,
+    "lng": -80.8444961,
+    "rating": 4.5,
+    "reviewCount": 200,
+    "photos": [
+      "ATCDNfVLaSU8O1AAgy9ihj0DFBnQGDUZfSubtqurkHreUUV2kpfH6sDVJnW_KtOXP-AOiKUY17QLccpTRobjewa0rD28tgmvR8ckVvu3pz-AIc1IyMooUUr_4-ofZtZryn_L-IZieteZMczfO49a9HUV-6NQVvcZFRAVIf65GqqoqY7l3GmVg9KsHq43BYEQPqFXwM_Rfd3pvOy9WYAP0xXghR0NpjWpKDeF_DZJ_dRrTSFejPV6Z6mGqtimmRBD7VMVZM-nDnmPEbEQpKPap0kwcshbJgSSVwIb5G7vNnzE3cM79d4kPNmEEFC12qgWzcnNIF-XmF2YQmc7RIvFrU2tOxFUoVZcOEyhVYrE_yKxfywxkbV0efHORuAI_06QXyd2zZ4O_WKXf0QUA2_5vYjIq-ESE1UKD_Za_cm_YMg4HS0GLw"
+    ],
+    "types": [
+      "establishment",
+      "gym",
+      "health",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJBZnWtyigVogRgxNhMk6qTyU",
+    "city": "Charlotte",
+    "state": "NC"
+  },
+  {
+    "id": "ChIJpxfVn8-RVogRbqWC0OAKIU8",
+    "name": "The Palisades Sports Complex",
+    "slug": "the-palisades-sports-complex-charlotte-nc",
+    "address": "13417 Grand Palisades Pkwy, Charlotte, NC 28278, USA",
+    "lat": 35.0731046,
+    "lng": -81.0402805,
+    "rating": 4.6,
+    "reviewCount": 59,
+    "photos": [
+      "ATCDNfV5s6sPDIs2n-mip30PKUDXH4aCAc-HAZQt3YRGYARq_JVyX6e5WWSuHQI4pBj31icom5pCLwy8OUpGFhq57HevXmW7Seuk8jvb-ntoRRVH44FgqDvcvSdSNzLHC7dEg4Kwlnaub4uWmRdMoM8fqIabKf-wGJwVFFOsLedNa1qGt2Tz6rTgj-ilKk7tClxsGfFLTFrvbqtEIOHOBO0gWoYh8W2empxOBsJWaMssV1KJRcSCRXLv1TcFsBUothfw5oK5QMGlHnTCNkl5oxK0EpWO9wvIyAH2bD2vtTb16ZWpNcWmhtri-5jb00XUUxujlOtaNYvrmSMyARJlr5eDcfGk1G9ClsUTV_KFPp0vR6U1XGFykmfrmVto7oMcSAHt8y1Et9aYsbj0J7QOR-tudbqxYwDdQCHzy-pjj21uq715nwQ"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJpxfVn8-RVogRbqWC0OAKIU8",
+    "city": "Charlotte",
+    "state": "NC"
+  },
+  {
+    "id": "ChIJh-6WDL8kVIgRAXiV5bOKgEg",
+    "name": "Carolina Courts Indian Trail",
+    "slug": "carolina-courts-indian-trail-charlotte-nc",
+    "address": "240 Chestnut Pkwy, Indian Trail, NC 28079, USA",
+    "lat": 35.0826465,
+    "lng": -80.668753,
+    "rating": 4.4,
+    "reviewCount": 722,
+    "photos": [
+      "ATCDNfVcLhAgJZHse3qgkXOKTRBN-T0mArSGNRgFsyzQBMVUtEDxTRq6FuZyg4bO-68ZZW4avxmnlWmGshCMxc0PYGcdAA4HljmE0ToD4A6lrL2KB4o26Sqm0MoYw4SCO7LvuJsrVoWlTpdu_x3DfUHJC3Ri-O1P5BAjTMR0VDjkqhC-Yx_UB1GZikFfLcoQdfKqDDzcG7ZBmgtIRzX-527wcolRt-c2mPmpQHp04RFIjjd00XY8pqchjf1n-oB5584r0EiHESFMr_ZVuwTXsjIiwOwFUzGaNWp8eY3SFCx9cLO93tAdvzay67TMErfOqID3lvY6fdtmnMop-fns6t1bvFmvCDfgrLNowDuNRjAJw6KsvupqZ1NTF4B3MYQiXiIKdTtGjKBfSQ8yLPsKrg0z9kd4OD6AZYImH6cZc8CL43qUNCxv21TYbHaR4z_T7-82"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJh-6WDL8kVIgRAXiV5bOKgEg",
+    "city": "Charlotte",
+    "state": "NC"
+  },
+  {
+    "id": "ChIJr87UMQAxVIgRjYD4Kb9k21I",
+    "name": "Dickerson Outdoor Pickleball Courts",
+    "slug": "dickerson-outdoor-pickleball-courts-charlotte-nc",
+    "address": "899 N Johnson St, Monroe, NC 28110, USA",
+    "lat": 34.9872873,
+    "lng": -80.5602832,
+    "rating": 5,
+    "reviewCount": 3,
+    "photos": [
+      "ATCDNfXgN8qnVP27IBFUVgT_GFaeswoDFJbIZTXsW5PfRVdODTJlmKNzjdIMluKSnzNSzvq2DY22XxioLZ9eU3zZ2lnOEMabQuEkZBWjPWucYRnVcaiU_SQyy08fbj-NOc6Y2yxaE5ysZi8ltjt8izbReX58JRsScBvTRjha6AszDsM1inViz2OE75LHZZq-4ISw1pRcSld88NEVYq7WfeIO1vAKEJKDyVkwP7LB8R6Ch1i4nCtGyT9daeIwjC331vYDC1o5SpLHIkfGazOgxrkFzNs_5dP2dW7eoOpDDCdFXskRrQgOC3WY3P1ipeA_C1DrSG-Wd84tyCO10ozYksj1sNchO3xpjw37exV7cbThajJlwlJTzefid-I53pNAF66tQ2prch4-97lrla-4fjtqGbpR_jj1smhBjnMU8yIClETEBpPjot0x9ngbzGkMTNaL"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJr87UMQAxVIgRjYD4Kb9k21I",
+    "city": "Charlotte",
+    "state": "NC"
+  },
+  {
+    "id": "ChIJ37a6kMIvUYgRPsEnHNt0bZk",
+    "name": "Carolina Pickleball Club - Hickory",
+    "slug": "carolina-pickleball-club-hickory-charlotte-nc",
+    "address": "2022 Clement Blvd NW, Hickory, NC 28601, USA",
+    "lat": 35.7494711,
+    "lng": -81.3754384,
+    "rating": 4.6,
+    "reviewCount": 14,
+    "photos": [
+      "ATCDNfUaP2VfQOdy25B2gUCopKjsh8F7GaQGh5bZkmhbra0e3n8UJqgC3WehLURBWfMVuuuBDgMpyKakVZHJITn8XoWzezp99vSujCDrejEfC4l0E2lO8TxBjzwJ6187_fYQROsy4tL63d7JwNn1-MJo4HULaGp7XDsKhHHtehoahFVkFQjXm6XpCPke_WRltWpDVCrVkx_iYOUtLVllW443XrUfhdqPDmZVvInCZvCmNsIaJLn0RJPgbDDXcsfTaRucg-WNkvWDFAt10dlVz6fkzC2RiMOuIrBpgn6I5qtFuItfFg"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ37a6kMIvUYgRPsEnHNt0bZk",
+    "city": "Charlotte",
+    "state": "NC"
+  },
+  {
+    "id": "ChIJ5ZRxZTKdVogRpLWErMA1RjQ",
+    "name": "Ballantyne Country Club Family Activities Center",
+    "slug": "ballantyne-country-club-family-activities-center-charlotte-nc",
+    "address": "14801 Ballantyne Country Club Dr, Charlotte, NC 28277, USA",
+    "lat": 35.0476015,
+    "lng": -80.8424829,
+    "rating": 4.8,
+    "reviewCount": 56,
+    "photos": [
+      "ATCDNfW19fLTQsVSOA_1JcRd-YfYOm2i-p7NKa8fpmJvADNlUc1d3O9nj5tamqD1pqToA9TEJMShE-Z36uo0SJwJE0sevFYkndTLt8-ETdEqeiYBgO6ZCg-BWKen5aSRwZ-tSXe45vPE3Y6XN7vuO57eOXApLPMs08YHsub1Tsr-fFsX1QLxgUXP8U301oK6UGyXF0BNpQUyoKto5mIPsQ4MctzaObs5BUabkJx1UJ96ZE3eO6mM7xaE3P1ZUxs3kKmk5Q-87KOZDn6Lo5_E1-ehJHy_OBYVV2SNYt_MmVc-chWXWJbgnkLrdXolVwjduEwnGP2dD6tLq4PBS_LY6sZQitLM38hAJtyG5rzCK7jhUrfxvS67e0P3lOwYL2V8_YyN_me6nuqfZeD_4FJK6BNTmtBTn3nc6rIunGiotDrhMIj0u8TX"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ5ZRxZTKdVogRpLWErMA1RjQ",
+    "city": "Charlotte",
+    "state": "NC"
+  },
+  {
+    "id": "ChIJzZ80FEKgVogRHADlfind7vg",
+    "name": "Camp North End",
+    "slug": "camp-north-end-charlotte-nc",
+    "address": "300 Camp Rd, Charlotte, NC 28206, USA",
+    "lat": 35.2464282,
+    "lng": -80.8334412,
+    "rating": 4.6,
+    "reviewCount": 3632,
+    "photos": [
+      "ATCDNfX2AuJIGQ_5vDa51nkhbWzpVwfxeCTZ9zE7xlSP1hRkZ7LVe3M0sUSGSH9Tx5jeWy0pc3bwTG5bEPOV9YGxyX9svokZPnaVfVnKK2MlMJIXt3JmbWCU07clbE2TSAEFcIjud6qkulIqswimuSVwQBFK-zJkS4x8JlSvPeVP2XCjaLlZm8yBYy6KBkyqCkWB4rFIIDDHNzzwjZNdBOCpOmrXsg5g01GrMiMXMmdVrKVP0RrjIcqO-c5lLOA4L-sp__xvp_3QobOifcXV2nNvLYc28wNeJakhgI7Z5qcMu2ISTEt_-kmAe_t5yif1mEOjD5HcifewLAXSKJx-luB27bjJA79sIzwU3BieF1KfVpy5P5xj2GTt-D3Ta9B8DNsabhCznjCL05kaiCnCrvkBJKa079xiHkFC_kuPSAlRe91XtJGv0FJNeR2lXSLsnwd3"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "real_estate_agency",
+      "shopping_mall"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJzZ80FEKgVogRHADlfind7vg",
+    "city": "Charlotte",
+    "state": "NC"
+  },
+  {
+    "id": "ChIJk4Khps4nVIgR_zNRCdbBO6c",
+    "name": "Life Time",
+    "slug": "life-time-charlotte-nc",
+    "address": "11220 Golf Links Dr, Charlotte, NC 28277, USA",
+    "lat": 35.0547132,
+    "lng": -80.7741351,
+    "rating": 3.9,
+    "reviewCount": 625,
+    "photos": [
+      "ATCDNfXNUscvvMzVb5MyuEaD-B--mVdrPZpX8zbsA2Bf3diaY_AhImlnmgh5CF6LZTPjJgiPEhYAgJAaWf1ebn7FKX5XFDjMeOwbEaA5QAYJhBsn57hHMxYdqymK_PfmyaOL-jh6nOE-cKlBUgAZOa327S2vQozSE7UedBq6YjwjKkj-ovXdd3ou-Uga1e5bw3bEutnTa1bH78hnCTZxDwgcA9y2mo7R6TK5XKyp0PPkmSB5uKk6sjnwDW_7K9b2TpiOiaMVbeYr6GtCoawjemeLbbZ-oxFJZquYlKEAswVzWbNYMw"
+    ],
+    "types": [
+      "establishment",
+      "gym",
+      "health",
+      "point_of_interest",
+      "school"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJk4Khps4nVIgR_zNRCdbBO6c",
+    "city": "Charlotte",
+    "state": "NC"
+  },
+  {
+    "id": "ChIJiQHjS52eVogR8Px1rN2o3DQ",
+    "name": "Starclaire Recreation Club",
+    "slug": "starclaire-recreation-club-charlotte-nc",
+    "address": "7700 Woodstream Dr, Charlotte, NC 28210, USA",
+    "lat": 35.1344542,
+    "lng": -80.865847,
+    "rating": 4.7,
+    "reviewCount": 60,
+    "photos": [
+      "ATCDNfX5jNX7hOIq4fZx6YV_HhfX7h9NsM5ykh4SBDZcLtAT-0ZSWzeK0Vo7JD41FwJ6iWPLz59qwxVApihiMHx4wjEYinhVi3VZb5CmSZrvXgbGgu8kp5cc5fKuL6XqPY5QouW4rFGUNmBkH7iXRG3ce9hl2ap9I2v_GDVWLVfKNV_BCL2V_MeLHY4V0sEDPNWN95lXjCEZcOoXItDY4IVY5AcNkriUBbKVxgdk-RCvm_r6vB4eQ-DyrOuIkrSK3lwZ5B0Dr-ETpumPEUQT3bHciJZkCrIacErxAqnxyENCapg5a1mGo-K2sF1qiVGPzbzrvfydGX7PeNUF7cXmJdMMrtLTGSiitAiHcb5tYpWF_JId4fjPbfSEYJQU6ubO0ifARoxPti-5oFZR-8Q_iUbLPRSi6OMrhB3CVQikagYNgoo"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJiQHjS52eVogR8Px1rN2o3DQ",
+    "city": "Charlotte",
+    "state": "NC"
+  },
+  {
+    "id": "ChIJE9-Q4B0oVIgRVhucMJFrffM",
+    "name": "Blakeney Swim & Raquet Club",
+    "slug": "blakeney-swim-raquet-club-charlotte-nc",
+    "address": "10607 Rea Rd, Charlotte, NC 28277, USA",
+    "lat": 35.0253275,
+    "lng": -80.8087275,
+    "rating": 4.7,
+    "reviewCount": 104,
+    "photos": [
+      "ATCDNfV5SqCGDMVayNZD8EriLOnNs_lu9XMhF51NXx874wGA074ArqpBYUGQzyxb6d5a1ilOHFjxbD7V6I1pYPst3PvAMxkzmOX_n5eETZcoAdRdObw1iXO5g-dqOK1WiICfHN_GSKhSjeqvbimDKCiVbh3Q47b1dl8viQkfRe8l4m2UzrylcYeW0YwyGOqpuGJH_tVFPVMmO37KrxX1sv0bI6NPZeiGFW_g3qGMAcL8d3sMBcXuQq11afzsXh7hxAgbn4G8qcc0-YvO0RyRdBctkLkwm6ObHq5ncMt0ljqqVtl0aQ"
+    ],
+    "types": [
+      "establishment",
+      "health",
+      "point_of_interest",
+      "store"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJE9-Q4B0oVIgRVhucMJFrffM",
+    "city": "Charlotte",
+    "state": "NC"
+  }
+]

@@ -1,0 +1,1660 @@
+[
+  {
+    "id": "ChIJWxYuSadbwokREmP4Q4E3n-w",
+    "name": "Court 16 Manhattan-FiDi – Tennis & Pickleball",
+    "slug": "court-16-manhattan-fidi-tennis-pickleball-new-york-ny",
+    "address": "28 Liberty St SC1, New York, NY 10005, USA",
+    "lat": 40.7077585,
+    "lng": -74.00885029999999,
+    "rating": 4.4,
+    "reviewCount": 54,
+    "photos": [
+      "ATCDNfW-lhxHk-8ROf0Jo3q8bBBNUqjx-QsUq_rUNHDCeXHHrUF-kBC4sSm59ZWycoHGVleV_trlY21d4NOX9ViCsmx4bmxDVd_nI2-lYtU-mk4OCJm2P0OBSXVeJGocJtbu2uq2B4_sRXKlZ6NgLL8iwWwSah0B-wPWjKPgKygYkZCKFJ8tclUhVAep_gq-1aQxsroTMnvtfMlvJnJLKTrhcGbhX4XJRQOM_yK8JzOsiNgn0pkWAefrUNtuGVyS8hoJEE7EYrzyV36BHBemPDWkn-09ryz6_hsDOWYK9ljhplCiEw"
+    ],
+    "types": [
+      "establishment",
+      "health",
+      "point_of_interest",
+      "school",
+      "store"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJWxYuSadbwokREmP4Q4E3n-w",
+    "city": "New York",
+    "state": "NY"
+  },
+  {
+    "id": "ChIJi47IgoVZwokRiW_QuENM_6w",
+    "name": "Hudson River Park Pickleball Courts",
+    "slug": "hudson-river-park-pickleball-courts-new-york-ny",
+    "address": "12 W 33rd St, New York, NY 10001, USA",
+    "lat": 40.7570351,
+    "lng": -74.0054901,
+    "rating": 4.6,
+    "reviewCount": 36,
+    "photos": [
+      "ATCDNfWjsjHYQC6kqE1IGjtaMYZOq33olNfVVYCCK3n-UWwh2dZUB3wzBC5O6pHHHEQPR3DpOQS0PY9PHBujzqQpOuSJrr1pGGhS22ei62XU6iAcEXAeKnkv1lAaKBS3PZW5XU4HUsXf49pV8-WncsbOp7n7xFL-FX2xk4yxGq6eT685ycPQ8zGN8aZzD2biaVMh3Ja4kXPtII5Xvg-mjm4aI1IlavFe8pJqiAZ6JYtDuK9JP5fFnb-fg1opaTuok1KV2CRFjFaEAK-DcUwPvFD65VFCANGWkI3-2kIQTsZcBj2AMKKKr0UpCyTrz9wIQVzDWOQFMrPYi02FiUF-b15Gu71II7TgTuFecYvAB-yfBAYvTIQ5BwhKfHhkV6nGX3NhsfEck-Y_mBGvo1hRrHoKcxaAHiSdyQ8RVgHA1DKgfLnUrMcF"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJi47IgoVZwokRiW_QuENM_6w",
+    "city": "New York",
+    "state": "NY"
+  },
+  {
+    "id": "ChIJiUzci95bwokRnr154dIdYFE",
+    "name": "Pier 2 Pickleball Courts",
+    "slug": "pier-2-pickleball-courts-new-york-ny",
+    "address": "150 Furman St, Brooklyn, NY 11201, USA",
+    "lat": 40.699163,
+    "lng": -73.99864910000001,
+    "rating": 4.8,
+    "reviewCount": 38,
+    "photos": [
+      "ATCDNfV8omyCDU5X5cei4Wa8f7xNHVCdfXwiBhN9ddp4Mag9ic92t1YsifxtQ3tBtc88MV16yeLzF7KDCMJEslaSHN0eJgYxQLdRfP8mAXXkHhqanZvMjw4UHzUT7KXKwcM83K4TziefsWu7McAel78pp1yAMnfA6RhTfBzzZOjeanyjuESh6hkgaygS8FJvaHJYxt_Nsc7vzhfCFSeqR4rXqlPA2dqZoD6D2jsTG9FzECQXChqPhh1WwQHfD-xJY72sKo4CItb2_dM0FqQmbIEePFuZfaxuq7Lcv4KljF4AfGbvkMVEfJ0rdAYTm9C4b0SFwWO2ZoSSoY3XNz36pwp1ayXWApaURApZOgrfswPMcql4purkOABduUaATBEdBQtQ_8u26f_xg0H_V7ouTzPoov90In5TSdWcKe_HLBlqGF5jkA"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJiUzci95bwokRnr154dIdYFE",
+    "city": "New York",
+    "state": "NY"
+  },
+  {
+    "id": "ChIJz5aALZVZwokRh6INsy29MsA",
+    "name": "Gotham Pickleball",
+    "slug": "gotham-pickleball-new-york-ny",
+    "address": "5-25 46th Ave, Long Island City, NY 11101, USA",
+    "lat": 40.7474559,
+    "lng": -73.95417239999999,
+    "rating": 4.9,
+    "reviewCount": 56,
+    "photos": [
+      "ATCDNfWphDk-DLg2Jy5-OtVvaKUFvFHRu49sVfoJDDOmdqRN5GyHUcU6TKDbyenyNNOGSR31VDtc2BXA7DbligI1342jV0rnNSYxGN1qW_H1YD_1tsLOsNCnVy0vuYf4j0fm68dfMMGpEGYui4nbGbetwe733iSX_gjIEy9QOAJDXxh_1nppvCbJCPcjw28paRYgYCScuJTPjDnFobOdhS7LIYdmEGtFiIu867X5_RWcNxj7e63fR4uAFpVCplhF0SsWMl_wbHw-X9b7NTpAe4qg-YH9bNIrWnGGQOXOR-DksJ7lbLWY5lJLhNwhfrxmOAOmM2LfUFKyaRvpgC1Yj_qwka5bVw8bR7PdU9JR1mhoRu13hdgPw7gA9Y7xhrJhFcMW8TQ0_dbo5vAydhXS64ALS15XjkFrbf13waNlTfu2uz5reHHN"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJz5aALZVZwokRh6INsy29MsA",
+    "city": "New York",
+    "state": "NY"
+  },
+  {
+    "id": "ChIJKyhmz_1ZwokReGO44RC69tc",
+    "name": "Hell's Kitchen Pickleball",
+    "slug": "hell-s-kitchen-pickleball-new-york-ny",
+    "address": "660 12th Ave 7th floor, New York, NY 10019, USA",
+    "lat": 40.7657786,
+    "lng": -73.9973363,
+    "rating": 5,
+    "reviewCount": 16,
+    "photos": [
+      "ATCDNfWEz0lleo1NAYfcEHggcs2pCC5YgBvpgTisDcYzDGnDLWoMTpbDQ-emwUlXuFUQh8U1E-nbKLTtNRaPsan0axYKLVIvUBbdKZ4yhfc3RKQCT_wBs-cKRSjiDHRQVOeTkAvKp0n0HwqFxDTIrLgy4xWM0_vd3ai-lvIY56v02tktpgGMC51d818VPMD3H0eGO93iGNpAXRZV2Ycjz26aC2VVPC5HVzyFDDn7XNHThZuwrdj8ol0qNMkQWaLsu_eZ1ru50rL-fqIsdBWbdRvoSmfOd5s_6atn_UOUn7GKFNPc5ovtINd55-zb5WJMyQXSROwG2oY-QOObTlkg2vqiNDoLgLzTSzvjPIB8fXN2iD9BHBofayY0hqGwT9dQGmOO6WkA3J36-WoWj1lZrjqdxPPgiFIjem0E-F7wRksaPYg"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJKyhmz_1ZwokReGO44RC69tc",
+    "city": "New York",
+    "state": "NY"
+  },
+  {
+    "id": "ChIJp4YzdZJZwokRDRYoSfTv8Q0",
+    "name": "William F. Passannante Ballfield",
+    "slug": "william-f-passannante-ballfield-new-york-ny",
+    "address": "W. Houston St. &, 6th Ave, New York, NY 10012, USA",
+    "lat": 40.7285302,
+    "lng": -74.0023114,
+    "rating": 4.3,
+    "reviewCount": 159,
+    "photos": [
+      "ATCDNfUxRYdGdguOl7MFSSkqIEgZ6Q7ufyLU13nvH1mt0hwRHcMpJC5g5naZwITU37qx-z0Ch3hIQlAtu0FChgen0IPAEX4gx0Cih-I8u1N1RG_HgpnQRFcQvU-7Rzd9aYs8zpa5ZIGTzUP6ClGkyoVfFewtIgV68ylvnNukmfoQZy7bbZNcd-8gSLxvZuJu6TWYwxE5W6E5NjO6mcokjaVVyBVg6itkuaEWK0S57wJ08L3sfxxyfxa5h2_lXA9dtZE5CgXrEqNUfD5gydryBM7CCzmjOs2XULMIkuUnjLmk1rhkuvuyz8CPo8-daocOR_XVfUFflb-42deDZkqq6Ihrc0dCkJCfCLpRQ3zRCVOYglj19Z6MrT8cjYNRyiL6PMI4RtXRfbBt0BJKcOm6fpIZm5f6h5e-86tQML4UwUtBjVQ1qQ"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJp4YzdZJZwokRDRYoSfTv8Q0",
+    "city": "New York",
+    "state": "NY"
+  },
+  {
+    "id": "ChIJcY1hO49bwokRpcJZ-vs7P8Y",
+    "name": "Pickle1",
+    "slug": "pickle1-new-york-ny",
+    "address": "7 Hanover Square Ground Floor - Corner Retail, New York, NY 10004, USA",
+    "lat": 40.7042221,
+    "lng": -74.0092088,
+    "rating": 4.8,
+    "reviewCount": 27,
+    "photos": [
+      "ATCDNfVgJN3KZU-vV-oYrZG2rQXWiQgG9on-_JVbImJavmyxmU8Me3CsmQcvoXLrmq3l04LyqiTlXcpCw8BSetNtw2oYy4r7bHWVynt1HT18I6KG9Fe46pAP48sySow7eSW3_CSs2dh-qAPmQssv9Wirv0UsTVRaKIA4EXAIUGCE2rLaSA3FTB8lVHbHbNdrYe_02yLKvutoEEJIKTc-qtscPzfqL3xm_NoaTVMOfa2i8xRbylBsg5WZL2wXb4DoELo6Acduy4vpccBx_7fj2qlvwh4GMgmGrIJSf55IdcOWhTzKkx8vVzidpkGEAgNed8x3otYwluuyZiGNnNNNsy0g9yhJ-BdC9LSivHoR3I8GcgZUYKOJZnx6u7mHJvQ5SuijV9k5ykbN6LcRb-9k4w8H4xP1RnxsvsfqIgITcY4mm1q5SbOsBBeRnpDFqd8N6w"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJcY1hO49bwokRpcJZ-vs7P8Y",
+    "city": "New York",
+    "state": "NY"
+  },
+  {
+    "id": "ChIJ6Vqd9DRbwokRSADznFwsZjE",
+    "name": "PKLYN Pickleball Club",
+    "slug": "pklyn-pickleball-club-new-york-ny",
+    "address": "80 4th St, Brooklyn, NY 11231, USA",
+    "lat": 40.67656300000001,
+    "lng": -73.99336199999999,
+    "rating": 4.8,
+    "reviewCount": 118,
+    "photos": [
+      "ATCDNfXC-M0J81DdLhlWxUinA_Lpx0HQ-Q-T7vS05mW7_GNFJsNsDCKBu2nFwflnSw3rb7s69_YeuyXa6rVscznd3QuJyW6MtXB6-LmFmtihsBONVNmlHf8mxiDXjCylm806X6QmNxa0JhDa6bfakisrhOM81dh01fJMX6I4tOXecEzhZ0K8N4FtB38gjXbS9WWW-JyuS2QqQNMDtnfFT8vczmkbgIfAl501Aeufrv0MR6hHkpRanU7boKthiX83s828kSh6JMyGM41AktaNOoVK05Ei9O4MfBdqdz1CV4D7L2E5PA"
+    ],
+    "types": [
+      "bar",
+      "establishment",
+      "gym",
+      "health",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ6Vqd9DRbwokRSADznFwsZjE",
+    "city": "New York",
+    "state": "NY"
+  },
+  {
+    "id": "ChIJu4iGZCVZwokRcsvTXbYxYuA",
+    "name": "CityPickle Long Island City",
+    "slug": "citypickle-long-island-city-new-york-ny",
+    "address": "9-03 44th Rd, Queens, NY 11101, USA",
+    "lat": 40.7499896,
+    "lng": -73.9508915,
+    "rating": 4.3,
+    "reviewCount": 112,
+    "photos": [
+      "ATCDNfV92ekX4tHu5MXSvelmPhMs58ONb75Y8vISp-T-T-690mzjT7nbNI4Qq64vHB35YyAdSAk11hBRCMIQ_ZeUxIk6brkHeI_1P9L42HjzS5_EEycUTzItGeUkoWqS0IQZ1DoBLIK9sxC084sJicZ5n_Ph_byd5PVk5PSGtctFID8zezGz93YvGGS8rfWKUtuLYGZFuV7SaG3DT9czlu6XlV5XKp-jbVO0WNz6WdQQFbTZD2k1r882DfTNbcA4x5zcuND3y17WWhN-QguCd202pw9fiQA7IDHjLOoporZJ7EE2TA"
+    ],
+    "types": [
+      "establishment",
+      "food",
+      "point_of_interest",
+      "restaurant"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJu4iGZCVZwokRcsvTXbYxYuA",
+    "city": "New York",
+    "state": "NY"
+  },
+  {
+    "id": "ChIJ-du5pSVawokR1c6vwY4Mt5E",
+    "name": "Alfred E. Smith Recreation Center",
+    "slug": "alfred-e-smith-recreation-center-new-york-ny",
+    "address": "80 Catherine St, New York, NY 10038, USA",
+    "lat": 40.7101922,
+    "lng": -73.9976262,
+    "rating": 3.9,
+    "reviewCount": 113,
+    "photos": [
+      "ATCDNfVSMEdRZbHhdksZVllOeM18F65-axswXzCJ8_PYdhrhhnEQTpfe4_kJmt10GEXBL6YeiocKgfz2d0j1wg4WVVknY0QjkDOjUn94hME5k50YxaFZNU3FAmv03MGO_4nPXh5eywNtls3x1ydw3jeEGg8Hb73dUyNbspOmQxkxW-br3YYUXeFe9P5Dp6ue_JBYkNfqlNXfzMY1u2k_lJgOo0iPSnBfDOr9igx2TTyaRe2kbQ-EaQ7Ubdw6R_jfbYUpY8LZC7o93C24siVftEu3uvathU0HpM8euA3_tSh6j3yhbQ"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ-du5pSVawokR1c6vwY4Mt5E",
+    "city": "New York",
+    "state": "NY"
+  },
+  {
+    "id": "ChIJ1-NppFBbwokRv4mjnMEZiRU",
+    "name": "Sol Lain Playground",
+    "slug": "sol-lain-playground-new-york-ny",
+    "address": "290 E Broadway, New York, NY 10002, USA",
+    "lat": 40.7142911,
+    "lng": -73.9840313,
+    "rating": 4.3,
+    "reviewCount": 98,
+    "photos": [
+      "ATCDNfUBGQnlDkhUTAVI8Vad0MEPXXSbs9vFzOWgPH90f4e9JlOfcuFRyhRqsWwG2xSStK7c2s_9444AVyWvOIwBL0dTjYEsiEcgy-Eqn8wzO3mixWgYv60T0UpwzyT-_fux7ax5rrVdT0zcDkVxZBE7pxD8sps3ED_8BcydyLkaR0zSsZGysBfK052yYxDSxkr1GSyHgOIHIEzG8ROg5yV6aDA_YGKLuH9dwgjT7cEP2GZ5voGRvi216tjK2JJDzuYPSRnTL6elGJFzQMnz54TusNbL95yIhiAJR94pULQp-vKwqQ"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ1-NppFBbwokRv4mjnMEZiRU",
+    "city": "New York",
+    "state": "NY"
+  },
+  {
+    "id": "ChIJmXe7vwRZwokR9Iebsk_CmhQ",
+    "name": "Roosevelt Island Pickleball Courts",
+    "slug": "roosevelt-island-pickleball-courts-new-york-ny",
+    "address": "895 E Main St, New York, NY 10044, USA",
+    "lat": 40.7559309,
+    "lng": -73.9541519,
+    "rating": 4.6,
+    "reviewCount": 10,
+    "photos": [
+      "ATCDNfX16yvtid7yK8qcQtHRoqkObb3uI1eBjS2Vam6IUSmaMyrak9UPx3BJPvB3d95W0M_mXtouICrG1j11ZRMnez8ImAOtF4Osnk2PS7C7ltanMEM1zVy1vbcEY1lpmS3zJ5L6AXYRpjVm-7SE7wb5Uosd6e7OuXnnxIA33QeQkV5DaB8c5u6BdR-CR07gIjev0VWk4U2gaChwP-fwdnzGyLuY9qXprLHpOVfIUfAFpTyICC7FlCJTwp-dZZTKOA8cSvOpCaiQaWBpUmPHJLdNyxKm4jrOqlP5kk50JfGb7VDa7A"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJmXe7vwRZwokR9Iebsk_CmhQ",
+    "city": "New York",
+    "state": "NY"
+  },
+  {
+    "id": "ChIJLYmiE7JbwokReS2KbCaitOE",
+    "name": "NYC Pickleball",
+    "slug": "nyc-pickleball-new-york-ny",
+    "address": "1561 Bedford Ave, Brooklyn, NY 11225, USA",
+    "lat": 40.6688724,
+    "lng": -73.955271,
+    "rating": 5,
+    "reviewCount": 37,
+    "photos": [
+      "ATCDNfUKcZXBgVyHvQaEL4nC1z8aE7U2jhxHtWi0TQRbfDc1YQ4cj7YED0R-pd74fK7WLXJVb7epXJ--ZW7oxmiGiGbLukzmow7SKHLYEKCyjV7Cr4lTrbVVee8WObEVseNmIFEguefrEp4d24y_8qt90_ELL--28hRxCTzN3vrAHLosO3PvPiccdkfBkEzTL3BCLZlw5lBt2Z8_Y5GU_HIqH1xR2Yu11b5mM0OWNg9UJISpAuYb3kLC9xV3R-KDf8p7WpzaL5G0ryNdSSla35hvQfuwcnLcLa-s2z9Dpb4NxpLt2Q"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJLYmiE7JbwokReS2KbCaitOE",
+    "city": "New York",
+    "state": "NY"
+  },
+  {
+    "id": "ChIJJ-wBw3JZwokRmtzy_QMR3SI",
+    "name": "Houston & 6th Pickleball Courts",
+    "slug": "houston-6th-pickleball-courts-new-york-ny",
+    "address": "6th Ave, New York, NY 10012, USA",
+    "lat": 40.7285532,
+    "lng": -74.0024098,
+    "rating": 4.7,
+    "reviewCount": 19,
+    "photos": [
+      "ATCDNfXZ2yxfZ_1l380n2kW-BhYh62xTHb8LkVCjwCfEa2HHZ19swU1HK_AHUedUEUMOWDRKpd99kohuqxz37NyVnxTfSAzioPLv35OsPLqrNJNCmRb_z-WW-72DZ_SM5UQezqIgKGpP5UK20onl-7pqL2i0gRLNJwNEin975xkJltLiYTliIFQ9VkmWzeQTv9pEPpJYDEpDxcbgkGCXqWPzLRZMG50AZv9uiGW0b3v16oFsZvfHdto95dSbxoc3QRZ3l64UuzadEK1NHAPYTirU_p-3XH07fnW0bZSH_pO--2ERav66A-gxlpSbkfN2a4elbGTXVcncVw1ZVDTvtPB1Po5iQ-K5FB37kj6ntxO5RfrVuqeKUxZIW1XKOeWD5O5bcG10gkiUuzEDAofS_kbq1GigPweOrvU9QEGLVRXy5U3ZjA"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJJ-wBw3JZwokRmtzy_QMR3SI",
+    "city": "New York",
+    "state": "NY"
+  },
+  {
+    "id": "ChIJ8aFJDkdZwokRTNVl61aDHEk",
+    "name": "Goodland Pickleball",
+    "slug": "goodland-pickleball-new-york-ny",
+    "address": "67 West St Suite 110, Brooklyn, NY 11222, USA",
+    "lat": 40.7287306,
+    "lng": -73.9599564,
+    "rating": 4.1,
+    "reviewCount": 103,
+    "photos": [
+      "ATCDNfVa57-uZg29u3IAQ3XyH7r5O8Wjeafq07A4RfR2-A4A0Cxl1_SGIaf0cNaIlm6kCe-QGLdJxSzXINUFpS7k9oazYXbA5KqCBVzLXuH8SWInBDpkRDhHU15NsHEMY9sFHmF1r3DMe4VVql5VFo_mY8beNrnZNbVmOY9Nc0pwtjL2JtWyW57bi1b_JWmOa-7q_Q8rW2Fqp1zWyiOolBR4v5tsjQWFP7G7RVj6khR71YY1gyfprYZXdEu7GJeS02a_mlavWWvMtKiau6GSHw8h8wKQu_i7336QZvM933rrW3cRrA"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ8aFJDkdZwokRTNVl61aDHEk",
+    "city": "New York",
+    "state": "NY"
+  },
+  {
+    "id": "ChIJrYVKm0BZwokRWhY1o5NEy18",
+    "name": "Kotofit Long Island City (Badminton, Pickleball)",
+    "slug": "kotofit-long-island-city-badminton-pickleball-new-york-ny",
+    "address": "43-56 10th St, Long Island City, NY 11101, USA",
+    "lat": 40.75097170000001,
+    "lng": -73.9502816,
+    "rating": 4.9,
+    "reviewCount": 55,
+    "photos": [
+      "ATCDNfVnyvlyS_j-vBKoWzeCpN9Enj4DqYCKE07Mhsr4Ds2sue79KTEhiYpALX7eQs5QijW1NRKl8Q47EkIq-3XTVJRp4n8Mkp0RAeDiYzi01B1ywBSKvIAHvNVB9QK8-z72gOBNVeuC6oRwZ2xNpFlAnpySZTjUPmwCVRxClplN0i0pGL00VtxTlyY2ZLttqa8CXRPVluDpL0oEffF1854rv6fafe6ExUm733_z83B0_JBBiJfutKcMMFWocSK-XcJAJ6_hRnCiToALlXZ4ALDkDkBNwTCWWHgQuibV2Tb2jU_xNU4XbogHPmEYIlgryL4LW0mN7zrRD4CSSCADL_gpnEeSWlctrm_LkbXvOhp6Yym-QkKgupAfqrvFYJsbHMatBKu3ukOSDKcZUqfETTM3xbOyoaL3MtZdq-6yZWUxuNaRRiv9CJFBumOdkz5Va5Ow"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJrYVKm0BZwokRWhY1o5NEy18",
+    "city": "New York",
+    "state": "NY"
+  },
+  {
+    "id": "ChIJn_mLEVhbwokR5YZD-KJORi4",
+    "name": "Rock Rose PickleBall Courts",
+    "slug": "rock-rose-pickleball-courts-new-york-ny",
+    "address": "32 Fulton St, New York, NY 10038, USA",
+    "lat": 40.707603,
+    "lng": -74.00432570000001,
+    "rating": 3,
+    "reviewCount": 3,
+    "photos": [
+      "ATCDNfUauMkcImIHeet0W9mRlp1QF1rm0WxIwhQar1DKvv_0rbp2de6yFBW7oD55YZVMdjMVgrAhDHTfoNgRV4h438fT5J6DqvAKSuwHUXT7SZCXYq_ipT-rg69F_sra6QnIgNKXKJiQsodsh3WQHAfPFC_GTYaJ74kWIQlMpLq6E1jG0Wx5CKLqIs6N_E9Ip_wLP09JvWxw5g-q5dwGfH7K2BVGeta734X3Gn0w7EA0a3rLsz853Yz9H3eXK4rcUgrEktu_h0ZDP5HCuDVSSHpeNFsbgQ9FTJJ-4dDDBF6ogPPnXkwj8f20_dlp0rRwgDtpImuWXq6OvEk1Igjw9QjKR8G7cXBiYmte3-PGYfWR36BsIsjjsvpS0-0i2o9OSyuXRHgga40qqOJhEieCCzn1dBAUXrCUeCzrR5qAUI-E413D5uHI"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJn_mLEVhbwokR5YZD-KJORi4",
+    "city": "New York",
+    "state": "NY"
+  },
+  {
+    "id": "ChIJb1LF42n3wokR_heVJFWNY9Q",
+    "name": "Riverside Park Pickleball Courts",
+    "slug": "riverside-park-pickleball-courts-new-york-ny",
+    "address": "R24H+6VG, New York, NY 10025, USA",
+    "lat": 40.8055625,
+    "lng": -73.97031249999999,
+    "rating": 4.7,
+    "reviewCount": 29,
+    "photos": [
+      "ATCDNfV9ag_N_yqbIpp7ClC2_aUlJzMTGZRQf9imE76U_QF5wU0n-uYXWocc49w9THvi41axYX6D2jG2M2cLU4Rf1YuMyGwUBPvItLw1iIEQJGbo4KuUDaYf9cZv8VJxf-EdDuqpsj86QObNvmlPzgFom--xLDfxoDnRDbW6D1MIGPlcYIqKDz5tV1G2klQi6sch4bpEoZTEFfU8BFL99rZX6t4bG2qHYT4sclpcSDN8OjqvmVPKJfxRVIymNlgnEc55hzaR_yDbFVtHWhTIa4qeV8vFAwYlUUZ9R1MOooV2qQvyWWevmYRv7AQcTvfM5wwiEnQJ1UdSGhRIvVvRDo92sEB9hiniIYoNt8YVmeEnxYQuOjg236KcxMU9m1Je8o9JLPsCYANk-57J4qUMOkc8qFWfmA7A2wXrfMeIngrMne1HEQ"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJb1LF42n3wokR_heVJFWNY9Q",
+    "city": "New York",
+    "state": "NY"
+  },
+  {
+    "id": "ChIJz1YttJJZwokRZtZyCKbuzMU",
+    "name": "James J Walker Park",
+    "slug": "james-j-walker-park-new-york-ny",
+    "address": "Hudson St, New York, NY 10013, USA",
+    "lat": 40.7298199,
+    "lng": -74.0063953,
+    "rating": 4.4,
+    "reviewCount": 555,
+    "photos": [
+      "ATCDNfVxqj9sQ19uKBFO2LZzyN3PJrpfsZT6uuoq1GcZNUI05f3Jp5J3Kiiwxuo4PIHW4mgTyUBCM_x3OZzsjBr_iObHBuRj589L6WpPYQNbaynJ6iXvqJETxr5YwefMAgbXxP9fdPesWWxyomBLaeg7zsAilfB2G50SW8x--HQXBHII835RwJC_zB1gauRKD8o1URqroMU3OAtQ_Vew_Tjn-lBsSB51AYK-BTKgH4L6s-ZzjD8sHhXDeB5L-mGla8qdoVRl4tWtmBV-a7H5AArMSRZ0VeDI3iFiUS8bZEKgAzKlwe9ysnUzCdbSRPwzq2fIhk_GvlKCQPmZs_Fqyef53F9upl-XidJ90bhD9Z8j48ASgLNMR3cWC4YihyInwEDi-VORuy0Z63So38zkuTbAdJFQcDsLR3GYP8bNCIKRrCkxZg"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJz1YttJJZwokRZtZyCKbuzMU",
+    "city": "New York",
+    "state": "NY"
+  },
+  {
+    "id": "ChIJr5eu1YdbwokRw0E2qu7S-c4",
+    "name": "Velto Pickleball",
+    "slug": "velto-pickleball-new-york-ny",
+    "address": "160 Van Brunt St, Brooklyn, NY 11231, USA",
+    "lat": 40.6830925,
+    "lng": -74.0065549,
+    "rating": 4.7,
+    "reviewCount": 69,
+    "photos": [
+      "ATCDNfVeKDVM-glntupucMCJhibdKdxGxMyQEWiy5vKvsYzpm8RMzsZ4hu2tGAvroXG-6igL2c-axxsLxoeBTZkdRElBSKWBOGiXcfVGF9MeTlGKaCilZmeRTX2loj5A3AspcVhyFtoaZ6xp2OvOWuqGVO0r-55xNRRzvGyyFPUAPM6MnB7w1Q663m1TMI3mV_8mDiLQkPqbGg2DGCFstfG4VG678zAtlsl3ECnbhtwuYBOeJPfXiSHHzFvimt3FRuFOpTiDHiKkN8_5pWFte4WF-qFUErkF_EPqbXZGP_80H5jWsQ"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJr5eu1YdbwokRw0E2qu7S-c4",
+    "city": "New York",
+    "state": "NY"
+  },
+  {
+    "id": "ChIJt8jyZ1NawokR2Zcf6EgVWN8",
+    "name": "Court 16 Downtown Brooklyn – Tennis and Pickleball",
+    "slug": "court-16-downtown-brooklyn-tennis-and-pickleball-new-york-ny",
+    "address": "445 Albee Square W Suite 4-500, Brooklyn, NY 11201, USA",
+    "lat": 40.69070910000001,
+    "lng": -73.9833124,
+    "rating": 4.6,
+    "reviewCount": 160,
+    "photos": [
+      "ATCDNfVIZoCw1wayL1PMtB6LRVw3al0NpKPwvP1UNt237ejG1yNGw5fTOOxy77h1eJ6jiBLAWRm0dQ1NxodKv0g85tDPXwvyNMP5VTKxTwBidbynaqU8yJ1jNki5vOmsaVhVWaDyxTmUvwMTvA0YwC6Pq6iaGjehxaHqaQlMNxYACI_4ezTq8s7zNkxgD_wouL_m36iQMmGmNrvECeK1vlbapAcI5CEfT5RUXplaz67l5etNy8Gv4rd-KWpdw3ISLiCkcuRR34C4vVkMBC3Bt1Grc5nl8LrQ40xo4ELsY_8K2gQY8g"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "store"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJt8jyZ1NawokR2Zcf6EgVWN8",
+    "city": "New York",
+    "state": "NY"
+  },
+  {
+    "id": "ChIJTWP6HqFZwokRQWMQmvpJDL8",
+    "name": "Majestic Pickleball",
+    "slug": "majestic-pickleball-new-york-ny",
+    "address": "447 Broadway, New York, NY 10013, USA",
+    "lat": 40.7206058,
+    "lng": -74.0014893,
+    "rating": 5,
+    "reviewCount": 3,
+    "photos": [
+      "ATCDNfXkqOszu6uQIDiTAKXPG0pVHTIT9TntbQgv_1K98LeF4oHXwobheCEM4BKwfm44qKj9PRTd35VaMPNyKWrUgtAWqL2j20K8DEb-QlmirzqugUBWHP6YACiDc1ygLsJ3aHJp0kpSDd5pIoCzBfouv9aRI7s2xEMHt1XhtaSrJA6vVm5nDFxYCHfls8zuySNMjWDVvjzwyrkxLclquphJae9mZiVIY2v7odtM8O3kDbTExOFvdB-JgMiG8euAxRpszfm7qmvqT7jIBp1WBuqQ2a5IOPvBPLs9ADlU1Kbg8smmK6iB69msm0KMLmLF9P3FvOCdFIYP9hSdebPLWwXiVzhrp9B9q1Mkx2xbcHExUfzNBZZVr2B1DL7V6DdOYGxb55HDYB9tw6UT6UTPLJxwNZ6wcyzOOMfR7xIO0MVndb0cmBd7"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJTWP6HqFZwokRQWMQmvpJDL8",
+    "city": "New York",
+    "state": "NY"
+  },
+  {
+    "id": "ChIJ61QpcwVZwokRKRSfanl07Ro",
+    "name": "St. Vartan Park",
+    "slug": "st-vartan-park-new-york-ny",
+    "address": "1st Avenue &, E 35th St, New York, NY 10016, USA",
+    "lat": 40.7451124,
+    "lng": -73.9736293,
+    "rating": 4.4,
+    "reviewCount": 1020,
+    "photos": [
+      "ATCDNfXhR7OCQF9CtpSmx0BCBeTh5m6O6wqZk-fvL9bb0FkNeMuG2W9x4xAJ1faiy55G7RN1GkzCfQh-o1k72rRd_zY_N9DXphqQsvesGgRTddFIbIxR3eH_wkIWgO1fU8hxeFmBqOjVzM-nGaxEvpWsCWpIgrC_dBWUahUGZwi0XDjldmIhsjooR-LE8iLe4mrOIhLa3uxs732DyNBVun97B9q2YUmo3yk_ei2CQ0cHTA3hU2TFkfRVbSGIqsKKBF6BxsZG4hu44Lz4djH1dkPL4fzAbrF3-NFY1_-InynnqwK-7g"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ61QpcwVZwokRKRSfanl07Ro",
+    "city": "New York",
+    "state": "NY"
+  },
+  {
+    "id": "ChIJa_Rw5n9ZwokRW0_rNWVYSaE",
+    "name": "Luther Gulick Park",
+    "slug": "luther-gulick-park-new-york-ny",
+    "address": "Delancey St, New York, NY 10002, USA",
+    "lat": 40.7158817,
+    "lng": -73.98191489999999,
+    "rating": 4.3,
+    "reviewCount": 252,
+    "photos": [
+      "ATCDNfVfGVlWBFmkLz-GBi8XoPX2ntdDCd7lZWj-GU79nVETYuElJE6o2mrzKTbhqmIA8ICoM8ClOeX0g4_kiSx8PdKZN9nVUzBvjrMo842gG8zYCel0-vYZ-TFbKYWV4bbYqQkHQBWKLTNFdbj0xm92szp2KNEeS5tnw3hl_g52KQPMEwMCTUPSNJEwSaDgvpLSBwHcHN9r9oSFzBeF5OYYK1qtTDNxNPVJrDOc9P57KJ0HjMMQPZH_0Z-wML_fnqW1dObYPDCMoE1mVT0Ceg6ydryD058oCn6DhIo-jL0oK2IOFw"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJa_Rw5n9ZwokRW0_rNWVYSaE",
+    "city": "New York",
+    "state": "NY"
+  },
+  {
+    "id": "ChIJ-9RnANdYwokRBA-Is5J47c0",
+    "name": "Court 16 Long Island City – Tennis & Pickleball",
+    "slug": "court-16-long-island-city-tennis-pickleball-new-york-ny",
+    "address": "13-06 Queens Plaza S, Long Island City, NY 11101, USA",
+    "lat": 40.75220940000001,
+    "lng": -73.9448687,
+    "rating": 4.6,
+    "reviewCount": 107,
+    "photos": [
+      "ATCDNfVJgpe22M7OFfJg2oma1SdL3f_LVe9v8rpgvuMv0u6fX-1WGT9neYYftaF-K7QCw-ITqcw4MqfFxHLG2kkjEvmjFBcuaMfY8ENsF9WV8bZgf5Y3o-p0RnyUooh40MXxXFeOTdNn1VgCpVxwf79R3mjL-HYEE3fSF2TTotOdd8Yu6vrFsBnFdQTFsaEiJYGRjy_USugOsrguz1dPni_15Wr9Ssi4aDcjZ2DDhXLnx2mzCJutfK72T-jVlgUihMl5kJsB6s4N9bWigz65zc4zsn1e5ETXXQHWE2ejlZ1GDejCAw"
+    ],
+    "types": [
+      "establishment",
+      "health",
+      "point_of_interest",
+      "school",
+      "store"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ-9RnANdYwokRBA-Is5J47c0",
+    "city": "New York",
+    "state": "NY"
+  },
+  {
+    "id": "ChIJFUX0GwRfwokRWVNHo429aeQ",
+    "name": "Frank Principe Pickleball Courts",
+    "slug": "frank-principe-pickleball-courts-new-york-ny",
+    "address": "3 Queens Midtown Expy, Maspeth, NY 11378, USA",
+    "lat": 40.726623,
+    "lng": -73.9037952,
+    "rating": 4.6,
+    "reviewCount": 13,
+    "photos": [
+      "ATCDNfVdswdkIyHbwedVXgCGDOKIcwd189zO2nZ2d3TNwcDhaNVyKBzTe_-VUkjKkwfkVwwOC7VTZlSRf_vyO9dbGg7vPPTlIO6W7quxOJiJnVXes_RpheBiVZge8CCDm-kShF0BhpJH4T-JXtYgcWp-suMqJG3qxcGdMq45s5F9gSJpkTfEYRkL5XIaM2-eIJyD5OrDv0NF8YtZ8MzhDEwd6Rzefe1HxWSY6falqyIX2lD88UK4kap34rc3NFDbirjasM1_BdsVXZZFjFTHDph8zgeLw78_yqb-gm-de-N2gArqR7ciqfAeFdpb7n3_gIvqzmF_V0di3zOJWSoxrYyPdyDKjrn0z4DgQX5S111X3V-f9U5osbC6DdorI7IRRGBpHxEjRz9EGUaoDkEmGireblI0HMCONRYhy7y3At7p1Pc"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJFUX0GwRfwokRWVNHo429aeQ",
+    "city": "New York",
+    "state": "NY"
+  },
+  {
+    "id": "ChIJu9n_3qdbwokRTSWmmv-IDGA",
+    "name": "Red Hook Pickleball Club",
+    "slug": "red-hook-pickleball-club-new-york-ny",
+    "address": "262 Van Brunt St, Brooklyn, NY 11231, USA",
+    "lat": 40.6805334,
+    "lng": -74.0097684,
+    "rating": 4.6,
+    "reviewCount": 14,
+    "photos": [
+      "ATCDNfXUQBY5tprHI5izNu536-8zhqRpWTSLL2Ti6y6lOHRo7jx-SFEJhfmRMcsqEx5FqARiWlGZbbjPdR4KUauMhXfv29JCb_8_IK7YJfVJM2z5jJGQYbJeaGlRM3sq9JX0GOir_w2Fp0zkPP1K5_jKUDd7Q9p3tRyiaGP_ytsnGkd9Ct_jY2z_-ggKr9tk2MCUBg7cSoEPjjpWjsC_AMj-qu3WsjKQB_Nq1kRR5Z3uYG0Maj7oNg8_qADtz2S-DJsMLPq-iIZrUKpyPyZDgdfBdo25zkyHwTWLSRvTo_HIGR7CXQ"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJu9n_3qdbwokRTSWmmv-IDGA",
+    "city": "New York",
+    "state": "NY"
+  },
+  {
+    "id": "ChIJ10CA8cNbwokR0HrPX88YKFQ",
+    "name": "Gotham Park",
+    "slug": "gotham-park-new-york-ny",
+    "address": "1 Rose St, New York, NY 10038, USA",
+    "lat": 40.7114931,
+    "lng": -74.0028131,
+    "rating": 4.8,
+    "reviewCount": 20,
+    "photos": [
+      "ATCDNfUoIOE7qjPYxe7_kob3x8tHo1zLt7n0dOX406Enp3tiSc2FWwo8ZOrI2v1GArfKIptPcyG89md3cfL5CHZoGVcnT-vM6wT0cB--WV1TfXzn-AaFfNoIShLy2wVEClApr7apw-Z4hHXgFmPa2GvVApIzT9aaHmL_wHWL32egAiMGC_SjtwUS3TrbALS1fDvNWs_2DZchlg41li7g-qocDTx1Rud4UJXEtjZsxEZBPauEPMSiRWIvCqNOXIWgADFiL9Vhg3NNOBB9jfoemyvBau6eOlob6keT62V1OySmHbeqbw"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ10CA8cNbwokR0HrPX88YKFQ",
+    "city": "New York",
+    "state": "NY"
+  },
+  {
+    "id": "ChIJMZp8OMRbwokRj7Ky0oSz8RA",
+    "name": "Recreation",
+    "slug": "recreation-new-york-ny",
+    "address": "26 Ann St, New York, NY 10038, USA",
+    "lat": 40.7107963,
+    "lng": -74.0078594,
+    "rating": 4.4,
+    "reviewCount": 330,
+    "photos": [
+      "ATCDNfUbEj5bJd6OToxSfYFgKFZXYV614PTtToFLrgPuUTtOLOkic0VmFbjCRZF5Opz85ihrP1yZ-nvEKzP7x-GJFOVT800NHdoXd4DXXuhxpsnKoWSF_uQeVokRIiTQBjtGe5lv42x9H1MGnzcYNTcALMID6Bh4APsVX8NF28CwyjCPISrgxR5LZvbvp7MR7uCdCM2RhlKU921pSGWdb9P329O_en0tpAOTYyGaysm-CWHtuOgYVMp-obYpn4EAX0LOicwRsauwp4Hr8o-FjvrRSgQhSry8SVWXNc7cOgyJC5WgHA"
+    ],
+    "types": [
+      "bar",
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJMZp8OMRbwokRj7Ky0oSz8RA",
+    "city": "New York",
+    "state": "NY"
+  },
+  {
+    "id": "ChIJtTe8WNdfwokR_ZloTXMfKHg",
+    "name": "Pickleball by Prime Sports NY",
+    "slug": "pickleball-by-prime-sports-ny-new-york-ny",
+    "address": "79-08 Cooper Ave, Glendale, NY 11385, USA",
+    "lat": 40.7079069,
+    "lng": -73.8724111,
+    "rating": 4.8,
+    "reviewCount": 74,
+    "photos": [
+      "ATCDNfU0iCIkTJnMoZKFsYy0wjayk_McOH8_QjnzZWZUgAJz3fnXqWh5xfgZAqhJN3xYjZr2tjlQS6aAVG8NhMDNYQWkUjNtr0_4dpBaKOXreEFvKeNU8f9u2RWzuCO3_BOLgYQ3o5VUPKWcsmGLwPhttqp_JhIN7wTS92DXrTJoTuoA1oCvyZwse__o3ij-VQYrZ3ns-kJtGn0Icj1xZPSo_WEvtzsk3fuQTGd0qK8U05X5HlQtaMiMa4reemE4HBhRAxZyj2TZEnQYFQCr_N-YdszzKrzTEPtEUz6b-dxCe3UFRg"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJtTe8WNdfwokR_ZloTXMfKHg",
+    "city": "New York",
+    "state": "NY"
+  },
+  {
+    "id": "ChIJ_0DGB5BZwokRw7vA1s4N6KA",
+    "name": "Carl Schurz Park Pickleball Courts",
+    "slug": "carl-schurz-park-pickleball-courts-new-york-ny",
+    "address": "13 Gracie Square, New York, NY 10028, USA",
+    "lat": 40.7734653,
+    "lng": -73.944497,
+    "rating": 3.7,
+    "reviewCount": 10,
+    "photos": [
+      "ATCDNfUUJfmOR-WaCvXxRKu_SFcLCqgQatjGI0BdRzboxShVB0bCCqXYxkKsWgEW-TY0rvicCX2wowozAILeOCYdOL66CsqK_wZhjaGI88f_XrMjlIU4--FvbloFmLdMVx3Kd0CQI-y8Zh-YDcbwW8B89p9iCbrUOzDMJaXfSkNyW_ZT5JlltddiT3APN1rX9eyRs4Wy1nVFsdBFn5rxXLoVDC1bt_U7aWQjtcV67PUjbmWO7gR--GSax8Ge6kiHyO-1v3UKkoL17u3k9rZe3KYGAtVMI3ZLTEvdujv1seWx9yZof4KxCRdVFgILMz3h96Y59-Ar_7iciSVSwVHmYnkDbWkd5W8BNu8Hil0uUV4-puiC4n0w30-edDoh8X5QQhVFs5Vfuh2VTWXFRGqib7D5WrOeNYIkmh-aXNAfLb7lYKtzlcf-"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ_0DGB5BZwokRw7vA1s4N6KA",
+    "city": "New York",
+    "state": "NY"
+  },
+  {
+    "id": "ChIJUZsqz3dZwokRr1JPXf-NPZQ",
+    "name": "Multi-Purpose Courts",
+    "slug": "multi-purpose-courts-new-york-ny",
+    "address": "East 10th Street and Avenue A Tompkins Square Park, New York, NY 10009, USA",
+    "lat": 40.7272916,
+    "lng": -73.9819339,
+    "rating": 4.1,
+    "reviewCount": 16,
+    "photos": [
+      "ATCDNfXKlMYeaRiVGE0D3sczj7q7I0HlJpdeZxwXqQIw6_TmZWXXCu8ePnIWtFFOUoylF-2txPS_-xQCYPYFZ9CnNf9cB23TEdeunBKXIXb9tuanQvgTc9h36nyw4839c7aTjdAG0Pq-SqEdvTHelhft2BRH8cqe30iBRISBY3CxkCMnzZZ223qGPCj1KWcyuXT7zqREOlLsU-BuR4ysl66074zLTcBx9gUHUiAHx4_OtENxYCFB4pHK7ldj64ku7MoIsoEuLnAsW10mE-7nVD6odjxQbHAtP9-j1wS647TqhtO4dgBHZRQ-_VU-e4mlBTwhVGLT-y0s9SS2--uVcqxD0G4NB5lIm_oV5YXe65VqbotzOVkWhXCzCeuNzlF9-AbmSZC3DNoBNI2LwN1e22ePupSSsdvCvJN9Ea6-sq1K3lg7-rdq"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJUZsqz3dZwokRr1JPXf-NPZQ",
+    "city": "New York",
+    "state": "NY"
+  },
+  {
+    "id": "ChIJCeuma0xZwokR0UtPrHPT3qI",
+    "name": "DeWitt Clinton Park",
+    "slug": "dewitt-clinton-park-new-york-ny",
+    "address": "11th Ave. &, W 54th St, New York, NY 10019, USA",
+    "lat": 40.7680424,
+    "lng": -73.9942296,
+    "rating": 4.3,
+    "reviewCount": 1028,
+    "photos": [
+      "ATCDNfVw2H7267mhS1rG3Ur-Cax9l3MPGdiOVP1CPJZTIcL918GXlmxpSdZK-GOLfZUTbrZYoh4gY8gnDYFLgVsB1XU22l1gG3sIVT4jfdQKknCY57y7eE3QRv_AQymTXJAr6Xa4987h0yPjVCoEixXAs0D-0-1vIGWniE_7wQMjIIUbVOqwkHyfvNOhYlJ13XexojZ2XTlGg0xPhspThjYj8Mjh_WYIy8iW282szj0e03TWI6huJ8FJsHWiV2hVByxQEzhMFybfsNDTPbfGQbE-T5_5291xtoSeZEfKwPt44RTsrQ"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJCeuma0xZwokR0UtPrHPT3qI",
+    "city": "New York",
+    "state": "NY"
+  },
+  {
+    "id": "ChIJycLjfMRZwokRPl1dmQgVSX4",
+    "name": "JJ Walker Pickleball Courts",
+    "slug": "jj-walker-pickleball-courts-new-york-ny",
+    "address": "17 Clarkson St, New York, NY 10014, USA",
+    "lat": 40.7296776,
+    "lng": -74.0059363,
+    "rating": 3,
+    "reviewCount": 4,
+    "photos": [
+      "ATCDNfV90AjHVG730my62ykmWN-VdggVeLRInLiq91IFYgLQGX5bQ0Fyo9T_un8GtXhD8lbsfR5yL4HvA-zaxWP7f1BAGCOcisx2hTOGvTxlbYPO2h9wklyqHHUwv199MDmtL3y2NJeOZW7wjhE4YKxzqocY5avvqznE10q_yL9BhgYgZdevWztABnzXNPgtIznAJp1hYqZxzlsCFqrXyMLvP03SK-YjqWIkBsVFp1ho2Sm_ZplRENX4PHtudYN7arJ3QtRuKijWeeXLqHaxXii5uFS0cQAZ5V-JQXj5txn6Zuq38jBK3E8boMTa2OxKp7rRR_mQxLQLmZIoFd3cf9SIJSwgrGNiKZ9wOeqFogJ2peOhNQgUGOuytkviJlkyxH-XJdeHibIa01xMNvqJfywOZBxiGQK3gYWnanNRFE8jSBwKbvo"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJycLjfMRZwokRPl1dmQgVSX4",
+    "city": "New York",
+    "state": "NY"
+  },
+  {
+    "id": "ChIJQbW3G6xZwokRApPS7lmMoTU",
+    "name": "NYC Racquet Sports",
+    "slug": "nyc-racquet-sports-new-york-ny",
+    "address": "157A W 35th St, New York, NY 10001, USA",
+    "lat": 40.7514482,
+    "lng": -73.98938729999999,
+    "rating": 4.6,
+    "reviewCount": 373,
+    "photos": [
+      "ATCDNfVtgYLCZHMiu4H-wBrzaQlLPw3HAGLM3IDuLT42g5Pv8FZPFawVxw-TnQ4GA4JgNvbqXJOoH7QUDFdM3-oMMIQhUMZ6CShL8dRNrny9OuQsKYrs27WCsmWvQTNhvOWGxRdC692KRwV_jZSVXKZEXWKEuy5B_ouTNzJyhMmwclmlNp-3unT2URcaTLPjF8howSkg1HyGOQ2q1SvAKAMAl8Dbrv8pch8eYMfjuuF0DOkkbbCfY8xsTZ-a3caQoa8Qxqp8NPbS8drNiMivVfflAlktDreOERXHJhwIKUzKrtxE8H6YS958U_8ON0kEvb4Yh3k-CGPkoKlWWTij0pejhC0KWN2vEyfCIzad6ifH8n_J3T5hqZtoknLnVYN2_GbQaLVxwqz2yvMyn9orltIQUQ9In_QSPWSxuxa4UdyPoeNKQA"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "store"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJQbW3G6xZwokRApPS7lmMoTU",
+    "city": "New York",
+    "state": "NY"
+  },
+  {
+    "id": "ChIJLRFPJThbwokR3orCm-z-wE8",
+    "name": "Conquer App",
+    "slug": "conquer-app-new-york-ny",
+    "address": "311 Broadway, New York, NY 10007, USA",
+    "lat": 40.7156748,
+    "lng": -74.00543019999999,
+    "rating": 4.5,
+    "reviewCount": 24,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJLRFPJThbwokR3orCm-z-wE8",
+    "city": "New York",
+    "state": "NY"
+  },
+  {
+    "id": "ChIJdY3Rwr9ZwokR-69tc5yUGlA",
+    "name": "Corporal John A. Seravalli Playground",
+    "slug": "corporal-john-a-seravalli-playground-new-york-ny",
+    "address": "17 Horatio St, New York, NY 10014, USA",
+    "lat": 40.7391104,
+    "lng": -74.00479039999999,
+    "rating": 4.3,
+    "reviewCount": 338,
+    "photos": [
+      "ATCDNfXMFIZTBk0eGH3RdUtlDoUaJSCm0QSP9Y096Fk4bUfwTNX5wTqwCGV_DqWJHbbzF3TDMhKcbtv4JxFqgg103dZZ9rpGNg-uCbs-ucyqRI00fEe5orYs3QmDOCg38k2PMLQm9s10o-S2aJT3zi4ax3Dh2zuFnAwacy0bjh45K2YlXIYOAHvY8lkuL3EhsH5uw6BU1vUfLj5Z4X-z0lFWpLJ5pvo316lzhgmQw_zb4jwkvmpeu_4MhRz1XEWqCZrrFRr8e2wNb71APLZNEX7N_UTWnbh0YZD4alGDN23tBooFPTIZUbYwVi6k2Ql5N4Dzy-uMX6nzuq_15L9ePCIHI6LIqH8cd2O5DnZN-VtG-BcXQDAGYc32Ch8Pxa_WQCD7VQdaribft_KoKU5SiPkgFAecptgwVoVUUTFURk22NiKmKC4"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJdY3Rwr9ZwokR-69tc5yUGlA",
+    "city": "New York",
+    "state": "NY"
+  },
+  {
+    "id": "ChIJ9wzuum_1wokRlrwwiZWZ60Q",
+    "name": "SPORTIME Pickleball NYC",
+    "slug": "sportime-pickleball-nyc-new-york-ny",
+    "address": "1 Randalls Is, New York, NY 10035, USA",
+    "lat": 40.792899,
+    "lng": -73.9191158,
+    "rating": 4,
+    "reviewCount": 1,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ9wzuum_1wokRlrwwiZWZ60Q",
+    "city": "New York",
+    "state": "NY"
+  },
+  {
+    "id": "ChIJk_1kXbdZwokRTCNXO2NxYt8",
+    "name": "Chelsea Recreation Center",
+    "slug": "chelsea-recreation-center-new-york-ny",
+    "address": "430 W 25th St, New York, NY 10001, USA",
+    "lat": 40.74826849999999,
+    "lng": -74.00206469999999,
+    "rating": 4.1,
+    "reviewCount": 180,
+    "photos": [
+      "ATCDNfUzr7ka_E4NjHng9-QeEgRNqTMdnwy4kh9lbvYJO_0FovBHxujMBApInXlqGuDYAhW3tZ9cUoNO1SUjfCDHsOmhG99vM_MqMU1HgJMkzXvhBx3oGoMmmdkvPh5LgYCDUy0E2dfQpsM7ouPIzdXEK7NvO4nLAWRt4q_Gdu4nUQvCeG--tIB6mhhiydUEEn8lhjE4Ye-Z6yaiOFh_QfFWxTH9W5DFuCJhoFQPdh-CaEIetc9sRIRWDX969feWx-bk3AWXgxdIFz5f9O568zuS42iPsL-JwYOhythTI20Ei2--FA"
+    ],
+    "types": [
+      "establishment",
+      "gym",
+      "health",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJk_1kXbdZwokRTCNXO2NxYt8",
+    "city": "New York",
+    "state": "NY"
+  },
+  {
+    "id": "ChIJhZ8ASn9ZwokR4OPfJ0Gswhs",
+    "name": "Hamilton Fish Recreation Center",
+    "slug": "hamilton-fish-recreation-center-new-york-ny",
+    "address": "128 Pitt St, New York, NY 10002, USA",
+    "lat": 40.7199522,
+    "lng": -73.9814913,
+    "rating": 4.1,
+    "reviewCount": 333,
+    "photos": [
+      "ATCDNfV0f0fkWklbZUP-oL0e-XtVrxSAr5AbeAJ5yF1eTPb0bgbE716gt0IS9FesM-uBczyX_e0objAAgUNV1_KGb_qMc9I0xfnrO-hndNcqS5tPrLVJowyEru4Bk6JxPfqSMu3JPWqivYhbBA1JX52Wh9DRx1yQIrLHRtIMZ6ShGNCpconBvl_t3umWNOOQxywrx9IwhVJOgcTGrdrByDBrFJNij_4LSqSxTSRboxhP7wHYkQY66jUFPDG2dtAiH283mgp0o7pUab7E-5NVVy2KaorcPU4gbkn9-7Snb-WUO5U"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJhZ8ASn9ZwokR4OPfJ0Gswhs",
+    "city": "New York",
+    "state": "NY"
+  },
+  {
+    "id": "ChIJZeVV2zlawokRIJl1MP2pPQM",
+    "name": "Squibb Park",
+    "slug": "squibb-park-new-york-ny",
+    "address": "Middagh St, Brooklyn, NY 11201, USA",
+    "lat": 40.70108400000001,
+    "lng": -73.995465,
+    "rating": 4.5,
+    "reviewCount": 120,
+    "photos": [
+      "ATCDNfWz7ZfHT9cv2sp1dDypX0vhV6jX_oRRaP7Tyg8_84LJBcroO1oq3Ex2RPg2eAqAdAcu_6kjnhXmH4FP72TZbV-j9vFJWZ-Lr-Gz_CAmV-93Wgoe3nAC-sbhfXv60X8BURZAJXq1Mek1XOhdPNrwmew95hr_rslJ9dsAxEYyyZNwnUKpOdZVus0xxMAea1Y9d_TjJZEtftdRCmYKHwEKac1LyDxYNyDBLfkBda8mykveNSPXYtxlIQ5e5WOwAw8n4wo8c3j4y5TYHaZnzjgtkXVl_eOJ6vKXKocmi55FasBYi5aiNYaXWrxPp9TO06rsNREttzNYK7SgB6QcN_DVBzQcZ_Jys1sRRbn_wZ4SAjBVdpRpvC0pRhXEW3VTXHs3aX7tEtQ6M-4hfIoLRAJisc7g0uMo1bowuu8c9U3WeuvCQg"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJZeVV2zlawokRIJl1MP2pPQM",
+    "city": "New York",
+    "state": "NY"
+  },
+  {
+    "id": "ChIJAU0Ulb5ZwokRQz08bOKUJ8I",
+    "name": "Dr. Gertrude B. Kelly Playground",
+    "slug": "dr-gertrude-b-kelly-playground-new-york-ny",
+    "address": "316 W 17th St, New York, NY 10011, USA",
+    "lat": 40.7417719,
+    "lng": -74.0017282,
+    "rating": 4.1,
+    "reviewCount": 87,
+    "photos": [
+      "ATCDNfWDMbyhI-O0AbdEw9gh6-O4wXG1xfrWx0hcgdLpy9QTWtiEUKCnIHx3bilBIhWCoeQJJ_jWjKcNy9gUtHwUyABG0qy7-IJPYknZdTc5gZYuNcNOlp7ebePbcqhPp_yEp_QZBLkPcHOy_EeI2CMKn80-DaWXk3DprZibTRdxPzhOMiJlK-_C56zLgycPXF3ArKKQ9P7nuMbZoAXCT_Lwbqi-t6o9UjWFNoSj3bQgbmzV1zCJsNKFudaD-udzGo0lYi8dDdRGJ9bw8mPOxMObh5u_CfxifsO4BVSY-G_fFfycnqYtTFnlGfxXYOMY_t16veUR4kFnj0JGaeRrzcMXjGkwW8OUnQKdWW3O9jZj0q81Nk0Vw0x5QCZMpmj18FUB4bmlbuor_INBlQ_pEjoKrvKEo1HVdI-rt1n1o3n8Kx_WzsAS"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJAU0Ulb5ZwokRQz08bOKUJ8I",
+    "city": "New York",
+    "state": "NY"
+  },
+  {
+    "id": "ChIJuVcb9SpDwokR_SKxrv7b90M",
+    "name": "Marine Park Pickleball Courts",
+    "slug": "marine-park-pickleball-courts-new-york-ny",
+    "address": "1925 E 32nd St, Brooklyn, NY 11234, USA",
+    "lat": 40.6077782,
+    "lng": -73.9346685,
+    "rating": 4.5,
+    "reviewCount": 23,
+    "photos": [
+      "ATCDNfXCXjsK7epWihbW_3DzVj8MgWOjzMf6EkVsZrV51iXXWb09Qo6a8hBhRcKt6WmHO_QGtJKy0zS0LxBp8TCO-6UFivNG_CRilYzJUcUdd5LRRYSPimTGWPGw7grKhKIEswJQJ8pJBBtkr3CB2xvRaA5KTTylY0qnvJgeF6EMSyzdvroEEsawHtoO5FIcto-lGEjYPKEgpf3UED80ZLwTYOe0YOW2fm2ixUNHkPP-b-DSTzVPNHN5QP6sqyY5n017UKf49CoYHIN4-zUZgaNgPMXtH3TUl8S2sMzGM9rR6Gcv6L3DmF3guxXl2zyPz7An3Fb-bqXVoD_yZw3iVIj7Ud3dv_UhxipgIK1I87EWNDTpEY_YvezAKPmRIzXCz_FiwE2blR48rsfegMlvwA-yaA65DgRa79ls_zVDlQfOv22Xog"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJuVcb9SpDwokR_SKxrv7b90M",
+    "city": "New York",
+    "state": "NY"
+  },
+  {
+    "id": "ChIJc4dwKfdNwokRtOQtzDXWKO0",
+    "name": "THE DINK DEN indoor pickleball",
+    "slug": "the-dink-den-indoor-pickleball-new-york-ny",
+    "address": "1781 South Ave, Staten Island, NY 10314, USA",
+    "lat": 40.6000279,
+    "lng": -74.1924808,
+    "rating": 4.9,
+    "reviewCount": 81,
+    "photos": [
+      "ATCDNfXXnFz-0IrsnxiPgeL6pgZO9yZStKyLH-qO8LnRlFua4MKGMGnk64pev58kjs4yOQmIcnhLtjoVD3yxzNyHbCQQyMAA6altWnnKaYACnGf9Yc5Qjfe1TS0T3QkIc3V039O-ytUL2qcj15ifizQj2F055TIWQVQJoMoxgvAlcJlZzkdSYa1qNL3E1oAYTz8FooPjt3vJuEr-FmkclFD3iB5vfJEMRBFtl5uaEq9bV3RrmWRuTFz9ix3s4YCciUp7Bd4VlRmh0XeMZNM5rOVVodifHkp_y1t2c5fskOMyDKVd-Q"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJc4dwKfdNwokRtOQtzDXWKO0",
+    "city": "New York",
+    "state": "NY"
+  },
+  {
+    "id": "ChIJ78xLMX1ZwokRh4pWrYw1goQ",
+    "name": "St. Vartan Pickleball",
+    "slug": "st-vartan-pickleball-new-york-ny",
+    "address": "2nd Avenue and, E 35th St, New York, NY 10016, USA",
+    "lat": 40.7456349,
+    "lng": -73.9749535,
+    "rating": 2.9,
+    "reviewCount": 7,
+    "photos": [
+      "ATCDNfUFzKuGiOZ_NBwLI5wJWZ5zeDmvKqlfMBsCe4Eis5RsbVS7sbeaWUX0b9W8QSM_p_yBjf0l566LjEuyxzpM15DiqcRUF6Y8Gv8WonKp2vRm8RyhWTsN08DmxV4qAJotrcDYKnfSr0AgPY6RDT608fsw2-BhgWaWOhaxIZrzXbXBwfo9CH8cKk4fC3J_qYVrEVThPG8CogRfmS3msG0AYnuMjZQ7izk8dX69__wnLTa-Lon5YRtjmWiMOFkFzNcGT0xDsO5BR_TeyaMg-5H7sI5L6Kyf6S1bM4TlG1nTXDy79XqXMYBLRE0YVoTfEdR3po-XvU-Jrnfa_rsnsv1D1eWiukQ_NZtsuaHO0ZTXXcPI4WaB1MjBXqx10BE5RSYkLA6s5xZd7bJstaDugCxpz7UcQUWlOYLzkhmgyNhZGJRCkRM"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ78xLMX1ZwokRh4pWrYw1goQ",
+    "city": "New York",
+    "state": "NY"
+  },
+  {
+    "id": "ChIJgZvnDW_xwokRfsWv0h6LpGg",
+    "name": "Hudson River Pickleball",
+    "slug": "hudson-river-pickleball-new-york-ny",
+    "address": "456 Nordhoff Pl, Englewood, NJ 07631, USA",
+    "lat": 40.8800605,
+    "lng": -73.9851134,
+    "rating": 4.4,
+    "reviewCount": 100,
+    "photos": [
+      "ATCDNfVL965vHK2-gVR3DL3zLtsZuQ2aDYJbtdQ2jeMO-IZITs_I7upNFROdVC-3N-RCUdd7F4bbJWvIhmGXCRDoXOVl1cLtirnNGOksyqcFPSMO91lIr50muzyeBsPB5wh1pOKZ49QP5DDpE6HNzvs3EbALksv1lsyvPYlHgyvEWIvsHiiPAsbA-dzO4icdQOD48jZctOMnktjl-Aj4UHg-0kE9eHpQQ6eFJ_nnhMor7UFJcJMAoFXr_WDgxFawd8totdcTlfohi2G26OUTvsmrzK_TjKc3hVJBiAH75kIfDzHQaQ"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJgZvnDW_xwokRfsWv0h6LpGg",
+    "city": "New York",
+    "state": "NY"
+  },
+  {
+    "id": "ChIJI0--EhdbwokR8Swi_fJFS2s",
+    "name": "Washington Park Pickleball Court",
+    "slug": "washington-park-pickleball-court-new-york-ny",
+    "address": "Washington Park Dog Run, 3 St, St. bet. 4 Ave. and, 5th Ave #4, Brooklyn, NY 11215, USA",
+    "lat": 40.67287899999999,
+    "lng": -73.985396,
+    "rating": 4.5,
+    "reviewCount": 2,
+    "photos": [
+      "ATCDNfV6gJsxgjNE4UBno9G4tUNTLP4SwGY4cMd9Lpte4Tnj1MptrgUzwhpXSpkWnXYIKWH-lunhOs39s76Z8YSlWG79KXBuqZ3GlEJ5nSXY_kI-f2k5tVzh6d98iVIbNXyeCKa5eh-OB1ROjq_Ii6pMyF4G-8erRv5Dw_4T3fIjeZT3xhlpVjBZoUTaTJILbQ6FZSRNqpl_pTJ_olVnEY1GAnS2MmxvZ1t5clCFnAQxx3WJ9SMcFweLxZzBbOa_c-v5fIs5E_5HGDqY02ZX_j6OR2zCwPYYG5aO5OHkFqX0PqBSBatvX2n9LOatelqLGPB4IlNuMS6PDohBIBoQ4FSEDmgpcIvbXIViUg7AboBg7hCwCmKLZFVRLMh_Xa8qDN7-gTQUroWfgytYfDQ6sTyHjsZFT_ue7184KSYxvtUy2BJJruc"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJI0--EhdbwokR8Swi_fJFS2s",
+    "city": "New York",
+    "state": "NY"
+  },
+  {
+    "id": "ChIJr9PT25NZwokRRMHXYq4iWok",
+    "name": "West 4th Street Courts",
+    "slug": "west-4th-street-courts-new-york-ny",
+    "address": "272 6th Ave, New York, NY 10012, USA",
+    "lat": 40.7312111,
+    "lng": -74.0008609,
+    "rating": 4.6,
+    "reviewCount": 434,
+    "photos": [
+      "ATCDNfVggtsyIwdvDhBxrlpPnrjl675Yh2DQIZx7JkKTb-neJ5fVCq_LGIRz0oIRFBuf8EjAM88XiOLS_ZL2uQpi6eG9EcZZgOomtiZ1hvVucL3LbPiG2YmL5fGKWicDO2zvtGUdo9TYcBS65vTMzzAgZwtLcRZ8fCzvutmCdnwlFT83RCmOI-tC5qCUXsUdsdpEk8X7UT1Qwz0dSeROkQW3JQ1SmOKlm6TaaxoH8A-rIB-XRAdYmkOpWy3S-iVVNR2dG6j3RKSNC2UTumPaiVzGb6Qogelo99W4oPI2DEhiqtGHoBs2FqSQSE6yJxYQmLtMxVnWV_CrzAOwR243_VT-mbHWxP5IHLAhyagdJTqWbTjGtooM0PBo31qcrmEidVFJ65IQ91wgiPq3Uwkg-PbEhkGUE8-pqF16shZyhRlHjo0DPCmGzP_97zPjXjv6Uw"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJr9PT25NZwokRRMHXYq4iWok",
+    "city": "New York",
+    "state": "NY"
+  },
+  {
+    "id": "ChIJT1oa2VFFwokRzoDpjoDlWho",
+    "name": "Leif Ericson Park",
+    "slug": "leif-ericson-park-new-york-ny",
+    "address": "66th St, Brooklyn, NY 11220, USA",
+    "lat": 40.6372953,
+    "lng": -74.0229794,
+    "rating": 4.3,
+    "reviewCount": 1513,
+    "photos": [
+      "ATCDNfWDvVPHpVxgyafDgqcCo19qYp1n-NyxfSJsYoVoYUEW_4i984L2fV5xNrihBvXa34RnOdncbLjK9tufTQwueaMoml0XZEGPuVUnqmojVTkd_5fexeEwTwu0lif9HFRzaKgnAb3Rrzkhr2bepPl8jMX4qOB8qBTl1Z0UcRupnDEm5BfAXSZg0eIfUumBoWG6RzuRTAAdn_J5LXuShkOeK50_wj8IrbXPVcaw3Kp_YJ_En7eZ63qRJoG88wM4AYjojyK0L3PpjJFQPyGZHYXFmuDDnNX-Y9brOYMavsOgL_RtHYsG0I9Dh5Sr1WYiPnrAnPMjFa4LoW0pCXPn2Bb2Cj7KHhWWlEOAHLmkYnFdiS7ATw9b4W6KP0WIb-RmoLsHsnoL5cjZBVADVnHl8RJpGiqorfG3tnOuLoKifbPREOrcCQ"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJT1oa2VFFwokRzoDpjoDlWho",
+    "city": "New York",
+    "state": "NY"
+  },
+  {
+    "id": "ChIJy4wBT4xZwokRlPlUcvHPRBE",
+    "name": "Vesuvio Playground",
+    "slug": "vesuvio-playground-new-york-ny",
+    "address": "101 Thompson St, New York, NY 10012, USA",
+    "lat": 40.7253622,
+    "lng": -74.0026209,
+    "rating": 4.4,
+    "reviewCount": 217,
+    "photos": [
+      "ATCDNfUkgRQzIyGHxV9P59fpTm_hRTAOhk3yBidWXrqytr7ka77hNzs8RHEsUVLpp574j7Mjs7dRGY_FwbhUP-lotstVy5xYF5ZYO6raLBQ5pgjcYWVNNw2okBYAe4wDryyAzerTyqljZsNnur9cQsmS2kWniDAMcFXylKpYk5LIh_ZUS2OU5cSz_4h7q_kLazh5S9wGWX75a6IjW48HKf9bAsJj2WluDR1BbfF3Ta0XsLT9kCDmPxo6OHw5dfGoiaMKV_9oKyyARrquWD4p_yyVv8-j3yBPqXGj4nPexo_C_7_clDdevrYDwUsKIPzTOzoglN7npHO-GjGnNXUAN4YY-7a756ccfkU5giB9Z6HnnAPQUmD0d1Xo3u28sEVBd_QscqcIeTdz4OthzS0taMIehokJco3Ma2NcD_SYOAPp4sJaRDks"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJy4wBT4xZwokRlPlUcvHPRBE",
+    "city": "New York",
+    "state": "NY"
+  },
+  {
+    "id": "ChIJgfrG_odPwokRRshMJ9pWSuI",
+    "name": "John J. Carty Park",
+    "slug": "john-j-carty-park-new-york-ny",
+    "address": "Fort Hamilton Pkwy, Brooklyn, NY 11209, USA",
+    "lat": 40.6135078,
+    "lng": -74.0297882,
+    "rating": 4.2,
+    "reviewCount": 315,
+    "photos": [
+      "ATCDNfVMmdrYv7tNMymAMWaeU1rPNRzZv7LP7KSEYRcITYicStH48XMeXfwjYliO_ff1PObZSh1VR0vEc1Dv5oAKE8MYTGoEIGygKo6wpTm5yxU4AkviCB8hgzVYt270ppRUtSSUc1Zj22KraL71iefUUvI-Ju3J-W-Om3JV--LT9tx3HjPA3Y98DyJ6eikS48r90f6-ArC6VslQ1i9WcYjNdGwppn_rOGf2W-SEWlBhk8TZBQHIAj4fACLIOGf6N30enyj4O6t-HI1Oc2aBR2ZnYNPbaThrpF4Va5OAYrdhavZRbA"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJgfrG_odPwokRRshMJ9pWSuI",
+    "city": "New York",
+    "state": "NY"
+  },
+  {
+    "id": "ChIJQSoK_P9bwokRqJK_NtFMJRQ",
+    "name": "Rockefeller Park Basketball Court",
+    "slug": "rockefeller-park-basketball-court-new-york-ny",
+    "address": "New York, NY 10282, USA",
+    "lat": 40.7172091,
+    "lng": -74.0164851,
+    "rating": 4.8,
+    "reviewCount": 12,
+    "photos": [
+      "ATCDNfWrxpTk1M4vFgCRwLZMxIIEcGkUulQktgdW0tXOc7n-ck3QFjdKNH6mfclWFDu-3G2flFQHRl0ZsTOr6AzlJtW79oRUpLnbFQLPaTMg0iD3nlQpV_tvkZ3waHmhexgj0TYioUltfkmbzlyfuwl-A-rLARPh9MZORj6tiaiAzpBr-8iopZcnKhrZG0yupso7GHTnrFD5w96E12ESaFljq9WTkkqLyvGh7iyp0XaTcyPAvgEGVtoa2UyDWeyvnHNRxw3oplcQmI5mFS8jtpTfP_sDMoYsjCulFus98OfAs0UjmVyygRq-d8IUe65-nO4w8mRMNCq09ebgVqbBvzXILiE_eKB9Z4Kzz1ff0fj0rRYhIXOiV-Ho47fR875_Km8-NM3ejLCew9tYCwt28QVVSXsvZXFXUUVFJCIlCgsBmV0"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJQSoK_P9bwokRqJK_NtFMJRQ",
+    "city": "New York",
+    "state": "NY"
+  },
+  {
+    "id": "ChIJSWKA8v5bwokRjh-iGNwVQP0",
+    "name": "Columbus Park Court",
+    "slug": "columbus-park-court-new-york-ny",
+    "address": "Chinatown, NY 10013, USA",
+    "lat": 40.7143152,
+    "lng": -73.9998263,
+    "rating": 4.8,
+    "reviewCount": 4,
+    "photos": [
+      "ATCDNfUZi5mDGcRY6loNYOmcSD1nV4U2-x00z2ic4CtV25zObyrIMkt92DYPG4MKNBUMYEFmnlGBLMShEIhN9lhBjzXUoaZO4GjfIFpH3SOFkFyI0FIJpRbWgpa-KE5Y4IbQRzWrRIy_c-QiICP0MOpXd2Vp23lVN2LZR0_P5Lq1CYBhbl3QE8v2XdZCe7Jd4k3lmvzKViWQRowHySiWlyMEi0braQR-jt3BsnJsg4PLXTy4EGI6LDYfFRQl0Mxw52YBSTIe8wZjkZSywpeN_9q_RJka_xULQWtxpSRIfJ0KukJhgDdEncIDtGlllmt0LGjCxEFAdJD9cbVpnaFF5Gd-vPyqLirJCRJ6AqzPNgFT9vx79dACJrGE5IWo-XEDbGOVQfrXDC-xGEAQeAepFThLOh1xzs440yUn_DuwFNQ9XJjfVw"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJSWKA8v5bwokRjh-iGNwVQP0",
+    "city": "New York",
+    "state": "NY"
+  },
+  {
+    "id": "ChIJd9AmI9xYwokRKN9QGb7-7co",
+    "name": "Sportspark Athletic Complex",
+    "slug": "sportspark-athletic-complex-new-york-ny",
+    "address": "250 Main St, New York, NY 10044, USA",
+    "lat": 40.7567366,
+    "lng": -73.9553552,
+    "rating": 4.4,
+    "reviewCount": 180,
+    "photos": [
+      "ATCDNfWP2CuNnOx4QBJdVRgFP00mjRQDju9_6PT30eXZWt0dSmbL4vhIMNWq-mM_SxlrviJHFyUvdRSBksE6qjSzO6NqFMH-80QoB8XxKYFx7zlpNdM1vlnGIKoSEinK7iPP5LTfIhp-VwfZz9Sf_JF_1AZVQkSGgdMqYoUU1MhIaNyYlAk3aIdNpLX-Pa2RDpNrO9XQ6a2kT3FELdM2-FWCAkGDE6wpYNQgwiedQP-uSMb5jYkX0hM9GKm5luLkIT9MTNYSSWs4tytg8aNjubOacCj7DuxwFdi0O4iaZKVHUCf-zg"
+    ],
+    "types": [
+      "establishment",
+      "gym",
+      "health",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJd9AmI9xYwokRKN9QGb7-7co",
+    "city": "New York",
+    "state": "NY"
+  },
+  {
+    "id": "ChIJhW4XtzVfwokRI4nbRM3oIsk",
+    "name": "Pickleball Courts at Louis C. Moser Playground",
+    "slug": "pickleball-courts-at-louis-c-moser-playground-new-york-ny",
+    "address": "75-98 25th Ave, East Elmhurst, NY 11370, USA",
+    "lat": 40.7624631,
+    "lng": -73.892318,
+    "rating": 4.7,
+    "reviewCount": 3,
+    "photos": [
+      "ATCDNfW0X9cOU0zQZAhk5BrtG_tseom8AOHzxbEbbPtnp-T4ecsbI_IMknRfUALVAKwKqw8ti5RFBKdj2CRtEILcgfKfD_C-rHBe1rLV9Uqii5a-8py67p0unlMqklPOXJquadgkGDcd5SMiWIrjqsxlnZ6vUBnoMTThqlJtlPIZ69dkHg0_tIUN3eE9m1ihFKuVJ-dfN9dcTLcx7QLaa1MV-jHr4Ir0HTQfqCwaUA9uY79MeSM7x8toI6rVMdxHvHTPT1sav8WvuNCE6ZFuepcXI1fYOtt5QccUV21cogUKKWe3Xw"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJhW4XtzVfwokRI4nbRM3oIsk",
+    "city": "New York",
+    "state": "NY"
+  },
+  {
+    "id": "ChIJAR4bFShPwokR43ab9-Q9040",
+    "name": "John J. Carty Park Pickleball Courts",
+    "slug": "john-j-carty-park-pickleball-courts-new-york-ny",
+    "address": "Ft Hamilton Pkwy &, 100th St, Brooklyn, NY 11209, USA",
+    "lat": 40.6120253,
+    "lng": -74.0311251,
+    "rating": 4.7,
+    "reviewCount": 7,
+    "photos": [
+      "ATCDNfW8Xe4tQ7_K_bDbypYpTODMyDUCyurEm5w7X9Ww2z1MIu1vYmng-wt394NWaVNsoJ3ETXctLYtmArfn2z9deQ9xrubiAByd-1Lme9Z72MXKgjjU6TfEAh-BEtpJgs3yGLyZ3BpQufcY3DzI3sozc6xFezbZXTyoSP7Wq8f_sAU_faEcSAEdi5MVSCXMGcuA0MHYo3gvC-uI3rrOC0ng2VoWbVPZCSDgV_M6sreYr55-ThdX-izCdcyoV_UrWBfNKd9is0cFIO9q_0OQVb5NNIhtfcl3pn1V76yKH7zmbYrR0nRfnkQvHAQmfAT31ReMqvRzCe_b76DNhquzCxJZFuVQR3Es-qkNOhJ5tAnLULHn8oND-2Ia1lLAffTpiQVNtm5q19fHKrvyfjReWJejPxznwVE-bpVS_z6JOlehchsnfA"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJAR4bFShPwokR43ab9-Q9040",
+    "city": "New York",
+    "state": "NY"
+  },
+  {
+    "id": "ChIJh1sDXOtXwokR9As6gU2ol2Y",
+    "name": "Hoboken Pickleball Courts",
+    "slug": "hoboken-pickleball-courts-new-york-ny",
+    "address": "59 Harrison St, Hoboken, NJ 07030, USA",
+    "lat": 40.7380606,
+    "lng": -74.0426622,
+    "rating": 4.6,
+    "reviewCount": 29,
+    "photos": [
+      "ATCDNfWUMmDI9bkcR8Kx--2_3sYRL1Is1emMoYipzP0Yogm2GpJkv1hflApCRdqbLN6AYnNeBoQBBN2nLAHPfz0L2rI9DqIEQenstwy3BNlefDUF7XpmEZuQEYGqQkaFkUtN36ndJPy95Qvy2VWZxybJzT2O4BZeMlnl66GvitdhESgEpJg6sxh2vbqNQn5YtyfAvHH30d5dSxjH2bqVj1CLmtQoypdJYYNqsDfB4ISaBDTXDMdqC9y8i-4-nG9frEXRZqll8UNsrbYDpWbSXFp1_zOlHoURjLSe2qZPOgW1TYujACBocgNZhwQzdWh8MHyJnCYFe4PLPwRXA7z417sMZ5P7ja9C1pYFomcrRNFEbsw9vDYTZnMoDKB2qWZ6lvJFRdwKX1CaSHSbHX41Pg9-dzztbe4_3mbeIKDu0V81xmkKqUVo"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJh1sDXOtXwokR9As6gU2ol2Y",
+    "city": "New York",
+    "state": "NY"
+  },
+  {
+    "id": "ChIJfc-mSSb2wokROq3zYTQJTcA",
+    "name": "Happy Warrior Playground",
+    "slug": "happy-warrior-playground-new-york-ny",
+    "address": "Amsterdam Ave &, 779 W 97th St, New York, NY 10025, USA",
+    "lat": 40.7954101,
+    "lng": -73.96868979999999,
+    "rating": 4.5,
+    "reviewCount": 153,
+    "photos": [
+      "ATCDNfUBH9apZrVMmZW1jxh7IRejbC8N2zidn8LXcULs5e8kWeVhrnQ5caX6IBFsGA2nT1LGA4jF9Z9Q9lcEQsNMHedqzAS28s2vTF0qjsDlL6bHRZInc4N5V5rVkn7saeQOoGjLP1ohuliIpKLuMvjZVobMvUSaRVhX_5D0R0F6km1PVc6_BOZ4w612WQzWFRFjquZzBpgfy_kDwlCbXA87Y6NaxOGd2MlvGCFPZHjKFGlbtxF2j6iz3uFio5PaOZhiS08GA7n5XJB2hlh10xWZIahPNL1eMEdqwaF9ubaWtXQzFfsR0LO0j0QDtXdfqgAjRpCHqbpiqRcLRE4vOwNMyQUjHTHlYv0vI1cT_wlNb2AH7tlsG5AV6XOjxBkZKUtp3uGj1nhFQ2HPH9EpASjSAgw-JqdiUXlR3Na1yzk5dSPBRdo"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJfc-mSSb2wokROq3zYTQJTcA",
+    "city": "New York",
+    "state": "NY"
+  },
+  {
+    "id": "ChIJ3TYiFyxawokRZgRUCY-lgms",
+    "name": "Basketball City",
+    "slug": "basketball-city-new-york-ny",
+    "address": "299 South Street Pier 36, Pier 36 NYC, 299 South St, New York, NY 10002, USA",
+    "lat": 40.7097802,
+    "lng": -73.9847377,
+    "rating": 4.5,
+    "reviewCount": 328,
+    "photos": [
+      "ATCDNfXoPUDXLDjCU_eYmKunwbd8w9hn2eHwHqiSbNl5dUVCOh6L1LMcBQ3RutXkX5yFXeLzt3pP-QRyoG65xJcRfRcs560DibXCFVg0ouVBs3-tGYugaL-MGvuVQlNujuaODao7qKgOR3abyzSprIVtXNVZRts0KVhshinZ3eiyE7GqYGMRoAp8qfGB7rqF3Sl7f5J-DBa5hlC3sNWS95yeArGQm3h4j0aG96zf-mnzwWxryfLN-lvVorTbbn84R8ucjtNsIyUIsTuuYQ0T8Ij_7NcHJTCJuI-yFmwKBruttWf_XA"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ3TYiFyxawokRZgRUCY-lgms",
+    "city": "New York",
+    "state": "NY"
+  },
+  {
+    "id": "ChIJy_55tsBFwokRASTw3AyxOFk",
+    "name": "Leif Ericson Pickleball Courts",
+    "slug": "leif-ericson-pickleball-courts-new-york-ny",
+    "address": "8 67th St, Brooklyn, NY 11220, USA",
+    "lat": 40.63187430000001,
+    "lng": -74.01369799999999,
+    "rating": 4.3,
+    "reviewCount": 9,
+    "photos": [
+      "ATCDNfUSQu88kgWszZyApwq6l5SJo3qY2wmlR2i3JT-hEwBTnmGqgYvAHMvg1tDNLzTPa0hZ5umaxmb83IYfrJHsNmRkXTDMfPM0Y27QRjq-PqWdLtVH5UNXCy5jL5NgAOCQtb1MFF02lTWJqnXskbUB4RyVhAS5OCv8mqIJZEwjB_jV-zVxMwDUPUIif39THHtQ9AmOBU6m5aQhOYN59VRxAWHUt7CCbV_7g4-AejsFHbHEr0Bhesi5JRZiw2JsZURSek2t-QVKKYbzoMEp4FgOAyFADoeGHRrl-U8snKu3jvfY2jH4df9I9or3UQAUtyt-gc-SOyJf_cgK_gYNsJ36YhGCmmR_-0WUhnrPrARBA-4Vp2ixBCmkVZGTmtwuJoBSpWfCgmoCOHtfVGUbHvoZMRtN7UyCfopLOiCBtFD9OpX6tnfN"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJy_55tsBFwokRASTw3AyxOFk",
+    "city": "New York",
+    "state": "NY"
+  },
+  {
+    "id": "ChIJT5kDvm5pwokRmlhp-MwJj4k",
+    "name": "Rockaway Beach Pickleball",
+    "slug": "rockaway-beach-pickleball-new-york-ny",
+    "address": "97-25 Beach Channel Dr, Far Rockaway, NY 11693, USA",
+    "lat": 40.5864282,
+    "lng": -73.820242,
+    "rating": 5,
+    "reviewCount": 97,
+    "photos": [
+      "ATCDNfXxrWyW7nhxe-z2YyfTgZy8FA0stNGHcPgq1d9dIzA19MoSQ6yUh4bTIYGwA8qp3hHi0UEn7K-roG2hUHOB_ePYGcqZY4yKpjIrGuT_uIi9Q67DFBxjchZ3-sWXh_WGWVMtkzX0pa8fq8nSiQVJ_dgYOHmEpAhgX6SsBHQQZ5miwLmEy9h5SL6bv8aqVCChJ8FnqwR-1gUV-O0rUrwQD9J_a8p5D8eeZlTRxnEIipP5Q23jS2RemN4B6ADHZOlV5BWTUMo3G6nGGyeoeKUNOuLn5GFGpDVkK5W1mjhYzpBxYnBdWZo11nuXbuVBFpLZCE6ksclGPHur8cj1lIeebhZ0nATbEDcxmYDY-DGnWLjWc7wmTO9Hme4OriHyGYhf9rr_1UlR0XmfIUz3GoWl8Op6Sk55RgAr1AwaZCL4dbtHDfLgElulbgJcbawXcA"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJT5kDvm5pwokRmlhp-MwJj4k",
+    "city": "New York",
+    "state": "NY"
+  },
+  {
+    "id": "ChIJqRGb8aPDwokRl8vJR4StfnY",
+    "name": "New York Pickleball Club",
+    "slug": "new-york-pickleball-club-new-york-ny",
+    "address": "182 N Main St, New City, NY 10956, USA",
+    "lat": 41.155899,
+    "lng": -73.98689399999999,
+    "rating": 4,
+    "reviewCount": 4,
+    "photos": [
+      "ATCDNfVHKESPQ8gDeRgbmdTTI387G5hGzbQ5lff4RdHM8GICnAh7rcGLgZla4jhgpwsdVALVf1-Ad0s156LmVrWHipA-KgBcaz6tvhxf50Cn3dddpsADDnZa5aYdx7ix4m2I7l0QNXU0g4-MwTrpGbpf5ov4bMr9ieaSIyCLt0_NrB8mbhKTXk5w95lx_u0Y8AZwCmIhw5C90QczwZdSBF8WGSW6OQgAPQlJKofttfywyLpc4W9MV0l6gbj4WnDnSP0fyNuA1AT59Gd-i4Y5DFLumql33fM99c-62pb-PacPk7bCBQ"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJqRGb8aPDwokRl8vJR4StfnY",
+    "city": "New York",
+    "state": "NY"
+  },
+  {
+    "id": "ChIJU2Q-1sR7wokRq-zSjZTS6OA",
+    "name": "Pickleball XPO",
+    "slug": "pickleball-xpo-new-york-ny",
+    "address": "3573 Maple Ct, Oceanside, NY 11572, USA",
+    "lat": 40.6235459,
+    "lng": -73.6533417,
+    "rating": 4.8,
+    "reviewCount": 54,
+    "photos": [
+      "ATCDNfWISbxsnCCMruZ7-ku2m697c-fPJDUxcg_cBGrTcfZjPMSg0bQ3VFUoLBi293_DblyqT1xCaC8zj0MntGsxywvv28GCI7oR-qAkLSNLqadaZZsc3PrAqexUaulOcSGHFrRBLoaHyFUxmduchJQ0J5UtkJpVQK_eXGio2TsttnvHbzlgioFcfiqjX9b4K_TUzD5p8FU4mvvEO5bmkazTkR0WSZaMOh-YfCX35PZAPpJ-jJn9f6eRBIQLIiCuignrld_bygeG6RTnyt9s5r9jF4CDbZzdCmLRjw6PFuXxEvzbOjcH07ARLqmprVokwL14LHRdD2jnDSxKiQLKfqYydwTfVnOaSPLbimMpUajUZtX4E-uEgRM11pFKvhpdLuMY-jtjnsRh1MX-9pZbr89hczGbnft5E5NJJ7hGpFFp89zRSIer"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJU2Q-1sR7wokRq-zSjZTS6OA",
+    "city": "New York",
+    "state": "NY"
+  },
+  {
+    "id": "ChIJ1aBJq0xZwokRiODuYSFjQ4A",
+    "name": "Padel Haus Williamsburg",
+    "slug": "padel-haus-williamsburg-new-york-ny",
+    "address": "307 Kent Ave, Brooklyn, NY 11249, USA",
+    "lat": 40.7141104,
+    "lng": -73.9667559,
+    "rating": 4.2,
+    "reviewCount": 198,
+    "photos": [
+      "ATCDNfWXaNRn-DuTTCrJ-df798xuXomb1ihEgKVdmZoK14rYcpDLZcc5vGjQxqxuXOcg3LODVOxLCS29gxVA7JeRZN2CSXeEvnqmN5iHKyX_ErtQOxtoAz_59NOSjytsrcUOlCDj6NYAqYkbBQ9yV26Ra2WD_EtO2Ce0xCyqBghjzeOYQ4sZIlTn0NoZWmMS-4aEZLuLYCnqr3jmD2DS1cK48K5HR_l1bEU-HFVjoDM-s4TrjDH36bogA19vAq2a7SK7REIg4o-krQJ3kIP3dqe5XMWDDl99BwR4kR_tpP2R4nergejq7xI0Zm7lULzo9t0wsL9ZhlhXLcqYaeNYF5dULSyi-5oPNBxHklFP0i3G5FxQS4Z5SHH4FsSUWKLPfLDISpoaHk5mkCdWAJEWAdYWhIaLR60r6L1JwBEYoJ9AZIQ8qv-q"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ1aBJq0xZwokRiODuYSFjQ4A",
+    "city": "New York",
+    "state": "NY"
+  },
+  {
+    "id": "ChIJjfMNRBhawokRuJnQsA3MJP8",
+    "name": "Super Duper Tennis",
+    "slug": "super-duper-tennis-new-york-ny",
+    "address": "F19, WeWork, 222 Broadway, New York, NY 10038, USA",
+    "lat": 40.7108839,
+    "lng": -74.0083897,
+    "rating": 4.9,
+    "reviewCount": 89,
+    "photos": [
+      "ATCDNfVfXMOwBKjtKfeZ0M0jwtc3gwO0ljQ8ZtyJY3HxuyagfRSBEHYM0pS61T0SVRLtRcDvU3HyOIiya9rT6W3FPcP7EFWfoq4NxUtfuD4x5xYBglbft9BEdP5dXLYiGWHBm3pyJmrPlfMdT9r5AOwSVgWgpTD4369Ti5KmRCDD8hsK4EC55t6PyRTL4bIjRHr_FucAwbtUzreDHfmNkLHZHv0-EfYTcUpXPC1JJwiYcj65sv4JnUZCIZb3_mXRG3suAeirZ9npq_caHYPkXvFCKjX-VsJOJjvE3yyPH53ykI_1t4pW2cxVukCpjGFj5Vyuppgu7iZdBXud6xAK-0rSsrqMlrHIEJc70s1m-zPtpJLe2Lwlf0fAhf-2B2-BXIobnmv7yj70haN-B05aKG6Fs_D6xO0SR4L-0wVDd-yE-neny9uIBD1fiq4HFHqEvj_T"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJjfMNRBhawokRuJnQsA3MJP8",
+    "city": "New York",
+    "state": "NY"
+  },
+  {
+    "id": "ChIJUcJTE8S1w4kRAlFeUBekOdU",
+    "name": "Premiere Pickleball",
+    "slug": "premiere-pickleball-new-york-ny",
+    "address": "236 Richmond Valley Rd, Staten Island, NY 10309, USA",
+    "lat": 40.5202688,
+    "lng": -74.23640379999999,
+    "rating": 5,
+    "reviewCount": 20,
+    "photos": [
+      "ATCDNfXwwFkQZNe0ACFupz0_cNacli4P0OV6JebXboymDiDATNTx9FsZ-AeiBjF_RalC3Wvo7a7YWcWScaZNSJIQjZlln8vlSPGpyoJoB8i3hQ8OkgsRhLloMSuNmN9u9SNGcVasEW5iJQejFYMSUBqhykAG_Caz4mabCRV0RwbDW2mVU5w-WHmac9Slb8MqQdc-yMu0ZD4GnJqXb9BmKE04haMlbWKYvl0YNA1WS0AIYhJXe5H6gOt7eq5BTZY45iZMWkpt2lz50sWu7ZEfYQCPdoDJrU4w5pkOOErdn9I0IG3fLA"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJUcJTE8S1w4kRAlFeUBekOdU",
+    "city": "New York",
+    "state": "NY"
+  },
+  {
+    "id": "ChIJM-yzfUPLw4kRlzzlsZimzBg",
+    "name": "Pickleball HQ",
+    "slug": "pickleball-hq-new-york-ny",
+    "address": "111 NJ-35, Cliffwood, NJ 07721, USA",
+    "lat": 40.4415747,
+    "lng": -74.230735,
+    "rating": 4.7,
+    "reviewCount": 124,
+    "photos": [
+      "ATCDNfX8DxWsP2OdSz1tGxRQ34jnyTruL7vRJPLzj355p3xb8oN7g9zs-E8Me0sgtnRKH3PQTaYTwf0hpGMyjsEh9OlmH66HcAz02PEUUH9l60svZ8Mjc0ibpvZ-Ms6jCxmLW8BC9C1Xmh7F1wExVxfzG-xbBACt0--_p7jACROn0D2p_jgo7cV0BVdLOcjAxTKm_wIWLmZaKg17C2nA9RjTMJlzkz4HOBrYxCTTz5xFIVjXFmKNKm52nv8Iq7WrSwfhlEjAoMLDC3qNjV6LR8-m7HhIuS72HziP1gmU8ESZMGIvsw"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJM-yzfUPLw4kRlzzlsZimzBg",
+    "city": "New York",
+    "state": "NY"
+  },
+  {
+    "id": "ChIJWT-XFEpRwokRr2ljMqC_DcI",
+    "name": "PB Club",
+    "slug": "pb-club-new-york-ny",
+    "address": "2 Garfield Ave #9, Jersey City, NJ 07305, USA",
+    "lat": 40.6848891,
+    "lng": -74.0990655,
+    "rating": 4.8,
+    "reviewCount": 17,
+    "photos": [
+      "ATCDNfXWsF8spup6LQmolbKUhKienIyglCUh7GpUAxhpM3LDVsfznItgUjHd3l2nKPzlZ1ri50ft6tlhHdhaozJl40vyAhA0UaemU_ul_5LZUwH4Gn9UElltsaSf7I_TejBJtqTN3smBrPOHTQNeYB2qiptttOq4BqAMTo1KnApnQZfG15Xq2hoBSXfU4TXZ0X2xsVHtB6O0wybPPwF9_giNc7692HNUrlqxbMv2kdOxW9XOpzEX-E8U3b480PvUt96P7cjKCEYgqogJSmXDxgABFyo1dj75yZV37UG-JcJdWcla93vZe1Fu2lx_aSgllFaGz7EFOonEaT2qsFJx__j1tddUJ2QLtvHVyhh8dNaDhd4_gr89JM92u-MIidgznSbxif6-U2BiUjjRw5ZaEVgoJbieFRKtWxQm7lSFESn9rPHBKh-qG0HyAWTQHs2PUtd-"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJWT-XFEpRwokRr2ljMqC_DcI",
+    "city": "New York",
+    "state": "NY"
+  },
+  {
+    "id": "ChIJNaIgVq9ZwokRMmR_exZsoKw",
+    "name": "Volo Sports NYC",
+    "slug": "volo-sports-nyc-new-york-ny",
+    "address": "41 E 11th St, New York, NY 10003, USA",
+    "lat": 40.73327440000001,
+    "lng": -73.9928068,
+    "rating": 2.5,
+    "reviewCount": 33,
+    "photos": [
+      "ATCDNfXTlSHoq_NQEqCjs4V2fYlza4XwOSNOTAKBSJ1QVIouuzIWF2nesmt1mEHHgtNrlLfRnA5FObeZ1b-PdKJSC4YKw7V0ejEb7ZpfpS8n8Xf5vuhNIX-eKZClPJaax3D01v9nrf6pUxAFCq1T52MJPNN7KSOG45grZqpB8F2llR7bPSejMxxAlhXndKWxvtLibTSJGaac4GRYcq9s3GIrV2UasLNRbOb8pbDckl3YT-Vk_esnYk5U_5v88qoHxtZx9L_ZJe1Uq3gf5bU0CPJl5ptV7WMQJNWlDShoOSOy7ffo2g"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJNaIgVq9ZwokRMmR_exZsoKw",
+    "city": "New York",
+    "state": "NY"
+  },
+  {
+    "id": "ChIJs5B-MFHxwokRY9FaSew7uAk",
+    "name": "Bergen County Pickleball Club",
+    "slug": "bergen-county-pickleball-club-new-york-ny",
+    "address": "101 N Summit St, Tenafly, NJ 07670, USA",
+    "lat": 40.935845,
+    "lng": -73.959797,
+    "rating": 4.7,
+    "reviewCount": 25,
+    "photos": [
+      "ATCDNfWcqHqIExFuuUSXnWSTe8UKv5m5SCvYya8W5BRrRgZ-Q1AVwgd2GN8bmcVuat6K0prjqcOmGCMY3qHi6mIPMIoyO2t9KxkXdwuPkQWWdADelFr-pvumOQWjp_ErWp7WN1_NtLAKD5ZfvfqeDh5eCP2ULHmpcijaealC6Ny2jYGEHg0jsRZ7x-B9Kxr_4YW79K3wWZ3ltoWPlZvclomQ4I6s8Xb7N5KTzygYiOnlZ7YXs6ZV4FNA_heXIygBSlJ20W72sX1fdGU1U0ZOPMa3tA_jZEneSL05FVqLtubHfDy6C8lRPhpMAqxEBxIPuXtI0QklRko_g4zFFtIV-xtucVRCdSzIdcZhHCDNHPpkBtCi8QaPqT3X0y6fU5B49EWBbCukQ-YexUhVyZBOsiS1kzBtIOyfebHnJjI1mcoN15RYTtKf"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJs5B-MFHxwokRY9FaSew7uAk",
+    "city": "New York",
+    "state": "NY"
+  },
+  {
+    "id": "ChIJ-1eDRzlZwokRvpSvClmGwzE",
+    "name": "Reserve Padel NYC",
+    "slug": "reserve-padel-nyc-new-york-ny",
+    "address": "360 10th Ave, New York, NY 10001, USA",
+    "lat": 40.7523554,
+    "lng": -74.00024669999999,
+    "rating": 3.4,
+    "reviewCount": 33,
+    "photos": [
+      "ATCDNfV5dhM9jG42035NrLQ6o7SyppHf0Lha6jSjwswYx9mi9vN3RbM0_v7_F6FbXdIYFRowBkgId9x2vfPwNsH3AQ0m3nfiR263bYDbxCTsE6dB4d73j5Rfip9wA0IFfxU6k8fyTPMJPzGvfAXiz7qU-pbdyL3QPorhgnYqAZ09JSL0W2oXCnOpeIzSBHWL1sb2s_FHmCrWtdvrINqEJx3SamCnX_1hAxos_BxJ9UpARF21a3SVba81vAXVpise_xoRHMwXkw7lAK6eG5PYin_5msfnzOOG_rRoumRJN7ViR-2VQ03sUfFW_LWFX7fjw-cksXsPW127gU2eKDCKJp2hUEEg_HcBCpQWRYQJEsP8bBtEbzOWKa7nAV07pC2Pcs7SfbSL-_6pHx3IYFZe4LyVdZ9tPvayKsmlbL0DtkMxW_JcPKes"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ-1eDRzlZwokRvpSvClmGwzE",
+    "city": "New York",
+    "state": "NY"
+  },
+  {
+    "id": "ChIJc_SMSAD3wokRFMO2B1n4RxM",
+    "name": "Braddock Pickleball (Open Play)",
+    "slug": "braddock-pickleball-open-play-new-york-ny",
+    "address": "North Bergen, NJ 07047, USA",
+    "lat": 40.7996194,
+    "lng": -74.0007055,
+    "rating": 5,
+    "reviewCount": 3,
+    "photos": [
+      "ATCDNfW1ytKTwGWO8ZwDjkIxgkAoofQOvoxd4qcq_0dG-DM5P_Fc1VOGFto6Dbxp4wGVfm2bhiNPodx-5nPGv6zws7w316VAze7PqohLkBYvAEZHQ9lpG2dreZOYctfPmxQ3qMacD1NfG4HWGk9EPICiakx7oF1m3Kn0HGZni9H1z9coAXAGs6M7fEQSQmLl5WXaQufHVVPsUVrQhP-ZE_mRdZeF7h1tdETAjmMemjg49q5jit_hUg-Yn-6qZvCuER9WqryN66csJdlOKpxleM0cwxs3Fk9c1gvC8B7eeIrUqA5IBdjhrToXDZ0yPPfbhqag8D_n4_vT3YWzUaX42WzzfyjdPyTCEAlDtOmrFpmdfohi5UyKd10IbtOaINp0wqwPHr9CtaODZeVXlVEP0MOZd3rQf8XZhTFMXWw6vDQu7iWkAg"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJc_SMSAD3wokRFMO2B1n4RxM",
+    "city": "New York",
+    "state": "NY"
+  },
+  {
+    "id": "ChIJK5JBKl5gwokROrHTVdMlwDw",
+    "name": "Active Pickleball Tennis Center @ Queens College Tennis Center",
+    "slug": "active-pickleball-tennis-center-queens-college-tennis-center-new-york-ny",
+    "address": "150-35 Reeves Avenue / 153 rd Street & Reeves Ave, Enter at Security Gate 3, Near Fitzgerald Gym, Flushing, NY 11367, USA",
+    "lat": 40.7385166,
+    "lng": -73.8184346,
+    "rating": 4.1,
+    "reviewCount": 57,
+    "photos": [
+      "ATCDNfU9gVp1qAYbel56nq-SLWUsnQyUqSQm9OVg9Auu7bOqLZfq3cGRFWqQ57le3CvIyJyQPbWm92Bq4kifEt-1HqhHL0bQG6BD17uN_9y7aTSbuXEA7eWP1DtvbyxkcYJtoLi56_aBlbLQkbIjNpzXdcpCxeu7F6xsT45RL4Nx26C2YAhpsRdCnWAM1ievfP4DrgwlJrplED7Bvq0jWw6oOJxI_nbU1J2E_n2a8Hi25gnREXJ-ALZr8MMedWiz197ImXebL9HQfeNzDe9bsE6dNjzYX_52YHkBtZwAZGrlqRoqvj9rePiOM3k24bvCbfs-fQxXdE8Vu5T2E-BRT4bNvWEoLnX4Elxkaj-JuqtNYKQbig5q0-aFCOo38CcDWPDH2pWVITm8NqA4VU9GHLQS0oH4a2K4cIysrd_KNbib-THuzAQP6vRgZTEe7_A80A8-"
+    ],
+    "types": [
+      "establishment",
+      "health",
+      "point_of_interest",
+      "school"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJK5JBKl5gwokROrHTVdMlwDw",
+    "city": "New York",
+    "state": "NY"
+  },
+  {
+    "id": "ChIJKURhGmiLwokRtHh-cBQEFsM",
+    "name": "Crocheron Park Pickleball Courts",
+    "slug": "crocheron-park-pickleball-courts-new-york-ny",
+    "address": "Crocheron Park, Bayside, NY 11361, USA",
+    "lat": 40.7722635,
+    "lng": -73.7684261,
+    "rating": 4.9,
+    "reviewCount": 7,
+    "photos": [
+      "ATCDNfU-n8yzokvAcH7f_71XG8D81V9S_0mvEjAVypa11XN6SN1bVXLJTY6NVuym23KnC1yfs-wMGSDWApalklOiONk3aUA7JsmzIa95_YZQHlW3Etc7iIRFd1znjhak0UPuuS1kkBYOZWCtx8PmwbSpUk1eB-rqKZ_o0r-AHoQYiGRgwAx_5SstSU0HFHtqWj1lRiha_3pt7IpL9riWtPiB_4BY5DoPvn1qpWZumRx162urUJ22hLbQUHdrMY-b7O7e8XcrWQW0oT8eabj8KZjmPqiyaVtPTYfCpkTZuA-jZaOKMw"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJKURhGmiLwokRtHh-cBQEFsM",
+    "city": "New York",
+    "state": "NY"
+  },
+  {
+    "id": "ChIJTUlY7QxZwokR4_QF5mlorBs",
+    "name": "Asser Levy Recreation Center",
+    "slug": "asser-levy-recreation-center-new-york-ny",
+    "address": "392 Asser Levy Pl, New York, NY 10010, USA",
+    "lat": 40.7361601,
+    "lng": -73.9756582,
+    "rating": 4.2,
+    "reviewCount": 317,
+    "photos": [
+      "ATCDNfW_hN43VNQOJER1aUeSdmW2zVcJHaeJ5a85YfSUH-A9iK57k0UxZb2sV3BmiqJnwgYRRAU3c3-AEUHhYcmP64PQm70w_Sh1XJ-mC6qyZXCcBpJMxKLstaXPMS8tHOO799syBR2FU51fspbd9ePfhfVN4hMFc_zmYChwXaTThBqMbRbeBFvqWFw8VMLyi3HgdyLB-IeYP2ZYkoSlI-UkfGvWCA6rCoJ65cfyRe0EOz7PzS4tMm6e5U_TGLMS8ICkZVX5VA3-jwBq7CMPIFPym4UL3TM8AN1COxjwXKjy1226cA"
+    ],
+    "types": [
+      "establishment",
+      "gym",
+      "health",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJTUlY7QxZwokR4_QF5mlorBs",
+    "city": "New York",
+    "state": "NY"
+  },
+  {
+    "id": "ChIJm29-5sPDwokRBqKWtjgc-Yo",
+    "name": "Rockland Pickleball Club",
+    "slug": "rockland-pickleball-club-new-york-ny",
+    "address": "704 Executive Blvd, Valley Cottage, NY 10989, USA",
+    "lat": 41.1298258,
+    "lng": -73.94213859999999,
+    "rating": 5,
+    "reviewCount": 2,
+    "photos": [
+      "ATCDNfVZbi0hKjxypz61NTPw7FP04J-tO36khz4iixNngJb3jAqXBR4kVxMeL5bl2lBxy1UU8nmqlp_lQ5I7r3B_mQY6Etedy-eeXQ0pBpHI88qo_BZiwQ1DCFXqcJ4TPNcPooGVQ8CSnoysHeACxOeQu0JPB7cmVHP57z_PQ_i7qdugZ3eDS2ik-LSznM14HY4ZlnqxKvRshbcEBykbt-IcgIQJxoGT0ds6EWNsGRLgzPJm1fFUun43M41Ha666zGrqpBfFte6g-YZQUSNbOqV510Ggdh5jPIbk5Gxh5IjPdOr_BBxyx7az9BHt_cBgUBcv1vmKhMRzoj_euY4cBPrcgVSd3yUD83vuWi47VcVZ139jQtScjFGW29TiMOPLJCJRhJUZY09ZGBGv1UbaanHcH-PbGru5v1UZEXvTZBewpzG2TnplUCd0a62x9np_pYDX"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJm29-5sPDwokRBqKWtjgc-Yo",
+    "city": "New York",
+    "state": "NY"
+  },
+  {
+    "id": "ChIJt7Agd0FZwokRW-9c_aOu7xc",
+    "name": "The Post BK (100 Dobbin Street)",
+    "slug": "the-post-bk-100-dobbin-street-new-york-ny",
+    "address": "100 Dobbin St, Brooklyn, NY 11222, USA",
+    "lat": 40.7251474,
+    "lng": -73.9544725,
+    "rating": 4.3,
+    "reviewCount": 149,
+    "photos": [
+      "ATCDNfXOwekECIbAfQbTV17tBzuNYVRanc48ZN_AxdQjisUObCJD3AoZWALUHNfwMGcQBvqbFHRpCoNQx7FVvSlptQtjCqOpULJA-cbQpR37WbE9oLQ_T_7UIACrrglOq13Gb-NdABaErunxO8_mB6c_UXF3EIHl0VwjxtN6X6KUUsSbO8E5GQBDknCT4Py3mw5WQIvU_xjwYFitl2gEnU8xNVvYpYpesw0FWR-0D69wqymB5lZnY3PEjxbNRW8nB7GNK26htIrlnADthBi_rZCNVi2Jvy-PjJ1yw2fn7UIpQTXEe34zQszit7HQyZN4jIELRC6BlSXk5TPH9NXb8G_BJZrnwdrWK-iGjAaVw2EP8B6kX72_gFMPHxXfcWdWG5kk6SRXhauZiKJDMUZTTI83AlZxdswdfHgwPIQrsAa5MHV2-IhS"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJt7Agd0FZwokRW-9c_aOu7xc",
+    "city": "New York",
+    "state": "NY"
+  }
+]

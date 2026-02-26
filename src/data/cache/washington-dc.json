@@ -1,0 +1,1703 @@
+[
+  {
+    "id": "ChIJO5Pj8fjHt4kRpYkBHJKalFU",
+    "name": "Edgewood Recreation Center",
+    "slug": "edgewood-recreation-center-washington-dc",
+    "address": "301 Franklin St NE, Washington, DC 20002, USA",
+    "lat": 38.9247819,
+    "lng": -77.00187609999999,
+    "rating": 4.6,
+    "reviewCount": 256,
+    "photos": [
+      "ATCDNfWMlf0GEw7Ooa5LC6A0m17CxBphZsNK2KXWBNJHlakwVqVSFyAN0Ge7VcwMOcI4_nJnQrGRAIE1gkcFX8JLc7bS0-Rf2gs3STLsVu7ub0B3kKEpUYQmv8jA6OVjVtVFXzQKO4gh1Ce20VJOMh9HOu9q8VpWKfELzZHBtggTRefTbdHrWdejk9Zvhi7xgCc5hkjtj2gQev3_rjXU8RmoJ63W-MLyNG9XjVQP4yoP-8efqubNO9lfIhNR4H6KxUbqpcPoChr0XPhEA6TAyqMlDaUHS3ezsw4_vcgPq0QvbxfpZTqyhs592ZwAQJrsQFi-tI_aLtFqHRv3st4iNjtVfUFf6RSDWkECJYxGZGbh81UsB9afdIWIZZbmPJqnULhoLP-IDPnLJ7HaF41aRDbInEysuDaXIM3fhWYxmflHWuC5mFs"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJO5Pj8fjHt4kRpYkBHJKalFU",
+    "city": "Washington",
+    "state": "DC"
+  },
+  {
+    "id": "ChIJQyW2VHm3t4kRTDsfZzzLlt4",
+    "name": "Jefferson Tennis and Pickleball Courts",
+    "slug": "jefferson-tennis-and-pickleball-courts-washington-dc",
+    "address": "800 9th St SW, Washington, DC 20024, USA",
+    "lat": 38.8808286,
+    "lng": -77.02368,
+    "rating": 5,
+    "reviewCount": 4,
+    "photos": [
+      "ATCDNfUU-0n9TbnZlit2YSyHkX8lfV6oAQPEimlTj5VKpCIJGcB8WUiILJlsYVe5DQzZ_hsMuIAXn07LRZYQpAN2tEy1G-QQsbwx_incL-FMQbSxlrmrqUC0V7241PvHhZvzfZrm_6RgIcnFAik9IoYcWuUKcFnjiS74dhl5JiERFEFRE1sJ88BkyaVy7CZfY3gyY9dcHZuMD67SSEiV2IkD-jAnPwXHbTUwZosUI8CgIaz4aKJ4n8jeEM6GI_gRnvbthZE9R2Hkdxi7jokrTsHKv15TCslFo25ksiftWvIncwP0F4CbU95Z8AaxWFG_He7kpP4oxl4dsuL7tNA4-tdB9OkURaY_bEnCj4O7U9GOZfkLezqM_c_w9fj4zdBzXVJijhaLe_HTMi39VEhe2xB98PPH1AxEJYMXpDmrmGbn5sDu8w"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJQyW2VHm3t4kRTDsfZzzLlt4",
+    "city": "Washington",
+    "state": "DC"
+  },
+  {
+    "id": "ChIJKZxg_obIt4kRLW5pFqs22hc",
+    "name": "Takoma Recreation Center",
+    "slug": "takoma-recreation-center-washington-dc",
+    "address": "300 Van Buren St NW, Washington, DC 20012, USA",
+    "lat": 38.9693192,
+    "lng": -77.0180225,
+    "rating": 4.6,
+    "reviewCount": 72,
+    "photos": [
+      "ATCDNfWcMgTBwSeUxZozKXpqz0aibOJoMWSVbHN6d4orJkKeTTYVDxtvAFlR9kh6AcwKguPrlxpvuINsZ_3wP0FQbUVJWQ1Gs88o7jvicLLScXI7bIvPSPqaUeuVdAPLmQEnO3fiXznzBqdWo_YggnAPTqwpOyCaJ51lrPFU7pYjyv03VPhAclB6YyIyluAU3oeLZbsPmvWDgWdvu_u0r_ya6d8kYaj_LU06G1DA44W_8yE7Q3IHAPpUZCxqalN12I_JWdHM1EW573NwanDjX8AMMu7UVUJFQSy45HduPquLr7hhRBcioYWnP6FpcikLb5EXlwv7KAM1X39i2HRAecYA0341mz-hCBHcQ-jzmyKm2rgy7EKgjRmrwNvhpKGnpNv7uY1j7hjQRmIa8XjuH-QJD6gW0TsBrPGw-eUYlU1At5jg5g"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJKZxg_obIt4kRLW5pFqs22hc",
+    "city": "Washington",
+    "state": "DC"
+  },
+  {
+    "id": "ChIJue9TZHe3t4kRaYtONIXNstk",
+    "name": "Jefferson Field",
+    "slug": "jefferson-field-washington-dc",
+    "address": "720 9th St SW, Washington, DC 20024, USA",
+    "lat": 38.8808971,
+    "lng": -77.02244329999999,
+    "rating": 4.4,
+    "reviewCount": 39,
+    "photos": [
+      "ATCDNfU5rxISMXOHBwosyORew0_oYf2gmNnG0e3JzgKaEirKoHUr4AqU7U1ZXq1vLnw3oW9pvegVhOEhrpzyGQmV66ax4Q1jQzNuQbhqyTY6Di5FXW-4PGKcmuCGmnfn_DSX0qefPaJVwZMHWM2dRXcBN28xzZijazsb7vP5fakkB-BMgFmqdMhcSdWcsxCpnX7s7036qTgghPfaX7w5KHhdu8u4RxTP2lPF9E52jvd97aQF_4O0qmBuV6NIolrRq09XF2-ArIBqpc-WjTWqvyToqojpfSSzrvTQXcb1jNGvHd-n6aQVik3vHr2YfN7zpMhxoxu3mvbwOFu9muRRM_4yu6C3O-U1VRp2Dg2Iu8khra8jCuc9LdSVRd_SoZYSxwmgNbGZUDRzF5PVUV9z2e_-8-kD-v6SqxmV73W-Tzdkrl7Q4A"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJue9TZHe3t4kRaYtONIXNstk",
+    "city": "Washington",
+    "state": "DC"
+  },
+  {
+    "id": "ChIJFxYFl863t4kRVTbkOuwUMjU",
+    "name": "Mitchell Park",
+    "slug": "mitchell-park-washington-dc",
+    "address": "23 23rd St NW & S Street Northwest, Washington, DC 20008, USA",
+    "lat": 38.9144528,
+    "lng": -77.0497515,
+    "rating": 4.6,
+    "reviewCount": 263,
+    "photos": [
+      "ATCDNfXlW42DgLPeAO4Gx2HNwksi5f70GgBN0vzTVOX33KkR7dB1klpbxdF6d-NS0s9NOBRnVdi2vZtkyplva77H1LRfO1oTJxi53ilkUI72euf5X3_aEIKw1lZkn6bDcSCNaPLCb8RDKsWXHLkGqXszpzJ9rfo8pOdGXTpMs3LUZsc1kuCy1AObW9fp1zf8LqzxGsRwSOmjMKQgDjS-0lZLWeFec2NjdQze84VuOW_0-BGV8q4FI4oUnJknhDT2DpXPtafwfPO0J9YlaQK2GrTdthglHE93n0-Y_ICl98pOJvrN2qSPQULeSYJ4tZ4-zUiXiEfRFJ7YKRvFjYgZc5hxwVVjO9p69xMPmdBL6riq_-FQ0LAmZqSqNqNm7XcZMKVC2-C8b0CLpskItLVqdbPS_if0D7gbrvVDOJF_PIa4Yr3EwLcs"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJFxYFl863t4kRVTbkOuwUMjU",
+    "city": "Washington",
+    "state": "DC"
+  },
+  {
+    "id": "ChIJkdDf5De2t4kR_TLO-zOH9Oc",
+    "name": "Volta Park Recreation Center",
+    "slug": "volta-park-recreation-center-washington-dc",
+    "address": "1555 34th St NW, Washington, DC 20007, USA",
+    "lat": 38.9101219,
+    "lng": -77.0668195,
+    "rating": 4.5,
+    "reviewCount": 207,
+    "photos": [
+      "ATCDNfV9VqTxKmKtPEX7-Xkd5tlAB0MTc84GFIX8IiqHiov2XgJAOSgDrRUaWSMF9kLCU5Rknt8MHWpRsEWBeq-UrbA8VFbnoMEYl2q27imqz5n8SIkQGdE4Jby63OTO5kSH-GMcbcfJMgduj4HR4zpIb7BreBXug9rNEjqqiKyPfu1yXwh4fvND9ARXxdEFynZJJJw79h_3vtJzzVEH1IW8LgbrdoqenaoLZpTi8a6PmFyceMAt4-91Go9Na0S-06QBnN0SgulvL097Aq5XcUtXb-GaiBwSZKyrsNKFkV0r0BaybBoU7MMueJw47-H2dW2vj-c7_VqrSrRFM3qtwdGtwzbYIEcnI27QySdtY-2EvL--AWG0PhCs8Hi2Wu3nNGLM7_pUyBTQl_TnNbI4yLpo3XqzutV8Hd7D-qdM8ITjHpzFDoR-EunpfSZALOtn1maR"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJkdDf5De2t4kR_TLO-zOH9Oc",
+    "city": "Washington",
+    "state": "DC"
+  },
+  {
+    "id": "ChIJFym1F0O4t4kRe0nFiqPvwEE",
+    "name": "Rosedale Recreation Center",
+    "slug": "rosedale-recreation-center-washington-dc",
+    "address": "1701 Gales St NE, Washington, DC 20002, USA",
+    "lat": 38.8976329,
+    "lng": -76.9790378,
+    "rating": 4.3,
+    "reviewCount": 310,
+    "photos": [
+      "ATCDNfVYn4p5Wnt83R6POhBiwZJuebMsayf8cb8RaJc-jN-fsfxSTnNvNnUxgvas8G2fb0_d6c_MScyq5cg8WLuHAhynrgxFbIidM8tjFWO95Zc6aq9il1JohNOMgJ-X6kwQO_snivj7EbL6EhiSh-BlPWd6_ci-VHCai2EAeMHiCFppY-hgkRa0VwgUYszPKYqp4BowwTaq5zGCWnTlDYOcfweQN6c4L8VMKHW1Vu3rTcoFSOS3Bz7wbYG8gALzwtgtyNEj1iqe_V5YImE3dYchWkNDYTLvHhRAgZqQgEHFEE5xO-VfvG9pKRdmQd5lZpBnAKimmXRsio1IzEe6E7TpNs2WxSpLbzAU-8TuzXZ7JIGf1lAomp_Ih3F8upGaUYs-jJv12UK7lTgTVyWv6NMpzY-bM3sD1WSOVV-rOcvuwMSjbRHD"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJFym1F0O4t4kRe0nFiqPvwEE",
+    "city": "Washington",
+    "state": "DC"
+  },
+  {
+    "id": "ChIJpxyXXbjHt4kRN6GhLPTlSEc",
+    "name": "North Michigan Park Recreation Center",
+    "slug": "north-michigan-park-recreation-center-washington-dc",
+    "address": "1333 Emerson St NE, Washington, DC 20017, USA",
+    "lat": 38.9496803,
+    "lng": -76.98647299999999,
+    "rating": 4.4,
+    "reviewCount": 109,
+    "photos": [
+      "ATCDNfXTIF8PB5FCMpTLDsVmPP_rG0Uqhnzu5nAhSIcZoBb6fJLpY3rksKRvgUUqfARLJHkB6o4-HQ6l_cxONZ6E0l5SRwFlRpJgB1vLavJ6FYkb-GjJT5c3Rv4-9OykNkpW87bLjqITWM9oDOgsKlN_MiXSfUh9KREzVRchSxt8yBHwIN0XGqy5CTfdImDRxzs2fPwrx3nHGPD2MTmjZvzyhTsYXebmkDU8ts4XDn6ZjkO29lOiG2AFmK73rdCrmNILbXQrlCpcgqb1YT_8N4vhlzxWTuWnlOY-WLi3OtMoxHz5aRmx86WRgSyrdcO_HClwKO5A38mUbsS0h5rzIdO6hNIdKli3pTNZZ6YpoL6RUbjJX-M73KE7L-044ZjOcAoImKciXFckiMceEjXaze7gnMiMnwD4yoVgzCGospnAgUnu5x_j"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJpxyXXbjHt4kRN6GhLPTlSEc",
+    "city": "Washington",
+    "state": "DC"
+  },
+  {
+    "id": "ChIJkUobDtvJt4kR3vbY-x6wsYQ",
+    "name": "Hearst Recreation Center",
+    "slug": "hearst-recreation-center-washington-dc",
+    "address": "3701 37th St NW, Washington, DC 20008, USA",
+    "lat": 38.9383527,
+    "lng": -77.0722167,
+    "rating": 3.8,
+    "reviewCount": 34,
+    "photos": [
+      "ATCDNfVKjNO9Of7JZ1RhjLLv_zGLfGHIkp81CwFYFnOmE5IbjJ0U3NxHgsfHy6k86nzYwHVOB1-90Igf_fRvdzGwhmy6pQH0PIDrZoKSDslS5h-Ay4_DfSObNnHwdGS_cxVbZ8yO3f4C8nH0o2-PSoD-Ts3psnj6xXDiOpqG2ygelI9DiWELcbfqVKl_IZuuaRfRZQ8i0O3b6lIm2sReVWMX5u2Wl_9Z0NnbIVah3ox4wxdwlI1SOFTa-ma_Q3iSivQXyJZLW4qyLThsFf4tPj2h7vIJa21sp-MTLWoM92FIOuubmQJm6fZlxPoCcLmqu3ArZljk0sZ0Dpfv-1pyYMM0EYayqo9MLuvWef0VDUyyKIKS_A6BX8LEcK-JLZVsZjfy7SD6VT6d3GSMp8o3_4L02wB39VtTdzMVugIiAKK3O4v1KqXY"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJkUobDtvJt4kR3vbY-x6wsYQ",
+    "city": "Washington",
+    "state": "DC"
+  },
+  {
+    "id": "ChIJadyxZszJt4kRVqgddT4K2S0",
+    "name": "DC Pickleball League",
+    "slug": "dc-pickleball-league-washington-dc",
+    "address": "5220 16th St NW, Washington, DC 20011, USA",
+    "lat": 38.9544047,
+    "lng": -77.0385419,
+    "photos": [
+      "ATCDNfXmBwfcS8-JJjPuYg2WGBQObcEpEI8pIX6J3xxNcBzLRh98yHN3wksgZLxxwVMDs-KI-Q15EBpcpKb9j_T0zlIAkq6fdXKQpWNNvxddYwbVF5FFCcHGmS6l7PpH0qRGZjiB6xCEvJu3jonqxqSqsgqmztQZE8mi1E6a7K8Hfli2XHc8MhRDcGxUjhFmpKz_0ZCELvPM-2wlloQUm1Gu_eapF79PeRGPNTveKLryBJub14rwNn9p1VEK24UXYOHE2gbKz5z638h6yfvyl-d9JWejaq1P9e3agkETfu_jdo6COQ"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJadyxZszJt4kRVqgddT4K2S0",
+    "city": "Washington",
+    "state": "DC"
+  },
+  {
+    "id": "ChIJCSx8mTG4t4kRZGRhxvUr95U",
+    "name": "Turtle Park",
+    "slug": "turtle-park-washington-dc",
+    "address": "45th St NW & Van Ness Street NW, Washington, DC 20016, USA",
+    "lat": 38.9420167,
+    "lng": -77.0891492,
+    "rating": 4.6,
+    "reviewCount": 233,
+    "photos": [
+      "ATCDNfXuZbNp9PzbV11434UYusymXgR1r3PirjiDG9R3AN1peNo2Q2W-x3JNB4Ev-W-a3Oxhb04PKoWYNwkOvJPF8JrRGopaKtdzic2ANwWL4wDTf7rcszsvDwT_6OFMjTq0bAoL1tAvZINFY3ul_qz0USnq0lufn-kepLJFmk_NE2j7zq_o8cNyQB1-rHjojSo_Prmk3KMvXuvBiiDgl8KaJAHjz_PYG1U28eS9I2ZgWMdCLltv5Sx3a-nPOtncMHhh0pyW6ErbTTdEsgGQR8sp4596zTzcq4o-6S6TZMJB7RHMDkPDizOtCLmnJ5D2b1PPn_37UYeoEHGkvibA4S78KR_LdOLdRtD2ImSDPgQmzSbAmwauS24bxI_5LIB4vswmUI2FRW5mlKgJCF4qhS2OA-2HhB73J_rEZlyNOkBdn_sX99DO"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJCSx8mTG4t4kRZGRhxvUr95U",
+    "city": "Washington",
+    "state": "DC"
+  },
+  {
+    "id": "ChIJxeyDWr65t4kRR4fzTK6ErA8",
+    "name": "Kraken Kourts & Skates | Bryant Street NE",
+    "slug": "kraken-kourts-skates-bryant-street-ne-washington-dc",
+    "address": "514 Rhode Island Ave NE, Washington, DC 20002, USA",
+    "lat": 38.9219323,
+    "lng": -76.9997668,
+    "rating": 4,
+    "reviewCount": 404,
+    "photos": [
+      "ATCDNfW9nIHR3itN425OkhJfg9hkOIsrXxktlCu3HTDSHtKOfa2h_AYCQwSoMc1L726Y03FxqyMa8ldzV3xbfsOuDJnt8Et-dmRFnRbyXg_aNW4F-qn0OB-sipNPOvhOWs_u2LPa3H6YY__BqaDAawrfSDT1P-M1qlFeZg7F1DF4yfDT9pYcw88rfvMZmVChqB4iIFvWs27glNBacHeutkJyxV5fRmDMd60TjK2AEwgJ1x6w3RjcGc8aapmYzbc5mna7eJMsWttvkcwkmmrbbycFsOmqpq9S2Y-qzaQ5s1_3L06HGg"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJxeyDWr65t4kRR4fzTK6ErA8",
+    "city": "Washington",
+    "state": "DC"
+  },
+  {
+    "id": "ChIJZ9wZ2oG3t4kRMsIWeSkjwr4",
+    "name": "Rose Park Pickleball Court",
+    "slug": "rose-park-pickleball-court-washington-dc",
+    "address": "2612 O St NW, Washington, DC 20007, USA",
+    "lat": 38.9083742,
+    "lng": -77.05509409999999,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJZ9wZ2oG3t4kRMsIWeSkjwr4",
+    "city": "Washington",
+    "state": "DC"
+  },
+  {
+    "id": "ChIJv2b8L_21t4kRFayuDhTg2NI",
+    "name": "Palisades Recreation Center & Playground",
+    "slug": "palisades-recreation-center-playground-washington-dc",
+    "address": "5200 Sherier Pl NW, Washington, DC 20016, USA",
+    "lat": 38.9249145,
+    "lng": -77.10460690000001,
+    "rating": 4.6,
+    "reviewCount": 187,
+    "photos": [
+      "ATCDNfV_vbbd_JoDGCAUS45DWe8egUwkD6N-VsWodkM9srlhHLsqR3pr7YEGHdH9cR6XCVdnnN-wRpJWgSMBrpskoZMuzbBUOUIkVLg1tH9-dI83-OAYwc4AKuLgclTTVN163SN5KNf4iSsjS_JMMVCpCdCqCZbGyQ4hlJuGORbKtl9_kfjlkwoTKRgYiBQmt5sWbrt34IFFuvSaal2pboIfh5mjnmKkrW0Ia0I7B-xu_XqPOWWuxW4rPdDqiokQPl0npgSJuVZa66c1BQtORpVQduIEFNVsKu_kipChIz_3Pi5DSx2JdxH_48nI_BoxY7FfqTQiYLDk0d1Mj7cOnKQiUcv7OTekg6zq1sR7sn36chFYu_uxi8EQHr2Pf_BYZfHeLNoHm_vwhEe6ZU_ZEiHJ2jq8CH_5aYG6kj2My1aNEjw"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJv2b8L_21t4kRFayuDhTg2NI",
+    "city": "Washington",
+    "state": "DC"
+  },
+  {
+    "id": "ChIJYRCUhcq3t4kRfWprrNEwXHg",
+    "name": "Rose Park Recreation Center",
+    "slug": "rose-park-recreation-center-washington-dc",
+    "address": "2609 Dumbarton St NW, Washington, DC 20007, USA",
+    "lat": 38.9085617,
+    "lng": -77.05517569999999,
+    "rating": 4.6,
+    "reviewCount": 113,
+    "photos": [
+      "ATCDNfUVNFAbEAdrUU7jnTVvt6hIoRa_Fy6aZNru9L8kcluKADegEmFZOk2G4sjB3B6hRLvn-O23pmpkX0os6q5cmakuttDGNQ8HxTp3N9AlPWqY6qo68EmAZWzd2hNNkhkdzrQYboSGQIbjd2BCR5dQH25uxTWPWr5LWD6gCXCZGj7Dp5jnQzlBXUva1xdCXEyHOU7LJXYustNj0ihsny3sypupxoxf8u5Ix9ZNCEeV9aK35Y-0G0zteYcprFRokWu7w2iaID95-AHesq3ekyY3t8nRy-eqFwGOgS-Ea389keGg_B6pR79VaBHfSnuGLvk-VnHqvnEeMcleFpQSGvTIF-49m-8vEAfSCYXdE1Hkl8UHI_jAxthrye7SqGsFK8hhUgUpXw65DpDTurQbGeqIjj4b9lyDzc9AltuI_aVTKeb39S7C"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJYRCUhcq3t4kRfWprrNEwXHg",
+    "city": "Washington",
+    "state": "DC"
+  },
+  {
+    "id": "ChIJE0EMpsY_kIcRFTX_ZC1elsM",
+    "name": "Turkey Thicket Recreation Center",
+    "slug": "turkey-thicket-recreation-center-washington-dc",
+    "address": "1100 Michigan Ave NE, Washington, DC 20017, USA",
+    "lat": 38.9378514,
+    "lng": -76.9924221,
+    "rating": 4.4,
+    "reviewCount": 652,
+    "photos": [
+      "ATCDNfUQFiNT2I5wYiSrEKKyLM_3WT7KOrxsQy7F6YatdLSc0aB_Qu2vIgz_HRSUJNekDxbRVIWF8r0Q5eKzhqC3JbXByfiW1fJfC1hJAQbuInftBVoU4PYu-_I6pDP_bUCqlDzfM51Vk2Hxh9X77wmc6My_j4T3Zad--C674QWB0hsllcT1HflGnG4rVcyTXl3gbZUD4xEW5hmrMDzE95Y2QmtM53ROhpG3C5OtmtXORf7Y3Zd3zfcFW4fH_KGt40IawQ5PFDkzmrEspb3g1peXlX3ymraffXqab1dFwcb9aoQ4HfB3Wbdf53PK5rbwmzAMLpYUshP6aQcQnhgQk3DeSvXjH0S5j281qjdRtYyqIDxzWqGGPCGHD3PJOgmG-Exv8zXfO1i7z3s7lGv2gyjBnjMnZ_RzOpabPbyUTWygBOQYg2QjZ_KdmUJn60IshJb6"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJE0EMpsY_kIcRFTX_ZC1elsM",
+    "city": "Washington",
+    "state": "DC"
+  },
+  {
+    "id": "ChIJ77NHBvK3t4kR2HiF0G7heGU",
+    "name": "Kennedy Recreation Center",
+    "slug": "kennedy-recreation-center-washington-dc",
+    "address": "1401 7th St NW, Washington, DC 20001, USA",
+    "lat": 38.9091687,
+    "lng": -77.0215664,
+    "rating": 4.5,
+    "reviewCount": 262,
+    "photos": [
+      "ATCDNfWSQMmi0FH-OC9bkiuxj-bU9GD9LA9a5WMcXSpWfAyZEbsocMoUVgdch22r1J4h4VWNovLFE1RHh8E0UGB_Ew9I8hOzZpiWtyp55gD3tyIXN2f32GA6E17D24HkcGHV67BvO3FQ1q9oUlBTWRqIsptM4ibSoDh4smVn24xbosSJMKCptqNI7IHA4p7l8GZIAk2fh_HxdI-y7LrPh9_86AUvo56BZoRbv4xcViO9u4mO8aqgiaEQe38lOEGYsy0dPprQ4I2AVKl_6487yyi_U1jmp-LttbmHPmqquNknE6q_ps-xhILK0xIyeRrjhNLUAhUNWz6PiMiQXmitXfKi2bmd4ljOjs96hbSuX5QofFK_C70wRLuU5esdyVkVdgd0STkD0IDMXES2DFnLeU5hS5l0qSxs9ix9auXvuB-M6afbxSfR"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ77NHBvK3t4kR2HiF0G7heGU",
+    "city": "Washington",
+    "state": "DC"
+  },
+  {
+    "id": "ChIJ72Fn_Xy3t4kRmnFwF06elcU",
+    "name": "King Greenleaf Recreation Center",
+    "slug": "king-greenleaf-recreation-center-washington-dc",
+    "address": "201 N St SW, Washington, DC 20024, USA",
+    "lat": 38.875,
+    "lng": -77.01277780000001,
+    "rating": 4.1,
+    "reviewCount": 220,
+    "photos": [
+      "ATCDNfVHyb5c6AusnkJ15MJgu6eSeUH1yDMmFK_GASR_6d3CWSXZL2-FzhCITHMZa-6EuMFUnoc7I5QAGFBHAtFACNSAFUMgbSpat4VOTjKhEkVbxHanU8id6eUJWcnyc-U8UZYjLKD98Hdp9jLDRrOnNLRzU98hfyDdrdd6VhYTQ60Au6sgqx7dhH-p1h-kIglo0l8VXbUmglNhQlGl8uGpyid3ERCeODZRPO2KRiAkdHnTlW--_uuJfLOW0DEaDHEaPquFHGXBdsx9jmb0ZRYz1q8FwZvMWK0ILGGJrtxB30l0GyUWvKiZmS4EZtCtJi8fadghv4W8msZNfcvY6NM3OWsutJ9DRaxjQ6LqE3qMMCxxYS5gpKEE8h3q1Tg9gwXlrGIZxs017bv21g978Uc2tue0D9oNKZkV7KbHY5DfpOD74cI"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ72Fn_Xy3t4kRmnFwF06elcU",
+    "city": "Washington",
+    "state": "DC"
+  },
+  {
+    "id": "ChIJFepHKDy4t4kR0B0g1nqjNog",
+    "name": "Sherwood Recreation Center",
+    "slug": "sherwood-recreation-center-washington-dc",
+    "address": "640 10th St NE, Washington, DC 20002, USA",
+    "lat": 38.8987105,
+    "lng": -76.9931912,
+    "rating": 4.5,
+    "reviewCount": 180,
+    "photos": [
+      "ATCDNfVd5-dBN3G18May7aB-DS3fWKGxRmGxS1SC5laJc8oypoZfJK16z3GZuTCP5mL0tnmcuQPdtVLaD9WPfJkkXOaT-YGH6l8urS1LtWL5IDqO2rqmLPNow7hGZBxei8SiJq7D6ckZPlA9sj_Ob0ZCptRJi9WaMx6BLKTyk2eMRxzc5JNagH9C8u0qi2T5PFPRCBW9ldXIZan-JASsoVt9g7DuzmsMS0C5Hw7WqP7k8JNIr5E5S0OAmRl7Qqtuvcti-Us2C5rWvPPckogQMNsBEZEwdD-vRMZQl4kLcwVqfo_zO9bN1AwA7jrnRJZQS-qOit21GXyOChJiHMijU19iPGvEgRAodyrCxL3bSdtIa8SfHGi15KFHItTTMiPPJYTDumpSvH73K5MzxPqY5PJxgWrgo7NeD-nIIIgNri19dFsspQ"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJFepHKDy4t4kR0B0g1nqjNog",
+    "city": "Washington",
+    "state": "DC"
+  },
+  {
+    "id": "ChIJQ9vOx9-3t4kR7JiSIILgaXM",
+    "name": "Columbia Heights Community Center",
+    "slug": "columbia-heights-community-center-washington-dc",
+    "address": "1480 Girard St NW, Washington, DC 20009, USA",
+    "lat": 38.92513780000001,
+    "lng": -77.0350139,
+    "rating": 4.6,
+    "reviewCount": 101,
+    "photos": [
+      "ATCDNfWdC3PrTBHwmvkQQI6eKdMez0XlRNJbVGfLfaFsFajUoaQ2nUaX7xbg2U6R_HNNewcrP6IOOAzgO2WimWP87ilo3QlCmzoORgMhhWB0D-ySkRPYNtbVk2yZTBdArw1DZNEdOpIcZqxK-FR3GhQviDjovwaiWJzCcybgvW02KW4K8ELPzaCphtnZ-0ZbSFddRp6a2gFu7SlTiaiey3H6Tyt3GPqw062RGt0PT4yQ5YCmdpCW4_b53ARnu8UJMhwl1WsVB2OY2KiCC8OH8TCpkwyxJ8ecREKiGPIyTvzgqZR9p8zqiEY1UZGc7_pnxpWC2NvLI6IHIbD9txVFAxPlAxLyAGEvs6nGt5W84c5FGPXGuTLLFlFOaEWX77ISjTX2tzVsQTRcfwUVchUqfCMCe9M0fdmRLi6qoZ7WZLgya3QPzzY"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJQ9vOx9-3t4kR7JiSIILgaXM",
+    "city": "Washington",
+    "state": "DC"
+  },
+  {
+    "id": "ChIJsTPudtK5t4kREqy6pkD0lbg",
+    "name": "Arthur Capper Recreation Center",
+    "slug": "arthur-capper-recreation-center-washington-dc",
+    "address": "1000 5th St SE, Washington, DC 20003, USA",
+    "lat": 38.87795800000001,
+    "lng": -76.999149,
+    "rating": 4.6,
+    "reviewCount": 66,
+    "photos": [
+      "ATCDNfXeuTG_1tQxQUB6R6poYp2qfJDlf5Q6xY-dX3wf2u6D7zuXGXUViVORLynZtoGSfyfkSD0HeSrgYZr4rBnsn2li8_yZnkyeAMDDmK8NXub-bfaOCV-UvdwKY54eKEyKDrUyIII-vNrOFodbXyeE5BjWr7jh-3MzbZe2fv1jUuN3uxbgMhSBF3iYIywNhh9U2fcoRTZaXdl9vXhew2Fcnl2TIoPmEmguYlThIG7qvp5IT_7QmbCoOTYyiorV3zm7tiGJjnkjBahoA0RhCvy4AfaKgMGzEhKSEFt9pm9I9wnnBMx2L7hytiD9Av3SbxGiW98Ab_ZKUZTpugm8YjpSUgbA39x5W7A_QgFx6kpewLeM11UHrEMW2S250uGHagj4a8uIciYqqyI7GAkOFq2l3YeCaxRGeveg8zqgge2UQiMYv8_wEpxu8zcLiqOX-Q"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJsTPudtK5t4kREqy6pkD0lbg",
+    "city": "Washington",
+    "state": "DC"
+  },
+  {
+    "id": "ChIJVU75njC3t4kRJwJwpKarVtE",
+    "name": "Rose Park",
+    "slug": "rose-park-washington-dc",
+    "address": "2459p P St NW, Washington, DC 20007, USA",
+    "lat": 38.9090485,
+    "lng": -77.0536731,
+    "rating": 4.7,
+    "reviewCount": 25,
+    "photos": [
+      "ATCDNfVpSSLo1wJ6JaYY_Hai306Q0OFCTEtQyomPmztXZMdAeUSJ36teWivP7gmVdHmUkHDkgct8NiY6Un0lKPvp0qhCR5JCaAExvIKUhREwbVCxEnNjsN2ILLfhmZIKNLcotbjE178rwOhCBSrLJ3xynbcb7oYfyfEFi62ahNZOnwgQcNuAypzQaRYQDkprSintuRq4GXBojEAi88X7WJh_-IE5SH7xoLyzAl5CgLg0ZbE_r5m5KLvCjDypNNv-zFpCz8L3X1lI_HDE3PKMe8V5GuU6WI3jfS_dbSfcIHrHI9gWgnwLJzsYRcXUUFAmlbZmfDZFyuhZ6nb8o8P9Y8L5YBgHMAfqAklLVolrepWvBp7BVLr2p_7ulacMWh5hmb8UrVEVINMuB8cHJkzC_RajvPQd8nlCUlajreG9Uh4aM4NcIc6eBlFKTCiV2EhPCQ"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJVU75njC3t4kRJwJwpKarVtE",
+    "city": "Washington",
+    "state": "DC"
+  },
+  {
+    "id": "ChIJl5p1KOO3t4kRQuxBewD_Pu8",
+    "name": "Banneker Recreation Center",
+    "slug": "banneker-recreation-center-washington-dc",
+    "address": "2500 Georgia Ave NW, Washington, DC 20001, USA",
+    "lat": 38.9226989,
+    "lng": -77.0225767,
+    "rating": 4.3,
+    "reviewCount": 118,
+    "photos": [
+      "ATCDNfVWb_nsN94GYOuWcd5-r4SZnrAWATFnVCnLW1mNKzhabAB3Z-3dYZmkEbaEmZl7ZSnNMiVY0ctQSn40JtmEgE8Ojx4gaAdp65wOUtPmL6DZBC99sx5WPZHFIqrBHNORZ5bMw_rts75bYZmIgjSXtXxinY16x5T8SFZ6XrZxvn94UCnCuLDypejrcin5PI8_50ckF7HcWmHz5LxnEk5S3VoA1o0JEE_NllQvv5FusOYqtoy1169LP0IXKjvfqcchIzTeI07qvx0JC9RoF0YmKHIzviQFwFvRvL0DHtcV4qVp49UcP3naBVNZnX4KHgxqIDJlMIawA6YGjuAhB5H2lGFipvsp1P_vTTPbY5oCC1EKiLyWuihTaYFOpFE8_XKNls2_Z9fvQXaPK7RqWDg3OfN74uq8AUHIRVmUQVItmtQgtG1k"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJl5p1KOO3t4kRQuxBewD_Pu8",
+    "city": "Washington",
+    "state": "DC"
+  },
+  {
+    "id": "ChIJuQ72RbC3t4kRL4AXtvm_x4w",
+    "name": "Monroe Court",
+    "slug": "monroe-court-washington-dc",
+    "address": "714 21st St NW, Washington, DC 20052, USA",
+    "lat": 38.8988737,
+    "lng": -77.04733829999999,
+    "rating": 5,
+    "reviewCount": 6,
+    "photos": [
+      "ATCDNfUCJl8avrcmERCGAWnpwsP_MZkUGwoMCCYav6dyop3IPMQs3C1zRfg1dqL_JpNk40mOfP0eU22_sTOJuiY1cv7aYPO15vqBIgGVZTbqnaUa5AzvvMGI93tSVsOWdGPqMw6zpHmz_52mx0OfQPItkF8VAJePeh5aJ8YS31ipsVVTNgHbz7O8E2p1W6IqS8SQsVWIxJH2pUQCIa0ix9x6GgxEkILeK8oDOWhupB_bZvfWm0kwOemn6jcE4eMDYmeoYSdtRxcZKmkdxS7DYiQrI5u78oG8DReSbSwMHyrhq_du0p2Nu7ekSqAtExIXmbkTth-z9ACywmDxlhayDcwBwwEHYPIjoS-YGVg8ZfQLeP2n09rJ5GenbYkpejKTZ9hg1Jrk2f3yx2MnSEenHIMwGc7BVZYf6rYBhCPdrjWxZukbNSlpIdpKicVZfNnRoZVB"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJuQ72RbC3t4kRL4AXtvm_x4w",
+    "city": "Washington",
+    "state": "DC"
+  },
+  {
+    "id": "ChIJf-68sRDIt4kR6OEH-kvU4xY",
+    "name": "Emery Heights Community Center",
+    "slug": "emery-heights-community-center-washington-dc",
+    "address": "5701 Georgia Ave NW, Washington, DC 20011, USA",
+    "lat": 38.9588205,
+    "lng": -77.02788559999999,
+    "rating": 4.4,
+    "reviewCount": 246,
+    "photos": [
+      "ATCDNfWGc2FufwI5Rp62jMqvo9BU_yF5YGsJ4aKMJ9-tsen2zKmPMOGoMMXKb2WqDNkt_8T0SoO5SCz-YNsPHXJSxD8EjrG3aYCQ6vg6hvCu-FEfQUB8v9u7AmgSJvNNL4srf5X-4MC0KLwE0N5LqLZ_1zA9YX3OBEgqoSvGD1rWFocS36Gt6UCx_g6BTugWsB9DZ2zqSXia2kpPCMZ5AM56RqaGBRA5gppBlwEMNyj59Mo098TAxSlCxCz52wAHK9C6fZTsNPgY1ycX8_J1rGHKxWF05XmQGF7T4iaI646CM9Pdwwy0m7y8c2Q-bTGLuaHcaWkgvuCmL2yD3SjkNv4Isg7YB_N76-ertnacRmaayb84T-8wybs2imKAQAzxVWJNi5mObCA7L7vFOnWe59gYkZsc-Mv7oaDp4yVZL_F00Sg"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJf-68sRDIt4kR6OEH-kvU4xY",
+    "city": "Washington",
+    "state": "DC"
+  },
+  {
+    "id": "ChIJQcF3mtW5t4kRLPM4cHvlFrU",
+    "name": "Randall Recreation Center",
+    "slug": "randall-recreation-center-washington-dc",
+    "address": "S Capitol St SW & I St SW, 820 South Capitol St SE, Washington, DC 20024, USA",
+    "lat": 38.8795278,
+    "lng": -77.00943339999999,
+    "rating": 4.4,
+    "reviewCount": 124,
+    "photos": [
+      "ATCDNfVgyhhGf2j_G5gZySMv6SjENeH0v-1IQGGX2wQcnYSfVONd-EIvprCGsqrwTiiYvbshZ-J-mMnFlROQQm-6OOZqeIYTZiT24fjrHkBtR0sj52aRu8LStkT1uHz8ekMS-qIu8AWZPwrCt8jSqveEdt1nH7ztQ4aTADUcjTnhldHGTlUXQ1c360hQbDsct4G6lWQLYIIgqXtd4p0qlTj8zvEYm5t5vSSPs1kMJchkQz2ZGQFaYa0mBop6KitQImtksl3eqtyAZNPfKBPLmsKM-cQzJplpAwJVVxwzV8Vm9uFzhWi2uAw3DHtjrOaMDJnUfm1T_rUftnE8jWF1JGlfSJR9yjOGWq3UPhyFkz1cPXvr-cRDiqe0Q-h5xBoCzH1lq75QfPq_MHeuUZpU2t6gKrG-tcmvGwS5JidkcmMcIZjmfg"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJQcF3mtW5t4kRLPM4cHvlFrU",
+    "city": "Washington",
+    "state": "DC"
+  },
+  {
+    "id": "ChIJXaS05Xu4t4kRYsZXmVba5-0",
+    "name": "Arboretum Recreation Center",
+    "slug": "arboretum-recreation-center-washington-dc",
+    "address": "2412 Rand Pl NE, Washington, DC 20002, USA",
+    "lat": 38.9138408,
+    "lng": -76.97126759999999,
+    "rating": 4.4,
+    "reviewCount": 68,
+    "photos": [
+      "ATCDNfWLSUUzaNEaCeH2stHQe-WbTWytaNHKzkOpDG4Ge3SfKaacJj-lyXlgD7qbaQiAF5JF2my7BLzoXu55sR-Zy2cUcw3H5-wHCsV8ZTY8E_06ctt94Ni8ivRgPeTEJ-Tv2dGth1SiynNjNNbOOLYaFDKA6cMsvjQQMFvMeDHiiLjHeBehAy5_hRoNQkSGTX6XC46TOndYUjQFPAiyXJuidWaaBP1IrpuUi68jh57M4GDEnrgWFbrrNwBy3M0AICtsrQJ3nxw30rUw3L8jXdhqYy3XJM0d7-WqIXSUU7pRXldw4hhOrl08D26nr0fa96ZG-uqSMM7rEQssujDlgvUR5e7QGYdmNI4dYIc56H2ykqRZ2dwjbvIUOv-QNuipRwE8TBnbnqhE0vdHz0xbN8LibataNdjFfrx7F-pE4KsNkFw"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJXaS05Xu4t4kRYsZXmVba5-0",
+    "city": "Washington",
+    "state": "DC"
+  },
+  {
+    "id": "ChIJs4HslYbIt4kRvF5l-AFCLJs",
+    "name": "Takoma Community Center",
+    "slug": "takoma-community-center-washington-dc",
+    "address": "300 Van Buren St NW, Washington, DC 20012, USA",
+    "lat": 38.9685523,
+    "lng": -77.0175288,
+    "rating": 4.5,
+    "reviewCount": 468,
+    "photos": [
+      "ATCDNfU-7gANXhaUO5I6JY80g4i9sgsXc8ObgGMYQ5GiYQAbkwmP92wiBtzLAw-49WR_LiSmeSH_UzlGJTAk4qrbF3F2dBIQtxBBJs5nk0omc0de02RiYmithrympjObJxTOJzbqvoWMrCZ_6UDZKvZ3OI6UhTfKorxA0ZSxga_C5NuuiS0jPOZtbfj32b4OyT305dECGb91isQhaQiccctjJ9JgYcf8wN-ZM_iR-yHolXUiTs9shaTxIqrndiVSB_yeXUavuay8ziSfDvAmwsZXgF02K-LgRJZljty9tnZZ9Ch6NhLKtrsSI6k4DS2UKy1DFeyodUP3hj3E8cPFDJnyKnT5BD1h2FYOxqbvYlE3a6TufP5yEgpm-SR9zbIdnpoKKI-sOUyDCcNKQRvfMSAYXOviXhK_BwVx3Hb2zqVOirQ"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJs4HslYbIt4kRvF5l-AFCLJs",
+    "city": "Washington",
+    "state": "DC"
+  },
+  {
+    "id": "ChIJGS6ZUvS3t4kRP_d7859An7w",
+    "name": "New York Avenue/Dunbar Recreation Center",
+    "slug": "new-york-avenue-dunbar-recreation-center-washington-dc",
+    "address": "100 N St NW, Washington, DC 20001, USA",
+    "lat": 38.9067322,
+    "lng": -77.0132629,
+    "rating": 4.1,
+    "reviewCount": 32,
+    "photos": [
+      "ATCDNfXDnUumnUUBJneeddZESY5KpqcgHJPK4O5gm2jnxNeuOOOHj1VmgbiiEFnnM9AoZR6PMeHwq-HBHslyMFVRQO7qs04iGXTKAZW4CI_nAR-EMivOheR0mX9XfBXAB_x94q94EywunBv7mkULlrLz1kCq1DGVgexmMEwIRtvT42hr5hq5ppmutFMxc6ed8SUWptAFPJoP5KUU3-YDbad1TKE0IMRMAdCh9iKFan8GXn-RbnrNcRUNmovsUYB_jI2x8kSayGaYO6Lc80CIxP8e6j5ZQjl0LeSNU1697tFhUnNfq8lShZ4izovRpq_6YiHa3wWbgbB4DdWOlqfQxS7lzE76C5nksdgg5fGmdH5ODA-icZ2wF7bHkxoeB2CIYmuCVirNhUmDTKrs07d2PDRGhP1Czqawm_-isUSg2_bg0hM"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJGS6ZUvS3t4kRP_d7859An7w",
+    "city": "Washington",
+    "state": "DC"
+  },
+  {
+    "id": "ChIJPy-QPJjJt4kR2KEY4Ny74sU",
+    "name": "Chevy Chase Playground",
+    "slug": "chevy-chase-playground-washington-dc",
+    "address": "5500 41st St NW, Washington, DC 20015, USA",
+    "lat": 38.96330580000001,
+    "lng": -77.08057149999999,
+    "rating": 4.5,
+    "reviewCount": 116,
+    "photos": [
+      "ATCDNfUXKHXdMALViu1fGV_RelXjMl0Ne4MoaLQm1BFTNUa_-Q6BbB575E1GeEVMzauQeiFflRlWy32ziDfPxqUX7kImqtU86_sEXXMjiJpu6yTR4ilzdCgllulE5vWwlmqhT1uS17lCaAXFogr58wbtqHIxJxoyZTMVpAZoY6tYFzObVKRWF7iq8jD-EhcNq81pqJyC9QJ7ofley_JUuQlrqggwi6sVCuLq6eapjGl9aHOsE3cX5f9hoY2yysQjbT826JuDcSZ1NfkhdtPJTixdWsyIBHuNdc4PaLLHutiOql7uEEF59PNGVPXsBvrByqwsWi6dUKXHMDX4j43ApjV4__5rMCpNtupqRaCKI1wqNHnr1yuZvIKexjUmf2Ven16mqBk0KtMeIGNllB1zogoYOVT_8AoGLyND-_TocNHmsfplQQ"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJPy-QPJjJt4kR2KEY4Ny74sU",
+    "city": "Washington",
+    "state": "DC"
+  },
+  {
+    "id": "ChIJ7-8ulKPJt4kR3d9616ni-qs",
+    "name": "Chevy Chase Community Center",
+    "slug": "chevy-chase-community-center-washington-dc",
+    "address": "5601 Connecticut Ave NW, Washington, DC 20015, USA",
+    "lat": 38.9652786,
+    "lng": -77.0749053,
+    "rating": 3.9,
+    "reviewCount": 49,
+    "photos": [
+      "ATCDNfXyOUxunK0QM8_nmka-9DjwCAvuMN5h51PIaHm-98VPU_F09dYH_EIh09fchN3T2GJ6QgnF2lmqpppn1P7Dr3Hq2N56aMyM3MiY6Ng8ay1JzkZdWoKQEyCW5ES64qrzBXmsCP8ms2tRFZ03czz_8T1RCzPK0R1vTjJZwwKvTm5uyBM_SvTda-BcZcyn1O3MxgxQRuoYXIy-tYxwj3lOhIqc3q_ZyM42kEj4MfBPC6JHw6uN_0XPgiqiXFEbnCWZArMTL9mlcJRuX3iAi_FfuVOantF1Xjl4AwZSKAqdZTAyyNlea1U873rfKGCUh9S7XtIjEdNQQz1FZqj7yAfi3MUU1MV5gTR40aqZfORPmEcLcv2x60PIEsQAYc-udbfmHzZYR5oHdTkM6odbn-GKVAiUQWKbq41mAUHrc4IaKUeUPg"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ7-8ulKPJt4kR3d9616ni-qs",
+    "city": "Washington",
+    "state": "DC"
+  },
+  {
+    "id": "ChIJLbfYDtu3t4kRGCpOgH2gAQ4",
+    "name": "Marie H Reed Recreation Center",
+    "slug": "marie-h-reed-recreation-center-washington-dc",
+    "address": "2200 Champlain St NW, Washington, DC 20009, USA",
+    "lat": 38.9188555,
+    "lng": -77.0412959,
+    "rating": 4.7,
+    "reviewCount": 92,
+    "photos": [
+      "ATCDNfXqn32M2i6avE8IOF5Jn1jWL3d6tQANYhvuCDVMxACzH94MFKLNeIZb2QwJxjJinGN6EJiZrZbG2FifsgjqRQpSSpMLBl0BmYCzojyDsvZGsQPjntPvzreqHaOS4NTclLF1BcyTGC1ekIgvl01eQdvrl0mKckEjWNugZmerV-C_wqRgBFhcyRPFOGx05_3uzsIzEZWz3ewv6lXTag5Wvr9ojq6GI2WkodAzKzYGibhFmeqwHH1QE7K8ka_NMfdqAjBfL7bzcxch9k3nTE_fYuym0MDnBEDG7imCGlo-MGzoewBGCoJFLToJBN6_zNIDGHxRVzl6uarLn2oeT93o8Qu7HzLGnfIBFaKg3SCJmcp24QStvF7A7Lpl4m01H-kJ6UitI5oXVQnXrhu_pl-iJZ70lhDC6EzAnr_Zoc3wr6nfuQ"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJLbfYDtu3t4kRGCpOgH2gAQ4",
+    "city": "Washington",
+    "state": "DC"
+  },
+  {
+    "id": "ChIJp7QFFcG3t4kROkPF7PsSQS0",
+    "name": "Stead Park",
+    "slug": "stead-park-washington-dc",
+    "address": "1625 P St NW, Washington, DC 20036, USA",
+    "lat": 38.9102476,
+    "lng": -77.0375468,
+    "rating": 4.4,
+    "reviewCount": 305,
+    "photos": [
+      "ATCDNfVh_Xe_VeRrI5ri4YOmoyN-dFITKMl9u4b4VjpCXlC8lO_o__fALkF2tSfkmZK_p3QbUZXnmwM4FvgKAoZjuPe3qwz_RclVT3kRD0DXeEWOyOlVBxAURImgbBsI9MNwO0F_HJK5qiT-DMpFNBSuhrbd-meJpYUzDrGZnHJuR4BYaO8KvyUnYQ1qZvdGKrSt_Bh_2v7xumikl_6cj3qtID9JrDRfus-wVm6_n26n_h2u13ArxxV4dWdpMyPNDkm_tbrhEY53rOclXAfSc8ZOCTjYWx3HHRTivlwYbJ7DZmoyNi89hVL9JJTrek0C9L7tj9WN2KUFEIvsf3bFt58GIut3MnkwVV84ZaaTi3pwnQx-Po7y-x6QtIUjQn4y5qg34qWubOnAI92mwCBSjBglQ4x7fTGmucFA6dDwE1xy6MvKxVr_"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJp7QFFcG3t4kROkPF7PsSQS0",
+    "city": "Washington",
+    "state": "DC"
+  },
+  {
+    "id": "ChIJW7CMHxLIt4kRD8RoyVSoAUs",
+    "name": "Petworth Recreation Center",
+    "slug": "petworth-recreation-center-washington-dc",
+    "address": "801 Taylor St NW, Washington, DC 20011, USA",
+    "lat": 38.9410069,
+    "lng": -77.02400639999999,
+    "rating": 4.5,
+    "reviewCount": 56,
+    "photos": [
+      "ATCDNfVpGbifoBJCGMa2CF3svUCEyXiHnC6KJC3O_I3UJhWOboorgcSOtnmcxna0jFNzTZYeN0x8kUcEjLLZgDJaKvT-YHKELQ863Wcn-eyhzb1iNQqyrMoV42Mau-8-483NssPbC9gRq7w6VxyyT_K_aS7wbj4rhkxwksjHYvAoeF0Rrdnt5VItv2uMsM_wZmx5CGUKmTKGM9MMJIuUw04E8xCGx1dyXATjlhvOXPVtuOquMXp9SuAAaVFf0rDAy0wZJu6fk7NlA3Elgb2855CAwQsI3KmluRtdKFSYWCSXu75Hg4BViouxdagk7CjdtYfNf109CITGRsDIVJnbpsbgDoKf6me7qPLItlFU2FRvxBTWhQuy9pc6EDW57tWusTkR7MWXFnbJvtFOHg_gaO8AceVz8sxZ9EvwnMPr0pNibCs"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJW7CMHxLIt4kRD8RoyVSoAUs",
+    "city": "Washington",
+    "state": "DC"
+  },
+  {
+    "id": "ChIJwd1Vd2u2t4kR-1Ce1E5bW1A",
+    "name": "Hardy Recreation Center",
+    "slug": "hardy-recreation-center-washington-dc",
+    "address": "4500 Q St NW, Washington, DC 20007, USA",
+    "lat": 38.9092944,
+    "lng": -77.0843266,
+    "rating": 4.5,
+    "reviewCount": 90,
+    "photos": [
+      "ATCDNfWvfnYybvt_4Ni0SSJf2gaURwhICLqqbkW9-FxpWdcC2XXRXDHBY95ccTtMbzk23Lm36QTRF2S_Sbh4CFJGVrj7MsYfJj72kW206ZS66PjqyMzEuuPKIy_VQvYbCAhKbAHXSpD249GOqtJnYMf8uIo-T7wYne-5iAKx9uuZmvmKEQpQL-1w-OkVnf0iU5jhGb8AdffQbHtlWXWU_a-kobKL5l9SKxmvrdJ2y6buCEoG4c2bTQu9ofreVdMJ03OSInv8am8Dum0J_CS8UvMSpESl_3pbUQlziXF9OEhxLUBPfojfd3UUtcwxnc6JFWK9ci3-1VWIRYD96fyjB_xyp_dS1ikG1Fcgocmyc_yCJlL-rP94G39nYeMNXHm08U2mTCRJJKKgNd_ABfJ2iHUk2Eb80rewAFdLNGP8sY4YlXHsfoj6"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJwd1Vd2u2t4kR-1Ce1E5bW1A",
+    "city": "Washington",
+    "state": "DC"
+  },
+  {
+    "id": "ChIJr-zePbG2t4kRHkcOY9nXwYw",
+    "name": "Walter Reed Recreation Center",
+    "slug": "walter-reed-recreation-center-washington-dc",
+    "address": "2909 16th St S, Arlington, VA 22204, USA",
+    "lat": 38.8578971,
+    "lng": -77.0861978,
+    "rating": 4.7,
+    "reviewCount": 93,
+    "photos": [
+      "ATCDNfVNistdfA7QKvmlaXn6_sehLR2D98aeiRR0yYAjdW972bCyNEwwHEzaYVxRkw_ZkWG4ahJgtgMi237QJmd_yrcV-v-HkDA8-9plwO2DDbyDzT1CevQrQgE1kKDydIqr_Ffvf3ObFsgNT400n84jMJxOh02c25AvJg-yzD8SUaha-z6mJHrMrKpJ4wpoh_p31LALXMX1xpGUrbySBkXwJGWNuqz8LnnsW9aNQ9pQ_Eje5c_RoiFP_WVXFvsYKwAlf1RzHN9r_BMg6i61u_52xOBjBDlCUa8pK9z8GN1igJzs1QlYIRtxaMaYpfsSEyAay5bmVOrcNAmVI5MfrKYEdjmoLz8FiBGgbiwD-lVKPVMt05Rc0yQwbejoTGKroeeiJNkGoRet_sq0S297C47tc4DkTMvjgUfL07P_eUVsN1DU5KBivyCPMMqhMNzHaVhf"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJr-zePbG2t4kRHkcOY9nXwYw",
+    "city": "Washington",
+    "state": "DC"
+  },
+  {
+    "id": "ChIJU3a57Aq5t4kREFF-gRUNdHs",
+    "name": "Hillcrest Recreation Center",
+    "slug": "hillcrest-recreation-center-washington-dc",
+    "address": "3100 Denver St SE, Washington, DC 20020, USA",
+    "lat": 38.8586749,
+    "lng": -76.9625288,
+    "rating": 4.4,
+    "reviewCount": 183,
+    "photos": [
+      "ATCDNfX-E1t0OCyijIRn9GUTfXJqxqmGUedkPzgUgdlSIHWq_WGq69QwBNGQqF_vA4WvlI9hcWlENPkkvNW05ZcxATzgnvf8n8PrV-o6xmFhx7TAIlt03WggcNBvNinmjBTmZ0X5M0f31oVokSq4Tfkrdt0QDFu4Z1eGQ9J_D0R5U_ZU9P7qEBmx-9zYuSdxYwraSwce8OfX6lx2N87EUEzwG316cHoBHdaAYkXaFL5f4UIEnq2aopDulL_4YYHDndTu4ApnbK6RbjLJzTuE6-BZiEVJO4Cyfs5KBFLMcglX6mVSnAsZBkT3IZCq8tR--U3k_nffdsI0S-fqV5_SHLtJk9k4Gnd-BPYtD5mFsET5DJXKWCtBhHS-USmKTcftPkcU-9UX7GcfiVDtdj8CkRhw_WSqM2RWC2AZ6WTLfjbtQnbMYvE"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJU3a57Aq5t4kREFF-gRUNdHs",
+    "city": "Washington",
+    "state": "DC"
+  },
+  {
+    "id": "ChIJDWF67TfHt4kRMzwhrghF4hM",
+    "name": "Turkey Thicket Tennis Courts",
+    "slug": "turkey-thicket-tennis-courts-washington-dc",
+    "address": "Washington, DC 20017, USA",
+    "lat": 38.9388909,
+    "lng": -76.9919721,
+    "rating": 4.8,
+    "reviewCount": 17,
+    "photos": [
+      "ATCDNfXfGDCrEFv6afvmydl5yCVRELFZcNCe_fePlwu0crnhjB_0IKoCau7E2gKtFbvNTl_jZEzfEhzeP_6jRhQHV35A1nMwPY9UZNIvdT-X2-0E_aD2On4pcUgipY6CpcCKxJaR7ccPtZTILK4C3m-ItH4uCcWRdtXEoBWuXlOKeif3yt-WAdMYL8iEFFyeZhVM-Pjsrw2KKMzw2146IzQe_QrbhYjLvggJ_AdlT6p8KPiptHYbvRrm1w0bNyZgL7qgXKKO12lDGz3t2ia3u1Nd0vXCj_7W-35J1FP6AeQa3X62rJn-iZ3KGkLg0jTICfCbHz0PDVqWP0zO2VdZohbjqrMYdOPE8B1JXC7AM_99pv9lNofI0L1LN5RgAINBkZmYnb61_swo4Vtws1nfKB3xlTaNtUp8Rgb6V6X4XteY8W0bUQ"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJDWF67TfHt4kRMzwhrghF4hM",
+    "city": "Washington",
+    "state": "DC"
+  },
+  {
+    "id": "ChIJJYFiUNO5t4kRfWz2mF881oU",
+    "name": "Garfield Park",
+    "slug": "garfield-park-washington-dc",
+    "address": "1-299 South Carolina Ave SE, Washington, DC 20003, USA",
+    "lat": 38.8816715,
+    "lng": -77.00357410000001,
+    "rating": 4.4,
+    "reviewCount": 416,
+    "photos": [
+      "ATCDNfWhmQSJLm3xKjMj_3xY2LpcC17GDDgMW20bPT7858ZwPqWQF9poDQ-yrxQWmPNU8Fl9NcDF2hVIGE3Rz4UzLuOcymjXBUVeRYr5eSIvc0vLvbseW-VcFxN31akh5lk7sXEr3KU1ut-OhLLDoWvWlMFX4dQS7SINZpA8qr4eauBrz1_qqUI29P1L8Rtuqwu5CGnc8Wcx8DFLNAo3QePZnNgQjYa1aBaKjll3Vq4bnnXzUVGV0Onn7pPtkLbd9WA94Gk-m3W2M0V1hWxt_QZswXS4KbFoEnYCJfy_Eq5R0e8HtbggJl3UwCkPN2Ul8PrDqPFViDvC-XAcJRtteY_VvNLUWaVVgdHqxEAW5YeApe7QJCdfH62FWcEH0o3l6H-hlY6-V4prXACjLQeF66S4ng9hEd0ZE3uvQtdLlLvXYkmqGb33"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJJYFiUNO5t4kRfWz2mF881oU",
+    "city": "Washington",
+    "state": "DC"
+  },
+  {
+    "id": "ChIJPcFF-Be0t4kRoe2w6hAgTHA",
+    "name": "Lubber Run Community Center",
+    "slug": "lubber-run-community-center-washington-dc",
+    "address": "300 N Park Dr, Arlington, VA 22203, USA",
+    "lat": 38.8735076,
+    "lng": -77.113995,
+    "rating": 4.8,
+    "reviewCount": 254,
+    "photos": [
+      "ATCDNfUp8sM0F_RhIj-JKPcZF23SEM5KHRieHjYYwi7TT-sY7fXxnOm5U1MOoGQQiE2RiiEXsJyibBnUgjTj6jGJonYwjj4zGLlI83hnVfpTxQksSOrV4iEJZ2mCNqm82M54uDHwS0CKMq-DlIfx8syv-hfr2IU1l3GUrwneyaATuHpBN3PHbKd8-1UkvASWA2CGWNgm-IXHIUL-0FTjeWUApq-X3ItnUuDUjIKJJMb5EznDq4AhXDpSNsuK6mgijVhFRSNBhtZ-GT4MGz6DoPT9eVwWaf7UX-ho2b9YteCGUb6vDQ5086Xnc5SwiZr6-dky-1LoRn6c0ypGnTAtXH-wAe1I_pZO4CXQfQYgEygrt87FB0c98TqEfuawVIM2oSmPZXW0pZNuvMJM43b-I_Cw-UJtZVrBZd23RLncebFZB1Hur54"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJPcFF-Be0t4kRoe2w6hAgTHA",
+    "city": "Washington",
+    "state": "DC"
+  },
+  {
+    "id": "ChIJt_KSMh24t4kR_3hiCNi2cqk",
+    "name": "Harry Thomas Recreation Center",
+    "slug": "harry-thomas-recreation-center-washington-dc",
+    "address": "1743 Lincoln Rd NE, Washington, DC 20002, USA",
+    "lat": 38.9140162,
+    "lng": -77.0078846,
+    "rating": 4.4,
+    "reviewCount": 132,
+    "photos": [
+      "ATCDNfUzmOViMEkm1DNdsmemfxK3Vg-XYOabyrrbHvIzMfgtajF_tM2ysvFBie-vL7oNGSiCVidFpTO87bmk9T327jzeMpupX3p3kyj8cOTkrUcnPG_uo60Y_xbnR0XGfTZ2VyJxEapfF1uOzfPj-VaWmN3yWsUOBoN39YlC5aqBOP7jDueKza23XHVnoMqX-M4aEpGvBZw4lymh2wCMEFyPhZKkvPsxqgKM4nIl2NjGZuPdBhr2ofTiNiyahQ7o9Ykkr5Fv01UoRXCkQv_JxH84mQZiBHr2Bts9BGq-OBS24XXhHtPqbyHwlT0CuLDUFvDTR7m5WxrE9i7w9tdtW04HCsX3qCNG2P499zaG_MSaFRqCR8dQx6KhxX3WDgWXBFgKZU73NWIKinlLU9R3FCqw7KSU-524CCzs9Oqe6hkquZOizVyg"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJt_KSMh24t4kR_3hiCNi2cqk",
+    "city": "Washington",
+    "state": "DC"
+  },
+  {
+    "id": "ChIJB_IVI9u3t4kRRyjH2-1Eepg",
+    "name": "Tennis Courts",
+    "slug": "tennis-courts-washington-dc",
+    "address": "2179 18th St NW #2159, Washington, DC 20009, USA",
+    "lat": 38.9181146,
+    "lng": -77.0413816,
+    "rating": 4.4,
+    "reviewCount": 26,
+    "photos": [
+      "ATCDNfWBF-7nQZeutReAxYyIAKljR87_QIIoNWWf58D6w1XFlvhwByWMOexXKWO-fTPuN9S8mpCdyYIguVBhB6CDMhsQmLNoUW5VG5Ek7sYyx7Q-EeOXWOWZDLwRNz8lBysoyf-m8oH8j61S_MXjwIcT8skT7Sz-3UB4sJRCW3BfnU1DtbcCKfXIR2jho0uaOJuu3K9OzI3dyKV_0TQXNUhTgUTk4hYxpT72qKkxHQuqo1YywSKXalyUkifz_aU4TOz_lyYojMRH18kXuqgG1Zq9lF95mqxmy74_WjbWw2vrixv17Hzbo-4-C3v6bLIMLZMuf4OGIvV4tdqs_ocTVvHjPB5ZyevIXqHgshYwwCh4KLLthwIPshgZhLxu_bp63Ycfrjs7CK3n-eR4kAgBlGNI0ecfYfdmIsXKSSfm3aUcmnE"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJB_IVI9u3t4kRRyjH2-1Eepg",
+    "city": "Washington",
+    "state": "DC"
+  },
+  {
+    "id": "ChIJuVl_VAXIt4kRYLCK7V_zw7k",
+    "name": "Park View Recreation Center",
+    "slug": "park-view-recreation-center-washington-dc",
+    "address": "693 Otis Pl NW, Washington, DC 20010, USA",
+    "lat": 38.9349512,
+    "lng": -77.0213711,
+    "rating": 4.3,
+    "reviewCount": 112,
+    "photos": [
+      "ATCDNfUo7SedAx5NoxOhEz9JGE6HxQJTs_5ky-kmRHirZDaKtrLZjt3eyILxHzZKwHo1oEZW3Fbl0JldNt50u1-Gf91EsF1zYI58qUhMqrz5-DMR1jkA5ME8QYoeYvrurPlMkRyz6yW_VuEp08YZNpPriShJfBQ-FBJYZ5_XiTdqjkPk6Loiuqg9GXJ_PRuJuKservuPpmn0zdj_D5V0KCTb5LaaTkb4lNILulStgmcMfq3NXqZnqmLYrVj90paRg0P5Dp_yWV8T4CJ3GF_4v6WlwSKw11F3tPXN6IhLKLIV6DBwSM98mKbEeUIX45f-H4gcnYdo1OapG6DNSvQEoDUFSJRzKiTeRFy9J8PNIcNlm8xQW-ELV0zSsl2k1ONofcw6i8zWbcnWoVu0MuVn2wPAJSGFWRkrVKzNmYDIrLeZ1BjPKQ"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJuVl_VAXIt4kRYLCK7V_zw7k",
+    "city": "Washington",
+    "state": "DC"
+  },
+  {
+    "id": "ChIJeYcR7SK2t4kRHncfAxOBEwY",
+    "name": "Stoddert Recreation Center",
+    "slug": "stoddert-recreation-center-washington-dc",
+    "address": "4001 Calvert St NW, Washington, DC 20007, USA",
+    "lat": 38.92301399999999,
+    "lng": -77.0778517,
+    "rating": 4.6,
+    "reviewCount": 39,
+    "photos": [
+      "ATCDNfVe4Hs6-vTaQkzXFgvMWBFv19XlXaaSuLQyVIQOI5St7fEjScs-fCdxktk9phSD1dyFJsjukhyWGJprG7dO5HCKbIW_a0VA79ChfTwzPb0agsgqyGbvBlO28-SAhbzXuV6Wd7F1B7EGlje9e226qdBT_V-2m8_jzpedb5LjA2jPDwh5AnpWuL-EikJTfMcNocKtnZTfiP1l6g5T6Zpf4SO_aTWxCS0e7vw3VY5l96tJbo4ASD3sSW3BLyvmE8LikUaZUXKBdKcVTC_ckuYzhdyYRa-0bSg91L8QMTdNiXA65WHu5bDS8tBjppHZJI8fCEJAQalSxChsCKyfnAdEDWfKgG0zRHeARs1EioORTnk2Ilxlr_GbdwAwa9OEEMQJv5JWwXXUW1UCXspRvRCzjPD6GexK9SJz83RwS5MBqTwtKHk"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJeYcR7SK2t4kRHncfAxOBEwY",
+    "city": "Washington",
+    "state": "DC"
+  },
+  {
+    "id": "ChIJ4yK6JxW4t4kRoiZY63h-WzM",
+    "name": "Joseph H. Cole Recreation Center",
+    "slug": "joseph-h-cole-recreation-center-washington-dc",
+    "address": "1299 Neal St NE, Washington, DC 20002, USA",
+    "lat": 38.9037546,
+    "lng": -76.98752,
+    "rating": 4.3,
+    "reviewCount": 65,
+    "photos": [
+      "ATCDNfXULqgolw4G1iPWS8KxTOHoNHHjNxt9wKV1FQ80EN9C9yCiEwcuatzjlyDpyDWa1n5VsjRXkAjdeAjlmLtYL_zQBuXmJ1GjL6eIHrU13jHHxelVPxhyShlOBRKR1ySyP0ave2G8TfQ0rqS4vVYhr6lZS_DsL6UreGO2VyhRz4d95MMjD9lrhE4HgLIvAtGb-6RtAugZ3cvQCszAbG0Sz9k8ySFKX4_kWSvwgl5vw_Z_j3x4TZXbywY77oBVpVYJj0RI0fRsIBr9pInqzxxq3dFcxefg3V44xluUOHVK_H0b_dwYo-GoLgWkgOCC9FoNWmmWk_-bs6oBhOaGGkhFF2qy-pTcwu0n86xvMzwZ8RwYX0qhW5RUg2XYaDghcQBEeTflgWNNT5vS-jCq7i5HBkEMrIut7hckn6Igo5b_GII0gda8"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ4yK6JxW4t4kRoiZY63h-WzM",
+    "city": "Washington",
+    "state": "DC"
+  },
+  {
+    "id": "ChIJq6KDxjC2t4kR5z1JuCLaiEg",
+    "name": "Jelleff Recreation Center",
+    "slug": "jelleff-recreation-center-washington-dc",
+    "address": "3265 S St NW, Washington, DC 20007, USA",
+    "lat": 38.9157193,
+    "lng": -77.0668347,
+    "rating": 4.5,
+    "reviewCount": 109,
+    "photos": [
+      "ATCDNfXENY6dP_7teGY9LRhK2Xa2xIxKwQdB1xn_TthjZkgYfgg0hw6WOn-xiXx1UIqpjmzAvARcYsXRkk5XgFa1yGH-NgDWnuZIJGVY2oF9pWzTOeYWQcruk1yDbH_1ihW08Te7qfqwREETCRKOL77KsV4gnCASfQL4tXG_65byi6hde74TlZFuI0F-8OQIzufq_FoFb1Ja-w_erxCz6vtNDoK6qsxMhd9xxoT2YDkYmtRXaOrqWkHA6f2uXOySI1jITqsA7BfZEHGS6vb7K0Vfs4bgaByuuj3pcARka7UF0h3Bf88acR1et8lgADdAYik_62TPQy1Hb2mM9oqFlvmFwTtVWjk27pzW2zZuq7CenNGOmcjoy5hdBlwcZokAuSFG0ed5WSc2AYDj92r-NHtONgmsxvZASUpNTXrrjQKtGyTAKQ"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJq6KDxjC2t4kR5z1JuCLaiEg",
+    "city": "Washington",
+    "state": "DC"
+  },
+  {
+    "id": "ChIJgfDR0Cqxt4kRaVG-w_3DvGA",
+    "name": "Fort Scott Park",
+    "slug": "fort-scott-park-washington-dc",
+    "address": "2800 Fort Scott Dr, Arlington, VA 22202, USA",
+    "lat": 38.8468685,
+    "lng": -77.0589648,
+    "rating": 4.5,
+    "reviewCount": 184,
+    "photos": [
+      "ATCDNfUALWm08JmrRnLxMUU0AmP_0QY_csxuTM67TL_9kGMwdJBxnwwUJECvryvmZrznCjMKcsJcCOcxZl7zLYJZq4afeoyZ27xXqs1KS1CKl3_XxItrXUnB7OKkIiqdtiE87rfQoJCDmLfZp2cmXz3VVa892uld79N36sNFYu9Vbr6VrFW881TIUdCOQBQIGHC43t_7jtGGuc3zmVixvfzrcAGeRDBmTe3WtTY7mEcYQBHe6pfZ1zB8C6WgGUnkp2pU4RsEw4Vvxwkj3QyBT_JuLQ_W-ny89sLNDsI3cjKilvFWQyBMreswngQX35UCGtU5lnGNFIupmPaUOmRICv1wHcinaXy8EgP6vAadd-Tc1ssv7mDF1ld1jBCetR8JtTysugs329v4VAi0_zF-rT7Lb-_Hoq-EnioPJNktE9XGY752q5dr"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJgfDR0Cqxt4kRaVG-w_3DvGA",
+    "city": "Washington",
+    "state": "DC"
+  },
+  {
+    "id": "ChIJ5xR2IEPIt4kRd9AQ9YiTaw8",
+    "name": "Fitzgerald Tennis Center",
+    "slug": "fitzgerald-tennis-center-washington-dc",
+    "address": "4850 Colorado Ave NW, Washington, DC 20011, USA",
+    "lat": 38.9538809,
+    "lng": -77.03720109999999,
+    "rating": 4.4,
+    "reviewCount": 210,
+    "photos": [
+      "ATCDNfUV1TZvst6sOKwH8CZs1VCysRGxb42dLljRNO7F70N6rKdDkCk1nU9clhlTeUJCHuhu4kpiBYKqLZ4sEXPkhygxUTRcbxLdYQjAmQcl-k1FzbdDJj74hElz4pS0UyJwDP9GlgQQ2WvE32QIt7FVrK1189fFd1OeQGSN8gu4IRSIWgbqxB8e3PVK-ikCKBosmsWz8X2RMQXzfSHhNdRZ41yheOZfwyd_SorkDL9mCmYM_Yal8V7q0TtXnMlWeMzDrMkpll9QtLdIDM1ra3hNYeAfioIf7QQB9GRdCUJPKBCOaDXQqnXvRVz1zzGwQ2pIQ2cnr2OsUI_0fveuQAuhAQpc8hnVEpk1NsypVisS1J4XRcpTXFiHnpc3BCzhyfbGSJO0t4YSnvhrdZgNTsrdqXIvdfdrMzBypbkF5Y4t4DCfwg"
+    ],
+    "types": [
+      "establishment",
+      "health",
+      "point_of_interest",
+      "school",
+      "store"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ5xR2IEPIt4kRd9AQ9YiTaw8",
+    "city": "Washington",
+    "state": "DC"
+  },
+  {
+    "id": "ChIJcwNPoyHIt4kR9D-nxUQ3EQA",
+    "name": "Powell Recreation Center",
+    "slug": "powell-recreation-center-washington-dc",
+    "address": "3149 16th St NW, Washington, DC 20010, USA",
+    "lat": 38.9303406,
+    "lng": -77.0359368,
+    "rating": 4.3,
+    "reviewCount": 40,
+    "photos": [
+      "ATCDNfUVQ9knaTpuyftbMIzB9s7gegRT0baHfW2VttB1u4wRdefUP4UDUe5Fsl90ia80JfesXqgg32j8MrbN9RslUDIua_U4_slpHv1xFq3T6ph4hgoEunw7Rv4I3cmOGTbV2d0kDRbGcA7ei--Kceauj6IgFlFXWchGRottcte68Vrb8Oot4TRjhhNe1l9Slqn1xmrm9cBjtMDQ7E6BFOXAVKKBe9tPSa58yzwJxCHC8v71kUDw1oxdGrQYQyO9HB3pfzjPw9dsQ7RuuGMhODpzwJWWRfKOGINl5OpY8rWYWeYvViDuBpREVspBoOgdZ0oWT7h3iJ6El5nAJCXtS9X1Qveq1GqyMs-Takau9D06C1wayrhytjEyVB-BsAc0W0ILY6P3E7wlSmBC50IiVML_jQEQErgt9JR4isnro5JeoRD6Wg"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJcwNPoyHIt4kR9D-nxUQ3EQA",
+    "city": "Washington",
+    "state": "DC"
+  },
+  {
+    "id": "ChIJg-VR9rG3t4kROdG3lSQ7ERw",
+    "name": "Lerner Health and Wellness Center",
+    "slug": "lerner-health-and-wellness-center-washington-dc",
+    "address": "Lerner Health and Wellness Center, 2301 G St NW, Washington, DC 20052, USA",
+    "lat": 38.898625,
+    "lng": -77.05053579999999,
+    "rating": 4.1,
+    "reviewCount": 76,
+    "photos": [
+      "ATCDNfXIJ0YCf9-96zTmBWnCx6erWCFBlq0hhxbXyvRV7sZf5nuy8gcSy-01tNKtm6Z3RoSv4oCIhBKDBcvTzevvbvAbGmHKF2t2Q4-w_-6k_JbeVPiwy8ZkjwvFnr3ALmMALHtir3CZQBvuX-nuQczBbFYG9Z77kD8Az9-fTXBiyYiZ1w1j-zjL8fV6WNA60mrO2QdkdCuGFQ8nYuRQYUH1GLXPctGCm0uhoJPpnvJmu4t_JQ4Q68vhWuiENYxz4npVaQhcOYSaHBmL8Fl6hpPY8gaUDWK04ZKoX5WDY46XnsMv3Q"
+    ],
+    "types": [
+      "establishment",
+      "gym",
+      "health",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJg-VR9rG3t4kROdG3lSQ7ERw",
+    "city": "Washington",
+    "state": "DC"
+  },
+  {
+    "id": "ChIJp7a5lUPIt4kRaZ-A6mTLUQE",
+    "name": "Rock Creek Tennis Center",
+    "slug": "rock-creek-tennis-center-washington-dc",
+    "address": "5220 16th St NW, Washington, DC 20011, USA",
+    "lat": 38.9539409,
+    "lng": -77.0386103,
+    "rating": 4.4,
+    "reviewCount": 217,
+    "photos": [
+      "ATCDNfXdbhDA3zjXL9pEMU5u2YQQbPg8BvHHa67yW_AnnMoG0cb6UXac2JzXphzCk3FGujVQQGhIuDbuVj3eW1pBoyN9qm0EXFqO-OZlM9rJ3ZvQRESZI7mhY7L36m6DSU9wt6Tswf8ML8W8b45OBDqcPqyc-NxlwiIOqLIl-h_GJ_VJMTsTX3ccez3-p95FF_S5slIdIFOLNIjmDHU9x6uTBx5U9j45_GuNjjrmS5TP6fEALOgyRXNZRczDzTVa7BDo2QcA1jh_SKpAsRc7kAnrYPlg2IlOYHTNoXSx0OQZ6eLtjz5jp888-smB8CbVVGEFstpdxAnVjZJeaajjNfBXmduk2xpXoeeZ_5vWDUpXTIYExWu-in1mJ_oyLjAiNdSKlZL5ItSiHbayj5Dsh9bZuk2XZVjEA0jRg4avPSgznJna7GcrQIknE72hdrz3Ag"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJp7a5lUPIt4kRaZ-A6mTLUQE",
+    "city": "Washington",
+    "state": "DC"
+  },
+  {
+    "id": "ChIJCU7XLTO3t4kRHUKqA9_s0Kc",
+    "name": "Rose Park Tennis Courts",
+    "slug": "rose-park-tennis-courts-washington-dc",
+    "address": "Washington, DC 20007, USA",
+    "lat": 38.9082903,
+    "lng": -77.0554524,
+    "rating": 4.7,
+    "reviewCount": 7,
+    "photos": [
+      "ATCDNfWuBlNvubq9Uv42tYEdjEAPl8iC51GiUunswv4psqKwa-kkSOFTbMJFhGhn68AZqDD7XwPLfeqSUtvbyOZYrYwpUrfM8Mymn1T0Ci1iAvKxvx-ZxWLUmUIsOf6zMaMHgE1pm4oFUtZQMjZonMw05aYbQ4Z4ucLYFgorf_xD7xvAv07Lsna_MHnoLJCOslc_POetytySOPKhD6F6Xs0aB8ncgDKk6iYA2UGgwf9QJmdNLg81MMuUvOGu3MUxbj8mtkhwFma5aFwowdx0_yA2nEW6mzyU8b_MFbtgWcyoKAMLmZBwqkWUURO94g0hMJGra5Gf_r5v3hCfPkX4xV-5vjnGJ1g6LPR5B19ofOwW2CtxS0vmXQTB59Qvm9JzWj4kfWs03rm2Dwrer4U3Rgg-Gzon6ewwdLZjl_ypNoK6uguNFQ"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJCU7XLTO3t4kRHUKqA9_s0Kc",
+    "city": "Washington",
+    "state": "DC"
+  },
+  {
+    "id": "ChIJE_iDIe-4t4kREMa6VtSxVJw",
+    "name": "Benning Stoddert Recreation Center",
+    "slug": "benning-stoddert-recreation-center-washington-dc",
+    "address": "100 Stoddert Pl, Washington, DC 20019, USA",
+    "lat": 38.888852,
+    "lng": -76.9482026,
+    "rating": 4.4,
+    "reviewCount": 156,
+    "photos": [
+      "ATCDNfUBYlm6KGZOusMEpdybB8xoY2OKpyNmjD7gj4VAFE8XqUZXsZjK02defl0xhk4bpmgmIk_AGXj9hzN-bVHS71Av2ONv4AEMaQDZ-c1Jk2LEAH-NfqxT44Vg8TYf4DyNBA0wo8OUHbvKMIJXk8vRKSQsJ2Yt2VihGvNUP1XFhyLgEu8CtqQ0T_-c21Xmtm6Wff0r7D2OdgJHq3N8fVJVA9juq0yP_rFTGLLvw-MjrkbHqa0Uw4p8LOxbWjJop0T2znbtLW21TXh4hPbWYP5nw7Ep_O0tNC8vJUrvTL6UfC8d8TBjMYNQofhwirgpLMcdhYhVdzw2--f9JW1D9T2NYdnZ1rnhMvrttxQaMAkaaGPK6h3djef4-7al7EMTy8D4MmU3v37Xjw9D4oObky7PB_vmIaKYFsTztTGIpDMG8lWmNSJo"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJE_iDIe-4t4kREMa6VtSxVJw",
+    "city": "Washington",
+    "state": "DC"
+  },
+  {
+    "id": "ChIJAWgTDx26t4kRxU7geTSNlPw",
+    "name": "S E Tennis & Learning Center",
+    "slug": "s-e-tennis-learning-center-washington-dc",
+    "address": "701 Mississippi Ave SE, Washington, DC 20032, USA",
+    "lat": 38.8378258,
+    "lng": -76.99496959999999,
+    "rating": 4.8,
+    "reviewCount": 70,
+    "photos": [
+      "ATCDNfV7ZcRvBGJfWuwKYAxgcbDRUNzXkxYiE4liNW6UeeJIdkNQDMfsU59dtLnaND1xlErQtYL4SxmbHywTEl7Hy2WaE9q5k7IuUtt3x79Lrz4tu46QcSZ47w_9KGJ1Hic0Kc5YjR_68Oie05tGeElk5RD9xWIvPMUp2RR1tBxTiYQLbVqJ2hj1opD7ZN42zarO5slkdDcjOyO533NA-COTp82cSvt09bF7kHH9NuFyRG87xL5OmHgI7LsaSeVgjs1GXyxHm8pafRKFE3qM7EYYrjvdn2nNyDrjYuVESnNfaIKzMLvOcNy6V6N-MwqfeTc2q4TsfQpjUOgkYMmc1s1hrWZi0_UXXJVRsxjAv4x5YDT379Mi9W9G4ri-Vrf_gzQmsQtvgMOWoA5nAfham61MGW7CfXCR5rTFxpkjQNTQvCXRBw"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJAWgTDx26t4kRxU7geTSNlPw",
+    "city": "Washington",
+    "state": "DC"
+  },
+  {
+    "id": "ChIJ7zfLUwDJt4kRQ3ioPpDshU0",
+    "name": "Pickleball court",
+    "slug": "pickleball-court-washington-dc",
+    "address": "5500 41st St NW, Washington, DC 20015, USA",
+    "lat": 38.9640584,
+    "lng": -77.0805106,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ7zfLUwDJt4kRQ3ioPpDshU0",
+    "city": "Washington",
+    "state": "DC"
+  },
+  {
+    "id": "ChIJ22yNR5jJt4kRKYV5QYDOKk0",
+    "name": "Chevy Chase Recreation Center",
+    "slug": "chevy-chase-recreation-center-washington-dc",
+    "address": "5500 41st St NW, Washington, DC 20015, USA",
+    "lat": 38.9638074,
+    "lng": -77.0810892,
+    "rating": 4.3,
+    "reviewCount": 114,
+    "photos": [
+      "ATCDNfWgvVspiQMLsbqWu_h3uVS7DkuB491dQsaF1OHQtQ_Q-QtOw5XXFKJG80H81RQ07QxKe04ZqWNyC6dvpUmqbhRpJ8NRxi0OIIH2gO1hWpDexs7QYT_9aPJ1PqFP9NEf6eHdC9qXfJ5GV1AwPOZUit_0tao10mxbLdP43bLidOMKvvil_9OMz4e1zaaCRNq24cNvVjTgPDaBCssY-A0NU6S_6AruJdzanjn179N7-lXi4-1rFXAmmAhHI8KQUDP76iayPT_4ufz96kvI_FZHEvE6oNpOOZPnZSC40M7pr6sqJWvOd2Gofr8v8zwVLBMB3lfqDztiqZfyb8I8lelrac295JuFfc_ma2rjPbnioxK6cIlKEkv9dO2U7OLDN8Uj-Umdgl2gvKkqSTbQbZsPLyGMY093_DDviOaSP9yFLh_diR0"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ22yNR5jJt4kRKYV5QYDOKk0",
+    "city": "Washington",
+    "state": "DC"
+  },
+  {
+    "id": "ChIJEXc8J2TIt4kR6RzTPDv4c7Y",
+    "name": "Emery Heights Park",
+    "slug": "emery-heights-park-washington-dc",
+    "address": "5801 Georgia Ave NW, Washington, DC 20011, USA",
+    "lat": 38.9601336,
+    "lng": -77.0275396,
+    "rating": 4.7,
+    "reviewCount": 23,
+    "photos": [
+      "ATCDNfWqqIcpzZabUaKhdvvHuL_JKdbm-ZFBzOe_MHIZnX-TY1lw_C5lsZiEQWr0Gu3FYj6Mbd8cOg1ykBgw8tDkbQwbg4I1pQSbdrduwsjHs9rvf6yb6aZ7__yRQYYsBPqJZYGoTMGnQf62gxrstV9hOX_X3RqmsrX6YvKbWq7hw223h4tX89CUVnsNbR2V_ctCGKXZi1RVswIFdfYsG3gBY7dj59rbBEaHr5Jb_NNzChQ80Bmlms32IvHLdOHNFZ1z41VqPDppG9CZodR6oHuv28PBVSS4Rx0uysmpF1yuwEy0Ifk6FC_Z1Qk5TnG-6dGa6MlRx3AWWgnrBULhrsNvwQPIIZNXs4kZ32FZ32nPWH76yam9gUKlzRXtGvc62psAAfZBuqJ8A8tIzeXwa4WN4YRw-Qlc1Ij7zUTHgJkLUMKhS3jgOWzAVvlfxfsiTppw"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJEXc8J2TIt4kR6RzTPDv4c7Y",
+    "city": "Washington",
+    "state": "DC"
+  },
+  {
+    "id": "ChIJa0cJJADJt4kRrosMffpi5qE",
+    "name": "Pickleball courts",
+    "slug": "pickleball-courts-washington-dc",
+    "address": "6500 3rd St NW, Washington, DC 20012, USA",
+    "lat": 38.9696393,
+    "lng": -77.0174428,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJa0cJJADJt4kRrosMffpi5qE",
+    "city": "Washington",
+    "state": "DC"
+  },
+  {
+    "id": "ChIJgYziYbi3t4kRT-L73NkT1vM",
+    "name": "ZogSports DC",
+    "slug": "zogsports-dc-washington-dc",
+    "address": "21 Dupont Cir NW, Washington, DC 20036, USA",
+    "lat": 38.9088544,
+    "lng": -77.0437426,
+    "rating": 4.4,
+    "reviewCount": 165,
+    "photos": [
+      "ATCDNfX5HBsqJFD9KZQZjfYJP0rEytAOLoOP3Z8z5pi6mhRXaV2kFri2Y-kTnNPxmhfwnWkzoif72j8uZ64CvN9q1JiR9KrWVdJ1vqNC4HoqYiXIY0f6zWoBPa4onyDSVg5uqXG4Df15_5hKkbBS5l49zsjVy6hGnG0-FEby3ZQOKRM4TXDY1WGqBSjtl2oH4JqQQCW_6K8LKWNmg1uylVYRGj44a5KBnHg3Y1pPep99UByaKHd2pvf4rtbiDZ1eytJhloJtkr8bKQcs3XUwJBX9Sa2GKGJGmzQg8M4NV5R1_jYAzQ"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJgYziYbi3t4kRT-L73NkT1vM",
+    "city": "Washington",
+    "state": "DC"
+  },
+  {
+    "id": "ChIJeUlbmtm2t4kRJdnowqD8E4E",
+    "name": "Virginia Highlands Park",
+    "slug": "virginia-highlands-park-washington-dc",
+    "address": "1600 S Hayes St, Arlington, VA 22202, USA",
+    "lat": 38.8596527,
+    "lng": -77.061313,
+    "rating": 4.7,
+    "reviewCount": 1028,
+    "photos": [
+      "ATCDNfVP9ZNBp5noXBdLDAqdo83hAzkak5lI35l9XcP8eHpbA7b8kwQigvo_uhomuWFiLjQSYphoBWIBxE3EkWodNXeIeD8sAH1l4PayKOuLwTcFiEMAkLpJNIJ-XNpw5CNfPIuAIzuCP_xTnusE8rFygsRXCPeyL9B0KVPTzeJ_UmQdRETVfa46QDEueGKpCxIG3tuH4x1cpsSXGYz2WexuBVaRo-WyJHPwDKsUfF7-_JkE5R7HLNRw-Nc52atOYwJoWI8XeraoKTwykQKh98HNVcW3JF5NZZ3M5er0dS0ylfCrHHRwZZyPPlSodufzVS10nybUgduTU54wFDy3XF33MLwv_fLNnO0xJN7kjgQtq5dHRpSJcZdIlZ1bapqPDh5VamOJDtX-8IhnNMGU8WKfgF4po-qHcvjzqAhBUkerD9Y"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJeUlbmtm2t4kRJdnowqD8E4E",
+    "city": "Washington",
+    "state": "DC"
+  },
+  {
+    "id": "ChIJ-5qHn5y3t4kR9uo1z7oK1DA",
+    "name": "Volo Sports DC",
+    "slug": "volo-sports-dc-washington-dc",
+    "address": "1200 G St NW STE 700, Washington, DC 20005, USA",
+    "lat": 38.8980284,
+    "lng": -77.0285694,
+    "rating": 4.5,
+    "reviewCount": 238,
+    "photos": [
+      "ATCDNfUGd0wxQgN01OhADfsybhgxkJw4UbVFvgMfEsiG36aNxC6b7XT5AjXT3DdfZcd_Q1McUpveXtniensc-Guo396rShl-8orJYZmdzXRilf4pScr_f0F_yWeLqdzcn5358eu1jO-ipsh0bAhq-uMSJl8v6r3JYqTQCUwkobx_ntN69GIqGZnQkbstjBYVxYA1C5Fk0kIJy4fK3Brjwim156fzTeHmAIYisnJaZeJAD_7o2goLWskiWN_YRQ1RTrDCN5GCHGBgQPr01UHFWkYkBV17JtwQsxBJxo9VArqvN05hxg"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ-5qHn5y3t4kR9uo1z7oK1DA",
+    "city": "Washington",
+    "state": "DC"
+  },
+  {
+    "id": "ChIJTUslJ5bPt4kRYUIJ-o19xcw",
+    "name": "Dill Dinkers Pickleball",
+    "slug": "dill-dinkers-pickleball-washington-dc",
+    "address": "4942 Boiling Brook Pkwy, North Bethesda, MD 20852, USA",
+    "lat": 39.0466445,
+    "lng": -77.1008968,
+    "rating": 4.6,
+    "reviewCount": 59,
+    "photos": [
+      "ATCDNfWwXsnMi2ic_ItUykUNoj9dsKWOnuRSVzy_4U1mH6W1tbe1szSBsVU6EB1xIjtoZw1cE6lOHgp1HtnQCxr_IBzTfaFbEKxmtFeHCKF0Z5zR1T35Z86702Mnmu45VIBO5xhzj3_DtcKT5TfWbxyu1kq5uVJor6HTpGTx74XKSCR6FzQTxItkAGuHErPpIVMU_VlsejSK9_hojVXhMyGCk1AFEFMhBsHEpjgwVm9o7FauJzvfpMv_XXD3cLAVWV9MWu_3xlk5MbyDK1BT5yORxRb_PbzeWVn-Cj3R64zhHscYeg"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJTUslJ5bPt4kRYUIJ-o19xcw",
+    "city": "Washington",
+    "state": "DC"
+  },
+  {
+    "id": "ChIJ-RUfFnSxt4kRoLSP60EhXrc",
+    "name": "Fort Scott Pickleball Coaching",
+    "slug": "fort-scott-pickleball-coaching-washington-dc",
+    "address": "Ft Scott Park, 2800 Fort Scott Dr, Arlington, VA 22202, USA",
+    "lat": 38.8468685,
+    "lng": -77.0589648,
+    "rating": 5,
+    "reviewCount": 6,
+    "photos": [
+      "ATCDNfXWe925OQDbmP2ssDk4vz8M0zdd5f8jeura3z_NG3sJZZ5UH3-n8tquoppCMjHvgPp_NFuQ38fMomiMGpQKGvI3_8ZzAcGR5BdGbnF7j6ujxCBwn9CzurPJu2U74s3eCkqDWyAng7u8swB-gt_GzFAqeJeQV4UJtp3CGSRlhZOE5yHShd4y5ZXh_Gj4repKQlK2qQHWm2k5NyHj3Clh-400uDi3YHJ1smevDYmGZdBcCkTCJbYzHbumph9M4kJkUmy5vonOMccX5aXdjkDZR8P2dt4FubYb_2rzjOuiUWBSrQ"
+    ],
+    "types": [
+      "establishment",
+      "health",
+      "point_of_interest",
+      "school"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ-RUfFnSxt4kRoLSP60EhXrc",
+    "city": "Washington",
+    "state": "DC"
+  },
+  {
+    "id": "ChIJM1Fq9YpLtokR8a0j5exC4Pw",
+    "name": "The Pickleball Club of Tysons",
+    "slug": "the-pickleball-club-of-tysons-washington-dc",
+    "address": "8528 Tyco Rd, Vienna, VA 22182, USA",
+    "lat": 38.9335155,
+    "lng": -77.2402451,
+    "rating": 4.8,
+    "reviewCount": 66,
+    "photos": [
+      "ATCDNfXrzNmibayP-lGj6PuJWQWurg1cT1hHMrHMu6-DVjP2dOr6ebZfhG5zrRTqrnSRVesJw24n6UaqjZGJDcp846l0NfZKMAhGtHNErY5Xo80104WDEXZtDEAtzl6pZavyJmE-yP9lupmyOhY7_EPzzCRRZHGb2oSfChncTEopjJkaUusa2dLLpHJnm9v-Ucna0RT1txFBwUlLm7g07TA31tfxdNiBnkq384uho5YYQZBTTwOkCrDQGJ8WVSw2r33OYoOH9BEIYaNjZ2iM5jKCwncXOAcvwKESvajjrTsj1C6tug"
+    ],
+    "types": [
+      "establishment",
+      "gym",
+      "health",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJM1Fq9YpLtokR8a0j5exC4Pw",
+    "city": "Washington",
+    "state": "DC"
+  },
+  {
+    "id": "ChIJfaNeLtrTt4kRjbwK-TpCYMM",
+    "name": "Dill Dinkers Pickleball",
+    "slug": "dill-dinkers-pickleball-washington-dc",
+    "address": "40 Southlawn Ct c, Rockville, MD 20850, USA",
+    "lat": 39.1019009,
+    "lng": -77.12883149999999,
+    "rating": 4.6,
+    "reviewCount": 45,
+    "photos": [
+      "ATCDNfXgfvCNddvievqWMq0FuZTnRPJ3MI6Vtnejq4rvo-iEKYIfQLSR4efYifvoP_lEVCurbnVsu-H09y6jpAcAH_RL7yZwVMX0xzPrOQe2jKHDlFMnGnd1Ur0sNlayruRqQljPWy2Rrdt8KhZ0idjiM6-T6Mqgow2N6-UdY05FQR8_NIMx5ySQ0W0-L5Ug8U5NRHUOIkHj8YbUtL32ox4Q1QknlmAGnB9k8QIattAVXQrTYLMX6DO6XJaiC4aSWN09izjcmMlEzpKj75C52EcbsDqUZuoI-fqqb9f5DkVPqms"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJfaNeLtrTt4kRjbwK-TpCYMM",
+    "city": "Washington",
+    "state": "DC"
+  },
+  {
+    "id": "ChIJ_1N1Y7a3t4kRdHz7s_plyoo",
+    "name": "Squash On Fire",
+    "slug": "squash-on-fire-washington-dc",
+    "address": "2233 M St NW, Washington, DC 20037, USA",
+    "lat": 38.9054717,
+    "lng": -77.0497391,
+    "rating": 4.7,
+    "reviewCount": 140,
+    "photos": [
+      "ATCDNfWkIlc4rf2iIyYKQh7WCf8S710nTSCyEoAbOZ1e_X61megyT_AyYGHvSKO-kcPbNgKKoIzQCxxpixGqfKFsfldComQkv_xLv-qr8rj5CVlpGV3vXCxHcSlt48LSpDcPdsWeEKVz41Tpc1LaE4qVH3FpTJIXgyHSUDfztt43p4kTvO89RxcG43EBbfQr1bcMDZnK6hw8xqb2tBID-tDuzNsBjgu73Dc2ot9TPt-AXFQbLITY2X1rt3X9MCI8PfiyJ4ipE-Gw11yT5OgIoKRVeNL9uwAcqZ-evbcx6gfkQDiToA"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ_1N1Y7a3t4kRdHz7s_plyoo",
+    "city": "Washington",
+    "state": "DC"
+  },
+  {
+    "id": "ChIJE33-fEEfyIkRuVHYPGgSRUA",
+    "name": "Dill Dinkers Pickleball",
+    "slug": "dill-dinkers-pickleball-washington-dc",
+    "address": "9179 Red Branch Rd Suite F, Columbia, MD 21045, USA",
+    "lat": 39.2308167,
+    "lng": -76.8225877,
+    "rating": 4.8,
+    "reviewCount": 123,
+    "photos": [
+      "ATCDNfXPxoa92vswsY9afYuzb8uMnvHjXGZcrOxW7WwPKwF7Btsk2xGjNpUJ12BpoCIiQ4NlscVUDwX1AdqzNvSO-lfmk_hedd5hWrUAhyddl8JC8PWdj94k0rRVQMXn5BCsjPnCAhqVl_tNt1c9ol4ksFMz666sDaGq8RTarqQ9QUtsTGw5SkkZbmmGE8omfWZWOSn0Cpx5lNEA65yDIMeVfBLhz5-yozxh9Wqgna_3ab_ohwobA6f6KDGufy5V9pxk2T14HJisA4hI68Yn2WHgy8YJDaD6BDmIceCIySUNI8u9Iw"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJE33-fEEfyIkRuVHYPGgSRUA",
+    "city": "Washington",
+    "state": "DC"
+  },
+  {
+    "id": "ChIJr4szMwC5t4kRjWuK4UkyVTs",
+    "name": "Reservoir Park (McMillan) Community Center and Park",
+    "slug": "reservoir-park-mcmillan-community-center-and-park-washington-dc",
+    "address": "10 Lower Service Ct NW, Washington, DC 20001, USA",
+    "lat": 38.9231783,
+    "lng": -77.010057,
+    "rating": 4.6,
+    "reviewCount": 41,
+    "photos": [
+      "ATCDNfVa1XTDa0GGosg1GexkMonhisV1--SD5EDcipaQz--7XG6-ZbUIOwaDpN55okIyAhlF_T1sej2MxACzyoKX-UODVXTgNDK8cODn5_isbcAeGSsH8XcIBgzRjX26Pb7yQmGDshuFlTjfI2VJ0qAEcY9-Pfe2g-P-n_b60jejOblxelCagiDKSyGy9voO4FjrYrmePhrlJkT0Zo3FFj0b6SsgQLgeJRJJWelDD5X2PJmf-xCwsISSOdzy9LAuEgSGnvy_CUPf8rlwTsIUUeXyAVMhMBeD3691SB7Tr0vHxyXq__6D9veyD3P4I8zo8oCvGmenMB6OAkStprXn46oYKCDY5F-WxCaGviVaffgP7M6H_E4RFxwzbv0shKa25dYItG8cWTLIeeA16EcQOZt1fZoF9s0EqqjhgMCmW-d9JzlFLJ-l"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJr4szMwC5t4kRjWuK4UkyVTs",
+    "city": "Washington",
+    "state": "DC"
+  },
+  {
+    "id": "ChIJTQlLUtq3t4kRfv5Jg2Wc6M0",
+    "name": "SPIN Washington DC",
+    "slug": "spin-washington-dc-washington-dc",
+    "address": "1332 F St NW, Washington, DC 20004, USA",
+    "lat": 38.8971868,
+    "lng": -77.03085709999999,
+    "rating": 4.3,
+    "reviewCount": 464,
+    "photos": [
+      "ATCDNfWXIEMdDPnyKZLreUZvpiHuVdht3NtLw0TbOCW30JJ4th_uAM5UGxebXyFo1DGp8zvviP1C638eXwJ0j3iHrEe01bELGxwsY5MhJWz-NKSmppe2rlOqhNhm5FCiScLRARplXO2SkBu0c7jjKXBtkpUI8KNYRNTrA_NVEFKE7CaDaFHtOxOsPR6zwAJfIqdPqQ5fhaBpqPeB-XfKYl5_dhrkl0W9sYZPQ-PTaplt9gVWfL_D3flPgwLoaBT0YFTbaJlk-NwNG1-NMHJnHfewEo89O-g33-yh1SrnD94yq7egVA"
+    ],
+    "types": [
+      "bar",
+      "establishment",
+      "night_club",
+      "point_of_interest"
+    ],
+    "priceLevel": 2,
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJTQlLUtq3t4kRfv5Jg2Wc6M0",
+    "city": "Washington",
+    "state": "DC"
+  },
+  {
+    "id": "ChIJgzu5P6K2t4kRTtMxmLNlQuA",
+    "name": "Thomas Jefferson Community Center",
+    "slug": "thomas-jefferson-community-center-washington-dc",
+    "address": "3501 2nd St S, Arlington, VA 22204, USA",
+    "lat": 38.8694838,
+    "lng": -77.09606579999999,
+    "rating": 4.4,
+    "reviewCount": 493,
+    "photos": [
+      "ATCDNfVDOGaumC88R2W2kCcWDPwBmhcY3vRNC5KpCc3v2AElH7y3KFONKXiuE3oTGDOyYQ0W5_ymEwMlOxsIpC-Lp2CP2-2rSy-3dl397KN1SsldLqkepB3fojirDWSMmPLrIU3ybr6VtFh4Mvs8kn1ZquMMs2y3OpVEcSVqgOG0r2tCTmiHioXNfYKzltuOhxBOMurpgUir91VB0Z4T0ozpHho5qqyQcowcPVnss4y1gzXmABU-T6n2U_1Hgc5rRbeRF3r_EFv21Zsy6ZxXQ6SwRa8QU3IQ49Pv35YxsdYyjdTIKYUjr1Sf35nrlm0bAY1PNjuxSK7XlQzaaARq55ooMSzIKm3AnQ3ubB4LzgQIFyEhvLSN09HLDFM8mUjEqzoGZT0sirnUS10gA57Tg7-Kqet60u1eCzfJKiql-Y29Xky30f0"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJgzu5P6K2t4kRTtMxmLNlQuA",
+    "city": "Washington",
+    "state": "DC"
+  },
+  {
+    "id": "ChIJlx06oFpNtokR3dcb6Y8w1Ng",
+    "name": "DTL | Down the Line Sports Center",
+    "slug": "dtl-down-the-line-sports-center-washington-dc",
+    "address": "4311 Ravensworth Rd, Annandale, VA 22003, USA",
+    "lat": 38.8293603,
+    "lng": -77.1970082,
+    "rating": 4.8,
+    "reviewCount": 59,
+    "photos": [
+      "ATCDNfXjyh3xaR1P01vAKX1GsQpwgL11RugryHXGU_djwEjScgL1LEAIEtWjXK9FD85XOaHyPXny22qczdDwWCV-lcj6QpveJ4wlc0upnwjntsr9OkDF5OjdxqnzNEVdDIHJYJn50XEC7rPwCZ4VP6oE33JrJ7t93ZyKn3WRWNwbsj436kWKZ3OWK24FTvsXyiPEC5c566rj1CWtYew4cvX7TQLP2psdl3-iZ9aZdZdB9hYHyCEzaLvZ-pchW-e4GBcBNAgEJqhNDgRRcevvalXDSWw9gF1fRvIVGVIqyPMP9JGBNQ"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJlx06oFpNtokR3dcb6Y8w1Ng",
+    "city": "Washington",
+    "state": "DC"
+  },
+  {
+    "id": "ChIJccO6ZOzHt4kRPmWfbzlNQpw",
+    "name": "DC Fray",
+    "slug": "dc-fray-washington-dc",
+    "address": "951 V St NE, Washington, DC 20018, USA",
+    "lat": 38.917122,
+    "lng": -76.99162299999999,
+    "rating": 4.4,
+    "reviewCount": 415,
+    "photos": [
+      "ATCDNfVyGbdsENXYewDsBDU-SG0THSncLh7vds3Ja14e50yxUnoNWn5VoICPYPMW-iqVVHNlG_BwubGlxJdZVD9AEVo3lONKHXBcOR1ZQcjMAZO4YfP8z1guUGAhRzNzFzAZMicQ1jPs0vzQjmGryDEpCwcprf2sd1voAnsucu814HUqxZysI31NK74DOqWcUTOfsxjKprWonGTrMkb1uWEFC5RtSVHWYHt-Qmgir4h4lHvDMfawW7pBrlUNKLewJgOgZlfmgxp0By_r9NZ5-7OzZjb_DstXiKGl9T4SEyiiR73qIw"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "store"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJccO6ZOzHt4kRPmWfbzlNQpw",
+    "city": "Washington",
+    "state": "DC"
+  },
+  {
+    "id": "ChIJccu2Iee3t4kRVIII69gm7t8",
+    "name": "The Player Progression Academy (PPA)",
+    "slug": "the-player-progression-academy-ppa-washington-dc",
+    "address": "1342 Florida Ave NW, Washington, DC 20008, USA",
+    "lat": 38.9201005,
+    "lng": -77.0310298,
+    "rating": 4.4,
+    "reviewCount": 55,
+    "photos": [
+      "ATCDNfXAVrmiOBq748WhMu_f-hTxedIj9gJxwdfk32sZIpWR8WYEIIDfsZymimpmTPUh4eA-_BwUY0usz167NwnmRXzNZWDfxuxe4YYwidD1RFtLSZyEPYDlrdE4agAJMZaQAf1nPz40QuHJPZBjAw8ymlXRM1geDcNStW5h2ZKRzXNYFs0BpxlGqw3_uhPA4B79qw50zydzVAwo0LjOThba3n89cX7NxHVWKpjI2nbo0Q8TnrxmhjOXD0kwPa4QKbMxCM37Ivf4QUr71eCgm_KhDt7OEUneFw6DTVGDUZz0duDFO3RvYuMis7KqHMWpoHuSYFV-BNYONoz1sam6WZ6NR_RWYm-5u-4dYrrvvHuDN17a7AFbk_j9gjtexEh6jtSuQJrcDfKlb6vbMM4pjbBt9ltkXclF9USoxqFhJT-bc12dNg"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJccu2Iee3t4kRVIII69gm7t8",
+    "city": "Washington",
+    "state": "DC"
+  },
+  {
+    "id": "ChIJo4cAXEC2t4kR7WuufGHIpCU",
+    "name": "Yates Field House",
+    "slug": "yates-field-house-washington-dc",
+    "address": "3901 Yates Rd NW, Washington, DC 20007, USA",
+    "lat": 38.9086215,
+    "lng": -77.0763644,
+    "rating": 4.2,
+    "reviewCount": 114,
+    "photos": [
+      "ATCDNfUnPxWgTYn0H0OBS0RoXBLnKcbo6P5jRnfUPaVXACg5TU6SQ8Tvq1lApqO8PyMtwZP_Id-WmZ6eqwkfdP2YYBe4Gvn0xLTK5jGj22crC8FLRKEEwXFEA3caIf_NhV3RqukWbZLOpzHPfVq4lWqG5bc5oZhAGHd1Swd3iD0L5fRwyjjgoeG_Bvbalnfa-SWl6TCMZpByKIsQU-9dbqbFKcrJ2tvIfyOBS8fRcBTeX7omFnc_Wl6FZpoKQzFi6VLsdytfMYTeWqbN4_UBT48GdZWsAiW2mjvDKSEZ8RJo0ZW-hA"
+    ],
+    "types": [
+      "establishment",
+      "gym",
+      "health",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJo4cAXEC2t4kR7WuufGHIpCU",
+    "city": "Washington",
+    "state": "DC"
+  },
+  {
+    "id": "ChIJR7PDav5HtokRpTJE8UE4F4w",
+    "name": "Pickleballerz",
+    "slug": "pickleballerz-washington-dc",
+    "address": "14424 Albemarle Point Pl STE 115, Chantilly, VA 20151, USA",
+    "lat": 38.8914365,
+    "lng": -77.4458138,
+    "rating": 4.8,
+    "reviewCount": 71,
+    "photos": [
+      "ATCDNfW09eXrtKxigunh80zefMoZSTEMvGJo5QevFOkvrmP38l2QnznN_7WC0yAJ9uik9jvzJ9clExfMG5yO3ciIVVHSex0KtzWkaGkjJ21U27GgtvoqWDgR9BZC9DcLG3-BjCIPF_Xm_lmzzqirLnmJ40VAQSdN9HuynTIcQEasCxdtJYnDCv6L3ONnWOdjj6G1JKzFrxmSrObUUmeumjeD2CaEkI326K1lZDHn9T_At1FuW7sv6ZRyf3cQE0loz3tJ32Aw1m7T4GP2fKboq4LVQghzdZs-YVLPj2hPB0e6NbxhmA"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJR7PDav5HtokRpTJE8UE4F4w",
+    "city": "Washington",
+    "state": "DC"
+  },
+  {
+    "id": "ChIJFYmzxz37t4kRIPhU2JHW0gk",
+    "name": "The PutAway - Indoor Pickleball Courts & Leagues",
+    "slug": "the-putaway-indoor-pickleball-courts-leagues-washington-dc",
+    "address": "254 Najoles Rd Suite A-K, Millersville, MD 21108, USA",
+    "lat": 39.090568,
+    "lng": -76.63164499999999,
+    "rating": 5,
+    "reviewCount": 130,
+    "photos": [
+      "ATCDNfUunLUFqqFxcCdC7kkdzgvfsxokD-fnnvKRz0GXyUmW6uAzbd9AapBan50xIFniO1g7NUud9bza9OM3KIdFYoMyB7nZ4U6SiCqSAo-uNztj4Sb0rLREpOANilAfMNyEBH9rW7cka2owlIRZ0rbBYmAERHjLwirJesxAAB36NHIYsAnh-jO9vw85ZWYe1808gCA1uFkzMezAS-Ao9ltZrUG8McsNsMxmCUvBKSGp9viBjuhsbIjzPKSNIThhGlq53J04FxgbnmQ50Plhj10dxF5waFRZvhLnxJ5k-0hOzm27Bw"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJFYmzxz37t4kRIPhU2JHW0gk",
+    "city": "Washington",
+    "state": "DC"
+  },
+  {
+    "id": "ChIJAQAAAGzIt4kRLBgvfAtVdsU",
+    "name": "Washington Tennis & Education Foundation",
+    "slug": "washington-tennis-education-foundation-washington-dc",
+    "address": "200 Stoddert Pl, Washington, DC 20019, USA",
+    "lat": 38.8884729,
+    "lng": -76.9470481,
+    "rating": 4.5,
+    "reviewCount": 29,
+    "photos": [
+      "ATCDNfX2XkZYxJgIHmzuFsbZ32o-ioQYhudyH2eHVfjNUGSfHavQO_Z-Mo8a1-2V8ERsZQaam_OlReGgFpARtrQiEgSGWw_CB6GkGRX8UOj_Fvp4wDgbtvEQ5JDu2-62Dk1Qt6T0r3bDXuWSzbStYa63xxdDXwZzdxadigNxFjyBQtl-C0sGje1cBit5M8Lh3KjVxIdJ-hYXF8K9wQyQEw5i_p2sTK_nk1ujyyB-l2u9EQzqQnH_uVoFhTG4rMuW4O9tsA-egjxPanGOxmEFEJmRSa7hoCMzuclB0llIWKI9HP_bnYQw-mLNKxEvi78muIPtM0wAuy2RKKv6ERlTulYfGpL3EIWGt4DuydZkEr2fBrY6fpN-WjkwNiGlR4sZWMPgVPcPLjyzJdZQFzmdMdpFEqxE8YU4kq-rJy89oy0k1nmVo3Y"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJAQAAAGzIt4kRLBgvfAtVdsU",
+    "city": "Washington",
+    "state": "DC"
+  },
+  {
+    "id": "ChIJZetxWirGt4kR7E5HVh50Zq0",
+    "name": "Lamond Recreation Center",
+    "slug": "lamond-recreation-center-washington-dc",
+    "address": "20 Tuckerman St NE, Washington, DC 20011, USA",
+    "lat": 38.9677477,
+    "lng": -77.0082652,
+    "rating": 4.3,
+    "reviewCount": 122,
+    "photos": [
+      "ATCDNfWjj8wo1qSdprAjuTGFoFVWkhtkoiZCITMRSJKLj-xGNHgFgLgjx0eQ2aFGaxeSPwJaR6VF8iKvKeyQPACgpRQVO7H1Sp1s7b8GvruNUOzDFFv1u3OZleJwXSZauSnUnkooXGRrF3LpCCVhtkbmNueEUTX19ybyh69Q3l06G5QjYQpzuxZYSdughbLyGUTh6YIGkKXH0Dy2BgmCAokAVJ5cu8wWWl95_kH-DAv_7qqVN9nv_PbF2cOfaeJZPC1ivieLYjmIvMofLSzaXLMCg8NFw_NxECGlLU-5QIjN1UKtqQXBGNzy_Et63SKHOTdxLywjDk3_goMJVZMl3HMizOrdEKBs8xVfjEbn4WlwbGPIWJBdcreIkkHB4SNphbYbWN2RVl7IDa0nog5AmkwTsIz7Hs44vswAjxrLJE3LX7w1BA"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJZetxWirGt4kR7E5HVh50Zq0",
+    "city": "Washington",
+    "state": "DC"
+  },
+  {
+    "id": "ChIJsYuP8xXIt4kRiYbmjLjS4_M",
+    "name": "Upshur Recreation Center",
+    "slug": "upshur-recreation-center-washington-dc",
+    "address": "4300 Arkansas Ave NW, Washington, DC 20011, USA",
+    "lat": 38.9441914,
+    "lng": -77.03168629999999,
+    "rating": 4.2,
+    "reviewCount": 31,
+    "photos": [
+      "ATCDNfVVtAIaJtAxxWrD3sv8UI9BCIbEy8DV8XevW2OfJrxslCn-Ve7LKKxF21hXNnj42ds4kvSPblISlJLnSbciICFhVh6frBYLBhuSBhJz5FRGzmjrKDTQW4gUAun0ObyJkSvmTRRBUoYGSh4Nfxx6QRi5cAwQx54oTfhZ1Ca2jp16ikLNz9oCeKFRUxQmdDlFJUpOYtyunHqhn6WbcaPWa4pXuKAYVIR7S7czY23s4seUwHVXqGVyq0QD3ZwtHBeNU9rkBGpjcxQGcIAp1uheZegpNX_mNMgV-yPwT1kckUr3bsp3Jxnba3fEfoqoJYaNijcRhW5YkhWXiAuGNkmL5HlYZYpFQUaQI0_JMxA-nTRT8asSRiyKYQoMUYPVQmxIlu9mJeb3Y2TOuyte3nvjCd8WpAPfYIRI5GQ4nHClMsQU7lKS"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJsYuP8xXIt4kRiYbmjLjS4_M",
+    "city": "Washington",
+    "state": "DC"
+  },
+  {
+    "id": "ChIJNarA24jRt4kRfeFJpDwPvZA",
+    "name": "Pickleball Climb 5.0 with Sam Morris",
+    "slug": "pickleball-climb-5-0-with-sam-morris-washington-dc",
+    "address": "4724 Babbling Brook Dr, Olney, MD 20832, USA",
+    "lat": 39.1621092,
+    "lng": -77.0952296,
+    "rating": 5,
+    "reviewCount": 19,
+    "photos": [
+      "ATCDNfV6M9h-uKpccqyRl6QVFMoHX-bAAsdccLfJvTFgnlVb3x8f8jO2m1diJRqrcozNhPZBolFnnpIH-KyLpSJ1OOwbcouzHW7zQ6-gUNJryOMhUSlaoEFfYUDJWdCQfrZp91VbaIvhf2OwDIdWrWMxmYt-QAwrjqfDoAbt9iryKo9d_19h74-naJrGmBMcCr5db16S1X5cy3d0lq9jw-8pSiIhLenuAFwkSd552yteKCXSY_R0rmSusoOGlStqm0_UdbL2GHYRJbfB2jyV8Bg-HQAxIJhpN9Xjaq9yOTYHvvAPTYe_c_62aF73F0kjRCBTPJ-fEuvoGnGEn4b8Lyu32-dM28hChE_PbskYaXxciOmYJ8QFBqLM--lzBtkBVRhphqltTD10Wk9MDFoiWWAj8RqmtLcKrALdkNBiLVFLci6Vrw"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJNarA24jRt4kRfeFJpDwPvZA",
+    "city": "Washington",
+    "state": "DC"
+  }
+]

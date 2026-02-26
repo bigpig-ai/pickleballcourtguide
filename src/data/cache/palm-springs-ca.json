@@ -1,0 +1,520 @@
+[
+  {
+    "id": "ChIJi4OEC5cc24ARzXQWb3Gm210",
+    "name": "Demuth Park",
+    "slug": "demuth-park-palm-springs-ca",
+    "address": "4365 E Mesquite Ave, Palm Springs, CA 92264, USA",
+    "lat": 33.8084122,
+    "lng": -116.4993872,
+    "rating": 4.4,
+    "reviewCount": 1089,
+    "photos": [
+      "ATCDNfVHMADzorKpp3WbVDNbz-OZVFIbKAlySiGIiHX5dHusrf7dUg2M-tHx3-yOCb3CxQ1nE4I3QNPUEMg_Gemn9wzReSMRW_jUF58KcQl67_B3Aa3nHqE9lQa0WVhtaru0yWE_14VMqIKkAndtO4cT_58GrNgPLFahAmr5SEqUaSJfdidwWCvQ0zTXOu6Pnd3shxMwYNq4GD0vT5jxReef0197ySQ7Ct_CfTrvKF1Qg-SG7eZIbG4jJny8uvbiCk9eJ-YLSo5StKe4iWPHCkqTiw8d5rxKIS3BVs4msN6HnHBA6eFFbX04LNXM16BsNndoLE7P-_S0HvLWmjUDvXBBraq8JmCoOPV6wvBbrW4WqTo6JXxzGneXI2yPQ7qCBuJEuWDEJN5PIGYoNIi69D9-wiwlQ4dgmH-cjX7Sbw-KjRYiWJ2K"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJi4OEC5cc24ARzXQWb3Gm210",
+    "city": "Palm Springs",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJvZLAzZkc24ARyQizwYDHa2M",
+    "name": "Demuth Community Center",
+    "slug": "demuth-community-center-palm-springs-ca",
+    "address": "3601 E Mesquite Ave, Palm Springs, CA 92264, USA",
+    "lat": 33.8103697,
+    "lng": -116.5079618,
+    "rating": 4.3,
+    "reviewCount": 334,
+    "photos": [
+      "ATCDNfWYOjAK3SV0xyu9i4eaODG1vSNquhbsx_VIld-ykZdUszNog--SQ6HYXSzlXuniTFBu_eMIkLfX5_SN7FvQN8TftRnfs-TOy8qZ4JnBDyIpnRRM-zPQL1dzy_tVabwYYvpyo1YluYc9M28KIyev874DWGh13FSfyqOponJjnECP1sw-a7fGsnCU6ZDR9JHYrno-3Egbhk7BKhpFqD_s0IlVJd9vZkPd9xDqbL26igFqRJmL2dRx5Exe72kQP9PaLRz_VabZQudGPqYG1h5jbaVFV0uoBz1MvCD3Q7UK4YBEK8EPgQTAmzWeKLhY41Jq5A3jDRqguaMrUgoHuSUIipuQL97A3ATJHsHkBY-nlWx5O2rw9RZ0Tpqn7blAi0LIFCgNZvX05dD5zTUm55d2AjKtXYdyRXAdCLAgkhhodF2TXJeU"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJvZLAzZkc24ARyQizwYDHa2M",
+    "city": "Palm Springs",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJf3iQDgAb24ARweNc50JyYPA",
+    "name": "Pickleball Courts at College of the Desert",
+    "slug": "pickleball-courts-at-college-of-the-desert-palm-springs-ca",
+    "address": "230 S Hermosa Dr, Palm Springs, CA 92262, USA",
+    "lat": 33.8205671,
+    "lng": -116.5323016,
+    "rating": 4.3,
+    "reviewCount": 3,
+    "photos": [
+      "ATCDNfUCYSdNzPRsMwgWHf9hHFy4CqMDvI5p7LAoczMaKW4QiIhE5jSa9psa7qgOGWr7jygignatN6Py82XpTJ5WGSKhQ87iyrR7h0oYLi2jIK89A2AgvedLBNQrngWeU9KZBn4STt5ra_3cyqxeuA-8AOV286bWaVwXg4MUnQveAFAO5JNcl7bicJ9_ooGzFXWVihNOhjJaFKvJT3-0V_3zQKxXPCH_xKrZPdS_CkFVph6zDW8XcIEqCSvxE9KgcgsIw6crxFsmJ4UhNjuhhKY1GtxugxrFBP3inEA8TGuf2cUfd-xUXDpEeDsHoS6iTqNNySaHIPYFYW14Fg2iIno_YcmtrC9L5sofRfJ3LZLr9ctOh1YbE1VX41WKYri_dTfxFXzD12YorqXXLR4iXD3I8l6Ntkf4Nt-MDWRjZ4J_ks4s3j3O1iANlV82RvYmag"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJf3iQDgAb24ARweNc50JyYPA",
+    "city": "Palm Springs",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJJVoBSb4b24AR17sQrBXrItM",
+    "name": "Ruth Hardy Park",
+    "slug": "ruth-hardy-park-palm-springs-ca",
+    "address": "700 Tamarisk Rd, Palm Springs, CA 92262, USA",
+    "lat": 33.834994,
+    "lng": -116.5389934,
+    "rating": 4.6,
+    "reviewCount": 1260,
+    "photos": [
+      "ATCDNfVXvcXbQOMMYs95M-VRhjG6DWcw-AvpcfB6qPX-9-68-ppLM3OjY0xeQOcAW-qTliuGS8pk4uMAIIy5ZsN61k_WXGHL0PG5psfxwkj-Vp0BVVf7JO4f0VXkPujICrl61n9kmfL3nA4rjkXOszpYEWdqmcMkUQvwh6oRafgGqdCDBxlRIaoga7oc3ot4Gqt3YdTffZjIeltDtRtnXaCG0TChZNxitIH9EC76Ax5BtNYMn84hdq1X0bgjwCcob7j5kPwbgYCjxaGBoCcJcUe_qDckRfxV-IutrLLtAjnUeDYy7BpkcPQkdgAF-2Qdop1HrQg4AQdNbYkEnDH_-bjSPQ0MHmxjZuekYSwlDuNH-VwPnwKeAAvWy40r9qlIPJx3Hhzy7s0AWsNxP4YiJLJqadnJ30oXivxqJ3DhCc3dFNIDMyOr"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJJVoBSb4b24AR17sQrBXrItM",
+    "city": "Palm Springs",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJB2c6Lngb24ARdwWbiieX8oc",
+    "name": "Palm Springs Parks & Recreation",
+    "slug": "palm-springs-parks-recreation-palm-springs-ca",
+    "address": "401 S Pavilion Way, Palm Springs, CA 92262, USA",
+    "lat": 33.8171946,
+    "lng": -116.5248754,
+    "rating": 4.4,
+    "reviewCount": 65,
+    "photos": [
+      "ATCDNfWhhu2yrZbDCxzVaCI_MWCBFzlAC_ADTCjGAWx_RE6s5XW4Acun5WW-iqOtLE85i077QMbTt0fBXPggROKyvF7tP1KM8r3XUKNE09n5pG7X9mTeWE7-REohwL1KpbhG7HzNe1RzyVbVgZPcYT7mAosVmoVT6otjByPiQYYFgkxc223HoXzQNDQFZX_JFAa0U70cO5_mVyK57w6ImkRXw8ctg5crecyDmDoC0raopx49TsdKF0syEZZzpgDnFy7nsKkkkcpidY6JUfntm07dTXiUClL-BHfDKxx_gysKzAOsunTSaP979mi_MvhHPMLWx1Nmv6jSBI4qKqiaZTETg6MWEju18wuqhzwF-p637rc4CXDTWiwMKuxxQjZgy-s1mK5CY1amVBUwmrBgo9IfywscRQK9pp6B_ATmRVQouXKFbyI"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJB2c6Lngb24ARdwWbiieX8oc",
+    "city": "Palm Springs",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJB9MQcXcb24ARQAMew-_H44A",
+    "name": "Sunrise Park",
+    "slug": "sunrise-park-palm-springs-ca",
+    "address": "480 S Sunrise Way, Palm Springs, CA 92262, USA",
+    "lat": 33.8175549,
+    "lng": -116.5261896,
+    "rating": 4.3,
+    "reviewCount": 281,
+    "photos": [
+      "ATCDNfWd6bEabUTkF-dTPfNgbhDNN06aIKQRsucYJ7vh893P62uPvu2sA7mU30F7ZMa1TkWiYTpJylQCibiyrvnfwe-PJlzJDOazWOfoIWilUum-6TcV6ZMQp5Ols0mlc8vt_yhU-ZD7S7hcstyC9MeHSJMvoYlC64ZKWMweebvYAdsaBQR5HwyJXawV0YJ4gOA-vRSALo0PWXGD3i6xMPdzpnFQWGOhHjcX6hLp42VUC1WgBvaN17rt8X1upGN5Naz9bjKJEOCZTuRNkaeGi9v_Qms12S4jS1tFvlhmt3WaCNjEj6cHDDpR4xMMQslUb5sQFt3LpcL_ucn3DA-tu3JqBFsgkKFXTtpxJegKyW6Mt6JZn1Y2ju7HwUCOD5iXBdqTaHcGfn5U67dbwnbVz-PfRg5ykOffwnBCNRDbOUsuymyf3RgP"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJB9MQcXcb24ARQAMew-_H44A",
+    "city": "Palm Springs",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJRQyGEb8b24ARS5o0eCk925M",
+    "name": "Ruth Hardy Park Tennis",
+    "slug": "ruth-hardy-park-tennis-palm-springs-ca",
+    "address": "904 N Vía Miraleste, Palm Springs, CA 92262, USA",
+    "lat": 33.8358179,
+    "lng": -116.5406463,
+    "rating": 4.6,
+    "reviewCount": 24,
+    "photos": [
+      "ATCDNfWHuzFIAea76RSjuTfl9MvKqemTSJ2ky-wULvnwvvSP0-RxUKUp-Uk6aUr6euvAH-_bvv_7KQF7IB9GiDMNTU4f09z1cDBp6SGNz4S97Ho-bAJjwS2gyESwXIOHAuyXBM4HNHTihA6kpLuYZijdNQxQgWWZGN-LLoHBaPMKw-asK1nZaz21duBb8Kzw1ht9muvhXOVf3WfW968qrYxwb2-giBwScGzs5O6cqCh7iifqyi3vJOsS4yGfGsp6cLBiXTu3po9g1-Sg7kYz0VtLU0o4UzL-rFGpxikOQH597Sgklb4_xzmYsFjmqR-5RUhBLbBkKICAOptRp3A91jExZ56D1oPySME0vGpOTr_Uroo1Qui8qYXf7A9038tD2ifV9cmpmaLOg4Ol_DbsrqAZ71ell-oYtCcQw7WPetz0bQf6jg"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJRQyGEb8b24ARS5o0eCk925M",
+    "city": "Palm Springs",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJaf2UiHAZ24ARQRJwCwkefaE",
+    "name": "James O. Jessie Desert Highland Unity Center",
+    "slug": "james-o-jessie-desert-highland-unity-center-palm-springs-ca",
+    "address": "480 W Tramview Rd, Palm Springs, CA 92262, USA",
+    "lat": 33.8678996,
+    "lng": -116.55239,
+    "rating": 4.6,
+    "reviewCount": 90,
+    "photos": [
+      "ATCDNfVSBhdj0JA2xCd1ShBv8IRuxOAGXWtLlEnB9u0jLKlq83UYZZrjrIDpW44cSHeW9CmaH0fCwMz8Vl93jREMcfzppIBLfMzRB4AxdlxSbXY0oqlwZj5sbCi_Yact3W-MTsSrG629hLz5UnGs2WJ9lboX-H0v-0QOV7_5OExNxjzFpXjPrFuRUJZOppn8wcW2zlKsUPo43tvSBNRKXqrdpJQoMzyLExeVuZ6EnQRbZv40vzDVIQbVFYzAmnYO7tlUduTYEw5MfgBjZfQ6JsT2OlkrSH7pR5HzzCEBYBbllvRIWY6Os7lPpBcoadz7QDaXPODRIHMb_vOeREcG9yb-_RP9ZXX_JQUc2jZXmFVE7tRnbc1U4rtPtSyc9eJKxNxqOKgi26MasYtdeFJgdEFA78QoaSAihOAC2S7gC5moFqupew"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJaf2UiHAZ24ARQRJwCwkefaE",
+    "city": "Palm Springs",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJd_MaMaEb24ARlep568ng3RE",
+    "name": "Baristo Park",
+    "slug": "baristo-park-palm-springs-ca",
+    "address": "296 S Calle Encilia, Palm Springs, CA 92262, USA",
+    "lat": 33.81862,
+    "lng": -116.5423692,
+    "rating": 3.8,
+    "reviewCount": 143,
+    "photos": [
+      "ATCDNfXAV3-fAUd5Ysd2UYN7M22ZN6QHmKaqrSCWmobq2Iw-vUK5zjoHHV5MPyLUBvQsjdRt4GWs8U8klGrGEOGsNppXqkbxRi9feqdRjClH4922czDdO4XYFLD2e2v_HdbaxPoiMzvR-TwhRcJ00SbDFEphbCAn-ATiK__-hJOZFD6kY_nfbsmMtaY6ac14npv5TYH9Dur0Do6xYcVyN-_Skmt9UsTOTck1275X9qn7MAaZUU6kT0EGESfndbd4bk_XEkI5tajQq8qX497i9UJrbQZeq6NiaNR-6dKh59JFnMRIemWvRixanBEn67cxEdJoqd6EhokgSYZYhjorfWGaDGw0a_EBI_9KbdsyRk_BOP3zCSrdU2i_MjV8BQBUO-GUEIfLsTFpB4TSP5DG5L6phck5kQRKlWv8er4jpiPmpAzTEw"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJd_MaMaEb24ARlep568ng3RE",
+    "city": "Palm Springs",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJv-vCwAob24ARza8VGX0K3jg",
+    "name": "Village Racquet Club",
+    "slug": "village-racquet-club-palm-springs-ca",
+    "address": "900 Ramon Rd, Palm Springs, CA 92262, USA",
+    "lat": 33.81643440000001,
+    "lng": -116.5385118,
+    "rating": 3.6,
+    "reviewCount": 44,
+    "photos": [
+      "ATCDNfWHq4Hoq9Xoif9W-WJdHYUtwszeOAgYVtCsp2knOdG2WzU_YTIgbkaMMOfTewGO-g_SJNGr7jGVQJ98e_51owKdxhHtY3NsMrFS_tveZvZdneRlBCDCdTn1h96EnlyQ2UCsSnXDgJeWLUi5Nt--_P_McWkAsUSXkogvxQBntfyEVKL_bqgorxV9ckxWy0_2fASvlZI4wEI3tAYzlm3PoVLKdjPd2Lf4gI8Mx5vLmtj3Q_P_VuYgIO9nCzGPb8L5b_LX5v8Qe7zq_lXZJ4QSo6HdtKRLjYPAu6RMOr6pYtLpZAmVN4rdEsI1QoWWp9i2SP3TZRHLZF1wmO4t1T-aP3oLQvGNnD1a_5djqySkQZXxYBNhtYdEMaepfsCor2Av8m97JpULfuMDjPaPEg2jFHpiHjbImpP2oIhd39ey9HWn3Uzs"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJv-vCwAob24ARza8VGX0K3jg",
+    "city": "Palm Springs",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJ_TG4dpEd24ARir7b1VxiwTY",
+    "name": "Gateway Park",
+    "slug": "gateway-park-palm-springs-ca",
+    "address": "3701 E Vista Chino, Palm Springs, CA 92262, USA",
+    "lat": 33.8438361,
+    "lng": -116.5060924,
+    "rating": 5,
+    "reviewCount": 2,
+    "photos": [
+      "ATCDNfUor-NEL917-YF5cQsAcPGbBPh8bvT39TGCCmtBS3rnjHPqieUMq2tOcZJHKLXWz19Il38KnTatQcROZrkQ3UT-pmKgML-InZg_yCvSLMBOB8k4hZzC5Lb__QNyXWBYuXxnPSYgHkegFWX6qeNx4QyrCFJDyFGIvgkwRlSUHDr4XntWbDzX7mJAFT0rqZwc1bVFQo2LHa1e5iF-OWSDdRviQeBhTicTWNLN0Qd8MThPC_Q3M7FPL0Be6QpV010qZhTZwlyXpJXSAqc700XevmUQEt89aUZUIaejwa21dI-ki0wmAS2qQ8jQvlqre0JOSMI5yLuoxouPqTMGApXspZ4Nq_ZO6YkDPV92uIt0rdU7pbHDwrEm0UvElSsiqHw2WkpkqgLq2cizUtchfA8WJYhiEZ8Vqp1aeFGzVZzx25nHYg"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ_TG4dpEd24ARir7b1VxiwTY",
+    "city": "Palm Springs",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJSWcp2pIb24AR-pewq--kmyo",
+    "name": "Sunrise Racquet Club",
+    "slug": "sunrise-racquet-club-palm-springs-ca",
+    "address": "1200 N Sunrise Way, Palm Springs, CA 92262, USA",
+    "lat": 33.8393614,
+    "lng": -116.5274459,
+    "rating": 4.5,
+    "reviewCount": 43,
+    "photos": [
+      "ATCDNfXZ02vZkQjXULAzBjY_p6wM0vlUk8liyPCHs8YB7_nCMXOQG-Vw-QI-LBGF_hpaPkNhZNadPZXvJZq-G8LZngM4nSzqoqLQ9clbGdDKxfsmkxx_aB1qVGuqbJfUHT8OROmZVV5DkJojKI7F3yHdG0HGxs1oRBg1vE9FIGhXgD7TXrgCRw8OehUXNY2TTpq4XtPyoMDGQI_ynYV11Q72OWwigG9MZqUzDqmpDcQmI0z3btrxNvX1Ib8ry8JpSrNHpaY32K03_u-T8JkKTF9Idt6WuRv8q4GaP97TGDU4eZ8GdsR-OZRpec4T0QVmGeTF8_Qn2DtzfrsFJCtFqgSmxIjCjDJ-ABoobAdJAtP5IzbZM0Cq5TsK8bBgD8nVgFtEmT_pnSLdWAyk2U5hVzlxvcb6BNGQe52NfoEr3UIoDf0Y6GvU"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJSWcp2pIb24AR-pewq--kmyo",
+    "city": "Palm Springs",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJY4Vr_fP_2oAR5ZpwXT_Y7lI",
+    "name": "Paradise Pickleball",
+    "slug": "paradise-pickleball-palm-springs-ca",
+    "address": "74700 CA-111, Palm Desert, CA 92260, USA",
+    "lat": 33.7239442,
+    "lng": -116.3626153,
+    "rating": 4.9,
+    "reviewCount": 61,
+    "photos": [
+      "ATCDNfVCCCL6B2nIB8KQi1CiEwucV4JaV1eBJy8eHr9VXJqHkbici5K2EuQRYyYzguMRumNRGbCuBIscEzQH6Hx0igGb49J8A7mWndm0eS5AfC_FhB1q859-dHRwuWr9Z6eN6QPBFNxXd-b91q0Zxcx99jZVNDq3Pc3H54H-lP5ftCIKVoOq9CmrkAcUT36s1gYHM-ZznQKCsVFckN4aoJ7fFj7ac9doXIBbg2te-l5qLdDOoPOnPqBCG4zsbHJ-Zx2GHnTjOuoWYsEQdOufsWM2J675Gs__l6RVT23LfZSAJ1mtUA"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJY4Vr_fP_2oAR5ZpwXT_Y7lI",
+    "city": "Palm Springs",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJkWQ3EPL72oARXGvQO1W_scg",
+    "name": "City of Palm Desert Freedom Park",
+    "slug": "city-of-palm-desert-freedom-park-palm-springs-ca",
+    "address": "77400 Country Club Dr, Palm Desert, CA 92260, USA",
+    "lat": 33.7609632,
+    "lng": -116.3137061,
+    "rating": 4.7,
+    "reviewCount": 755,
+    "photos": [
+      "ATCDNfUmo8zVFjsOPkqfJF3Ah6c0iriw-onM0GVMXdknLEPiUI7mgjmQrER36jP9LgB5vZObylIuLjzs2ZiaRqRH11gJf7NbcLTauOThuYGIqH_7x8pv7qE2CRpINzzyQq-V4LSjPc-t29845iFSC35suBZP_7LUHLH-2zurs4o3_4QgQU1LboYZv6AghZEMJHkf21yp6CkiAauxG0xbJVb4_bG_9Y713HrKX2GzXuqZCxDoLS5D2hzg0dfkMUfiv_PZ09o4kjsM4zIOFFpg9LlKLiCSwY7VZMj75jcLhAn50FICLsn6OTKNGyfMo_gm_jYPW2veedPhXgW0mTaoFLNPLGFVKH1jLx3tzSRggU4qiektFGyCgRpNY_3lPhpe4bjCxhZx679oY67d9OUIIwcVc-Csba3kORQNTcsi8T9KaC6T30tp"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJkWQ3EPL72oARXGvQO1W_scg",
+    "city": "Palm Springs",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJbzVF3db92oARCvUqUBjIIIs",
+    "name": "Palm Desert Civic Center Park",
+    "slug": "palm-desert-civic-center-park-palm-springs-ca",
+    "address": "43900 San Pablo Ave, Palm Desert, CA 92260, USA",
+    "lat": 33.7323079,
+    "lng": -116.3803625,
+    "rating": 4.8,
+    "reviewCount": 2779,
+    "photos": [
+      "ATCDNfU2KwpjrhQOQsEcYzb3TasbQiIemKOkCv7soD0zlFm8gsi85qytQRHscTiYBtM0P9PjFBRacB9Vsnbh8ojZQ1eSYxyOaL82WoqUqsLTsFISU3Isr_aipzaHf8AW7PiVMgz_DImnqh7iCJ-v9zUc4FlZelmwIPPbcNcM15oGSd5rXnLB3Dnr049UZazIsowXhc4ji9KyuuRVbD3Bh61aejJGXcfVyEVkZ34-CaArUzAZA4ZkixcHMZTYZvK3sfuASbOH6UIoFVN1lbZDtScgFvhMqOTBsuosQIQwf8N5qh8G8HQhpTQL9GyKo9wsZvseod0kYr3GgVYA3tQVUK6r5rGwpI5_05Kl1f8attXT-suQx_SXOwenOCnW3QP6PbU2EBdZn_rxxrUtXCEy-n5Ckp1PMPmRMQ_RbdCGaVFq1a9Qoc2MpMLz6yi2itswp0S_"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJbzVF3db92oARCvUqUBjIIIs",
+    "city": "Palm Springs",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJtSenxIv92oARIqatoh-gs5Y",
+    "name": "Rancho Mirage Community Park",
+    "slug": "rancho-mirage-community-park-palm-springs-ca",
+    "address": "71560 San Jacinto Dr, Rancho Mirage, CA 92270, USA",
+    "lat": 33.7464077,
+    "lng": -116.4153424,
+    "rating": 4.7,
+    "reviewCount": 444,
+    "photos": [
+      "ATCDNfVLcmQXmGVyMVPuHFqWgnPFG4xOrw-yHZAY4VO0Nl8biJZ63NXqN2TTwcovHFe_YQe6Ln35JPnj7duDPnIFlxxtbcw45b2Fo0cnhv1IEZLOAbysA6QNhLgt6RWP6Chx4ypW8HgW79h5bu86mqgYOCaATB78UIhXBZu-phAJNzKTXtNVba2x2oGXZ633Gz5326OqRizI3no4n7vfjbKwHzmO8Foh9wqe20I998DdDCsXmXhHgH4RvAW5aSPpj9Y1o7B9o0xfaHXnpJBN5U02uOWu-xt1x2dK4KNF8ERPE6AQOGebMl7LoRTTg4WtAmAY8SZoC3YyYT5FnVCwolb1OMyiW1G9lXHc9nGXJl3d-h9ZXHphVadKPXypq_9wGeCgpjvaCmjBAD1ym0w_3iV09S67ApWSAcTW3C2Du4c_d93kuwY"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJtSenxIv92oARIqatoh-gs5Y",
+    "city": "Palm Springs",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJlwuwWBsb24ARgTIGe5H9l_w",
+    "name": "Ruth Hardy Park-basketball court",
+    "slug": "ruth-hardy-park-basketball-court-palm-springs-ca",
+    "address": "RFP6+6CR, 700 Tamarisk Rd, Palm Springs, CA 92262, USA",
+    "lat": 33.8356125,
+    "lng": -116.5389844,
+    "rating": 5,
+    "reviewCount": 2,
+    "photos": [
+      "ATCDNfVMesf9vKueOkBZ-zqOsrfmgMICxN8axLyzstJ2On0APxqag5FYoPZU3guAhzun-LBuRNpPcRkcRlUE_QEW4Yan0w1PD5-jXMFKFMnIR2CfFfRvT8palassPFghTyLf6GzHz-BeVffKAJDKbmlyb8CetC84jX7y0MmWYF0AU0TfKy2LKmc6naxqsu6o2BZdxEGLGqLFRM1IYfDexWATMN06Wky8JvO1rcnOXqjIOzKjOp4OOq3Tn5mCQIKYhrAP9GiR6qXE1VO-Zxy7qum-DJ8skn2aPRJl6sqXVgywfxOyfzCGVl1PsO2TkQJjSnHrUhMgW6-WsYZQOTOejxN_o5DNh-oRrtccSY8q-2iHkC3NFX_DnOecmbtHyKREhEMOvWwPz9JCK0yxgaNA02949QOwS26KMiE6RhRmust2quKMrwLI4YP1tfyflQ6hVEiw"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJlwuwWBsb24ARgTIGe5H9l_w",
+    "city": "Palm Springs",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJK4MurQkb24ARLGhGEqU39EQ",
+    "name": "Historic Tennis Club Neighborhood Organization",
+    "slug": "historic-tennis-club-neighborhood-organization-palm-springs-ca",
+    "address": "611 S Palm Canyon Dr, Palm Springs, CA 92264, USA",
+    "lat": 33.8135442,
+    "lng": -116.5462163,
+    "rating": 5,
+    "reviewCount": 4,
+    "photos": [
+      "ATCDNfUivmpPBCVv-eGFHVPdWPbWYj9xoQXfm6X6PL7Zdo-_n5VvhOUlOGr2agGE_n6NHOd0XrrJl4kFCKm4sVkDJk-x9uyjK8Y0mOlmnSbc9MdKUck5LbEl_OEz2go2aHIqv2ev3X8LWe56T5FpEIVvetyHaXo-Smy2ZeY-jOEbfLnKnww0T5GgDoZCF1zUW2245gQBvzU-lJNKWoncBdU9T9hGarbfO5-nUQiBImOrgc-WnOzK8yAN4P807iPbgHR7c-FUHA03IHCM2kIJyf-YIlchTZpmQbS2ghY_TZ6lHjf6n0JOy_kjO_klVA-7zQ4nXqpBS3fxOh81Mgvzx7iFCB9V57pDo_KA7CmuYbspuGkompFUA4OJKGJzmTLueqzZBMsBFxPm-82bRy26c5eAqlxef09EjToB1eD2SxL8cdwC4Q"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJK4MurQkb24ARLGhGEqU39EQ",
+    "city": "Palm Springs",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJ5WsocIj92oARd_q68SuQ4Qg",
+    "name": "“The Way of Pickleball” - Professional Pickleball Lessons with James Ku",
+    "slug": "the-way-of-pickleball-professional-pickleball-lessons-with-james-ku-palm-springs-ca",
+    "address": "72577 Edgehill Dr UNIT 3, Palm Desert, CA 92260, USA",
+    "lat": 33.7079949,
+    "lng": -116.3972593,
+    "rating": 5,
+    "reviewCount": 48,
+    "photos": [
+      "ATCDNfXbpt6Ka8QFM8iujuJ0JDMgZpI3CpIukJjKD5p6idTkr7whbzropkoKGt23sFkaRQ7zC0ekEYjr5kXA6f_S0T4PBjfqoZsaxu1ypFMU-T6xgF6wqX-4yJhkUJ4KRRFoAxGWaGffph-o-k2jV-g-Azr4lDbzVv6FTBZIGzSuNt-TZI0Z_eoGSJxmbdsZOTclKF8yBg2dBukcJ8jw-xKN_lQwNSnKh-lxkcQyldM95QmB2-owEMAUwtR2NqSmBx9j9DtIO6RoUQX8W3xlxF-fFj5d4G4ap8WUeExOu2lTXFM4GQ"
+    ],
+    "types": [
+      "establishment",
+      "health",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ5WsocIj92oARd_q68SuQ4Qg",
+    "city": "Palm Springs",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJq5Qma9f92oAR-88-Bt8tggc",
+    "name": "Coachella Valley Recreation",
+    "slug": "coachella-valley-recreation-palm-springs-ca",
+    "address": "43900 San Pablo Ave, Palm Desert, CA 92260, USA",
+    "lat": 33.73270910000001,
+    "lng": -116.3807403,
+    "rating": 4.5,
+    "reviewCount": 16,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJq5Qma9f92oAR-88-Bt8tggc",
+    "city": "Palm Springs",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJE8XYPW0d24ARJ7tsOmEVGcE",
+    "name": "Century Park",
+    "slug": "century-park-palm-springs-ca",
+    "address": "69900 Century Park Dr, Cathedral City, CA 92234, USA",
+    "lat": 33.8276798,
+    "lng": -116.4417617,
+    "rating": 4.6,
+    "reviewCount": 164,
+    "photos": [
+      "ATCDNfVhocQekU6MtYb8feDh9zvWAJH-2RHBFlDFJAxNeLKDyTT1AXXJ9xASifdvHM6reHpwklfWZeQQhrW0Y8IJFblEYiGIwKybwVQsoU5TV8bgNThdQWwu4CRhP2TOdDGeaIAn9xJTXRKk6z0YHdQts6Njfj2R1_nXNACVdSA4n4Od43cWCss7mpQCHydanKjA2lUjjPKDndR5EizzZRPYn9v9y6TVRbwhVnP_YPvlndn7Syq0LmrG-4RZMoR6tKyY5oPoBPJ_ICCR1zt71DcHNYWD-nxBQktj8NOpOe8Txnqkm0z1Msa-Ka9KnYmptcmvn6HNrEi-Y21FA8q9l5EHLnH84C5dcs46kJoP9VqMKzNL2f1YgOfZvXS0bJpL69CJasz-Y-5teN0hXvdeyiZgbmSpBiBMmdNANYVzK2whEQJ1"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJE8XYPW0d24ARJ7tsOmEVGcE",
+    "city": "Palm Springs",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJB56HxPb92oARNMPMdC_gAKg",
+    "name": "Indian Ridge Pickleball Courts",
+    "slug": "indian-ridge-pickleball-courts-palm-springs-ca",
+    "address": "Clubhouse Way, Palm Desert, CA 92211, USA",
+    "lat": 33.7531406,
+    "lng": -116.330799,
+    "rating": 5,
+    "reviewCount": 1,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJB56HxPb92oARNMPMdC_gAKg",
+    "city": "Palm Springs",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJlVfo4iYd24AR3gJf_9F3p98",
+    "name": "Ocotillo Park",
+    "slug": "ocotillo-park-palm-springs-ca",
+    "address": "33300 Moreno Rd, Cathedral City, CA 92234, USA",
+    "lat": 33.8060836,
+    "lng": -116.4623442,
+    "rating": 4.5,
+    "reviewCount": 503,
+    "photos": [
+      "ATCDNfWpIBemgYNGApTh4XxITxG2SKBqP82A8z9PfzzxAuADmHdAecnsNlctU23rEx82nsXDhB1r1hFiFmH9JCcnwiTTBySpIYVM26GkcqegkQy5r17wSuZu84C22nusEt3hYhHm2KTkMa0c_Mwc65csvyQr0HFbN-ghsGdUVh3_xeY9O_UwJriBAtEdPNhsXkambNTvRpDVptR2o3O2mbSm7ZL4ZOnNTP1uPFTPq7NBHxwWiwwrbXJQ85sFmWKmBzZ8K9If5xj4rFjVEpwSodDxi9tq4lkzEOCpBN04wPPlw_IP8Q"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJlVfo4iYd24AR3gJf_9F3p98",
+    "city": "Palm Springs",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJ4ycPv64b24ARTH74wfDOvBo",
+    "name": "Palm Springs Tennis Club",
+    "slug": "palm-springs-tennis-club-palm-springs-ca",
+    "address": "701 W Baristo Rd, Palm Springs, CA 92262, USA",
+    "lat": 33.8200193,
+    "lng": -116.5539265,
+    "rating": 4.6,
+    "reviewCount": 794,
+    "photos": [
+      "ATCDNfUxeN1KCajJIb9NbqYBGgNadV7BQkt0prNyHkpzA2jY_aSHyFnAXLxMses2E0bf6WVJdVtJc9Mb0H4DzuWUVuvWRYU31V2kmiWysyZhwoWSGa2DW_AmSkNg5RSzr96sJbqYEPMpUd8gw-W2hb4VlkBsdb8e1IhcO7aUF9WUri_gRHGclB6jdLFQHII3WTYplBoedIf4k1AhtfQGvXt-Fi-RFqEqS3WSrqnGm4P7KGmJeDPOSS5gk8HLoAwUPa_I_gKXhXGFtlxZD7Lpga8jXXXY3l0sGXtHO0wfplCq0D7P2Q"
+    ],
+    "types": [
+      "establishment",
+      "lodging",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ4ycPv64b24ARTH74wfDOvBo",
+    "city": "Palm Springs",
+    "state": "CA"
+  }
+]

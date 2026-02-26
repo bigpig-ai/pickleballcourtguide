@@ -1,0 +1,1754 @@
+[
+  {
+    "id": "ChIJ87XzdABV2YARYAydyBwYrQw",
+    "name": "Little Italy Pickleball Court",
+    "slug": "little-italy-pickleball-court-san-diego-ca",
+    "address": "1747 Pacific Hwy, San Diego, CA 92101, USA",
+    "lat": 32.7238104,
+    "lng": -117.1717798,
+    "rating": 4.9,
+    "reviewCount": 16,
+    "photos": [
+      "ATCDNfWmxaZmrty-ibug76-k3tti-myXxm6raEf9Wuxu1Oyo36pVjI_qXuSiGxfc2Pa-RDv0LNq8E2kwRe-KFzUBlEuGV-oFsu7ZuUPMKZX4Fxjoj3_MjpYTHLEBOM6H_Ph-tx298tyGgMtMlKZT04zHAtIhc1KEMWUSUVF_Ry-Z70kHuktz5xki8BBUFpwfCSBfzpU05fMKyPdFEsX6zp6ecagfUxxfO0AytVvhLD7CQrfnUZnTMcItSL5iz4x5T1mv0eCDH7pqwi6ENMA5POvQw1uP6zX6ZRUXfLXEzHAeiDqNEYUWicWtgcsz7ka0OYweW8CIJ9VI-kDp-qErAhj3PSRyWr02iOCmddRjXmWOhBHjHuFm02GxasMUr-PKgFhyFe3a840g5L1Ccl1qRJYWQrqV0f0iOHiaanTnnrsBoucx8vab9AOt7Ae5rotpsg"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ87XzdABV2YARYAydyBwYrQw",
+    "city": "San Diego",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJZ7DFSJhU2YARTiYDze3s5l8",
+    "name": "Balboa Park Activity Center",
+    "slug": "balboa-park-activity-center-san-diego-ca",
+    "address": "2145 Park Blvd, San Diego, CA 92101, USA",
+    "lat": 32.7267303,
+    "lng": -117.1476517,
+    "rating": 4.6,
+    "reviewCount": 138,
+    "photos": [
+      "ATCDNfUKKIj3WZXT82VKe5HyMnM4SZq2JjU1_W_BfSPEupHtU2D2qISNN06xeCKOhI0Nbn-Zv7pDrusjYzjEtDoYGR4gs6IT1GELIITtPJnjHQYA-CPEKI5ISXtV0aQG3ktE1Iohgj-zIrTkpOGogORYWnM0fEcdLupEPzOa139D-HNIGCm0D26nWYcP0NN5aqJajheXzRXXu3tqzvmAt8XLIzQRLfb6hGCQio_0H-L--jFgxy-qOTQ5V8w3kx2KXhJlVY9bwUpYC5XvnJN81T6OXGY0cabuKJBLMNgG4uIvk8LzPp4i_OlQW1VJIky4ZUenTPLhBKoEnaMmJgOMTGd2RZiMvRQQfkWNM-fp83oRyYF2Za_1vpYTN01LDtDeaDrn84Bdm028e7ecFLqLxJZw5oKZvYTqNIgoQ__ilXiV8HjrjiFg"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJZ7DFSJhU2YARTiYDze3s5l8",
+    "city": "San Diego",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJHbXdMcsB3IARkJSyoUOvtCY",
+    "name": "San Diego Pickleball",
+    "slug": "san-diego-pickleball-san-diego-ca",
+    "address": "1775 E Mission Bay Dr., San Diego, CA 92109, USA",
+    "lat": 32.7791722,
+    "lng": -117.2110678,
+    "rating": 4.6,
+    "reviewCount": 39,
+    "photos": [
+      "ATCDNfXXf1XA0ET0V-3gs4euWTy3ZU6TyQG9HqopIzz7QD-KzgRJBuaCiIhjEXyZmH0VdNdbggOCYO1Vk5ftL6cCfLNbZHd3RETZdaOFIQZSZ-oGhGuWk2reIqNWd_bN65uWINaCdt6Lw_QU44rXpZuIlc2R81US9PhbLMPqLSCGvVv9c4Ekmh_A6uXVeaUSX1Spmr5fesB3GEeYZhLbF7DU_IpJDVAoReVfqsBpCEMlaI4HMGaF6rWV1tQNFPlsBqv7kYD2jWHOHpqygxab6IkCYg5Eol8JUh6v7zYabzEL8zCjZw5V-eYJGg6SxXgOSmf2ru5TYQJIV93LKoxoby7jif273q_qlnLkQo5RwnLZPHJ1VQByfp4wmDhN3sS9aKWFrc4YGhe8nVPb7r3uf9MVVPXeHDZ2MkNLkjgcY4vP5jE"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJHbXdMcsB3IARkJSyoUOvtCY",
+    "city": "San Diego",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJw-hCzQZR2YAR0XAmnvGqVuc",
+    "name": "The HUB Pickleball Club - San Diego",
+    "slug": "the-hub-pickleball-club-san-diego-san-diego-ca",
+    "address": "9545 Campo Rd, Spring Valley, CA 91977, USA",
+    "lat": 32.7476026,
+    "lng": -116.9912093,
+    "rating": 4.5,
+    "reviewCount": 102,
+    "photos": [
+      "ATCDNfVQaxyp9EcDJo9nA1gL0KM6unPNTd--xC3YSJKspLcbXDFLqmJPX4hEO_IfRbOyLIXeRHI5EBrk40jCLb5Qsekg7zXm9005WjBkM6dKZdcY706RqHnuu7T1kcZQuzEJCQXg0R-om5saw343PSPdbzxeKsBMvOnqKg2TyexeWlG8ZruToPHftjd2t3qwgsLdEzQkxHW-v4keu6cE_DiAgZ1rvKc58toN2HRs2HXY_whvDoUM8o1caOGSLJievhH5LvR6QUe1G-i1FNaaAD8PWPVqzqTY6QhD8zC00KzV5bk5mQ"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJw-hCzQZR2YAR0XAmnvGqVuc",
+    "city": "San Diego",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJsW14DNpV2YARWpnIgPkUMQ0",
+    "name": "Del Cerro Tennis Club and Pickleball Hub",
+    "slug": "del-cerro-tennis-club-and-pickleball-hub-san-diego-ca",
+    "address": "4956 Waring Rd APT A, San Diego, CA 92120, USA",
+    "lat": 32.7847701,
+    "lng": -117.0862407,
+    "rating": 4.7,
+    "reviewCount": 74,
+    "photos": [
+      "ATCDNfWcA8-vHtzXUXKA-gL4fw3YnhE0vCtf35mr29WFMpfpnLOiupGRJBGbPwDBVsvR3iXf-BUzk87-PMdO30mAtLJ8xwEjTpXPR1m7Z2xmE87xIDTHa1Mx3Y_8qmIb9WSFHCAThS7ETDBGltxSJxM4AnqkYh4hVw8xMzkZreqBIcx5vdbeW655pWh55dulvPWleIHcDMbxNXUDRfGwoxdw8FgQ3CAcysVSmrG_cZVeVmKLmzlArzWUV29XhuJ8EE-fvza9zPxZu2XsFgGqtgpWtXgGlQG0lsLlRlKDxMwm5vnzpw"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJsW14DNpV2YARWpnIgPkUMQ0",
+    "city": "San Diego",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJ6zKT8ESq3oARLj8iyBBHJJg",
+    "name": "Barnes Tennis Center",
+    "slug": "barnes-tennis-center-san-diego-ca",
+    "address": "4490 W Point Loma Blvd, San Diego, CA 92107, USA",
+    "lat": 32.7535245,
+    "lng": -117.2347253,
+    "rating": 4.6,
+    "reviewCount": 298,
+    "photos": [
+      "ATCDNfUeWhicjd3RCJNDYyHoP8XHCL7nSRVNfhHscdoEUsEjS0e9Pl9vVn0uGc_hRhrn985kNw9rqn8QHglZTSkO0TM0RFxXZlHiJDzTHz4Qzd0FKggQi0fN6rQ7SGQGSOCjlJcmaC8PM2zksKHTqMfNuGu8AND70W0ZySRXx7A8XO-V0shrWvPy0XhzOVFkodvwg7ZhUcKe9zC5NmrREi1Akoc4RgqRnhIvdLRX9mrPe3wQJtWgo1sKz5o3iszFpiQPsMV4azE4UXjhPTUVNyjNijmZ54Bt42E4FVn_Q1jofH7jxA"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ6zKT8ESq3oARLj8iyBBHJJg",
+    "city": "San Diego",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJkaq7Tjaq3oARPTae9cZ2T5M",
+    "name": "Ocean Beach Recreation Center",
+    "slug": "ocean-beach-recreation-center-san-diego-ca",
+    "address": "4726 Santa Monica Ave, San Diego, CA 92107, USA",
+    "lat": 32.7449991,
+    "lng": -117.2455178,
+    "rating": 4.6,
+    "reviewCount": 1591,
+    "photos": [
+      "ATCDNfXWMJ0Ttg5nqVIZnAj-yckTUcCrmaxLl34OrP1WO3qdeh3NOwTcVEbIOi0CQze6EsGrjpr-cinPqFtpGbZ-xVXJM6F3_KvmuoB6vwyL0taOBcj9yfGDnn3vJhalpiRTMoGY4MJqsZh5L61MGGRa51gs892bBBNto13hRw0idaKIRuCIESXzCzbO397UgNQSgSZkbV8XpnOW7mUTfASLGQp5lISVIOdKmyiHEp0z5BzD3X4Lvqg5Sku2YiAOLxarSxxhOGfn86mmEdKUKIa8X4D8R4LPWH0YXgLDZSc4bAIwNrxsb69ST8UNYu9Bo1Zy3u7nNUUL-SW-P1r1rX0mu4pxq4WqMh1TzOphNK2SblxBTnD1zTV1Y-dUqmJx9bCjrKe2Pfn-YYw4h4RdficS_z4LNW5yGS0DsSpMYr5lThO-Iw"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJkaq7Tjaq3oARPTae9cZ2T5M",
+    "city": "San Diego",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJl_QyVhcB3IAR8Y40ORJObpE",
+    "name": "Kingdom of Padel",
+    "slug": "kingdom-of-padel-san-diego-ca",
+    "address": "4645 Morena Blvd, San Diego, CA 92117, USA",
+    "lat": 32.823,
+    "lng": -117.2265948,
+    "rating": 4.7,
+    "reviewCount": 75,
+    "photos": [
+      "ATCDNfX0HbgMTEkoQPLGRmed0iQk9fDufNktT9Sk0qCyhCrc4iHRrFzLtBg-IfEmeL_CSo4UkjoKFM5ui5pUxdYUEepL0CLQiVJ4j3AuwWWyHAvrqExqIvtQ7VLtxfXqZrga8W1lUSpwPOe5GnOu49Mvj54TrovT_xO2ru9J7X6WCb18jciflQMI9XrYUEUxKEVNcHloQLz8IoifweheZLhU0nYTBUwjRLTr25nfdtrW5r1FRkMXuS3H-1yw7BkNHkaXVpUmeRRFbAqwvbgmOXGdkK4E1Zwi1u3nqB-ygXd9Y1vA_A"
+    ],
+    "types": [
+      "bar",
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJl_QyVhcB3IAR8Y40ORJObpE",
+    "city": "San Diego",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJZfWivWlU2YARsNbBFknSEJU",
+    "name": "Park de la Cruz Recreation Center",
+    "slug": "park-de-la-cruz-recreation-center-san-diego-ca",
+    "address": "3901 Landis St, San Diego, CA 92105, USA",
+    "lat": 32.7457058,
+    "lng": -117.1104289,
+    "rating": 4.5,
+    "reviewCount": 41,
+    "photos": [
+      "ATCDNfWA5Uo5yN_VodyLVRlWfB4rR-oz2IGNDViIhTx2dFbY3_MB_rYGhPZQq0pD93dtcbLTr_AcFTNWS40wTotVieLAlAX1jggReasRfvgpp3__lZEz9vC7kbzkuz3lRsiAjP8CA5-PdtbGdIjJaJ9XxfA4ERQ1NYVtUaypdiH0pwk5pqt4K8UREJi9plWQARMjO4clLosLZh3ruRn15htMr7PrJInq6e8RecvIY51BYWKlMVjsDKexYE8_rLDvscYhf3FsSNeHwoKfx5jhBbVSRWWAI2dGPRraU-Hv0Ee49SPcyxLq8R6A0R8P7n7wTtRr8fUdbQCJi8BmfvopTaCsjhV8lK6yiqWecQJYqjYNxbcV2MQw6zAYfjCkLuR6-BuSm3iOwO_kyUpYalm3VokiQrfbKgzLaComTPq7ZagcdSgDjHHg"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJZfWivWlU2YARsNbBFknSEJU",
+    "city": "San Diego",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJt_GEszQA3IAR4VYq5UklDNU",
+    "name": "Pacific Beach Tennis Club",
+    "slug": "pacific-beach-tennis-club-san-diego-ca",
+    "address": "2639 Grand Ave, San Diego, CA 92109, USA",
+    "lat": 32.8007612,
+    "lng": -117.2197196,
+    "rating": 4.4,
+    "reviewCount": 81,
+    "photos": [
+      "ATCDNfWKqWYOCXn4ZBzrfO6hVWdrIeNA02ixMkf9Hg-dq4myghc3Hg7aIrnptCZt5PhZrJjaGigOLE4xbngCdR9djVbggyKUhwpV01L3YnV5z7RC1hIWZqZPAPapycaprNleZPzu5seR-2b476uTE7xzIiQj1NbxVIeF4nWZRhwoPSORHYnjLW_3gTTfbjq2zxUp-5KiMT_ZkJ_fJPGnn8p-3vHghutAaMShNVzsxwnfESYPaL6IryjAX49otHfNze_402Z4zzzJf1DUeAgxFQ9ZffwqOvpI1IzbX8woQ7B2Rea7hw"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJt_GEszQA3IAR4VYq5UklDNU",
+    "city": "San Diego",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJUZlYjmhV2YARwrxaJzauH-M",
+    "name": "Murray Ridge Park",
+    "slug": "murray-ridge-park-san-diego-ca",
+    "address": "8651 Celestine Ave, San Diego, CA 92123, USA",
+    "lat": 32.7903499,
+    "lng": -117.1468767,
+    "rating": 4.5,
+    "reviewCount": 371,
+    "photos": [
+      "ATCDNfVphgGq17Il1bhmsN-M-NmbUi7wJu6ESqJ52yrMychOyt6QqaVZ_YlxGBN9YKHMR8sq-VPXlWGXiBCMMcqSttu9DP5Qm-dWJoy_DeqhB3BOQbbjgp91xbumVjnikh77enq_sBFhITa8IYd8tqbYgeB6g2vNkAIsyxWq6GiJELUf5yrpbVSkUfWF-H5ik-9jNDllNiFSF6PwFC4dy1dX3f-lzcEwEUnMVmMlOyOdm3Hubumpr6zqVx5hdOoqdDYgioUJOewYeYrJGcl1hAOo5oJHOlGNNRPKaBMFGeHk_lHA0R5_b-ieIdXDgwNy7UJ3Yd6NPrke-cYbWWiNyvz8qZyEuD_G_cKZ7bf5NrYakvMwngVnhyobWjPv1uWOvIF7BvYj2NLakKjnBT6vmVpBC1RCzqxq6PiFUuxUBebE6g-ZtBI"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJUZlYjmhV2YARwrxaJzauH-M",
+    "city": "San Diego",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJJ-p0WZUB3IARrQEX4aEqbf8",
+    "name": "Pacific Beach Park",
+    "slug": "pacific-beach-park-san-diego-ca",
+    "address": "1405 Diamond St, San Diego, CA 92109, USA",
+    "lat": 32.8013727,
+    "lng": -117.2447126,
+    "rating": 4.3,
+    "reviewCount": 162,
+    "photos": [
+      "ATCDNfU2_zhvHMPExQ3Xde4VRj5mL8wPiC7BgIXUW_MT2kyTmza-U0jfeVTaUFQvc30GtGODDW9zySHaTmiJQURcZH_NmW0uX5XQtiGtbmvBACirSZ2NuzRSeInvz2I0kb1-10_u4Td3rhsMU-8k8_85TvrIPtxymPxbziR3-h2_Lo1A4ol8Z03GyR0IIxFaHEHjaszNC45ymtOqB_h8vAsMEv8MVIWXVcs8Y9zy3jUgATJASHH03Zlr-pL6krmrJDiTOLhUw7PUUbM7iWJ3jjzqoGekE2pb6_3L7srMCTh9Nk-bEAzwk7nWgm1P97wHhVYW41lFiduJ-k_mH8q05iDVi-blE2UzAwnDR-ql83qXAEwbd77_BeU5gbbvn_o_WnlMP0youQaYL509F7hdHrrMHdFGyMqs4U40RM64L5piOHdPIg"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJJ-p0WZUB3IARrQEX4aEqbf8",
+    "city": "San Diego",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJ4flusIJU2YARpsY09810oAo",
+    "name": "Golden Hill Recreation Center",
+    "slug": "golden-hill-recreation-center-san-diego-ca",
+    "address": "Golden Hill Recreation Center, 2600 Golf Course Dr, San Diego, CA 92102, USA",
+    "lat": 32.7209033,
+    "lng": -117.1374726,
+    "rating": 4.5,
+    "reviewCount": 127,
+    "photos": [
+      "ATCDNfVdtFVdHzk98Gjc4OMOV5UOMSQAgEonVrsKLG_RRwYFV5Bw_S-Y4SaCJVKrFr-SJuA-XEViStqPTUkoY7EeeRdJ4H1vlS8QtNvv4Qvp9rPoCOTXHgyITarjVcHNrW4ntBuQ-PrH-KeFOA-DvZxukGAPSTdhEDgiyRP7a5KWYfSzbhcEf7UtS7-AYz0M5Zy3jSOI2mt-xpYvJLrBMOUJ1IBfjc962p-tHFPQOfIjcUiako13PIZ3w_ak0gm6f6BKxJz3A0AQkmAU0ilm7-s2XQlBmBR6TvqPaIGYxbDaSK7CkP6fw0CXpIN6uHi-e-ttYCThg3Rhsgtb5LATkOjCRVD0hvASpezBqp9Wnw_nBOqI7a9JDgxaozj44KXUborAFec2AsAA0vAYTK-iGZPtqDULCjfHua3tli-8Fcbh1A04i12l"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ4flusIJU2YARpsY09810oAo",
+    "city": "San Diego",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJlRx-gKZX2YARu-VYkmh6NBE",
+    "name": "Big Rock Park pickleball courts",
+    "slug": "big-rock-park-pickleball-courts-san-diego-ca",
+    "address": "8125 Arlette St, Santee, CA 92071, USA",
+    "lat": 32.830104,
+    "lng": -117.0188059,
+    "rating": 4.8,
+    "reviewCount": 22,
+    "photos": [
+      "ATCDNfVHTM1RdoCGpuXrtQK_-ZeQHP_lzX94IJ7g95OO6U5zWzhpOlm0tZF_iZgCjXfxkkNRR5AhUDB3OawIzAANf3dmXbXBOSfKMdMem1ebUYJ9DfcmLmF21Zds15_SXHgwk8CnJVEjoqPHZrZ2nXESGHf0vFBR16cqou-uHWfr467oPZNXdN0doINhFCUpFPqo9pi5FHiSSsgbASDZ7-tdJPPQW6Ovn-siMeb8MDH7c2tlceRFXmZqNYZMxmKrFJvYlHqEoCY_DWwfevv0jctwCnomidLUNHVknPzcIwPk8gRs7aEWY8UhAdVZf49Rzaf932RW1tEUWClXiO1JrqBe1PC-YlECOvHmCgx0h1eNBuyZdZI1GFj_KQBGvRCAoB4jrInB7B9HjqAgmsYzORAkqmg2ell-XhYI0qapuU0l2aB5XNXK"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJlRx-gKZX2YARu-VYkmh6NBE",
+    "city": "San Diego",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJgd9ehHFN2YARV8_9OsRL_A8",
+    "name": "Coronado Cays Park",
+    "slug": "coronado-cays-park-san-diego-ca",
+    "address": "99 Grand Caribe Isle, Coronado, CA 92118, USA",
+    "lat": 32.6223196,
+    "lng": -117.1356668,
+    "rating": 4.7,
+    "reviewCount": 449,
+    "photos": [
+      "ATCDNfVtfZ2p-EjBvkFslXfLzpzBGFOnFqz_SY0_N_xAt-fNq4QiGoA5B47Wa8CaAwBOMSxR1PGGLfTqSyV3jH1_5cQHa3oJCVTafh7h3MSpYL4bGLUMC02wHJ6RYvHnshHi1BlrQMmdcG3Y56zNHbRW0_sXvSMY1g47oZbjG60L02gm0Q70T6_Xh9h-LQMqg7u6p5uF7TbT7LgQeUS2ygKICWO_unyDPJKQSyRrN3NZmy7BMDCbuTy1hzYD6WEzdAQb0PZInaJCpdt_xPAft74_F0xSvNnc12CeuzGs9RsmwYrsU_zZc_sOzUvHW6vNNfTRUZEaHgfha6ZP02dceBOonLL7NQEPx2HR8Ybh_GQZo33RpcZ49E53yJEuNORfyC9hBWf6z7wkTbUH2RUHFOBzcFg4bI5nltOKnV26BDixJd7BSJhZ"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJgd9ehHFN2YARV8_9OsRL_A8",
+    "city": "San Diego",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJ17uhNR5U2YARhU5s7SKEhQ8",
+    "name": "Colina Del Sol Park",
+    "slug": "colina-del-sol-park-san-diego-ca",
+    "address": "5319 Orange Ave, San Diego, CA 92115, USA",
+    "lat": 32.7516649,
+    "lng": -117.0814783,
+    "rating": 4.1,
+    "reviewCount": 718,
+    "photos": [
+      "ATCDNfX1HomQ_BHkwd-GdZWEcMrbq-IL6Ov8CTOO1SSyhjQ0Aod2rwYfMzkCqoza4HTsBlk9fMI-Rcgl7n2chChV4Fq_RIcSK3mZql7ES8mjVCtQS7G_x2TXU0J9AUCwddXBSw6KaI5WZuIcp51QABGRXGW0kdANsPCCFM7hWUAMWU-KLVv6F9Ugn7MWTNZ2ezPaROQBpxyfUoqgQhJ5hsdgleIV6lX7eB6sM9SQEmlSHx7Cd8yVFBQZH2iDGSFR-LDdgOqFRpo8w0oTNIR8b0juTXGbfc1QJm0wvl-WxpsEWOoHgxaid7K8whfuPjHXFCgvTlYslAGLzd1JUZtfHxUT10EppnxFkz_YOvDA34lJVMMkxjyu4EXcEKsD-ljOD8tmUOdQLvLCjAzCdhZ5aDcRF2XZfIdAYgd17PU6Ys4OAComPA"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ17uhNR5U2YARhU5s7SKEhQ8",
+    "city": "San Diego",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJqWt5SOUD3IARAvP8J7xjOqk",
+    "name": "La Jolla Recreation Center",
+    "slug": "la-jolla-recreation-center-san-diego-ca",
+    "address": "615 Prospect St, La Jolla, CA 92037, USA",
+    "lat": 32.8433785,
+    "lng": -117.2777977,
+    "rating": 4.5,
+    "reviewCount": 118,
+    "photos": [
+      "ATCDNfVhBIY8uUS31ye0ZEJagn7nCVCeXcEwksfDP40z34RUE1RISTn2eKjUCk5EuTUobsIpDkv5zKQXnpHBnAKmlPUxfKpbWmxL8O7CcXAzWd9R4trAjcXfJVEsg5dZJ-3iDyto7pRpuUleh8iv3dL3r2qDb1pc0ewbvtBWKCLSlJLDSEceXaoQANfyZAuiljYA8o6Tg4Trg3pNr16f6o_kuzY-HmQD6sou5tkOc3mgf989LN12AzOxXbL3vQEIukWGMprOYo-ATXlfpPuymDkZ9lVMonwkiQwjlse9r2_36dcemKVCUFCzNx-7zvAkFlDHIDtua_ei3v-xCizL2Xefxjt3GBYcsbXPlOvKHRn-1IyYeLbFe0Td2p_0TekMQoTRognu2eTL7zU39cOVCH2AgwxuT6OLHvqQ5lxMQGgeeV7haYc"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJqWt5SOUD3IARAvP8J7xjOqk",
+    "city": "San Diego",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJU4fVTt2q3oARL6kQdXiAQgM",
+    "name": "Presidio Recreation Center",
+    "slug": "presidio-recreation-center-san-diego-ca",
+    "address": "2811 Jackson St, San Diego, CA 92110, USA",
+    "lat": 32.7583469,
+    "lng": -117.1959888,
+    "rating": 4.4,
+    "reviewCount": 45,
+    "photos": [
+      "ATCDNfX10XT3t6HSVFtMlvvPVobnayDXApsBukmC7cmId7nxI8kZOx7sKrPfVnEmwgntWU_euAJr1WnP7s6bCoJ8rNhrJ6CHgWg5jh6J5zgT9vUAd-efKwQeAjezXcXkkX4yhcNByW1Q-ywyDd8toGWKYpl4w_5LKSY7vXTbNVX9kZo_XtLPdI-HtggSqGOGctEVshdLWAJp9l9ia9akUNAUOl4lRcRhaFrq6HeuA9-ergWqCbvmucgiJsRi198XjF0yi3ZgG2l7Hgz9lcQ_YBCjxYQexaHSDuG3-cYYSgIXz58aDjN4rRcT4gCiN_TI6xCJVlMXIUBapDjhRVf6VK4Q_EMXWD2xpy5Sqsc4Bn67KardLSMjj7O1tSwVdNqwJMVbd3BYOLAWDYZdv3c_bAc90rMYSbvSICO_UgVKozwxXXkLbYM"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJU4fVTt2q3oARL6kQdXiAQgM",
+    "city": "San Diego",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJDVCyaIxF2YARWsaLDuARSFU",
+    "name": "Better at Pickleball",
+    "slug": "better-at-pickleball-san-diego-ca",
+    "address": "2800 Olympic Pkwy, Chula Vista, CA 91915, USA",
+    "lat": 32.6291529,
+    "lng": -116.9351079,
+    "rating": 5,
+    "reviewCount": 125,
+    "photos": [
+      "ATCDNfUexpLefHhY0_O_d56fpNDis7DanBzrMYwvz3IRX9_qmZ02WIWvz6iyauYfoMuGQb80zcpf9gzi-k1PuInzp5gEP6Sk940XJHr8buIOo0MorudX9RVBy0xSS6wYJPb3_aFwdUw72Ey3VGdYX2_SJv9ZebllkVPfOfoqu3_0ddOcKuAK7S0Wnpf3ikIqw8FyVE6NOzTo6ilQkUtOHtBa7LhAeLFtXBSPPrqXBF-gUQgDFJL7-ddoohJGUWc3vP3eJqXMPI7X-oF8j_fFPcsnrzSjdO9k15GP-2fuWziYOsZI8g"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJDVCyaIxF2YARWsaLDuARSFU",
+    "city": "San Diego",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJCfKkItNT2YARc3q1N37dR0E",
+    "name": "Pickleball at Coronado Island Marriott",
+    "slug": "pickleball-at-coronado-island-marriott-san-diego-ca",
+    "address": "2000 2nd St, Coronado, CA 92118, USA",
+    "lat": 32.6939377,
+    "lng": -117.1663464,
+    "rating": 4,
+    "reviewCount": 1,
+    "photos": [
+      "ATCDNfVbaL1sb4RfQelLOyAXrYr5qT9RRAiUb3eWB0gI9-Nf_efk4d5thBYwf0w9pK4vlKVjU9mvq1-xbl0-dBz66f1N7bL2TEH9T4GtymfpGICkU281_qmsLt2yJHazfEI6AKEtboCH1sdLIGDcU7h0V3VIRZ4Foi-FFsmoyshtYo5hHdPj5CmLKtO21YlG1ZnTY1DKAPwokPJnf80B8dWzqWXvV3c97GopDBGWPkC_JyRmYSbIqe3FG_AH_2QFHRRA7Hq7sEGDFoJuna6RaOmRU_rN0LKZU_DagQXiPag16z18zQ"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJCfKkItNT2YARc3q1N37dR0E",
+    "city": "San Diego",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJyatccZUB3IAR1rzIwhoQXFc",
+    "name": "Pacific Beach Recreation Center",
+    "slug": "pacific-beach-recreation-center-san-diego-ca",
+    "address": "1405 Diamond St, San Diego, CA 92109, USA",
+    "lat": 32.8016205,
+    "lng": -117.2451386,
+    "rating": 4.5,
+    "reviewCount": 92,
+    "photos": [
+      "ATCDNfWNmufKQdYOfVTw1BmnaffxLN8_XMV-U1U4Va_RNzdHmJhBsMTJpk_lIecCIgRp6C-ASmOJ1LSdnh3PBYHWT5m7tuVeQ0eRozuz3XFmPvD-TFdORAFM-Ny1aWGeCG9b3XLVQaG87309DQ284SDbdbLaaPimUL4w7qImVPRZwvdEeefecVcQYBmS6KLMPa62c-4csufA00ANvUl-Zd-ci-3ImKTj0IGQCvCmotTGMnNlwlIw4uNoKWSHCRvTI70kQBsr9HtzQZrKZ85ntUaRE0cOGTkOd5M4vAqWUcoDoLGT-B5olUfyqK5hOZVw4UY0td6fzO5t-pKKIs9EXKCp_7OSbhWaEr7ISEdMNXn6roQTu_zRyUPoZ2h32N5U3qqJUpqhcmzGPw0MuQjaklmqg81qkRogx6i-GCD_24VDKpt0YiZKME4MZj9zkiDXSw"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJyatccZUB3IAR1rzIwhoQXFc",
+    "city": "San Diego",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJnQ0t2t9V2YAR03gmFBsT4Os",
+    "name": "Allied Gardens Recreation Center",
+    "slug": "allied-gardens-recreation-center-san-diego-ca",
+    "address": "5155 Greenbrier Ave, San Diego, CA 92120, USA",
+    "lat": 32.7959906,
+    "lng": -117.0805088,
+    "rating": 4.5,
+    "reviewCount": 294,
+    "photos": [
+      "ATCDNfU6_GPAFwbAQtBj7gBEYW_pjxbGktCMtQ405qN44MvCpk9wf4gboi2c36Zn4LGFINq4PXcx8ERrNDXnUHILLupw64D7xap8go24NBrd_RSU-_WYsS5PcSxchzuzYwrb-zdBDTRlP2GqyaWglithxo_eJYvrdEJX_tQ2tbD4MgvAPw0NQsa7vP0oTLzMeGCJfR3ogIorQ4jLi-bECz7A71BHzMYC8metbcws0RIfVC_7g5eizZswUJR970Skn9MAKQXD91nP3vUXQgaJZKyIEgmtmynVAU_uwLTMyk9PJZ0wD8nkUIljOLCuWTour8l7s2ya6_03Z-yv5Skyixl8yrBeypqcAPTv3XrT-FwjqLzBOoaGZG3V0N3oRBy_RtQDG3t79I5m5yVy2tQv5b9pBHc6sg77J8YWWK2GeKPqzV2Twg"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJnQ0t2t9V2YAR03gmFBsT4Os",
+    "city": "San Diego",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJEcp-g8L724ARY1hzPz_FrUo",
+    "name": "Cypress Canyon Park",
+    "slug": "cypress-canyon-park-san-diego-ca",
+    "address": "11480 Cypress Canyon Rd, San Diego, CA 92131, USA",
+    "lat": 32.9252767,
+    "lng": -117.0652483,
+    "rating": 4.6,
+    "reviewCount": 105,
+    "photos": [
+      "ATCDNfWqIZbsEnlALP9wOTMQVU-DpNcIser30YqkNEX9lYT4UnwaUXQ7dDCintIVqIkkeMfVndOt84n6gcBMJjx-ExAeB6DXugjS7NUvCIEGbVHstu5l-_bBdEXl8P3w619gRtsHjfNmh4WZb-j0KrIVi_oQ9CqLo1SLKHPYacxmw5ygbRy2Azv9Hi0stRi8R1_vG1X0JnxWvDPCexzbIJoDXnlmO1U2UloDEhTCPhuQfnSNnKNGaZZXqeykUS3Ew49ZpZ_MeglS9-zuxvGhBcetX1b1Ss0AdQT834IS0TLTnzr4wO_32lhwY2MZVOhLbnVzblr51PMI2jAskXB9esjyPfYCEsYxhhrgci00xJT3zwwqZlRBK1-9UaL1_0QiZ8wzc3Z9F2d0cl6wrVb_MpC63HAU5oZcb4Wm3Isc-mNoaQWAWQ"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJEcp-g8L724ARY1hzPz_FrUo",
+    "city": "San Diego",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJc2IUq5eq3oARo_2tmCYcgdI",
+    "name": "San Diego Tennis Racquet Club",
+    "slug": "san-diego-tennis-racquet-club-san-diego-ca",
+    "address": "4848 Tecolote Rd, San Diego, CA 92110, USA",
+    "lat": 32.7763554,
+    "lng": -117.1996568,
+    "rating": 4.6,
+    "reviewCount": 67,
+    "photos": [
+      "ATCDNfXqBoGDHwamjTu_vLYBGVwVXo-kt8PkVGRi_IPL5oHLIzARer4vH0dcLo5HeeM3smc4ucIvwGVKLecjXedUiqlhWiALaCkubkRbnzFu8YRY9eRsRiCRPq2OavUpOxDVdh0k-8X0fSlCiG1sUgW_FMhVIuBTmr9blO0MVCdJhlJ3t1rP0vA8j2pOBSN4xlDpuMyyUEgXxLk6cYCa3Kptpfla8h3_kKayKo58jH8J_F3K7ntJ_UALhnjIS8WIhPBdhlSJ_uRz68Ex7HDUtQ7DbbNmSm02Em7g1qaVW2APRTCVEPScs4sw8CB7cMm57qvR5-i3ggFptfE5x5glen0oC81M2u561ZV2QTRRYd1cWFfhW0a_HjfNR6pVxVgeO0_jX9zb012qbodQ79oePcjPOMHi3goteafI10GhZ2h_jlSytA"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJc2IUq5eq3oARo_2tmCYcgdI",
+    "city": "San Diego",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJB1WdKUGq3oAReodqOjEkC28",
+    "name": "Ocean Beach Athletic Area Robb Field",
+    "slug": "ocean-beach-athletic-area-robb-field-san-diego-ca",
+    "address": "2525 Bacon St, San Diego, CA 92107, USA",
+    "lat": 32.7537646,
+    "lng": -117.2412046,
+    "rating": 4.4,
+    "reviewCount": 1109,
+    "photos": [
+      "ATCDNfXfAQw19xDkGObLS96pY4Somh7wAH6LT-1igP3JFHzFLJPRzNKjtaUXs2uwaYJfZnNV4yA3NRgSvfBw7m4lCq3RpMoYRncfBt1DhWSgCNBod4ucNY9wY3axYmMuoKApJ7gJEWcsjzJv5914npZ6Zi2fiYuzD-FGiRBk9L5DzPSH3nuol94LZ3LyHQyNReZCQR_vRfjrXG8QORg-od4NXrNNzkm0EhpzJriPiUlz54qwfo6_ZRltv81nP1ltAo-6H0nHyJdaiIpPhjUjfM5GF2eoCKzG0MFC1Yc7OtZvic5FIucV1NRaaSq_JvVuxcN6XFbMhY8FM6DX3hUkry_FGQ_KC9rxdhiUiNi8mY7UZWl_YN63X3j-ZIZW5lEaCy3VMGPIgeaP7ircwoeVYw_LWTApwuautH95dHHUlSm3fD7E7A"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJB1WdKUGq3oAReodqOjEkC28",
+    "city": "San Diego",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJ9fAjSvoA3IARSLh_VhbC1go",
+    "name": "Gershwin Park",
+    "slug": "gershwin-park-san-diego-ca",
+    "address": "3549 Conrad Ave, San Diego, CA 92117, USA",
+    "lat": 32.8350573,
+    "lng": -117.2114626,
+    "rating": 4.6,
+    "reviewCount": 193,
+    "photos": [
+      "ATCDNfUfmy6P1n1UecamQAMBll70JwnB2MnSkcqVnUsnRHt8t15znF7u2UV71ZRivy1K8xZ5yz69G9oX1nEdjAXQe1lZ916xhymIB-XHVOqXtaweLySBOMB3e6sR_TzQKnguKlwV8mEJZqSwegmx02JUa-LXGt0PLr8w7TWPTJXhQmdU9NOMNAxnK3IlGQFORD8Vber_LikJdw4xbctHNoRpxHv4J3U4Tb1sJC0_TqkfYl6zwft2KaMPIfzN1KrlrglXW556MewqMYWjVJHpjBgEXF532SrCwU9kNgaLjloZW26sJMoYw-FHRT28lurLSXMrhvpRCozF-vt6V4kXCsQw-OZn-ZQCHwoHT4MsXZ4fqyejn38MLg_EH1nigg3pnlbn-VzpOHXymxEzsdDUvvv2tX54kAZSVefj2dgzwpACjL9ZXw"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ9fAjSvoA3IARSLh_VhbC1go",
+    "city": "San Diego",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJuUnv0Mys3oAR6R0hwrb9Ujs",
+    "name": "Coronado Tennis Center",
+    "slug": "coronado-tennis-center-san-diego-ca",
+    "address": "1501 Glorietta Blvd, Coronado, CA 92118, USA",
+    "lat": 32.6836332,
+    "lng": -117.1736631,
+    "rating": 4.5,
+    "reviewCount": 30,
+    "photos": [
+      "ATCDNfVKn8-60fc8f4KZ1rmRptV3R_bYsWeqYvMEN-AYxONmajAlFz5dC1hSdtKk37lOoNl3rdZ2Q0HfRXOeRghbfV-thli-mgsM-PgHzEyG8RoS1I30zYSLwQ2GmefjTSR9uVuF8JtfPeQirjkHccr14arvyk-LE7eUgvpm0OXpGFoIi3BSZbDdSpdhylw-YgG_LLkeVybhNB8L36mWKvFW2odejcWo9H9pv-QFlTi3BCyddWq-xVuXSU4darWEpvhw2QgwxkOJdV71X8WAuygt8oe02aMLselo6cR-TbDqPRvEKA"
+    ],
+    "types": [
+      "establishment",
+      "health",
+      "point_of_interest",
+      "school",
+      "store"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJuUnv0Mys3oAR6R0hwrb9Ujs",
+    "city": "San Diego",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJ0dnESvUA3IARrLQOdqIaISM",
+    "name": "North Clairemont Recreation Center",
+    "slug": "north-clairemont-recreation-center-san-diego-ca",
+    "address": "4421 Bannock Ave, San Diego, CA 92117, USA",
+    "lat": 32.8323975,
+    "lng": -117.1974175,
+    "rating": 4.4,
+    "reviewCount": 211,
+    "photos": [
+      "ATCDNfVnxxoPsubHVii3MoFaFOkiJPxXbZHpjaKgmS_olrMwAhCNgf_5dMS_sMzLWUnr5hWCvDmnd3T8A0adRn1i4Omi19FaLZylxxTKigZJ3rfeo8moo2jR99BbTej9ip7Yckrl6iXoM8tMuIy0kUQNv0QNXh7Hoa8T1_kHLlF02alRowa0sJkqYXnkb2yO-f8nVHV10I_rVOkuEvTwlGL_lYcS8qo7L893EZDSoN3nPIdIpoPVb_82UBukaE2uNMdyFY9aQK9GlnHvMTdwI3bvNzEnGTdmrlySEHGpYbJqe-23WUs3uB7VrpgmbpedNoLcKIzOLMzAqSXx-DMz4XTNd_QThcH1kmS0odzKgzVD9SSBuGPW3IEyzQAD_MMrsJ60h-6AJZgXB0kEIWr1Yc0MtqYe6l_hIYA31t6P9OnQTQVnNQXz"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ0dnESvUA3IARrLQOdqIaISM",
+    "city": "San Diego",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJ50VElfBU2YARf2QT27i0Df4",
+    "name": "North Park Recreation Center",
+    "slug": "north-park-recreation-center-san-diego-ca",
+    "address": "4044 Idaho St, San Diego, CA 92104, USA",
+    "lat": 32.7509148,
+    "lng": -117.1341675,
+    "rating": 4.3,
+    "reviewCount": 90,
+    "photos": [
+      "ATCDNfUkGp_V3kFZyLzHbkroMa-9lDjAdWU0PONUU1hxO2K_4aqp5_CRUkk9No6aHMmL1pq5BiRgsienPHCAouP3HfoA2bJS0gttVsuRfVmq7vmi9j7Aea_nnofmB1GaFF_4eSGo2OcynQX-mgN6KAV7C0T-aKW33eTaskGmPjFQwv1GSM5bMrhNBPzPxuA8raYWY6YrRGX1JYCdZpvJn0f9BMO9yDZQ6JR0sxHbRV1XKhqVS-a71XXS3JNz9T68Vi3hhKX7PaJ1KEi1EYnwPvaYl-j1gN2XfXgauH8w5NJ7bWxgJ0-ErqbJPGKfTUvu64lGLzCTmyhbeEJMssX8LXmvBqwFHzNFpdPwiG2avRT6Ff_PYJ-MrX1N3_jI1BQsT9ALsUaI_EHLK-4WfAAel9mRgOSwYCOXg3PBXr61pBPZ3QB2yNU"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ50VElfBU2YARf2QT27i0Df4",
+    "city": "San Diego",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJheZOlB9U2YAR5NQ85BKA5BI",
+    "name": "Colina del Sol Park Recreation Center",
+    "slug": "colina-del-sol-park-recreation-center-san-diego-ca",
+    "address": "5319 Orange Ave, San Diego, CA 92115, USA",
+    "lat": 32.7527678,
+    "lng": -117.0801419,
+    "rating": 4.1,
+    "reviewCount": 72,
+    "photos": [
+      "ATCDNfV3yktEoOmGu02why6QqEOiVikB0JfJm9hDNyo0tA5FAuuuYfLJss4aWefGvQGhj8sBBs8pkKL1ZgLSLAD2AIvcMRujOvzXHyINHHvkh9Vvj2ZIpP3iPqDqTy4UOHxL2cj8PozvhNRNTbC7BW6UKdkASDKHtdW8MQ0I_dkXFUop7P4sgw9ndHddZQ9FUePT0fy6YwudcrYD9g24w1MVJacEp1UwCM6yRgmXLOHXwReISNsqcywPBIx72slQTWhjWKq3Ll_xJtSgz9_g9heMFGrPG4mqMxEpgn7DMve53fDZp5VXSE6fxls3mjeTEhEgadFUe1y_wzj-AXbd2MbP7HIevVGAHo5seazRRDB02IdOkZwp7ULVsnAbHywGlNDes3HkIYbGdPjs8HAf_-XMpHkOnjR65zaKni4twJ5fMbadWBCI"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJheZOlB9U2YAR5NQ85BKA5BI",
+    "city": "San Diego",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJqZiqP3RX2YARTzei6XaiiVI",
+    "name": "La Mesita Park",
+    "slug": "la-mesita-park-san-diego-ca",
+    "address": "8855 Dallas St, La Mesa, CA 91942, USA",
+    "lat": 32.7893142,
+    "lng": -117.0055768,
+    "rating": 4.6,
+    "reviewCount": 991,
+    "photos": [
+      "ATCDNfUzzGSxrJHDELy6aLCP-O4OiYQaOf3rB3z4NSjdckYHXeUSmU1emweThAFB6ZnEd14u2Jznx42_hIbFXAPMF8zSGwK3cgUqj1_mPEL9cnA3EL-mhdWD1-4shJDhaLK3OHuZJ7NNICTnnuNzQJFi1tgBic-8P7hthiHiuXQz_db_RteOPWGccAqs48cTTv_gJNsC7QaK7icBsK5s9Hm9Al5E_sK43K10BRsI1QA__bSbY71RzZ_4EPSSOp8S_5N2JU3hooBN3Mwop4uqXGzGXypyK7HiCf2_6e0TKD9XCHBc026Qxdtk9zTGLsLoQK56ojqVog2QJfA9MobYJwyFgnOPHa-RfZTRVVMMwIotweZypwG1sxWZi-nDH1SR5sx9_lnlHNk3E3RtHxCPevQg7JkF92K7UgDc3QlTPfzbnQ_I4JTz"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJqZiqP3RX2YARTzei6XaiiVI",
+    "city": "San Diego",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJn_uKPd0A3IARiRMDojjxCs0",
+    "name": "Standley Recreation Center",
+    "slug": "standley-recreation-center-san-diego-ca",
+    "address": "3585 Governor Dr, San Diego, CA 92122, USA",
+    "lat": 32.8511678,
+    "lng": -117.2102771,
+    "rating": 4.4,
+    "reviewCount": 175,
+    "photos": [
+      "ATCDNfX-A-sycoL_A93UOAm04quHchLx1PhziWt2ui-Qa27idSXLW_oeRIDkTJVi9QSTVt5XgIqoIovEg551MwlPie1PS0HFrbIaE-4nxM2q95BTdeG9BmS7lbwl_lk-EGnfQk8qQtxJwxED4F7GXLuYo_qy3_DET8hFaDenEtQdiuhW4BDc-clu5IEuXoBhp8VG25aaOY9QRFo0ecD3AUXHhoe43qHH674_QPy-KX8m7BNUlhIi6czlic80p5RWGxvw3ZlGvzALuKqIepC_4S7mqkl6GoyIjTokHSKkEJmbSEiPvTU0tjpOAFkJrAZQLXddjg4YzRH_mkCSm6hlewSgmFjpHxIXqbJDHz3Mo0PkVp-jg7490EAWsjKSiuboISag0kOyCGVJC24YO6kcJ6I2I7-9O8WXTDiDQbB_OGbUA7w"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJn_uKPd0A3IARiRMDojjxCs0",
+    "city": "San Diego",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJsz6ZgihX2YARXaJ0ZYFws9w",
+    "name": "Highwood Park",
+    "slug": "highwood-park-san-diego-ca",
+    "address": "4200 Parks Ave, La Mesa, CA 91941, USA",
+    "lat": 32.7559733,
+    "lng": -117.0287601,
+    "rating": 4.7,
+    "reviewCount": 76,
+    "photos": [
+      "ATCDNfUz9nqQLCddyfZS0ErDsLlYH9lhEBga_l7EOmE1rR6fVqkqXQYDQPDRh6cj_SmuI-vW7wbCh5J4ee2HFGCk0cyGG3x1H5zaaq2Nsz0eVJWeBfuKAUhvElnM7sLks03BsXxKLMfdE0HNt6Qrk06ReAqOFlUDHERP4Fx1LAtEdrfocWd4xZjNRygm3ZjynoWEPPOQ2Wd3T09D33FhQziFMCdJquZfToQMviaDMQM1Vg87ywtveVSxuFCWwhlYwWuX2fgBr4CAOIn2dagdD1GLcC9IhuzOuYwmHp1ovokU0qGCvUCNdR708nWaiR_nVgXaMhst2_4kcafn4B6Q0QES1hjHqiEscCScR17xVYwQ5fiFYxDx8zEspv7JHHWzc4gSns-aa05vELv9CbQPFQKJKpFMAt55xxLcrNwY6h8w6trdKA"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJsz6ZgihX2YARXaJ0ZYFws9w",
+    "city": "San Diego",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJwdf-Iayr3oARpxSiKrnrC2Q",
+    "name": "San Diego Tennis Center - Point Loma",
+    "slug": "san-diego-tennis-center-point-loma-san-diego-ca",
+    "address": "3051 Cañon St, San Diego, CA 92106, USA",
+    "lat": 32.7216712,
+    "lng": -117.2327988,
+    "rating": 4.8,
+    "reviewCount": 12,
+    "photos": [
+      "ATCDNfWThWjSqOocI-lzOq75-TglCume-oEo5rIGn_GnSTLi47jIEErpg4ZC5KQbUNOdKXwERxhlJfvnuSHVcG8Wsa4pes_pI_X5zU8Q8ea91K8s1lwKSMKESV-3Y2QFlzskMzmLrME8oC9t56pLyfcAKhk8CgCXfAdA51w2fOxenP0gO045B3aTP-8kJzEw9yZEGnGBtqYuPovLe6JS14HQ61y-owrW0Xf8OgQnYDhAk5TPENAThtD4KwyK-x-LtM7S2wfGrsqaGPk8gr4T73vnUY4stdyS5pb5HZEgNhrG6ECsGw"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJwdf-Iayr3oARpxSiKrnrC2Q",
+    "city": "San Diego",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJeWuwej4A3IARcF6-yPyr5-4",
+    "name": "South Clairemont Recreation Center",
+    "slug": "south-clairemont-recreation-center-san-diego-ca",
+    "address": "3605 Clairemont Dr, San Diego, CA 92117, USA",
+    "lat": 32.80637180000001,
+    "lng": -117.2005339,
+    "rating": 4.3,
+    "reviewCount": 189,
+    "photos": [
+      "ATCDNfXHKV2OmAtdKHy7aQ7VJQGOCDsfRR0Z0wqW7OSnEIdjeQte7JxZNHu2hx-2XWY5dEFcaJ7MLrfbJdROpmfjRN_laA_Bsl9IPWOv836-WdTDCfb0lhh_CDoeKCA2osAqmx3HCAQOQXWierwLF6RGKqUWZafypvv0NDf4DjnXIXjL97jtnX3_vmovibYWQqLnICLYWAPSidFbvxD0-zwfQm5nKSqAcGkbFuc9cg8uRYN91G1garNahJN0ZLet9g-DpX8t4D66JbOqmCnCPYjdPjpyR7LVlRMPYa1gtyB1rc_352MyaF3tol6SYSvMyJY9LuePWXy8YmGimUILuHf-yI0EFttRQ-a7xHCtZo1jTxN1NJrBsbR_cWDCSaPrE9cB1UyMCykdtFCiKiRI9dbTX-zDFE8tsbX1mqpbBMNaAxIZiw"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJeWuwej4A3IARcF6-yPyr5-4",
+    "city": "San Diego",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJMSYJV9_724ARVOUK_fibLNs",
+    "name": "Scripps Ranch Recreation Center",
+    "slug": "scripps-ranch-recreation-center-san-diego-ca",
+    "address": "11454 Blue Cypress Dr, San Diego, CA 92131, USA",
+    "lat": 32.9287836,
+    "lng": -117.0796311,
+    "rating": 4.6,
+    "reviewCount": 34,
+    "photos": [
+      "ATCDNfW77MDg7_Aykp9-APes6WixO7wOoFLS8c4A-_IsmWRL1FDY_jVjAONr5IOiXoJnx58Ce2qrLUD0VPLK_5jOjqZCyzZnYAilZFIouZr4A0Cf-2xW-AY_lW5eNFxggNkwYbe5mQgHjVlDs5kWrwPv0V7wIxiStqrfaMbpzlvfZASZwTKMGzbhhAVtYdBs6H6QYmbscyvm0BsQ6T3GfmYIlWF90mURA1a9yHbgBY-Z-b4E4tdZPAY7Z9r0Ts3D_i2T4rxEJhklgIaKAX27zZxmt3P4hEwhpKowyiK9_zRMhQfWvQ"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJMSYJV9_724ARVOUK_fibLNs",
+    "city": "San Diego",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJdQZUalRV2YARROQnblXXtHs",
+    "name": "Linda Vista Recreation Center",
+    "slug": "linda-vista-recreation-center-san-diego-ca",
+    "address": "7064 Levant St, San Diego, CA 92111, USA",
+    "lat": 32.7922136,
+    "lng": -117.1699468,
+    "rating": 4.3,
+    "reviewCount": 69,
+    "photos": [
+      "ATCDNfWJ_uTZSPtDzYnm80TYtA6U5j-jlHBPo85Zj1tPIMfTFa25pksi2VpLIOxsdFc7se00P2MSObmAQEUPAtEJ1CJvqJ3AF5gkqvDG-14_9rplnrbLYQr8DEiU2q_o_u2ym1daDzpGnrRC32ZGFW71HuuJiWPqPBDQb_OMsxLC0ELEE2sRe1aIed7r4capCyiM_yg0xlKJbzuzqwEbscYVg6XcpaBe9BSvsH6fPAo4RqCGIFYZuxT8fJCJFkSBK4Ej3x6BSwFCMWmBunNwGGfNaEX0lJno_1TMEeCb6TZ4_TNrlswgYKGBIRxnbtbfRhowExIg8g5mieDpt9oOFihrPsjSk1X4za6oOP4vWpZs0geEA6FMDrtHLquH8XBVI97QbapoRJyEeCVRQI2ylVRqiAWin08nocG3uNXPR5w7fP9QPzg"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJdQZUalRV2YARROQnblXXtHs",
+    "city": "San Diego",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJ_-Zqw6Gq3oAR7ZZ-6XcxS2I",
+    "name": "Western Hills Park",
+    "slug": "western-hills-park-san-diego-ca",
+    "address": "Garfield Rd, San Diego, CA 92110, USA",
+    "lat": 32.7863815,
+    "lng": -117.1962123,
+    "rating": 4.4,
+    "reviewCount": 175,
+    "photos": [
+      "ATCDNfVkv1u_zczT0x0rbRAAuA-O2koGfSLC9NDNwuBmQBJiKEjOckkuUstC59yvkTdaPH0YmEx-qORyeOE3zVT6MNdKcXMKJfsnRZ2NsSZry1Y1ORjec3Illa7hyBeimU7BbApuK5QOEWT0APNvmVSSz9F2xS5UM-Ju8OeizLGUCMEUzg-2_u636rR4miwNARR_NeBzQf4H0WiQp3U2fvJDZiRZbikOaf03QIppInxIZiUTZzOwNIzrz94_xrNxwGGxsgYaPb5B7l5kGL2Cvk_TyNn7BCHlm1xH8xTRdLdFxOMpyi_eeh46s_0q0EAPEKBu51j_PhgMEY8Ry3LurMYNUYJyH93nspS0oQpjjfdgwwFAkHeFWcm6P0aqpHfwhhfmMxmves55f3DqLANgItTboIIB2cT1Z6ZiOgkwUOvdCi6kqw"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ_-Zqw6Gq3oAR7ZZ-6XcxS2I",
+    "city": "San Diego",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJv9O9yuxU2YARgTkHal-Ecqk",
+    "name": "Morley Field Sports Complex",
+    "slug": "morley-field-sports-complex-san-diego-ca",
+    "address": "2221 Morley Field Dr, San Diego, CA 92104, USA",
+    "lat": 32.7383356,
+    "lng": -117.1390806,
+    "rating": 4.6,
+    "reviewCount": 1155,
+    "photos": [
+      "ATCDNfX0LG_Q8b0H4svJn4KpxO4oTpJ5XbLd5ouE61_DdmkVdT1LAXb89kNVZu-3z7Oz2d-XgbCtVUJ7gsnfcuZ0XX3FqJcV3AH6O8da29Ww7NChtEnSpXeRktoEVrm4otEbRCYi_L0t_GA8re-o6lCenv5Z3RQqF2RUj8PpmUhWRoE1_RAZ8N5Uyo9qVC-g0LdcC_KtUpdgc2svX3oqVqKAL9sZZgSw0lc2G5UqChynQ3fBBhJJPNtcXwbfJW6lPH38XxftIKkQ8pXdnkf5iVmBxseL4QnFCgZa38T863gPZIyVB_28sDZPcd3HxPpyTtq4E7EqxQ6TgYwAf8Q8b5pelHjSaExEDd0D7Qle6rFgk0IpueXQBAO9BBn96HwSK2IgmFdcWb7RdJDklApB07ojEQDin7HNlGNtkrH8AduwOJg"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJv9O9yuxU2YARgTkHal-Ecqk",
+    "city": "San Diego",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJBzR8fVf524AR4Etnk6ZWPzA",
+    "name": "Jerabek Park",
+    "slug": "jerabek-park-san-diego-ca",
+    "address": "10150 Avenida Magnifica, San Diego, CA 92131, USA",
+    "lat": 32.9109256,
+    "lng": -117.082127,
+    "rating": 4.5,
+    "reviewCount": 205,
+    "photos": [
+      "ATCDNfU-gZFX8wFtc-iJIJcCxqU-m90jP1gsDsjJEI7ZEH5J-U93ueQlbPlSr2ftPkGYzt1W_OmR8OjHs1HruP3rdeVTNcAqwD0fIghT8UfbmLuIuOTph0Ls6_JEz23uz-aRrdCwx3yDCywQCQf6yGwIfIUGhkMOuGdNzH9UYVJABC4nY2n8uhHO7nJfO5z4qxgaILSds3pvhEZCl8ROGXf5Y9ZT3Tk-QsqsXCdXRDb4RDZwfSTDlnc8ZtQlRnpE7V5PtdSQ2uIGx2uNbAahNbOWGy9cpAb54PiNkE525JHU5hwm66iWQwbJuKUaYM2f0ALtEqBDXi87ZZMc_Inc_LGNgmCZx-W8zDPHsMEzJqGBlgad2H9yaExaqhRCkgMMbGwuycqBIQdRzK90yLK_Ve3Ir7JB8L2QRsDRGhu_8hPCSjBUAQ"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJBzR8fVf524AR4Etnk6ZWPzA",
+    "city": "San Diego",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJ50s5Q7QH3IARf55fm_UIZmQ",
+    "name": "Ocean Air Community Park and Recreation Center",
+    "slug": "ocean-air-community-park-and-recreation-center-san-diego-ca",
+    "address": "4770 Fairport Way, San Diego, CA 92130, USA",
+    "lat": 32.927814,
+    "lng": -117.2167094,
+    "rating": 4.5,
+    "reviewCount": 208,
+    "photos": [
+      "ATCDNfVwMQxOkYnrO-8mfnZ76YH9kjkHbTGgczIRx7vHNV7vg1iFb-xaXtcdiP0rySbjECGvq81FgYv_54XtGyYXWS1_htbuLSrxDbhS0ckVuFqLvJm8SNsk2Fk2I9Btm66tu9_AvWAveRZBt82NhdPJicPsOU_inMr4JUPCi877U5wvMwJNtTZ235Hgw19mRuI90umEVIevdTP1r5ySuPsFwnf_MPk8QRHvzshy0gCqyXapqE7vshlgB4XcPx57c5a2JojrgS_XvJUqy-sXFER4V6TMNzk874foU3UCa5MnGWdZKf5ZpLmnLSrQyRDK4vEjr-J2HFgd3eMDrc039lgUi5GshEaIpwk5H3dEB4cpxQU9EURmxkI2_ev02OKN8tRHUcSvdvQ1bCXcXXPHxcsLliYrEcl_eF03tvv4n28VFPAHpu0I"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ50s5Q7QH3IARf55fm_UIZmQ",
+    "city": "San Diego",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJR_44nfBU2YARxoeMmnbLDFY",
+    "name": "North Park Community Park",
+    "slug": "north-park-community-park-san-diego-ca",
+    "address": "Howard Ave, San Diego, CA 92104, USA",
+    "lat": 32.7525892,
+    "lng": -117.1345193,
+    "rating": 4.1,
+    "reviewCount": 1267,
+    "photos": [
+      "ATCDNfWnwxLX09iU4u9kmlwUiFloJ7qpXBWwC8tm8Eui5oZuAo7RxVdTVp7TrzgLdp1Q2DyyYb-61HYQuOx39AU9YG_mD7Xqt4wmqAAzqceeoWEWjEWXwkk9nFesbS7LkFgYsAA0WwgoFonEFq1n7AArPbEg-SrQm6jD_ZvoDaEpLBt3zGuY0fJknhjLCCOsq2UOQGprr1Zt4qQtg7EBPCvtoqN1zgcNkPmjiowxEg63Pd0tixqOEk4VcXF13UY32f-jGAok5JCsKoFtcdBFt2Pfm7QbAVkJ87RrFfMNb4gNsfS-6lNlBC9zvJV-B0LSHNsVGviirMM0JXfOjKGBfVqhVCiE9ledly3qAQSBXeNh_lSMEmjpEr3KNxoZWXEM2ACCti1S4I7Y4t3Fu6Rd6rwRa3d1iR5IBxBIMRjU-rj1pZMRFg"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJR_44nfBU2YARxoeMmnbLDFY",
+    "city": "San Diego",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJX89qj_z_24AR4Nu2zaP5A_Y",
+    "name": "Kearny Mesa Recreation Center",
+    "slug": "kearny-mesa-recreation-center-san-diego-ca",
+    "address": "3170 Armstrong St, San Diego, CA 92111, USA",
+    "lat": 32.8018721,
+    "lng": -117.1651918,
+    "rating": 4.3,
+    "reviewCount": 220,
+    "photos": [
+      "ATCDNfXkCnPYLhF_ci8Z3993zSr5NNiDq2hdh0JU-c52p8gcE1MWqw41p0Q7rcR73jQcFl27kKElfdtBmrPiJy2WjTrX25cYs_ye5rU13agYSAFCArZFRxtlufscOhhFEu1reNrIaufcjeHtiWJpbLTXBodzYomkqyQz7dQHoP6-6K-Nki-hFpabtaxFyQfQSs5MRtqe_PUv36x8lbQxur8ufH9WoH_afEyk9YtcuVNiv20-Iu95YgzWAS3vKrSL2EiwtyVH2H4_X-ui7VfZuGPVSjAhwcsbzKmcjgyQfcGQAnfrbLOhOzKBj0pmu5cVSVM1ql2n-IaT3_0H6CHEBNHyE82Zv34c-xIC9nWsBt8ONCSQshNaDHfNLUKKGQj7IbptVfBwyiD4uUkjFmmgPA-DETRsn7E7_V6Go69VDQrUuoxGsNs"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJX89qj_z_24AR4Nu2zaP5A_Y",
+    "city": "San Diego",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJv9O9yuxU2YARAeEibwROjoY",
+    "name": "Balboa Tennis Club",
+    "slug": "balboa-tennis-club-san-diego-ca",
+    "address": "2221 Morley Field Dr, San Diego, CA 92104, USA",
+    "lat": 32.7400724,
+    "lng": -117.1405797,
+    "rating": 4.6,
+    "reviewCount": 178,
+    "photos": [
+      "ATCDNfXVWoBfWxtH_HH1YjS2wXHwO3UNvIch_vLqLthOpr2B2idAU5NPS8BIYa5NerxblnrVotRWoyen3k7lNCuNoX0Su3jUs4XP9b7rsuKkLse6z0T487TQKZ2JQ2aCCPX5DcuBrEJV4_F97WySq4383hynDu8te8twX56tq1WfpLS90TadADNIs8p2e8WBaXlMU2IGduhxSHkv6wOjTNpbq7y-lmZQVw3wQDVrlUpIxvd4blVV4hGl8Ph2062RFU3aBkTDZFsepuKptd8WXcv1fqT2xk-yFbIfXzyRT9J-PT8JGi1-7wbFVLpDAJGaPmFqFeWPnhfFHfBG9yr1l1k0fU02pLsQnbo35mSax6cqFEAu0mMXIqtYgcW4Uf3_J9FKl2PawKxiG5Qdlq5yVJr7bZUxNWoNPNsjqCSDcjZ1GzilnZmHsFq1ggQCc-jsBw2P"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJv9O9yuxU2YARAeEibwROjoY",
+    "city": "San Diego",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJd4QIiA7-24AR2-MolFIHTDk",
+    "name": "Tierrasanta Recreation Center",
+    "slug": "tierrasanta-recreation-center-san-diego-ca",
+    "address": "11220 Clairemont Mesa Blvd, San Diego, CA 92124, USA",
+    "lat": 32.8296875,
+    "lng": -117.089157,
+    "rating": 4.7,
+    "reviewCount": 138,
+    "photos": [
+      "ATCDNfWP4jq_ElsXGgJuMCQtl2AvpVqpW0AdgDgZPNx7UhdTC06Ej9b2VkEe0-jz9AeNzYak_lgj9HTjOjsReZW6zSm5qaxM1xpQzWdDyu9ypJQbYEJkDYYMeCxW9-CAQap1eFjgLqKMrBSg5Sh3t7MJAoA7Xy1WXspdUHkxl_v9AYNnLvINsKtHLiYecLCMwbfTS1UqICbtxvMrH-AZA9BAFtyvOvG01yoiMcG5KURM-fqNtqSb8X9pRgEkuAdc0d8pJPqUFT7UVhz4MjYwfskaoeITSmVH88iOx53onzKEPVaWQ7sA80TMpBZgrctbux8JycAykzTTOwgjiCJJrVvJB2mgjYKdaeqL07WrwLPn4Nb4VCtWm5rzhGiAcGD77PZRmKoVVUOictp4vKI5ekHCEYzMTZKbz8xr_8kNSZslNWwHWA"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJd4QIiA7-24AR2-MolFIHTDk",
+    "city": "San Diego",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJobRvSlpN2YARNRXtTK1rUjY",
+    "name": "Pickleball Courts",
+    "slug": "pickleball-courts-san-diego-ca",
+    "address": "16 Bahama Bend, Coronado, CA 92118, USA",
+    "lat": 32.6231236,
+    "lng": -117.1360333,
+    "rating": 4,
+    "reviewCount": 5,
+    "photos": [
+      "ATCDNfVAOI9OyGBlVdxZbDNWG-be8qbAZ48r0FojuMjDPTXG9FBoLmym-1pY1fuewnSCmysmXX1Uis9tU7uQ8wVnUc8UGedrggjdtANamwyzhEjH4MveHU77VQ8p1hy3JsmdDltMQnOLYJNkAqEAk-0vymWYn7DUuvUpUqW9zqxxJLIECULAwzOcIkkURPewMY-p0cOKdp-QoMNZXzQ35qH9YlNxTyfjJmJfQwBGJKvlOkyYydgib9xSOGh7JWoS64VYcsnTTEQjPoZIvNhZCy5DADvkzut5JxJES3x4b3k9NWTnlR189487jwLY4oXgVYbsewgXRo8KZkP6NCXgqyRpZAcKCGHSXb_yz2oJYQ-2igUQk-EojSJGzjxzsQuo0Z7oQLFSOjmn71s6RhCpO2OQJGnuPpHQ9kHzSbePG9NhZGnHnH0"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJobRvSlpN2YARNRXtTK1rUjY",
+    "city": "San Diego",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJC350G7lT2YARR0vPRq4iLkw",
+    "name": "Mountain View Park",
+    "slug": "mountain-view-park-san-diego-ca",
+    "address": "603-641 S Boundary St, San Diego, CA 92113, USA",
+    "lat": 32.7016184,
+    "lng": -117.1073493,
+    "rating": 4.3,
+    "reviewCount": 135,
+    "photos": [
+      "ATCDNfX3HTBhdFTHgeTQq5realO9dcAUIQhBHcpeulnFcZSuNjCQMzbYrGugXY4DP9oVKEgzGyStcEkizVfQlD9evmfFLv-dEQuJ1pRm9P7LMITMr8IoJas4bb6-aUVgtjNLrx6U0UHRH68uFpaqPsk57ZMjmzac-alwx6zejxh6Lu_zFS6BXTvT3imQi3Ex4HB9RtKyc-mz0rBWOZZ3KrerPRd9VjG726o771YliONCysCToTDiOd7v67-X7MW96SYGlJ-TC8m9ROIoV0tH70koh7MIR5Ne6di8S-FN_oj6H6hfPIs6x82NYNRsacHw9_7q-kffv97CLDauLpXt9VxdFPak1mvWJFucQWmM1n4myfWPt3Kap2hqtZ2UemUHto_EmGLGq3YGQvlEp3jpUz3dQIXbjL25Hf-nek2kIvGZ47TFvQ"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJC350G7lT2YARR0vPRq4iLkw",
+    "city": "San Diego",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJL_6nnsBV2YAR1XW-am1vJj4",
+    "name": "North Park Tennis Courts",
+    "slug": "north-park-tennis-courts-san-diego-ca",
+    "address": "4044 Idaho St, San Diego, CA 92104, USA",
+    "lat": 32.7508021,
+    "lng": -117.1340895,
+    "rating": 4.2,
+    "reviewCount": 12,
+    "photos": [
+      "ATCDNfWWpEvsizp8jJSnJwa-ScArBsxay4WSNUa1u9Ni2yd8OxqnOF6CMZx8ADN0v7iVKsu_pcoY6kV27hL-d3jzXrFR_lTJB0LG55eil9-MrSIcjRShgg8QZ6YiJ0LOsAS4U6aWmWQ_x2vP2orwVyh4ruJUdQLm3nh2ruv6JFNiPf86CrziKI0erBJLuWl_ykPXMZ16aROetDvjqN91lrbTBl_HIkWj5ea2r_O9bvsi0oUvjuZSOosP1XGtmoxc5Se9W5Euh3-WeUh5TgnJdUxgr5jYSZIw79kGfK52rgHzgTU4e7rKSMJvj27NtZsz3KW2scSPxcIA14aRESNcpSuFsnGlTweuwo8YOhvxQSblX01hj9p7TdeRHMAVJ5DHAChHs4-mVInkF7ZcI3Q2wSly_-ekfwk5xfrDeBklyawguLZiyA"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJL_6nnsBV2YAR1XW-am1vJj4",
+    "city": "San Diego",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJp1AUxgMJ3IARh1jKPyBCWLQ",
+    "name": "Pacific Highlands Ranch Recreation Center",
+    "slug": "pacific-highlands-ranch-recreation-center-san-diego-ca",
+    "address": "5977 Village Center Loop Rd, San Diego, CA 92130, USA",
+    "lat": 32.95986329999999,
+    "lng": -117.1867877,
+    "rating": 4.4,
+    "reviewCount": 16,
+    "photos": [
+      "ATCDNfVReKbDEoznWrVmznCXLVWX_OkgPIEmepc5bzxbFDGkoNgIUpTvQj4gJXxbEsFg9ZR216rLIr1oDJtAMWdBp29zHWaLvNjXQrtiUcnunQs0MAcLE8Vg9MhTy7fcnJLq8tRZAbnKOLPTpgQ9TehZbUdWmamUUt3k-Hl8hFHlycX-RITg0Y4J_UMFLg_J3_vnFSg1IF6lxWk_RdBghFeVMVJej46DoSLuUt3Ut_A29_Rhh8f8flRabBeWsqyRJ95Ai2_bsqgC8XQQF6L_TKs0dzssjt4QvBjdkNxncy7JuV2Y2J4nZp0JiNmDZmrmJs6ZLhIu6GOJJhMSJMmRWM0GHk72Xlz28_T93L2JwdeGR6NiwDsfPflgct5gQk2iwdA29DyH8dBgf5Fsyp-6gQsOfmBmgNE0aCTS2QiSlk9Cu4uGiA4t"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJp1AUxgMJ3IARh1jKPyBCWLQ",
+    "city": "San Diego",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJY78SCXRR2YARho9b0w_7bkI",
+    "name": "Mountain View Sports & Racquet",
+    "slug": "mountain-view-sports-racquet-san-diego-ca",
+    "address": "6401 Skyline Dr, San Diego, CA 92114, USA",
+    "lat": 32.698767,
+    "lng": -117.0617516,
+    "rating": 4.4,
+    "reviewCount": 47,
+    "photos": [
+      "ATCDNfVkKxG6Jz_zmNa_pVxv5n9R0r8jWsflaipVphoR90udrY0RCbklHawGN4OcDePWew_Jv522ubQ-LTPlUQYTtzMHNUzKHNGlk79coJly2mSnhVGKDw8Za9CljPwbb794vMCbmwCDPOn7BQ8TqDy96ek9p42YAW_q_zYw1ySXtBMvFcMspWQJdU42LUe5zt_eqOZVBTyYmejO5b_VUl_Q1Crsg8fdD8C7BP3DtX0QHbPZ7nAE9S_7OHeskVT7B57LQNnTqyYUO4Jd9eoTQd6wegPgxXNkiWgvoCyKFPqPECzRFRsegObuhRC8N_5-pVYTEY3bDm9qCyP7ZZUwO8RuKuuh9WN5ZMQNSDSzTpVCrMwwwOFtBCFpD-cgzwvyznwrg0zG0rR-EtN3F9NjahlTNQl-bENSDqZB7m6V3LXAyNxRTPqL"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJY78SCXRR2YARho9b0w_7bkI",
+    "city": "San Diego",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJFT_UOtv724ARuEip1fETNJ0",
+    "name": "Pickleball Training Centers",
+    "slug": "pickleball-training-centers-san-diego-ca",
+    "address": "14343 Silverset St, Poway, CA 92064, USA",
+    "lat": 32.9774659,
+    "lng": -117.0508398,
+    "rating": 4.7,
+    "reviewCount": 15,
+    "photos": [
+      "ATCDNfUgC1sGc_w7X5yQpONhz5zLx-NWyB8_zoY6B5VAoVwSnUHLj3EUwOlEqLjesRiffOC3UMQquye8oE1raF_twlNomd8f1nHt_LWTzffNbKySJ34og2UJlgrK2kB8Xwnn9iDnt0UzRWrmuyBzIOVcwhpMtDjM3UyCGSbEtZCeujpNG8lYlMK4s_W4EBWDnbu6YTQHK2V1EGQpWKFqCvHoAkN7XxmIG9NAOA1Ijz_BJ-SahJSymDcnXrKOEyF-WQYQZvbxyNaZl9kz2OQWxMUZD646-WHPQbPelmO7hL4CczUbCw"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJFT_UOtv724ARuEip1fETNJ0",
+    "city": "San Diego",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJdQS_BwCr3oARfjrq4AqJGfE",
+    "name": "Pickleball Courts",
+    "slug": "pickleball-courts-san-diego-ca",
+    "address": "3300 Nixie Way, San Diego, CA 92147, USA",
+    "lat": 32.7263269,
+    "lng": -117.2169951,
+    "rating": 5,
+    "reviewCount": 1,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJdQS_BwCr3oARfjrq4AqJGfE",
+    "city": "San Diego",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJrTdyMgCr3oAR4WjB1gr_0Zc",
+    "name": "Robb Field Pickleball Courts",
+    "slug": "robb-field-pickleball-courts-san-diego-ca",
+    "address": "2525 Bacon St, San Diego, CA 92107, USA",
+    "lat": 32.7543339,
+    "lng": -117.2414192,
+    "rating": 3,
+    "reviewCount": 2,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJrTdyMgCr3oAR4WjB1gr_0Zc",
+    "city": "San Diego",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJ2b8RdQCr3oARzmg2ZcjBOH4",
+    "name": "Pickleball Courts",
+    "slug": "pickleball-courts-san-diego-ca",
+    "address": "4490 W Point Loma Blvd, San Diego, CA 92107, USA",
+    "lat": 32.7527555,
+    "lng": -117.2359775,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ2b8RdQCr3oARzmg2ZcjBOH4",
+    "city": "San Diego",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJu0mmZYj_24AR6Yg3cTzwPLw",
+    "name": "Olive Grove Park",
+    "slug": "olive-grove-park-san-diego-ca",
+    "address": "6075 Printwood Street, San Diego, CA 92117, USA",
+    "lat": 32.8265937,
+    "lng": -117.1710549,
+    "rating": 4.5,
+    "reviewCount": 477,
+    "photos": [
+      "ATCDNfXtXoSSW8QDSBEoYzwR-9AVS6RX7vhhEOs_92E56xT4VyifYOmoW3S047tdkz5z-dkU_0yDtADqxpZ0uwfGdJHiwE4P9OuKXoxmQDdboJddpMADO79ln0t2qQB6o9AAB3FRUHtKXrhERYYXtsIm2EEnYAGHWgijVFzEsIUC0U34r2BvK1h6tUidw3bwOa_0Du6TmsnO0bhZiqp5YdkPYyF0qgX6ehRQfXuSg-O3pHyvklkl3ajiVed6M-uqHwU3FtfFKR_hWJvM49nCJFNJOMH1_HYyldrnngp5eZs9Sxt5sLVk6-la2MB_oPmAThGj1sFzSem0-xvemkZLbU0PysTr0jziJ5PMLFKKxLuRJzUSWY8ZbXUGZHUH1-ZBhTQZoiFfYw58HplYNqZFBmZwSf1HkAcsDW0s3DabP469Ka8"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJu0mmZYj_24AR6Yg3cTzwPLw",
+    "city": "San Diego",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJV9OJxsOq3oARnyGzSXY0ym8",
+    "name": "Mission Valley YMCA",
+    "slug": "mission-valley-ymca-san-diego-ca",
+    "address": "5505 Friars Rd, San Diego, CA 92110, USA",
+    "lat": 32.7635662,
+    "lng": -117.1923705,
+    "rating": 4.5,
+    "reviewCount": 547,
+    "photos": [
+      "ATCDNfVRQu6pdrBGG2FYWXJJOZTmVLr7VAi61ObEO8QkKXO2ViUke3rQGMvtNhXYyZRdT6B9-tD-6dJWTr_3ANgKlnSIPl-RWfzhoAsVKi2mdBO-vHPERB3XiQZj3MbZBdI4c-j6shBTbuQbQ8Ig9J24UdPvHbdBDsj3FOkXKiUnSPvXt-VB0bElB5dcmnAfYQDUqFamwmiR55WXGFgzs8eWxplAJF1XJIqXSaYavVgFZUBB0bsq4eT3Mw4RcCk9DP0CN72Qjyp9dN4t-gewrS3JUIxzTB8QvGFNPH_wYJDQP0L9Cg"
+    ],
+    "types": [
+      "establishment",
+      "gym",
+      "health",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJV9OJxsOq3oARnyGzSXY0ym8",
+    "city": "San Diego",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJdYspT7aq3oARBZxEuAiSWMU",
+    "name": "East Tennis Courts",
+    "slug": "east-tennis-courts-san-diego-ca",
+    "address": "5998 Alcala Park, San Diego, CA 92110, USA",
+    "lat": 32.7742642,
+    "lng": -117.1818005,
+    "rating": 4.6,
+    "reviewCount": 7,
+    "photos": [
+      "ATCDNfXOwZVj5-L1vE7BLSdfn1GIK8-ZqTbPKceGqyZGQA-E4Cer3CNyJKlJoAcSfpCHkOlraZyRygOnWNiVXs73LzSeCYSLX3jOW3lzng8YOS3j_KaaY_d_nzsvSRESNdi1_zuzcHYEt3QUZ45pn-6AwfeZINwXSuI8p79jxW_O2rAISV5hkE5ynZo9zCQF8K_To3H9XZLLqb5meDKDq0iaVwPHKW497vUtCyzk8SXLYb-bEvi_nZhY7WwbB6APn5kWtkWm8eXR6KRl8aE_kuv2S_geUSL7kc94yS1rJfgTwVhv1Qzs7QAh_ZsXzopUbK-Qr0ae_8UcuMizsr5XxMW7amRJ24dy0Eu07JWqUNhl8sQAYFiHxfDpvx4iYv4dXYO2O6y7ZOpY7F1kfxaIPdWLE4KPsPxIFRFT45JxvUZq0adbiA"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "stadium"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJdYspT7aq3oARBZxEuAiSWMU",
+    "city": "San Diego",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJ7S8ZQ1pT2YARVnxcl579lg0",
+    "name": "El Toyon Park",
+    "slug": "el-toyon-park-san-diego-ca",
+    "address": "2005 E 4th St, National City, CA 91950, USA",
+    "lat": 32.6863554,
+    "lng": -117.0872383,
+    "rating": 4.3,
+    "reviewCount": 750,
+    "photos": [
+      "ATCDNfUs17ZM7gQd17IiMclyVl5XSUrn2XgyiyQaLUBsGB0hs_sxP5ZAX7XBA3O188101YKHwLF8P74TfC8ZKt0BOMYfgfhXIdyr9RQxajDpvJlqw-1IjXSeVt8IMYnEsa7g0GOD9WxKHZBqzgDovbonAI4zpNoYJretx8GVzODW608VCaHHmq3Jt6QhDodN4eqVri3SrC8xzqfO6m5CLhRfiHAl2cvPiQqPEy09u_dJ54eOF-KgeSbuoqZiHaQy_YIiIj7Zgdc9pj3yiskw8vqF190MqHnt4rYsF_ttQ35-CaLTT33H2HSVmqAmeJQZaDyyN1no59hSzR2VEKiAR3dEfIvBxwzQuTOeCOavl7Nb0IUpJrlBrOmafjNGqtK2dW035R169SP6jHd0YmrioqLPOFoZNIEuaDZk-wnecFpV0I_eTCA9"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ7S8ZQ1pT2YARVnxcl579lg0",
+    "city": "San Diego",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJSUHxsOYB3IAR2db5YdQ1iPw",
+    "name": "Santa Clara Point",
+    "slug": "santa-clara-point-san-diego-ca",
+    "address": "1008 Santa Clara Pl, San Diego, CA 92109, USA",
+    "lat": 32.7835095,
+    "lng": -117.2490289,
+    "rating": 4.6,
+    "reviewCount": 320,
+    "photos": [
+      "ATCDNfWVixkaIKJJwbZt7orH8qzkiV0MeqFJ00t3uBPjMiQJmfjgUDQ-lUpiJkdXT8-PqMUVvahJvBW-1ZiD73JO55qJmmlge6UQLscA6NlWQ9W8PeVMZbB17xZVisr8bIJvk7b-FeHCQwGMXgWvQY2DGP5T0hYiCjKjG_PNPQSGxaD9QH1t_XnMKYbUtZE4UcTIgnqg1HGgIH6tPglBdhh9elz3bNP9qalv9R5xGkzOPCeMXN1AEeeArH2Ezj_7EI9K4fPoQeU5dc6UL8eCes1TxN5E5X_zSEWW6ZvCBEf9OW1lBK9ePZLmF8wmRXWSolIpUJEN7bNDN71KxPFDmGY3xxFAb6_jI29yKZqLQALGT8-Q3681r3x0qgcK69PHIb2jh60d0IHgFCEtbaunLLuxPSjX5yK7FFXRcEDpD5jBzRw80A"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJSUHxsOYB3IAR2db5YdQ1iPw",
+    "city": "San Diego",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJfzF3Cdb_24ARi_ZppQ9fVkc",
+    "name": "Serra Mesa Recreation Center",
+    "slug": "serra-mesa-recreation-center-san-diego-ca",
+    "address": "9020 Village Glen Dr, San Diego, CA 92123, USA",
+    "lat": 32.8053744,
+    "lng": -117.1332048,
+    "rating": 4.3,
+    "reviewCount": 186,
+    "photos": [
+      "ATCDNfUnwTj0zBLWZWYPmqHctBxBTCmfF6gIHtwaG-7uvikz1o-A_F33ilUVdBrPTH0VIlWMmQ4n3OcHMMaGe2aj-_41PTJOun6m6uAst5Qcy1pf5t761LxidKbWF4NNq6xkKUI8VrsTbgpk9JrXeIV1pRvwGJuLpoJ_nC5KC8nQsxXJ6eN3qf8idCGJbi3t0RwaXOG3B_wpEVVCNA6Qt2xpnLr7H-ZCl7_No6ITHM5WDvbGDUb1PJAXNUdptsA0u6SUzPzf44TQet6xmdqPMTXk6FLl4GxtgbtYbtKkzQlPoEFjFg6-VRYbLWgfgjnqiui_-oLX7iWB8S8kXiGAXB3Z704ZNmdJVZNqpdGMpOOZQQQAQ4l_Tr_f79kPxDUo6Tqj8v3gxYVfh3ewYeLxg1SBHjWOoPHA_fPslTRn3NoKc1ARHw"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJfzF3Cdb_24ARi_ZppQ9fVkc",
+    "city": "San Diego",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJMVQQS8T_24ARkmCPvJng5Pg",
+    "name": "Pickleball Nation",
+    "slug": "pickleball-nation-san-diego-ca",
+    "address": "4897 Mercury St, San Diego, CA 92111, USA",
+    "lat": 32.8308758,
+    "lng": -117.1476424,
+    "rating": 5,
+    "reviewCount": 10,
+    "photos": [
+      "ATCDNfVQYEpXVp897reZzUkm-5IrZOYL3SSuW51MshU3tCGsKytA_dewemRmA0OOySBNMOEJM5qBuXj5Woc-26wcfFzcNqOepta4OogR0i7LDuCv2r2_6KT9g6drCas9f9TzHr5B5BF-UMCSVjvYocEXK1lUaTl82FBsaIIhKuXSvRUWUq4bKL4qPkE7h9ckVHIuN3XcpUqp9Yw2X3WQRaoxND_OUihu5QUVtdO5EKX_9t7G9hR7F0OozY7eMsrqLPsM5pvElrHNbOYuq2fJWEc_c8LL0HtTLtN8BZx4erUweKWjjA"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "store"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJMVQQS8T_24ARkmCPvJng5Pg",
+    "city": "San Diego",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJZ0C8YVeq3oARb_nipOUzDiM",
+    "name": "Pickleball Association of San Diego",
+    "slug": "pickleball-association-of-san-diego-san-diego-ca",
+    "address": "2930 Barnard St, San Diego, CA 92110, USA",
+    "lat": 32.7520088,
+    "lng": -117.2247344,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJZ0C8YVeq3oARb_nipOUzDiM",
+    "city": "San Diego",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJzbYXWGN13IAR7l3BYRVkDR4",
+    "name": "Rally House Pickleball Club",
+    "slug": "rally-house-pickleball-club-san-diego-ca",
+    "address": "6131 Innovation Way Suite #100, Carlsbad, CA 92009, USA",
+    "lat": 33.1291041,
+    "lng": -117.2601025,
+    "rating": 4.7,
+    "reviewCount": 30,
+    "photos": [
+      "ATCDNfVee5667G2ZtI0iQaU4C9C25x-glTGsCV9rkm1DNtaqEqi4x6hHjjK7tvr-wLIln_bBjBgUKthG43hcpKZwrOzXtyuRQwxio-nHPpozUSomcKvxzPQtmbCmcJ1BI_r18djBuQlo8AQ3L5_91ZMIB_Q5lCqfrNxISWQNi0QOoqgflAV9VVfbeF74rxt89JH77n-pkBi_SRVM01quwFQDjYGclR8oLI6XBsRFi4zHJWTOFHjGRxMJjSn_DGNcgkoHbNlAeTS-7_CXLsRSYoT5LGxJW52DDvL8Fhhp_e-HZ8fBweagCwAMI0z1CYjLMXTaZqrYNcXOuYOXhelTdneNEVwVCkLd6nKzbv82gV-Zmw4YDYysOXR8k1kmSD_kg-7WQyck4EYigQ7-HIhRxqY_O7uidyHR4eIfRIdgtJS6nZfqnng"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJzbYXWGN13IAR7l3BYRVkDR4",
+    "city": "San Diego",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJY3xByw4M3IAR-hHxVUA5c6s",
+    "name": "Bobby Riggs Racket & Paddle - get2eleven Pickleball proShop",
+    "slug": "bobby-riggs-racket-paddle-get2eleven-pickleball-proshop-san-diego-ca",
+    "address": "875 Santa Fe Dr, Encinitas, CA 92024, USA",
+    "lat": 33.0357934,
+    "lng": -117.2733993,
+    "rating": 4.7,
+    "reviewCount": 116,
+    "photos": [
+      "ATCDNfXjsQOXJZWsqSLE2h8kW7ftf54zjTLfENwNWDTsDChpPwt8r2PuPPWLdANN_GHDYH3dMVFCCnvao8WGoM_ii9Sov5hATWKGK7OtfS8hYYzCsk7lp0PCvBqNvPodcGsK47lh623L3sQnVp2mpBUhngNzqxxwutnYIBfExCJqsTML3bqlzDsIrvyseu4UjdJ_YZ5rcmou6yEBbUyxaFMWcNGHg8KcgLJw9jFxkEzYoZOjcO_AuNsj5Yh6w7K0vzXrPVT_-dlg0SvTrHduIDvdzieblA_PWpPsI9n_0zwGYz0XJw"
+    ],
+    "types": [
+      "establishment",
+      "food",
+      "point_of_interest",
+      "restaurant"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJY3xByw4M3IAR-hHxVUA5c6s",
+    "city": "San Diego",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJQQ8Amwhx3IARey6JQ7vXDvI",
+    "name": "Pickleball Club of Carlsbad",
+    "slug": "pickleball-club-of-carlsbad-san-diego-ca",
+    "address": "2561 El Camino Real, Carlsbad, CA 92008, USA",
+    "lat": 33.1788006,
+    "lng": -117.3340755,
+    "rating": 4.6,
+    "reviewCount": 58,
+    "photos": [
+      "ATCDNfWyt1CN-47FsFeIB-Jfm30gD8XuH3JvWK1CAaeeJpZTr1aPCvE51Xvw5zDxOKZARz0l5yIt3nszD8dadFcexnHWz4t6yUEM2yTau3-ykC8V_3jvdGTrPp_MgWOsoxUjOYXjeLcIAxf1ZrUJHvnVui7UpXh_R2qItV9VGWXU2U6ykTOxKehA2yE3JbgqQH5f-Hk__TCby8KCyerOiohV6CqOFSroFSU8jni2M2EMvZQrSfSQJ9C4L2J72V0cMsPxPrfiQC6bFnMnlQD_Eegm91AAzDWlldXrxjeNLUSyR3qDYQ"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJQQ8Amwhx3IARey6JQ7vXDvI",
+    "city": "San Diego",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJYfDVwEkB3IAR52FGmQpIuHs",
+    "name": "Intelli-Pickleball Coach",
+    "slug": "intelli-pickleball-coach-san-diego-ca",
+    "address": "Toscana Dr, San Diego, CA 92122, USA",
+    "lat": 32.8679781,
+    "lng": -117.2010514,
+    "rating": 5,
+    "reviewCount": 5,
+    "photos": [
+      "ATCDNfVxvL505pj5ToTsbo_lxIftIjSl5FOD7z31QEnkJMDMeUi7NNmlLIVv8FqPDwN6W7hRHlcSdu_BL_-d5vmAzdroRWKEzlVoI_wSSUHfEEOQhKNMVTBw9ipWdoYFEG3UCCfjmaJYDQhJ5MY9V0bFb27xRPHD-N840uhaCOlSAtE_hI2yEjr9CS-lGue7pNS3qilEU-wxjmpCaZIoXuQf6lddLYZ3UVuNy2GAWTUJkMHj0dkrOnn-Ik6wwAV62ea3eWyQccb721AeRmVVL0nKKjxo4o9iPx24jTvNUK4TVT1AEA"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJYfDVwEkB3IAR52FGmQpIuHs",
+    "city": "San Diego",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJB2X7FFj524ARHDCRXwLFwWY",
+    "name": "Scripps Ranch Swim & Racquet Club",
+    "slug": "scripps-ranch-swim-racquet-club-san-diego-ca",
+    "address": "10250 Scripps Trail, San Diego, CA 92131, USA",
+    "lat": 32.9119464,
+    "lng": -117.0807017,
+    "rating": 4.7,
+    "reviewCount": 42,
+    "photos": [
+      "ATCDNfVvwfsEnoo2IFzDt2tFRz3iZAppY0kJVdeqnTjFVdxAfaJsXCYumF8v8Ugi9cojqiFkZ575RS4suYwOKZ5oshVDhSZ34GwI-VUmfzNazJQW2bxrdqXj_FjBiAue4xAziMOfqek2-qUn3WUvY_URDIFdQ-xcuM4XoKQ_ZZWvkpwl6Vp6Q-MvEcFDJJDqzY9v8ivWZmlLXfhIuMxdIo6j8GKPDm8IKxkrHTmlj4LQHBJDZebaqu_x3OceQIphApF8N57LsqXaeiIsoZc_eCG4suz795WeNME7DY7Fsl86abdEz4yN8N9gnjOlhmrQ_R-rb27PNglRE5wU7f6RBpJhQfmlr7EfLteng4kS-OiS_eLwNlRmBmjeggvuMpKKrGXwNLCk5R4jPdv2GukBRY2R3uuu6Fr4NLSzBl_I-cZEmNvwjaYb"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJB2X7FFj524ARHDCRXwLFwWY",
+    "city": "San Diego",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJM6-L7rWs3oARJbeIrM4mEBY",
+    "name": "John D. Spreckels Center and Bowling Green",
+    "slug": "john-d-spreckels-center-and-bowling-green-san-diego-ca",
+    "address": "1019 7th St, Coronado, CA 92118, USA",
+    "lat": 32.690637,
+    "lng": -117.1778135,
+    "rating": 4.8,
+    "reviewCount": 24,
+    "photos": [
+      "ATCDNfWPt2mbG1irAWpbqfQc9M_6Knza70MYNDcBAwuh1ooOSunJGcZHx4J1EPi3tP-JPn9IkyewYUDz8FvXlKkqTnqv2dITZIYRsJoEKmONorjWAOK6BD21oLs2ek5vIFfXW1lgkqzQMspjUJhDOj02BwKs_yPOQG05jLDE2BXmn64UZMoyBXsjQ1IOlRGuG2lkkm7oiAmfhjdU8pQbWQ2ez-tKfgTX3lQ0mKVvn2lOpDS7kiKq_YjWC9LXir29VzuZANyiojH5Jg8XOBZT0nhq0YzeWuqjw4V69z3YXTUrn547kQ"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJM6-L7rWs3oARJbeIrM4mEBY",
+    "city": "San Diego",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJiw_3KcoA3IARFzUM__0NDhQ",
+    "name": "Nobel Athletic Area",
+    "slug": "nobel-athletic-area-san-diego-ca",
+    "address": "8810 Judicial Dr, San Diego, CA 92122, USA",
+    "lat": 32.8672123,
+    "lng": -117.1996564,
+    "rating": 4.6,
+    "reviewCount": 436,
+    "photos": [
+      "ATCDNfVc9z0gRAi2Ism1DKunugCsJjNQQ3DQwb-jtqOUNErl4hwoOf_MOY2WzzKVsXttn-i2mUIbCTitSgz4yBdV8KXmJ8NxOC4zB-Rhg4WJ0IkHWNzwWnnFrGu64s4Vx6Uy9wS7n-I7Rvx42zV_hbe3AgoCbuMpfWNmLTJISJWOSEuVbVk9D8ixkjRPbwT-La4qMzfxu_ydI6hVflmooCyk6afeCoxADGt7vvXxfEORjX1gKCIakC2H6dWkdKfvMGGunXJGa5vfuJR_pt25tduE0wn2KjEJKOab1K9yb-92gArNUqgxCm9k_eenQTp2mhsyrn27Tztaon1s5Ehhb7UomBvspkn644_oZ6TVm_hqkaR6aJU0UeUZRpVg1kDd2R8oS6ZH5evJtJWxg9Y43YbpZQzud_Q5Z9p2XFYxEzWVwke8rA"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJiw_3KcoA3IARFzUM__0NDhQ",
+    "city": "San Diego",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJHZPZsbeq3oARLAb2JiKW75k",
+    "name": "Sports Center",
+    "slug": "sports-center-san-diego-ca",
+    "address": "Torero Way, San Diego, CA 92110, USA",
+    "lat": 32.7742376,
+    "lng": -117.1827677,
+    "rating": 4.7,
+    "reviewCount": 9,
+    "photos": [
+      "ATCDNfVsYvsb7MIHVfSFl3-Lx-JmQDvesmq3JS774CpJnHOYCPUlRMASwWJBs-2u1Y87XO5rUrmB-QoE-a5uhmew5FrTrtLpK0Ykbo85VmsFBVpz9bJm25vOX8ZD79Dst2njaIy99XrXxNgpFfzw3T62KYB7H9zSkmzt7n-A3hm-nhxCj0LcQQ4CgknfmqjETPCM68qGmmQfjvmiVe3h2VAcTQF3pMH6nC8-GleLVjDrEwvg-uSpFKvgJ8eKavgz7ODegnCxnBZ4BOxzdzz0Y0fq2nl75fMBCaFFvcWn3Tjmy-IGLw"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJHZPZsbeq3oARLAb2JiKW75k",
+    "city": "San Diego",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJZSFPOKir3oARe6FQguHus4A",
+    "name": "Taktika Padel",
+    "slug": "taktika-padel-san-diego-ca",
+    "address": "4490 W Point Loma Blvd, San Diego, CA 92107, USA",
+    "lat": 32.75462050000001,
+    "lng": -117.2348473,
+    "rating": 4.1,
+    "reviewCount": 37,
+    "photos": [
+      "ATCDNfUD23S5MHWGbQ0vHoz-_dzu9ZA6M4gRWP59SgXWaAOCNaqTxf_hfiAEaIyJvitxpy9qfGbqzJwuohMgIFlUQq_WBKm-ycQeUqvN4qTaYaf8_N9EqFNxkIpYDqvMCJ48k1tmUlV5MdNBVLcLFjr143qneHc2RTw92Y63kWMMXDaU8BtIP_eRj6MyFDQA2Dx0ABv-rIv6qitkkN9KCGhhr8HZ2U2IFGqYDyQzfFZ6wr_FL2DIA6zGolIwz3wmWoMKxTsGLQX1ynaaUiaRBUJV2cBWeeqj605HNb-dTnojeIzXgOxJbQ2BctQ0tML0Jb6iac7kCMN_pCZ28tA0QBFpr7FITCBvipIIUkbMSf7whXhFSmwfmSywK1B8uojK62JklsPesNOHEFfiZwaI6IQe72t_kImJfohHqY-eW4eBLpF3KQ"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJZSFPOKir3oARe6FQguHus4A",
+    "city": "San Diego",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJFR2US3cN3IARrJr77zpscmw",
+    "name": "get2Eleven Pickleball Shop San Diego",
+    "slug": "get2eleven-pickleball-shop-san-diego-san-diego-ca",
+    "address": "875 Santa Fe Dr, Encinitas, CA 92024, USA",
+    "lat": 33.0356966,
+    "lng": -117.2736164,
+    "rating": 5,
+    "reviewCount": 25,
+    "photos": [
+      "ATCDNfWWtvdpJTvO0kUXFcd4bNCuRX1hI0OR9NqdJMJj_mU6iruePMA4OkY5bGOoiMotgYD3HK8FARzsJbav51xkMUH5krKgz0JPlCRKld3eTtLKydQkL2ZjLxc1sDfRts-USc95_-qzxuVVuAUVIuPNBwEsmb0DttSSqUTcNUaucZEjPyCnMK40GH-d30TXnFSL0J7BefR9y8zAj1CCsZEFYO5iaunOhBGYOrammuIp75ax6wvNYp9CfTpTrhnvmj2ps4du2wAsTOx8a89Kep9tk4cZcu9ufLC1-oQYy4Klor07Sg"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJFR2US3cN3IARrJr77zpscmw",
+    "city": "San Diego",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJ8RyB07yr3oARVFkphVVhB5w",
+    "name": "Cabrillo Recreation Center",
+    "slug": "cabrillo-recreation-center-san-diego-ca",
+    "address": "3051 Cañon St, San Diego, CA 92106, USA",
+    "lat": 32.72179029999999,
+    "lng": -117.232709,
+    "rating": 4.6,
+    "reviewCount": 17,
+    "photos": [
+      "ATCDNfWjdPhIMhbtyIvxkfd1ZxAM7bJW5cH7BS6OygFa6bx45sRNeQV-pGxJrCQqscgs1uAtT_LSscUkVXD6l6QK2hph0nnbOY3a9v2Otiio0UQHLrV72ZuTFvoqOZQnZYK_DX9PALdDNwOFqwV4vnAntzZOGcCx10K3w7oGSdtBolUVUvAX3Rl6gRCaMMnWEvBQFaDNw8LXS2NrMuqEm4iDs1LI-wFvD42zQIzSulnmB4lRhET-gtvz50OhAq5aCS9XHU2BNZb82Qk1l3o_c59XAtm4zybKkMqqwkaK_1ST4dMSH_m17H9VsJz6hv8MVbViX8nHx_OSSAdo662ZYBrwjXlpNNr5KK_v4HmHBhGwMiaD8rOxhJ1vyxP01MckfUGWxU_BoAz0JimPLNqnwjgVsVfEWg3PTZm_ZtgreXkfzsc1xA"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ8RyB07yr3oARVFkphVVhB5w",
+    "city": "San Diego",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJrWmeSR5V2YAR5fXrlp1w3FY",
+    "name": "Park & Rec",
+    "slug": "park-rec-san-diego-ca",
+    "address": "4612 Park Blvd, San Diego, CA 92116, USA",
+    "lat": 32.761383,
+    "lng": -117.1466219,
+    "rating": 4.5,
+    "reviewCount": 812,
+    "photos": [
+      "ATCDNfWpmRt21qOFgQfI8SX_Jbjp3atfAk0wZjzADQCtA7xoGpXATxAo1sRmoCjsmR8gHZq0XVk8iUFMV3rIcVUIugSzqxxYk1w5HpjPUcg9hWpp_dZE4HZfkrpFBzwjMRmIhxixWROpyBGrj9nWkC7WW9XDwhlYzYZJ5fHOt64Y994yPYk-VQUP0yVro5X3ChhaHHzhf-vnUn9RYQdkcESxpCRxHISrB835fyoJ3eqexdb7Hpf1w8OKVR6JqOowVEJreMCe6NB_Go4zuOBMO-jDUXiWl4OJDNXRPGyoGLhuURwvyQ"
+    ],
+    "types": [
+      "bar",
+      "establishment",
+      "night_club",
+      "point_of_interest"
+    ],
+    "priceLevel": 2,
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJrWmeSR5V2YAR5fXrlp1w3FY",
+    "city": "San Diego",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJe11WMGz624ARZhMv5UNfOaQ",
+    "name": "Rancho Arbolitos Swim Club",
+    "slug": "rancho-arbolitos-swim-club-san-diego-ca",
+    "address": "14343 Silverset St, Poway, CA 92064, USA",
+    "lat": 32.9774725,
+    "lng": -117.0508766,
+    "rating": 4.4,
+    "reviewCount": 55,
+    "photos": [
+      "ATCDNfXU1uKnM6YvRWTt07u2jFu16DVHBPptDhE7NtQEPBFSHx8w97QowrsOft9pnvwUWteQQTV7R9pcPdAxChzdeK8Hpagdl_DPA1Dhlp43P-N6RgHYViEE1tCFOMVNx7SuPlVds1cWKEjoQP_t1_jLkqo6fnBICf6dyg7_G_Yv5SJTrVSW-UhEDTS4jHzwIxjst7yAxqXuhVqPGdzNE-yPKoPC0qXYZaZOW1l6jJJjdPmk_1ztqyHkfv_DZ8SmEZ5yekVP0757i5bSbPcAS69SC1wHslNB3QASzYhk32zS_cu0kw"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJe11WMGz624ARZhMv5UNfOaQ",
+    "city": "San Diego",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJVw7-YDb324AR4RpSQsMq9rY",
+    "name": "High Country West Rec Club",
+    "slug": "high-country-west-rec-club-san-diego-ca",
+    "address": "16003 Turtleback Rd, San Diego, CA 92127, USA",
+    "lat": 33.0055027,
+    "lng": -117.0862095,
+    "rating": 4.8,
+    "reviewCount": 59,
+    "photos": [
+      "ATCDNfUYmx_6gjXvLQyF1TjjBS0gSa7tQi7gB2fQyctsYdxPOUh1s2AC4Oksj8r4srPsAzjUOnK6Dv7QKJM1TRwdxOdeEWleTfHnAYAKuiBBvyg5Yo4GN57hiRBWGfMoCk3UXvCQr_npgIoKPQGEy2Kgu6oXZLoX7lgWepd4dDqMoiHc-AQ3LOy0HCQvGB1g3Sr5RVSLm5Hbi0km5paRCcskJduJ6R1gWbgd7QcBs1j1hA7uLpC7n32h_Xp-hW-UnQCla9zfoFtmO9uU1GzzzZ3bcYl0s72uhqUantE7Ag9gFqfPchxKrxaHq_xz8hmuK4u2WcE62a4UBAqqJr1Fjn52dWzm2rzuWp87WoKwNKosLjSjUI0kCveTaJsc4QiKVGW5mDJcscRMbAkdDitDin9DYO4a-aN3ZFp8ULxlKymeLcdgokk"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJVw7-YDb324AR4RpSQsMq9rY",
+    "city": "San Diego",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJAQAAAGkH3IARU3Q9DYuQ1oU",
+    "name": "Access Youth Academy",
+    "slug": "access-youth-academy-san-diego-ca",
+    "address": "704 Euclid Ave, San Diego, CA 92114, USA",
+    "lat": 32.7128181,
+    "lng": -117.0853652,
+    "rating": 4.8,
+    "reviewCount": 51,
+    "photos": [
+      "ATCDNfUTFT3EIsDE6O-CZfk69sX_5JOkmsqvHG8uIzEsBCXzU1cBOoNEppfV62NWJ-eDhuCxiZowfpB8vVVqYRHJ9shjLEJpwD5RNZsgFqCxA-BgleKLsBqTLWunab9mgnKLG_-BBEUPIdxZ9MJDguJnOy3XpTenfHWuXQYEIlBzGzjHQ5xzFXq3ESHvVo3bQRYCZO77F19yb9EMhGzrRuttY6PrbF6j2xJNK8CwXX4NihvjXODPMpmnNq74xsel1FpllnI13LZiFy375vwD7w_o8xAi-2C3J890yEZQQYZKkabYfA"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJAQAAAGkH3IARU3Q9DYuQ1oU",
+    "city": "San Diego",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJm6YisUX324AR1r_0VBC1PBo",
+    "name": "The Club at Auberge",
+    "slug": "the-club-at-auberge-san-diego-ca",
+    "address": "San Diego, CA 92127, USA",
+    "lat": 33.0063418,
+    "lng": -117.1432434,
+    "rating": 5,
+    "reviewCount": 3,
+    "photos": [
+      "ATCDNfWCHeL2mxWLqN3D0xXIlZmYmconHBdvVIb_Y3Nn93CvvQl-k4s3SedNXDG5F8sUOXL3F-MlmwtabUpC8LmSDbazjZX1L4CwLIk4Lg93WaL3Gi0henkoLbTdKnHJqIDeD7XmnsJSG_zA6W3JGxjHMdZ3hxf56VE4urLDPgXAuaYiaiy6fgJDuXdWxkyAmxIc6TVe6zwT-rIVI8l3KuklL3rqihcrU2XiOGWDjOGGAA554juJt_YM-L4rxr02YMJsGXS9iB1JoL_qmxX5btlEazGFVJYyDw0YkW3pLpjt4Uf3lteoTAoXCgfP83UmYg5FejIUtvb56It52Om2pH9x8nJVicn--I4lZ8Paerkhw2-y1IM9pKHIRU-AAOd787HYETnyG2do5GxVgfwG6-poktG3rANtQ9d0EtPyYExw2t7vhXgC"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJm6YisUX324AR1r_0VBC1PBo",
+    "city": "San Diego",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJb2pTPd0A3IARD01xGytT9cs",
+    "name": "University City Racquet Club",
+    "slug": "university-city-racquet-club-san-diego-ca",
+    "address": "3585 Governor Dr, San Diego, CA 92122, USA",
+    "lat": 32.850832,
+    "lng": -117.2106124,
+    "rating": 4.7,
+    "reviewCount": 25,
+    "photos": [
+      "ATCDNfWdo0X43GmL1PSEIEMwxEYsxJc8G9AOpOWHqDLiyz08Duf6Y_zt1frVIguFr0kczmLvI0FWy7vp2afiKLVkWEkKkiOPgETmj0psUAIKeWOKktw9Y-af6a4mPL3wTqpgnSD0YcN1HFtPj_yfQ2mS5Q7Jrd1kGwjuJM-gtMHT9uQXydm-UY0oV-idY0Tg-PJo9vxkGuhfg7TX6-UKac-NmERohWc1wSOhsM_8fDlKiYy1YCchVH6j7OlAMvE8OO-Ujqr5GX5An8VfSzicub9YdBfRcOgpE_BaHdZb4RCLBfms8w"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJb2pTPd0A3IARD01xGytT9cs",
+    "city": "San Diego",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJW8Qt7kCq3oARBJrX24Nd5gE",
+    "name": "Peninsula Tennis Club",
+    "slug": "peninsula-tennis-club-san-diego-ca",
+    "address": "2525 Bacon St, San Diego, CA 92107, USA",
+    "lat": 32.7551249,
+    "lng": -117.239468,
+    "rating": 4.5,
+    "reviewCount": 74,
+    "photos": [
+      "ATCDNfXKaLUkgth_faQcAaCsDKI9eVigfeUP274LWmslsBtwlZZtLewfSYvV32p33GwjjjmeSX8a4fJamKtbQLWleN4AXr5wQ1p4c5277OXtCh7dCIKoF4_qtAF0yoFXjE3r6ZgkWikpBxRvnm7aVMA9Lto5gnfYff9Am-6cgxKhhQWvMHJlTAcQRI4_sy7d7eu5aCGDGDTLNMCgJSloqjxQOVEasszGBsmRjyxm9_TfVHKpqWLt6zk9zCq5zwYtYZ4QuuBJvZ8zEWEEpBQCSvRkRp6IsNE-2fhC27nq1XLUV4UpvMK8K23MPwgzcdmVn9fgVhLTqGD0_gcxBxKiyoNa-cCwuAqU2Zcfrhchz7qbpz29KcQykmwfOTwqul3lFdW1_s2ZjNmIW6qGHLVSrxI8VEIjEgwE5QuTc3yqKTQdz3w9YfE"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJW8Qt7kCq3oARBJrX24Nd5gE",
+    "city": "San Diego",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJq6p6o7aJ24ARqacDNwiF6eM",
+    "name": "Castle Creek Pickleball Club",
+    "slug": "castle-creek-pickleball-club-san-diego-ca",
+    "address": "8797 Circle R Dr, Escondido, CA 92026, USA",
+    "lat": 33.25479079999999,
+    "lng": -117.1452812,
+    "rating": 4.8,
+    "reviewCount": 12,
+    "photos": [
+      "ATCDNfWFMOBlzGHnfn6zmyUtNP5WNOvSvE__OKwnDS-oOLkAMb744YpRzMboFCUUlQEdxcGBoaqUZVCfDLONF9ZuVyg8w5S1uN9hxZ8_YuSMLpe5ecX_fitRS01pRTlY0neQOadNK1Jf1vJq0JJP74QQRXBM1XO8YcI9S82E0D7LZ6mguNedTlPpDqimoQRnaEoEiI3bVMutKhxutIg2OawsNe59Nljr39hGTXpqmfy47--pXc6YYg66qRa_8ybT2yeShbR-m4WrmfqpBliUY952iyOuyV-YrunzSPULCM2GlNl0hjgzaF3u65nOh22LUwVjcFXp19mDsOOFM5C72SqgP1HSSIPSMvJ-hkPVqBNTXv2WidTpJNeuRVim55843EsCXYeo1oj2dl7lgsUbQy8vzWNAkk7jI-UN3JyG4z-pV4KwiLjuv80KgAZnQMWJKnGw"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJq6p6o7aJ24ARqacDNwiF6eM",
+    "city": "San Diego",
+    "state": "CA"
+  },
+  {
+    "id": "ChIJvXjzlZAH3IAR0BoXpKQRmZM",
+    "name": "Luxury Pickleball",
+    "slug": "luxury-pickleball-san-diego-ca",
+    "address": "4225 Executive Square Suite 600, La Jolla, CA 92037, USA",
+    "lat": 32.8738206,
+    "lng": -117.2156617,
+    "photos": [
+      "ATCDNfV2x5PcQvMvUR6llU1wQmOCtrviZvUPTXYfAFaYaDZWuamLHlVaZil25VL4TZaZMwBJPhxCJ-zlRAXuBHJRWNrWrTZvviWuha9yIOMOjKSZ4Kb-qbEGAeIy7XMA5YDT5MyyTDvoNptDalds1x_558upNkAo3Mw3cBKq0ZvGnkybponvQV5xJcpv78giGoCCuRFxRCPOhvkjdVhHUg6Ov3O8C9p9tCEOGkHbph3tra8_uSO1i0DyZ-dHLEP8eVstDLTFF3HHS5a9KMh5PiyOYPjgmGQsOywn8WpVYNA5c2ZNrQ"
+    ],
+    "types": [
+      "clothing_store",
+      "establishment",
+      "point_of_interest",
+      "store",
+      "travel_agency"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJvXjzlZAH3IAR0BoXpKQRmZM",
+    "city": "San Diego",
+    "state": "CA"
+  }
+]

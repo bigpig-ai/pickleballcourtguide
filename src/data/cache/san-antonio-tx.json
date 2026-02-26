@@ -1,0 +1,1732 @@
+[
+  {
+    "id": "ChIJ6yhTDQn2XIYRKYcRkkiBeN4",
+    "name": "Fairchild Park",
+    "slug": "fairchild-park-san-antonio-tx",
+    "address": "1214 E Crockett St, San Antonio, TX 78202, USA",
+    "lat": 29.4229063,
+    "lng": -98.46898530000001,
+    "rating": 4.6,
+    "reviewCount": 268,
+    "photos": [
+      "ATCDNfXtGQ5DHQ7wPHSjdpgaK3lzpMrtg8rAjbrhuuxuSw6_JL7o7PZQ9YpAMfw47wNrZPWI4WPNQwDpOBvQV625iSmwSAe6TK2BJ6Dr9YQTwlxDN-Z-SPA3CNTF2YD6ouK8IRQPwLiquxKh99gdjKtPJXlFLDbux7Xr2ueadv7TElGwDE6oeMkBdYYLq8CaD4dTQ9AMeRemk0k3N13YCCJckEK59ZFZRfVcVAy9CNWFz5HG7io40eTeNON8eAY3jxzGHX8Bi_3VlNeh29jmo3xKaznyS5Zp-fh5PVtOYiqq5C6i9bsD5VzWkHiV_V3ipxOSjAuJEuXnb4sT3TuSaym6jDqNeJxbto5IBTMVXpAgNQXHHiQ4qpxI4-tjLRyXFyCSNRRl3oBYcGI-44LMZ5H1T_JdaOD0n1siRznnr4EmqMBRLi20"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ6yhTDQn2XIYRKYcRkkiBeN4",
+    "city": "San Antonio",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJB3xI4aj1XIYRj3MZIqYwTCM",
+    "name": "Private Pickleball Paradise",
+    "slug": "private-pickleball-paradise-san-antonio-tx",
+    "address": "6905 N Vandiver Rd, San Antonio, TX 78209, USA",
+    "lat": 29.493568,
+    "lng": -98.44213219999999,
+    "rating": 5,
+    "reviewCount": 4,
+    "photos": [
+      "ATCDNfW_-bC5i_GxtAjg5bM77v_cV5a7GO--iLvfdOCdbG6_UyPZpdnBRHb5XW9HjJ_PHBH2guyaf7Mmcsyj2iCvJzmU02DnZJOJbaU1bZD9WyO-UzM7AaL84JsUbKnrT4mn2bABpneYF0FK3whT5kDNiuxX0kYrYPOlqSXks0LqDYiS3vGUz8pB4AN6MkwRza5cFS25Ipr-v8NYFB0f520UJF5yuLvlXxfQueMQOYNvaODqkEkBnR5WkXjFPqEI_32Wn_1TWmDERr1q-VByvetpVWVxN30I6wUGqdc4uqexus8H6w"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJB3xI4aj1XIYRj3MZIqYwTCM",
+    "city": "San Antonio",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJ7Qt4O_H3XIYR8KuAxAygWz0",
+    "name": "Fairchild Pickleball Courts",
+    "slug": "fairchild-pickleball-courts-san-antonio-tx",
+    "address": "1220 E Crockett St, San Antonio, TX 78202, USA",
+    "lat": 29.4227314,
+    "lng": -98.4685163,
+    "rating": 4.6,
+    "reviewCount": 20,
+    "photos": [
+      "ATCDNfXV9aMiTAsB9CgdZAb_RCgefDCdFPGwYYFNHA8olPi1f3MkRbZ1KgfpK2bzydPpzi8VHA61j0hVjYF0yJpj6qbzvNZtHUo16sFMSo_yTG_6H_1HP4i8DlDklhxoPymCrKRHqAw0C9P9S-XeFsDUgaJ_OeLM1-3gY2sJRQ5aeIyxeM2uyMuIEi0qMiLUjq5RVbCsvJaVAShpeQ8G72Z2511ey_k-P1DHnvh-jnmy8NsiODnXg22tMxkG7Ninf3SrsXp5n9G-fDE79LNTsnbx5stI5e1e_WsiOs1rXqXEAVsE8009Ob-TLnOZ94AN1wxfKNZ0J-8nxERPFDKkRcc9DX5MmNn7RExI32etdj0Zj5gAxWoCrtN2yLM7FbOB82f74YLiSu5jQ7pFEaPP5os8aYVQeMAgQE3UAMXfBvWhHz5bZyqlwjrN5k8FXB9C6EpG"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ7Qt4O_H3XIYR8KuAxAygWz0",
+    "city": "San Antonio",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJ90pgEdX1XIYRyD54Idgq_tQ",
+    "name": "The King of Padel",
+    "slug": "the-king-of-padel-san-antonio-tx",
+    "address": "314 Nolan St, San Antonio, TX 78202, USA",
+    "lat": 29.4270076,
+    "lng": -98.4782292,
+    "rating": 4.4,
+    "reviewCount": 56,
+    "photos": [
+      "ATCDNfXONftbRD_CRmb1eRN8J2ibCF7T8MoeYnMFCF4P4ac-bHDspC6v6UEcVYvF1aGb2RuNyQZYGzj1jygNFg5x_hnbIyyn8KtkIcUDX-GosZW3gDS_SjoO6bQn37ur5xBAYSgy-F631HfrZaqfBbd2bW3zjzLUAQ02CL7FwHdUdxwzOU1tkvgvanHU20PMlfl4duyPHHO7SDjxzZcBNdI3yKD3Eq_-WJZXf6CMy-Bidej1qUW0SZrBKWhA4R0xLfSAXHl4fP6CGLogYHKRG6VH94_K0kjZeNGQyyGmMRhr6gIZbg"
+    ],
+    "types": [
+      "bar",
+      "establishment",
+      "gym",
+      "health",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ90pgEdX1XIYRyD54Idgq_tQ",
+    "city": "San Antonio",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJt6-uGAhjXIYRe84CCF-4NxQ",
+    "name": "Dill Dinkers Pickleball",
+    "slug": "dill-dinkers-pickleball-san-antonio-tx",
+    "address": "18450 Blanco Rd Suite 101, San Antonio, TX 78258, USA",
+    "lat": 29.6122446,
+    "lng": -98.5072342,
+    "rating": 4.7,
+    "reviewCount": 49,
+    "photos": [
+      "ATCDNfWWlgfJW6e3-livrtHnZi6I6bJhFOjowOQk-LYJU9gGvFL_B7HKLBBKiE_7exdCB45tYWf_s-2oXafhdu7VkkT08mVae1tyo1XzJdRo_gR_OJeYJaFW6hBDll4WyanLd9-Ppro2LwusaYQK2Lhc1xTcxYnX9Zh3katdndi_lb4FhbGEfqOsj99edEQcSAcb8CxJUluLxxFfrrvvZngKPKFlLaZvitiIUCJ1EIH-65sPukMXEpIspmz3COa23ZCzVxfuP9AYmd0-g43Hr3OO8yvtieR1Of-1LyWnYTUgOz-IIQ"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJt6-uGAhjXIYRe84CCF-4NxQ",
+    "city": "San Antonio",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJh8HfqQn2XIYRiYIJAgDDuPk",
+    "name": "Fairchild Recreation Center",
+    "slug": "fairchild-recreation-center-san-antonio-tx",
+    "address": "1214 E Crockett St, San Antonio, TX 78202, USA",
+    "lat": 29.42324559999999,
+    "lng": -98.4690463,
+    "rating": 4.2,
+    "reviewCount": 91,
+    "photos": [
+      "ATCDNfUmOzeTWvVyk7AP46viq6Z78VSe_FAA1mEzrb6yXiy1ePpL_xiOo-3GBy8wlP9M5T-YDYwNN82stfEjncuI2XUP4QM_7lxK121vS9XZBHeG9x3Nd5Oc5Bt_oT0EMdL507UBAq3gCa2kJ-bw3HyFejPB9zO2z_FvmjgW9VntypuZ710bjiwPJsIdn5zCYceBo1HjcbNvrmDhgvihgglccjSMprxFcPkYjGjoz77g1RqVSUJ0hIhv9k0ulbzPOTJYoaDMSqQ_sRrR5_GawpjtGsoNruqV9g8pYJNYHZww6Hwfx5uhh3gr55SfWVpkmIkueRisFIOJLzrCvmMnRhuCOdjwbPHhH16rb4WQUoNvH-VT_K133tpYXYPR2c5EWvZB9rVETOpf3mJGuoDlMKOFi5yhY2-wW65geD-_L4p7bWeBGiQh"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJh8HfqQn2XIYRiYIJAgDDuPk",
+    "city": "San Antonio",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJ-5dWDUJfXIYRAyFahJ_PEx4",
+    "name": "McFarlin Tennis Center",
+    "slug": "mcfarlin-tennis-center-san-antonio-tx",
+    "address": "1503 San Pedro Ave, San Antonio, TX 78212, USA",
+    "lat": 29.4484142,
+    "lng": -98.50032720000002,
+    "rating": 4.4,
+    "reviewCount": 145,
+    "photos": [
+      "ATCDNfVN7U9ti1Fcdsu_djSmGKqJvPLofyiXzqmQaTry0qUedgIN95DpxcTEJKwrlH_7FfkOr3HvhKCpQPO7hO-yN5i8L5ocIOKM5MbFMp3NGzngOruS_J9wsF-XZMZwCcS7Iyf5QzYvyuUGjm8Of5ZoHroKvov2UpTr3S6Pk6shwdB1RbqdAZdj01nmW0e9-eo6ApPJrlzrLy9nagpgxWjKtuceF_MEgsrV7JPXjU5kUrRvIW0tiC4GfNWPNqLF6h7NMiSct7Oqz5Naxv7CKS6qf5eOu5RaRdzmtyn3hpkeGGaQ2KRgAjc5kn3AMi_3fVrySwDoa4lpQOozRc3VT0RcWs_bCsrsarIA7_tp7jNNBVtV3XXWVYymsjHI4NHU7rC_B57vr261cl7xCMZy-O3qr9kOhK7DZ3QK_AE69emBVeM"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ-5dWDUJfXIYRAyFahJ_PEx4",
+    "city": "San Antonio",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJjcm_UjZjXIYR5o_lOAvPq7s",
+    "name": "Epoch Pickleball",
+    "slug": "epoch-pickleball-san-antonio-tx",
+    "address": "21750 Hardy Oak Blvd Bldg 2, San Antonio, TX 78258, USA",
+    "lat": 29.6450001,
+    "lng": -98.49166389999999,
+    "rating": 4.8,
+    "reviewCount": 44,
+    "photos": [
+      "ATCDNfWlLhFXHIF1g4_4nZkc6_j8v_eyGVqjoHwjxnd3LNjkSmFwHx749fB1YdEUjfW3e688JEktrnqHOQr64kryx5_P4V00Y6_zr6x8-3g-Rbd1VkL256reDYMGJNDA0SHsT5CS5Keu7YfhOR6m2yt1eNg8QbFbF0abi0eSlwzJOwsG6xR6Vp0Z4TPaiZLVnPDOUax73G1hfITFDfN7YdLpiDcR2skM8txGF2cXRw_KXc0w_VkX6QD5vnRJYUNMoWK5sz8hC5tBWZZN-ew3leCN2wvpXoWB2ZU12ficG6g0LymHwHyv4uTSfEzfNsnyRlFuY2DPCPOG2PJoHhpD1dTZhKMmFcu_r_hTVooQupRkLDEz0nwzuQOahOUTYfY0nmBzDLOw16oaTLp1_7FUp5FIqafw1WvAz9KOpTUQDw86j2QYwL0"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJjcm_UjZjXIYR5o_lOAvPq7s",
+    "city": "San Antonio",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJFbLd0ilZXIYREKu7FjyiEk0",
+    "name": "Escobar Park",
+    "slug": "escobar-park-san-antonio-tx",
+    "address": "1400 S Zarzamora St, San Antonio, TX 78207, USA",
+    "lat": 29.4137843,
+    "lng": -98.52767689999999,
+    "rating": 4.4,
+    "reviewCount": 125,
+    "photos": [
+      "ATCDNfUBiib5hi3cplhLHlC0IX4i2LNmtKt5ydYsCqnPTy0cEr66oWBrZMlyDZpZL0YHeL-k0WUL33XsUhg1Ab7lwVkvZP0Xgc05Bc2DmNEYRtKNi8cRcLl0a4u5pHj5r9VnIDo_Z9K9a-qNAvxx1_aH99dgYdRBFFflN8NiDZIGF1k19Y9ONpBAtLt96fWKGFL8zS4BdcSVHOKE3SKNGSVcH1B557y09S3bS3jSo0cnLU6OHsDXzETkRpBK7AUwPm3D5Ew-ezj2dWnRgZhBEAcUaHEQ_iyKNT6XilS1_3G0dbPCBXiB4GK7DR6To8FOWmrzJoAlb_Tplv7ZuaUpVe-vm7CCndnwNvHv8FY7mfsJVxwubmLgiWKTCg1TEJwBdcDSk8yTtJtOq5Kb0D9jjKtpwfnewBLqxqGdhYgX-_ixZocbxtFbSsd6c2dgMdo3Sg"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJFbLd0ilZXIYREKu7FjyiEk0",
+    "city": "San Antonio",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJj5ysCwCNXIYR7q4RFphuY3E",
+    "name": "Texas Pickle Hall",
+    "slug": "texas-pickle-hall-san-antonio-tx",
+    "address": "201 Shin Oak Dr, Live Oak, TX 78233, USA",
+    "lat": 29.561033,
+    "lng": -98.339648,
+    "rating": 4.6,
+    "reviewCount": 57,
+    "photos": [
+      "ATCDNfWSWzO-26aCQPR_g-fyT4jSO3hySXI1pArpeYDEfvywSbTr4vlsQZOaVnUi5Z02RoDckzT5G72X2O4XAvsMaHVjrheLFSCRuZ946Y1bCElZ_8oGeaAaN1RAlDE64CnoxC3OBKcYnx7pkKmniKAAufbullWzXFMi8kdlwdGVyCYa98tYKBg_hiJFpGa44R7-bReROLKFS7OjylDnaCi5Mod62ScOxA_QyYZWwPnl4mVRmySsymjL9aiuFaP-Q3vKadCkLda48dTbs11_y6KnAKU_o3T_LuxNsO1z6jGlwbKsckwQJRVhdmkYbvl3OUMcWTYwaURDi49nbaJFttVnvJjxdSeG-rRNPwuzFengnntXJ5zM5xKmTg5WwbIQ5BSclefrVGoyYL9PJ_j5-PsafX5BbQuDwq-adnLWq8KS8-wdrbpACvNf94i1XgSKomts"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJj5ysCwCNXIYR7q4RFphuY3E",
+    "city": "San Antonio",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJ99MzQxxcXIYRDpKPzg2dMkU",
+    "name": "Monterrey Park",
+    "slug": "monterrey-park-san-antonio-tx",
+    "address": "5919 W Commerce St, San Antonio, TX 78237, USA",
+    "lat": 29.434973,
+    "lng": -98.5755356,
+    "rating": 4.3,
+    "reviewCount": 818,
+    "photos": [
+      "ATCDNfWS7r_Q_ua4Qk9MnKg8shOlBxvdlGXvy_cD3ZC2pve8geT5-ImWtTgBdVKp-ca71FDAx3oEaN0pV4NqBbhkcMvSwlrY_rCtduZh4jmyGFJQnBFnvZGqnpFqSSLYklAZwqqpzHsxmijhp6L9EAXf3dSiowxnzmHEc6zEIj5M6gXEbk4isDmm53aUgdatwQAtGipFwikshow2-yOyfqkdeR-a7shbaoE2ghvnNF-62Laxzb0NaK_BnS3kybx5vlGolPxaZhBCZcfdkzG97310VPZNNIVTrUXR2mylv5fDyQaZdSquFfZAPKf3mp1FfXMDQouBFCdoN8rWC4m3B0XLJvVkPYo41B6Ck7VFFsqcq7TyDp8YvcqCnr6dDziYgIF1LBAVHcKSBU3-ynsJyXYALTUJ2lZH7HDQRDPxinW5uAX9lA"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ99MzQxxcXIYRDpKPzg2dMkU",
+    "city": "San Antonio",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJQfu4gj6KXIYRG5_IYzN-X2g",
+    "name": "Oak Haven Park",
+    "slug": "oak-haven-park-san-antonio-tx",
+    "address": "16400 Parkstone Blvd, San Antonio, TX 78232, USA",
+    "lat": 29.5947741,
+    "lng": -98.4579853,
+    "rating": 4.3,
+    "reviewCount": 141,
+    "photos": [
+      "ATCDNfViM-vSmrphs3QgfuaqADeCzk3hsau4WAK1HbNXFrjszlNB2fUu6uiy8e0OHC74c3Sif7U0Xyos2wGskjfmViZdD4Atq1ZIv9aEtBvcOWLnmWJv1HTQTMKVx2xtxD7MGK9WkgJJx2GIpkPqmyU01zi7lXhjVcUCvWpZsp95H-vH4x7ty1sqSO-zzUk6yl9p2YDEK4wRdb3FMaadatLcqMqPyd9K1N7pQyoaSV-qvYTVHlvqiwqE19k6Fj4nGJtcpYcdCyq4rMEAmmuF62pdQleOFrEY6SL7tU9Im2Pb1iJqpQQFKNjBQUo28QUu-_jkP0bg1D60iUgWUbsKXeAUlNdPYdCET5RM1pd2PSV1ygOjxIWqyI7xP_oE7hSR27kYEw-3blGGREjTyPLRnUo0xK-Evd0OGvxO2iOrPlFORd-ykMw"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJQfu4gj6KXIYRG5_IYzN-X2g",
+    "city": "San Antonio",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJH2S8s0hcXIYRhxbWWvTHHLw",
+    "name": "Gilbert Garza Park",
+    "slug": "gilbert-garza-park-san-antonio-tx",
+    "address": "1450 Mira Vista, San Antonio, TX 78228, USA",
+    "lat": 29.4545776,
+    "lng": -98.6006726,
+    "rating": 4.4,
+    "reviewCount": 531,
+    "photos": [
+      "ATCDNfV13PQotRYAnziMjocFT4kCByaWwYID86pzCQ8LULYvQMmN9_222JdKELRLGS_IhYK1SjI59uAGwk3MMTo3DKw-Kxv49xfYwvxcsQI0GzsYJoszYp7FiZbRwaowS3QzSwTYAInRUZ-xqliuxFcXXEhzYAj-nwDNQn6GKDiAfspHqCWZsMQq6ORFYl8MRypiERIqQS7PgrRD_HiQ8eWbDSoIhCn0fzsnwQvfBS-H3wY_YqF2QKzUyc94Q8vFFZ2ygheMoxMJrxjqbC97OvBbkxDMMBtbhvzxFUTDoXlZgd9fep9H65v2y-gMANy9dbX1Jest_75JKh-E0PzUa19VXn45lm2LL2Z9YpzIwloZO0fAW6eM_O_kqaswIV2tSvbm6OsIROxNuy_dCPQMhMjP--x0NtvpnYxZ5uqHpViz9nlWiA"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJH2S8s0hcXIYRhxbWWvTHHLw",
+    "city": "San Antonio",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJbyWgcUzxXIYR2jP4KeJJvQs",
+    "name": "Copernicus Park",
+    "slug": "copernicus-park-san-antonio-tx",
+    "address": "5003 Lord Rd, San Antonio, TX 78220, USA",
+    "lat": 29.41417299999999,
+    "lng": -98.39282399999999,
+    "rating": 4.4,
+    "reviewCount": 746,
+    "photos": [
+      "ATCDNfWkMP0Gx9eSOmNDsXQVAyqrdZdOZ5Ygo5f-1WUTx3_l9jGe6Wx56SGKgp2TO3vAeo7O-BWxpIGo9p-5Sj2OE9UmFqmaMF-Q5J6kCdSBGqHU4hhDG-mkaLa_brm9jQ15rYCnmxU6bqq2c4PRBehYOSPvXQgd3I_Sw2gdpH8jhkjClyXS7wfCYEOgJM2icjYwOdwee0O9frjjMhPck_fApFUa-cpDu8SJYpunl9neEagbnPjTJQW3PwebBbXmrnISxLkwYo1yz6GD1k3rSf01QNUK08chFHOELSo1bnT3Dkqb70IUwcI4B0_CX5ByMv07-HXyP1yF2gLPaPqrSYez0RVRXFw2my6YPI4hDpSowNOz7k5c7hUUHWHC6PfXFL4DN71m_8-3tTPk-ZE6uCCV3eK5nGQLCzXZV_63-EoqLEa15fX6"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJbyWgcUzxXIYR2jP4KeJJvQs",
+    "city": "San Antonio",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJkWfEt4iLXIYRDOHBIBLTNvw",
+    "name": "Morgan’s Wonderland Pickle Ball Parking",
+    "slug": "morgan-s-wonderland-pickle-ball-parking-san-antonio-tx",
+    "address": "GJQ2+PW, San Antonio, TX 78233, USA",
+    "lat": 29.5393,
+    "lng": -98.3977379,
+    "rating": 4.4,
+    "reviewCount": 9,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJkWfEt4iLXIYRDOHBIBLTNvw",
+    "city": "San Antonio",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJdQlbC-dYXIYRVMQRnuNoZOg",
+    "name": "Collins Garden Park",
+    "slug": "collins-garden-park-san-antonio-tx",
+    "address": "1525 Nogalitos St, San Antonio, TX 78204, USA",
+    "lat": 29.3984513,
+    "lng": -98.5161351,
+    "rating": 4.5,
+    "reviewCount": 390,
+    "photos": [
+      "ATCDNfXiIWwDYEsvIAPrtzcG1OBLKdD-8Qb481szAM4wsC-gkXe13EjNTHGzsF4z_AOpsNo-kETdn_l03tf4pO4IRwzx4LyA_KAZGpFl6UtmLNweSixgfx3NVyiAQAjDMC0s2OAR2QLzdmFUJnHCmlga9rQHtZBuKbU5GM83HtbHY7o9JfJ0M4FLA_6Kp7n1M7mb3XcihbVNyg5kegS6BkOlsBXhlDPpFAPCRXe859XaAXpQ4AXWEAWQND5LKhtbzU-c4rqS4F5RgAnfmBpas5VcqYtIKIYdt9K_1PzOcMPY_NSAvMcEMOboxW6oMZQVylxuQEgOYRXbSeMCb8kiGQeD45WSxcXgblHpXeDZImj1QzNqQpIqz46MpZ0MSenfOynQMGgHoJco3zlbVy9hfueur8UiQxFNoyc40UiUKqPWAik"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJdQlbC-dYXIYRVMQRnuNoZOg",
+    "city": "San Antonio",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJi6DD2vxYXIYRwx5mB-FuGOk",
+    "name": "Palm Heights Community Center",
+    "slug": "palm-heights-community-center-san-antonio-tx",
+    "address": "1201 W Malone Ave, San Antonio, TX 78225, USA",
+    "lat": 29.387684,
+    "lng": -98.5245566,
+    "rating": 4.4,
+    "reviewCount": 249,
+    "photos": [
+      "ATCDNfXLGrfceiSAxeAMC4vFm5J6Xizr_rwIeqkFKOlI2_wUNbPaOU6IUwCJXAcyqWhtGZSbBfRykKeLxGzknIeYAt0o-NNIGV2YtBmwbRz0O4wTIGEvfbMLOlzf-UDpP-02tFHmZ5AkOVmXEYf9pP_m1TLLaFyt3UMDFJGiXASqe-0gSHEMTIZCF4FEXH0HvhSQgyjZb-1-d8ObcuIFcChpn_JjBZ3iN_f42fNcMmqz3HHAusALQthvJMh0udXNPVuH_bGYw4MfOeIr_7_1Xr9LFtX9E6_NHPX8066tScelaLhGHs1mzVEGNfh4dkpCNCnEagsaCj3K4aGo71si4awZS46C97s1VfJKlYh35htreI0ZBuzGD9hx6qqjDL3b3EnI9gW9Di9Vbqf_YkMaz_nabV-6naH6KYNC03Fj7B-mbak"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJi6DD2vxYXIYRwx5mB-FuGOk",
+    "city": "San Antonio",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJLd7Xa0n1XIYRgNS8q85_KP4",
+    "name": "S A Factory of Champions",
+    "slug": "s-a-factory-of-champions-san-antonio-tx",
+    "address": "8227 Broadway, San Antonio, TX 78209, USA",
+    "lat": 29.5118338,
+    "lng": -98.4676799,
+    "rating": 4.4,
+    "reviewCount": 257,
+    "photos": [
+      "ATCDNfWKrPUPgjEHBt9IEIIJ-h1a2dVcAQBhlkZteFcJX_SeyEot0eSO27h6O_n2EeQahc575ofvNJ4HEWekMffRxuCh3__dyK4cs2LdkF5wupuFdlfQMZK6zwrux_bOz-FrczpcCiIfJek-PPp9OE_e1a6Ri5OefdZ_LayQ_HZID297ZQF6wUYQrDrViyxeDLzhtScFAKdMmyormhiwxtzPu7-RlOsQ49MqOd78GQoITCdiZbyeSNbXbxW_qbLsq_TmOHVcDgT6FbFUYgHm3ZkP6A6U8eXky_Dy-902mheWEimi7ZY_PPyLZw-6IH3nyZj3F0y6A5_UEhHa9vAWsBjIFWgv6TONFj64LMeoLsaT-zuzgGhp5FXS0-ceQUnT1H7wYgnEypd3OOxUyIrvoML4A4qtbYP8bQIAXlgn5TEPdp1JCA"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJLd7Xa0n1XIYRgNS8q85_KP4",
+    "city": "San Antonio",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJ53xx8hL2XIYR44L-VCJgskE",
+    "name": "Pittman-Sullivan Park",
+    "slug": "pittman-sullivan-park-san-antonio-tx",
+    "address": "CG6Q+X9, 1101 Iowa St, San Antonio, TX 78203, USA",
+    "lat": 29.4132996,
+    "lng": -98.46435609999999,
+    "rating": 4.4,
+    "reviewCount": 435,
+    "photos": [
+      "ATCDNfUT6H5fAzeQ6q52QMuap13nLwOIVyhRjIo2nJG71igqHBKixlwCc50jxw0EWKl2C6MaPKqSPOX-KFd0rN_5J3C-6pgKUJPHsDcjfSg9MRdKvMTOpvW8ILQF4wI4QAbxUAZhpT6PzS9hgKr95Z1eQpbsyH_d-NEhZmp31_Nn303nKNah6_ZDf6qsqZr0hagqbJ1ME4gPsuC6FPEf8S7xkLMsinRMJD_5GBAqFYw8kW0pJCX3JIejAtHXxD5IJvRpTVFH4FeWn98M-EnjKOSpVvHzVyth9q7scCuUh4b7p8oTEJ5-ZPtkNb1VpQgBgQlrG-kvWMBEFq6rSOmjxrds6VocN_KAcX89zWNadToVdVHR89gFVaBqTLkCzLmQrSPbNEW0JC3fYuDG2O0aMQmGIwGBT1DPfkEO95tkEUDPx5Z18wt1"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ53xx8hL2XIYR44L-VCJgskE",
+    "city": "San Antonio",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJ4VL2V3D2XIYRbC8UngEw_mk",
+    "name": "Dawson Park",
+    "slug": "dawson-park-san-antonio-tx",
+    "address": "2500 E Commerce St, San Antonio, TX 78203, USA",
+    "lat": 29.4188695,
+    "lng": -98.45321279999999,
+    "rating": 4.3,
+    "reviewCount": 191,
+    "photos": [
+      "ATCDNfXArthkFxNKU5eGf1HjIgkML4D8i1dwr2kngIld94e3FC6cZCR5t6QWA3jvdPef1SmZ_4AbljxXUz6biqU7cUEVr9qWmSAmdYuy_y5DA_CgIdk02v7NatzCZ_tLSZXd_tIVrrWSRfib18ZdNYSQI3CgzqP3xVMF43wZ03a4-8wo9FqFnuIjP1EGmCG6btAFX31-LKaEvcJD2Yl4ERIWLA0WeZSQUw8iwLfqw2C3O8zcxMSeC415gaJx_2BIH6XyjNJ1VFOQx6jIiCcZKPAoy8mOq6j8v64FmFEmrC4b_5B-V540ciIIfqpPNAkjD-HHVqA51Kz2DrdAzwCq5S_ROJQFPypMLNjeE6OWZ_fHziK2VF7tx6KjJqXdwAgcRcn88DPqRTwq25APxkBnLiTi94xoRG_Gcy_JtG0ESsLIyz5IWQ"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ4VL2V3D2XIYRbC8UngEw_mk",
+    "city": "San Antonio",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJa4hcLYX2XIYRHKFLBd6lwxA",
+    "name": "Dafoste Park",
+    "slug": "dafoste-park-san-antonio-tx",
+    "address": "210 Da Foste Ave, San Antonio, TX 78220, USA",
+    "lat": 29.4200741,
+    "lng": -98.42998879999999,
+    "rating": 4.3,
+    "reviewCount": 126,
+    "photos": [
+      "ATCDNfXnkBbfeW_PyEljxEmXhjmcgXgObsEiY3kEndiQCKsRZvTNNhww6Xk94Zham54ZZAby4Mb0h82BrgxJP2pY6KHlpjFdPyJJYWzZt7PlIVhPnCpkzBQrs_FeGcdaOhAcQ-GbyPe2bqNR_oi_oqt2SADXyju9T6Fioqs4_hlyWD8YUs4JbSpAVUk3wMtGpCb2pO-QZdjfPfx9NGwxAvZnU0ccTrBbm5EoYKiqxX-PjVTJDs-whJnWXMv1bVYxmFZVljuOCCyeWtsg_zsD9C-j70W4pyf2qXwrYx_RsVr6SVdVCWVtr1QtzEqrBrV6nHpRAL9P5Nc-awSA4qibCtJfel8fqyo0u65zyF5MkFckwLm1Q1dunx9TT4cXj1xtbQrXrEvPpUnIH4B-na-He_d1YslkWWa-HAJkBtbYM9ynj2H8XOtV"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJa4hcLYX2XIYRHKFLBd6lwxA",
+    "city": "San Antonio",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJ6T53fQBhXIYRWiMrkXgs4_I",
+    "name": "Pickleball Courts",
+    "slug": "pickleball-courts-san-antonio-tx",
+    "address": "835 W Rhapsody Dr, San Antonio, TX 78216, USA",
+    "lat": 29.5559232,
+    "lng": -98.503936,
+    "rating": 5,
+    "reviewCount": 1,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ6T53fQBhXIYRWiMrkXgs4_I",
+    "city": "San Antonio",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJC4UXbzFfXIYRTSkNnHZ-h78",
+    "name": "Tobin Recreation Center",
+    "slug": "tobin-recreation-center-san-antonio-tx",
+    "address": "1900 W Martin St, San Antonio, TX 78207, USA",
+    "lat": 29.4305574,
+    "lng": -98.51305959999999,
+    "rating": 4.2,
+    "reviewCount": 84,
+    "photos": [
+      "ATCDNfUBsBQGBb8-e5VJXZgrm0qTf74wDGKDX62UnmsONu3zZwxb-5X5nNw3GBYoYOU66GnMMHfE7msAO25MOJPUVfnZMifBIpqHYLg6X_N3CPOkO5wPbcqCM7tmiXNrxdAIrhi46a5tGgRXYA2YGKzGws2yDn5ciBMHyFZjLlN8OCGGheQKHmaJi6YFUymj_z7eUwHAWOLZiQxaHwV9J1nbvpTJk4po6TzFvKCROgxeIfswDN_JQnuwSSH28A-rhr2cC4611trxKeoDBxSNs_eroL8p-jbLQjO-rEDuYR5Y8J1PMzfgid-0wUjBTmFmfNG_VHvsVX4u5j0ru3KcSxexQPzX8vAzlADT1oRv_n8M76zVfLNEXUdEUttCmWHuZumMjSlXdqHvE3MbfwYSY_PkeQHtfBhWyUfBGxZLPVeLrFY__w"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJC4UXbzFfXIYRTSkNnHZ-h78",
+    "city": "San Antonio",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJK7rsnD2LXIYRIDP2ltHFuVM",
+    "name": "Emmitt Park",
+    "slug": "emmitt-park-san-antonio-tx",
+    "address": "2477 N Loop 1604 E, San Antonio, TX 78232, USA",
+    "lat": 29.6074753,
+    "lng": -98.45383849999999,
+    "rating": 4.8,
+    "reviewCount": 346,
+    "photos": [
+      "ATCDNfX8KSflLKjJZqWvmpL8-1ROx8R7t5F3gCEASjW5HizjgnQNUQt5YoyAv5WNwakL0hls8anD0KpWH7D4rawSJHyCoRE1tl3a9pIYn2NDcU6aAKwj9KrkutcApUtZ5q1-tehAVVU9YKo8Imo7odzPH5a3o7xtPu9763ZFigvGpUierik9TyxKNbj3FlrqpSb1fz7PNBWZh06lcHIHmzec-eQXMdrRopspDBDAvmFJWJuFlP9EwKCPbmhrlpJCpj1awEFdIOl39Ejh3PNjAONpsVNfdwje6RcSWaMw41KzqTFh6AGMHw9HYdcbWkEwEuaqjnhcEtDlJj8EfvPI_XG02ipSVtpGouKY6vG2Kggdf_iLPwiAmSQfabjF0OWGLpHnZ6OwbTxUBMdasD-TOKdyqXptpzA0mnB9wsEo3j4qBGMdiUVI"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJK7rsnD2LXIYRIDP2ltHFuVM",
+    "city": "San Antonio",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJKfNyCvLzXIYRyQDsDV7VNpg",
+    "name": "FIT High Performance Tennis Academy (& Pickleball Center)",
+    "slug": "fit-high-performance-tennis-academy-pickleball-center-san-antonio-tx",
+    "address": "302 Zephyr Dr, San Antonio, TX 78239, USA",
+    "lat": 29.5183518,
+    "lng": -98.3876167,
+    "rating": 5,
+    "reviewCount": 257,
+    "photos": [
+      "ATCDNfW61dvfse__MU_bCI54KuW675aqzWIrUL4B2-mBv02-VOrMuELhtrczJ6KzU04kOyntO-besQLSx3MKaZJEbJFLQee_PAZYeTO5jPBEfFR5iuvJo8iBTXZXS-G2oC5KfXOrxPthQCOkT-jgv2k5TZ2b1rI8yiBUlBiAeodqbtos13PFlwgKk89hH7ZCnnWLWpkt49G__08cn1B2rayttuJn0cH5kypBU0OSFWZuhce9ngb_CjLk6QzdPtD8Roj36aUYiaTjw31OjNY7Yq4ULasNuNFqEdWoXGahDcdFa6XAKw"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJKfNyCvLzXIYRyQDsDV7VNpg",
+    "city": "San Antonio",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJkQ17_QVZXIYR6V10XfLzpSo",
+    "name": "Normoyle Park",
+    "slug": "normoyle-park-san-antonio-tx",
+    "address": "700 Culberson Ave, San Antonio, TX 78225, USA",
+    "lat": 29.381937,
+    "lng": -98.5385945,
+    "rating": 4.4,
+    "reviewCount": 676,
+    "photos": [
+      "ATCDNfWt7aW68D1cNaAWPG_p8SsLHcqzEDA5jJv741jaW3BqBY_-vQry2nszTuJ_1HLOU36zgv6jCLOq-8lvDRlAILaKJ_WyWQKAiZuXL20WxDsl4NLGyhPDPPwabq47P5L6RMIwPPyquw-EgAKp9nvaFbipIDTjXbGTRKICysIbybQu2mTMXBBXOS5YiGsuORCTNcie1xsCE4hglvZoc219bdS4ULTz_pzR9yCkv1BZE_GySunmuIWWvLjz_MIKebONYtmJgrSD48TdK3qt7rga4rWKFUuia7DNXCZgETBoJTt2WMyK2rEyGTh0OZQLUyTF7aTapHBG1qY_ZntmPqPMc5D1v0rXHatHXgYmuO1XDj3jFdXWkcVmuMuLYSoa05agVmeI1l7cn5T5uW8AK40UWnbzQG3lq09c7UBhxCDGApU"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJkQ17_QVZXIYR6V10XfLzpSo",
+    "city": "San Antonio",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJEULXPSFnXIYRqrYSvchtG7k",
+    "name": "Dill Dinkers Pickleball",
+    "slug": "dill-dinkers-pickleball-san-antonio-tx",
+    "address": "5131 Beckwith Blvd, San Antonio, TX 78249, USA",
+    "lat": 29.5735925,
+    "lng": -98.59037719999999,
+    "rating": 4.2,
+    "reviewCount": 12,
+    "photos": [
+      "ATCDNfWtE_HxhcLH4pMFwnoqv4lVXXT0-RjoRnLP0aTrnMkOeRYUS4105Ate5iXa9vfdC94F5snQiLynx53-xolxP5QISfWGWIwy6I-cCSUOLcunlJ0UrnRVqfhPqIqJjZPVlXQQnfqswa9xd8l8ZZ9YAckczCqgiaYmGBgk4Yrwu_kDY9J9JakMsov6F48gKXusrpeCobGQLxWU2w4e-iL20ewse3dBppv6oUeFWgXutX80hAlVMyXVP1VRoVy0o5RseflRcH4HVr636jrtQeFF7etzXgWyPbWysrGj4cXxViM2Jw"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJEULXPSFnXIYRqrYSvchtG7k",
+    "city": "San Antonio",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJ59lWzitnXIYRwcSmfzy1VT8",
+    "name": "Chicken N Pickle - San Antonio",
+    "slug": "chicken-n-pickle-san-antonio-san-antonio-tx",
+    "address": "5215 UTSA Boulevard, San Antonio, TX 78249, USA",
+    "lat": 29.5791894,
+    "lng": -98.58994229999999,
+    "rating": 4.5,
+    "reviewCount": 5282,
+    "photos": [
+      "ATCDNfXh-gWiRKctavokgB65vrfSNJ1e2ibIZX59ufKyJTTaVCEwjX0df-HpTSwETqZ_0T5eHFX0naDnWCp2UsEh7hgUM243F0ttFec_dJExcmaxWfMXJqpXMFkVwM6jKh7Kp-QFbBCplB-jxTxcOPyumAgnC66RiZ_EBq9sm1GfypIOl2llKBlTjkJMUp92JQtiaXC4xzeUvRJtFvgLjnIs9X54ohLhKXCCwlSrIf2uaDe14bZY3gmr4Iu0rFNp0V9ENcFWWrXX2lFNVCny0d6yovSjojRshKpxAW1BNxhk39w9vhmpg_4C_3mztiVU7eiBjJBJiDW-dssz6i9Pc4J0Vpr29dus3zR1TIo0kjW2KADzL0oKESakdGSKW6884C0bU0MkBJHa-9qO5Vk1-ok14BS5HdT1dpQoI5gJlr6w3X0yN1A2"
+    ],
+    "types": [
+      "bar",
+      "establishment",
+      "food",
+      "point_of_interest",
+      "restaurant"
+    ],
+    "priceLevel": 2,
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ59lWzitnXIYRwcSmfzy1VT8",
+    "city": "San Antonio",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJBdQNsfVYXIYRKsp0eyAE6fU",
+    "name": "Frank Tejeda Park",
+    "slug": "frank-tejeda-park-san-antonio-tx",
+    "address": "541 Division Ave, San Antonio, TX 78214, USA",
+    "lat": 29.3805009,
+    "lng": -98.5099748,
+    "rating": 4.3,
+    "reviewCount": 651,
+    "photos": [
+      "ATCDNfUNTovFpEZ1JUg6Dc-_rUP4GE66S2Sa35YJxZGxX3YyieUnziALNYOrV2AXPo0gmyQ0CyU5whace_7Zv2MdmtbLNg3TedKSlyRCCx0zonaHDsamvGWeBCuLPdLzIz4MjxcXXNSjCPj6-3l9BqiJldSkEwaMIzawMBaq-v1QIK-CS6N3dAz2-6u1VXvmbep5uqR3YuOgcCnzYsG-TJ6R84_GRRUFsQBINv7PeEKs2Y5T9rhOrdIbbxYPzxT--TnpuLqWVzXOS8yko_JuA22zZl3VVeBRNvqYtfEwTH9-IEmaDzJ9HYN__PbOiP_ecNqAgY82cV9SLQk--Woi62fjIaPEBwF0NQJ3YG91zP27HaQgteE2SJJynWR3087YLxnrs0MKIBLKyCKfVvZmjJzNC4fMgQA18wJaQyIop82G76ecnw8"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJBdQNsfVYXIYRKsp0eyAE6fU",
+    "city": "San Antonio",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJwaE4lw9oXIYRZzhqaRJ49fU",
+    "name": "New Territories Park",
+    "slug": "new-territories-park-san-antonio-tx",
+    "address": "9023 Bowen Dr, San Antonio, TX 78250, USA",
+    "lat": 29.5180836,
+    "lng": -98.6698145,
+    "rating": 4.3,
+    "reviewCount": 218,
+    "photos": [
+      "ATCDNfWMOoho_gSB_2JZb2ePLI8jhJWDzIlw95GGjXD4hw0A3eeR8FflH2Nddo9PfmTGJ8lCkZ3EcUnpL1M869eDXh-eUqCDXb6EQgpoyB_zxn2d_hbl3uORCrxICdcZ68AAPqFn54HdoYplF9rSaD6nxuedWg8euCPqZIf0_lavRtalpXL7b3uIeGi4pEgtBgFANKMgTMtGPpB46KtUZMk72sXwWsGhNouDQ9-sxa7lw1Qb9vA6UWXWT2l2_WkoKTDwTQkgxQ61X35yOVZDoJCJch0o6y4DAzOCYJOu9SHhzMFtTsEPTFs689VZyJ-wiexVI1GLbzdp_M3R2G9y5EKhlZYrTYVRO-OaO9Vl7meFyzfVjir8mLJsdURfHz9Po_9lesQB6cyxKwfSVcphg3FTDurNe9DlE3qDJ2TD9VRU1y4msQ"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJwaE4lw9oXIYRZzhqaRJ49fU",
+    "city": "San Antonio",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJ8ezZjkZcXIYR43NQzKAEFY0",
+    "name": "Garza Community Center",
+    "slug": "garza-community-center-san-antonio-tx",
+    "address": "1450 Mira Vista, San Antonio, TX 78228, USA",
+    "lat": 29.4545776,
+    "lng": -98.6006726,
+    "rating": 4.5,
+    "reviewCount": 64,
+    "photos": [
+      "ATCDNfWrPHRX5TO9yXDdO7YVf88XkoYDgVN1fh6T4Mr324Lb3zRlMTqAwiqUZMSSgUPQLTXz5OXS-sdZ-sz7ZAvBwjnFLOsT8axJX57gzinGJkCmXaFT5Q2NZRcSTsA3FecoGUIgBbbszvk_RMNfbr5i20xlZdv_E7eENrgfF68M-CvSu8XrdpZ9d-6NWAJcw9vdDa6AQs1p2uYxkWHuHlmcfwR_QmCBxuoCzl-cM1DkJ3dLubOlVXPiyeP1OyjchKHDR-bOd_ZHCrWgXBRULu-69RW9Gx5P-BfMTc46eJB3byWrQECGlnFKwZdpZfbRe-xpqhx3xf19trl2mA3eysjBUFYksBAygeN-g4G9q9VnDtzsisoTt7z6DqBnHj2C0vQ0WJwCr4RjUlTFpbj9iRyGzIXkqDic_U7BhI4ImBfP46Q"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ8ezZjkZcXIYR43NQzKAEFY0",
+    "city": "San Antonio",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJ96XHa9SNXIYRGK-3FSB7J5Q",
+    "name": "The Pickleball Court at San Antonio Table Tennis Club",
+    "slug": "the-pickleball-court-at-san-antonio-table-tennis-club-san-antonio-tx",
+    "address": "13107 Lookout Run, San Antonio, TX 78233, USA",
+    "lat": 29.561135,
+    "lng": -98.3699918,
+    "rating": 5,
+    "reviewCount": 1,
+    "photos": [
+      "ATCDNfUzqJjVLF5_Q5HqbB-kJE_PKA16BCC0rXe82ZYCCmqH8VafL72bcA8y6L5JGs953H_1S32zWNU28YO4DXY7BB0_8ET1UEVZC1L4y17HkhxL086xFN_JqmlVOcv1KG5HXjj9Ok0BglUKeXMTuksKelrzjakclC4409h88qTgmqE6bE5AUmbVEkkYMCXEF4KIdGHOFQd6cxc-YmzINjtWZJhdsGM-cox6TfFKydmbSNy30bmlqb-LnPsNVMqezpsflNpFxeSeXbhLMkXKUCxge8Sj1UO7TYpNp69YN9pfK7aZAg"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ96XHa9SNXIYRGK-3FSB7J5Q",
+    "city": "San Antonio",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJD9FGAmmKXIYRyupLidh40qk",
+    "name": "Blossom Park",
+    "slug": "blossom-park-san-antonio-tx",
+    "address": "15015 Heimer Rd, San Antonio, TX 78232, USA",
+    "lat": 29.5783928,
+    "lng": -98.4661175,
+    "rating": 4.5,
+    "reviewCount": 322,
+    "photos": [
+      "ATCDNfUsCd23EevQSigFD4tJBQBVQbDAMQCFS-rraB-HTsRnkV-kuNfYCBC-mGXMTY1b7pH3MEJe8GM1sXjPS4FP77Auocc6POoxrcUp_VZltw3ttKWPIBsaTvMefpIbrxcIMe2G_MzXqsIyTbqMpnJkc7gZ1nfcFbHen6bCxRWqvmV_7nosD_WzQovWt2QMU_E3exubsntU-Cz5jF-dBX3PsJFUoJGTZsttGBO4HEB2nWPUsF6YY-F25Bh8JdUALvmftLXCurebGceSNc6ANrbeB1jUHDLVJi6h4C5ovZv-zHtRPgRLb1_olzoyWn4wsUWlZKOW42lg5VWEFm6tRkonaLnHm8p88XL_b7kUoZj5DCZS2vGnqjZqvUdx5_kMyAMYyqrGYPIeXPVau94w7yX6lgiQbsrV1FFWNpI6RT9cqU82NLXP"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJD9FGAmmKXIYRyupLidh40qk",
+    "city": "San Antonio",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJlXC6cR32XIYRLLg65pm_VqA",
+    "name": "Labor Street Park",
+    "slug": "labor-street-park-san-antonio-tx",
+    "address": "645 Labor St, San Antonio, TX 78210, USA",
+    "lat": 29.4129775,
+    "lng": -98.48343849999999,
+    "rating": 4.5,
+    "reviewCount": 66,
+    "photos": [
+      "ATCDNfWidHob_Okf3ZZUBGbRJSy4C6QHc_aHwKd9niIoFi2NEA3lTgmPMW_h2-cEulBZAir0j7PWfRpAIarf9ubDoaOyiCD3xjFsWqiLr2yj6nn54OWoiU1rjGz2Vq4XTlXduT311AftrYF-mJkhrRfPK0VCX2EPPBFjBWZD0jYeDX2zRpPFxa_bPJ40uaS3Dbb_BfSTKxN1XvaZhBfq3Ey-wFHAcpYPuhn2HJ-kn6JSIwSgA8sFii0hmzeBofrqYdKOD248lGOAVNUmqbvEgIQJJM2O88iEZxrgbMkhAbGFrzAz3Di_06QhXu6oo2yyQR0MqPQ6r7Mow6cUCMbzEi4h_i8tl6drUWO3dfr9jII0BfffkFvfefAgZ385NYHV54xUX2YStTfb85bbl8mMMJtsTtu23HTLXHqYvFb7NxOAYSCE-2k"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJlXC6cR32XIYRLLg65pm_VqA",
+    "city": "San Antonio",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJAaBY97heXIYRyi3Nor4c0Q0",
+    "name": "Rosedale Park",
+    "slug": "rosedale-park-san-antonio-tx",
+    "address": "303 Dartmouth St, San Antonio, TX 78237, USA",
+    "lat": 29.4364361,
+    "lng": -98.54975189999999,
+    "rating": 4.4,
+    "reviewCount": 898,
+    "photos": [
+      "ATCDNfV8ML0Wadrl7in05SaIJRM1E4J2HuFh93OaaN57pMVCYMnL8paG-C6brbUzfaTdHEZEO3_QZdVMOctCIvScifdVU7_IlfeNxmV3SPV87YFEW_fYViQwKhiA3CryUITwXe1W9_renWUzAWjWpIZvpAfYkE9je1m6CmV0A7y4eFW9gYYU6AEbC_5gczAern90EoWfm8-_vn0SJc5-1oSkt_bp8qA44D26Vq4E7tv-0llst-iEu10go619Lnd0rrTOOXgTbRMcq5V-m2aERspqsmqYiCfi92ePy4OMuBfwOmjD47KIXGaSEPPMQVU12jpmxLtMaQgKTqGEybQu16VWCGgb7buEgtvZsLLQwl3quDjAMxMfYL-q0n3USfbaci6r0-YwABES0BUElrEQWPVSL4KDk37reKedpM5RyboMl1T4nnE"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJAaBY97heXIYRyi3Nor4c0Q0",
+    "city": "San Antonio",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJxxU2SFT2XIYRro9Fk34bgMY",
+    "name": "Ramon V. Quintero Community Center (formerly known as Southside Lions Community Center)",
+    "slug": "ramon-v-quintero-community-center-formerly-known-as-southside-lions-community-center-san-antonio-tx",
+    "address": "3100 Hiawatha St, San Antonio, TX 78210, USA",
+    "lat": 29.3833731,
+    "lng": -98.4373152,
+    "rating": 4.5,
+    "reviewCount": 108,
+    "photos": [
+      "ATCDNfXAWAJBS6_zqz9maAslGRjl-0FoOSfVIaDWm8MYVq_KxG0_ijSZXtqRlaKw8-SmDhl0b0FCvUzUQtBy3PtC4_jIbnGuQBxwH3b6j2uypxijz2Hz0W3o77_ZRce6VCGH5CFRuNVlATDA6ABwBAmPK8-lJwuvXj_wg7YumOeOc2lX1t_kDlp-B-z0YhiA0wbcqZTN45gjuG5Trk7FppHfMlv2lNj-t7hxLOR6SO41anEyZKIldYb3voZCO9YQsHgv2PWtDKVSEt_6z0HCVcu9Avjr_zTyyXBoC3Cj3hAV5LrP-0E58GWNiy1LP5vqDDFjR5FxvxYQ9p3HaRADZBgFfK2EvdfMbsbtmVgaPQ92pr-vgXQ86EjmSgxec5P_EN2sp8w33Dl2nOb8ftd8quaA7s3RHRaXyTI6_wutLTGWOTNE-A"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJxxU2SFT2XIYRro9Fk34bgMY",
+    "city": "San Antonio",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJKZSnzrSMXIYR-dUUaSV82Ts",
+    "name": "Takas Park a Windcrest City Park",
+    "slug": "takas-park-a-windcrest-city-park-san-antonio-tx",
+    "address": "9310 Jim Seal Dr, Windcrest, TX 78239, USA",
+    "lat": 29.5246577,
+    "lng": -98.3794121,
+    "rating": 4.5,
+    "reviewCount": 477,
+    "photos": [
+      "ATCDNfVpTsCHDwhJRDswGYBISlp8zhwYm61se4Y52BiE0a0Fr2WexCI6F36L60zQmgRaChBKn3yXcmxxnIyZCVj_yQykNinqfyk9YWi-oaXLzmRuIfo_dWlu2K9Digr6rmWIGw92DZntvnw7q2-YdfP-Td8nb1jWY2QoN8gw4lXOpVV7cZLqDgn6cKCrHLgtJ7l06P45VIcl1m47gNw_Y8GZlEgZIKM0tZaYV7fS9HMKfbiIUiX7EiTEiHvrd2sQ7fB2EqTMzs7aBoCFP1DvmimIOHthmKQQNDVocah2XUO1fPgnTwUhJNhcuDruJMgMpmKYEfg3FBo6EUtgkUq6pSn5-Dhpvwxi-AZckIN_ItHzbdnsG_EVyyD_GisDTj8plGTziyXml_l3wtATjG-fzAepO3v67rKhduQYrcTu2Nngtl2ojBI"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJKZSnzrSMXIYR-dUUaSV82Ts",
+    "city": "San Antonio",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJeYpslVtXXIYRn8-hGEPA068",
+    "name": "Palo Alto Terrace Park",
+    "slug": "palo-alto-terrace-park-san-antonio-tx",
+    "address": "9701, 9799 Celeste Dr, San Antonio, TX 78211, USA",
+    "lat": 29.3215472,
+    "lng": -98.5569191,
+    "rating": 4.3,
+    "reviewCount": 182,
+    "photos": [
+      "ATCDNfX2Ub7XE2i7Y4Dv9zO_VS8Y0UEYzerkpIDgT1pPhX_v-nqpTGjgZEMDaOZDOkIVXgnkcR_Vm0WQ822jTsG_XPI_U1FBuNlOYoe7zm3bjq3ZXu-jGzfUHSZQncybQP8WKel1OXbaDaoz_h1JvSXrGWHE8sielGjLUjZo5bJDG3VqSj6gD4HrmRdR1zwXydLoEGHjfQHHtc9cV3wyEad7UUl7JXpeUUwQjM891vJIfgJExdR8dgV-vv6T_z_3CrshGM8LNyLPSLENQ0steF9q0wCoETDDRJBc5w_1M1uYaqznHbsYJoQCSWi3dvCo4kAk3q1Cf52oeQreLJbHatmCDNwVZOe3PKywr4u2oIsF1tCgoG8PfD32lTQZnIuTAp33idpXEdR4MxuuW5VKVsioC-FfIQtkaSuRot7cxCJM4hmmfL9-"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJeYpslVtXXIYRn8-hGEPA068",
+    "city": "San Antonio",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJiyA0ym5ZXIYRK7s0Jw3n1nE",
+    "name": "Kennedy Park",
+    "slug": "kennedy-park-san-antonio-tx",
+    "address": "3299 SW 28th St, San Antonio, TX 78226, USA",
+    "lat": 29.3922581,
+    "lng": -98.5553266,
+    "rating": 4.3,
+    "reviewCount": 603,
+    "photos": [
+      "ATCDNfWt0jzyNe1_rKBBQsrgSFxnqU7WXOg3Nw_c5trCeM-6PsUdRYx1JxFLLp3ywY9IX2Pv3oUQCj2cmYrrHq-eepuvO7bRkZSlJy0--caxUY6dTy03BVIcJKBC6rvqtTPRLpkmAzjPgt28ITn4xrcYFbVSev_CL4-c944rF3BJWDXbAVres00w1dGaYchFmllRuNJrIgvCTGfw1m-rhm1-kk9atmSA_8WrYr8yckY6mWsKWW4WuTBzu1F5C9YETbMdgID77452IvlvIVNELEYEU9jsEeEvVmFfF7IPug4PvSeTFUMy2nqdRGrdmz_V_OI71sp6cOde_kqt3m5QwI1EhjZHDly1eBby-U25BMRK_O1ALPrBghqLYdh4ZLx98KBmuw9L0C3piW42q0V78CMRUIX9OX5ib-9hOhVDDrOqIGoyGA"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJiyA0ym5ZXIYRK7s0Jw3n1nE",
+    "city": "San Antonio",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJYwbAwzuLXIYRvokNgPzxBSA",
+    "name": "Hamilton Community Center",
+    "slug": "hamilton-community-center-san-antonio-tx",
+    "address": "10700 Nacogdoches Rd, San Antonio, TX 78217, USA",
+    "lat": 29.5342693,
+    "lng": -98.4244088,
+    "rating": 4.4,
+    "reviewCount": 104,
+    "photos": [
+      "ATCDNfU0ahMLVf1e2eQwN8cvlMsayXNasR8MumAjDLrQ_REVBBbyodXa8Fb1Hge1Y9JTxt_e2bzF5mo5rAGrCOoGNk0u4JNaShxZLObuzra_PwR-mdxoLFjdEWen_c5hQVJZTeoTsMu4J139-_GXySw9009ZsGJdH6nXFl_LWzVz-bSgZPTfXOsmERRc1hGmuEHaWdaoLPe9mi5MDyaCUi_0tJRTlaPhUGQoCZMUQMgtJZ3b_ElgfN8qcIOHFPJv2UvWKg7yl1diea_q5tPeKCygv6OgFGoufjvoMtBkyPw-QB_uTs3i8iYnvejpAKQmtTQrrIGkgFydHxD0FP523RTTvNCWJS5D4EWDsnWjUD5FQMH6XLK2GneWAFfKpDveBZRf6nRYTMaa7WgR2vcSwm90GReGpUKasWIg2SztMr8vbI9IzQ"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJYwbAwzuLXIYRvokNgPzxBSA",
+    "city": "San Antonio",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJq4dzUd-NXIYR39GK59QTQo8",
+    "name": "Morgan's Sports",
+    "slug": "morgan-s-sports-san-antonio-tx",
+    "address": "5025 David Edwards Dr, San Antonio, TX 78233, USA",
+    "lat": 29.5396747,
+    "lng": -98.39754479999999,
+    "rating": 4.9,
+    "reviewCount": 27,
+    "photos": [
+      "ATCDNfU6aj2jMzZahp3Np1F2gx68O8QJrfvfRZPogy5-i44aRxO0xq3H57_jQWKa9hVKy15ubUVFFppfqEKKYaRj0pL541zfboFniZWS9Kc-Zj0fWdaoeKekrIx3M_8_8WBGSEO8H0g1VCZgWXhERZTDxTBgiuQMi39y87TdqMtViYnPmSZv0klp2r6_pxu8gRtnhnqw6RRwiHHK7A0XWrcA5VhhS0sIHT8F6Z8cS9PKcj_JIROM79kwxF7ZPSw_nkWhwdO_EpUvbcEp0QJ7Cams1W1epB8yiYZ2ptBdzUREpIT6bA"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJq4dzUd-NXIYR39GK59QTQo8",
+    "city": "San Antonio",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJuS1TcwdfXIYR3SPbgao16xo",
+    "name": "Pedro's Sports",
+    "slug": "pedro-s-sports-san-antonio-tx",
+    "address": "531 San Pedro Ave, San Antonio, TX 78212, USA",
+    "lat": 29.4386624,
+    "lng": -98.4983438,
+    "rating": 5,
+    "reviewCount": 5,
+    "photos": [
+      "ATCDNfUSvkcyhUK-SXybjIftpJeQ-TFeN5qxV8H616LY_wJBYs5pFcCO5ouSmMZuKouCOYWRumimI8BhY9P6LXjh856h3TT1wA70av-jO6K_bZR51wvRVZWxDq4EaUFJw4AlwM1qybQseEAe3Bf599NFUFnNut9c_g2Cs9M7av1f3K8j3GPQaS4kXx8Ou_85G_Vjlhctssyl01W2MSKSCGSudVBpwz5I2qY50v-JxVF7w3ksh_G2WjuIvI-3icw8wXs_gp0mh7zwbolGHqiqK10-OjX0n-VrGpM9EbUPiu5PTK6bawymCfSwIJyvWsNGkAZ_3cw_a_SAdlM0kFti8l_P5pIAB9mOfmo8I1ilkE1km92GVbNzCOWFPhn0L-f4JJhhmzNNwx82_McKAZoDMORYbBjc7nCQkZC_ZJWjyy8-ZVRgKWvHzeHqjzwg8rBtfg"
+    ],
+    "types": [
+      "bar",
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJuS1TcwdfXIYR3SPbgao16xo",
+    "city": "San Antonio",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJ7emb7f72XIYRWisitNHvDWQ",
+    "name": "South Side Lions Park",
+    "slug": "south-side-lions-park-san-antonio-tx",
+    "address": "3100 Hiawatha St, San Antonio, TX 78210, USA",
+    "lat": 29.3843771,
+    "lng": -98.4399699,
+    "rating": 4.4,
+    "reviewCount": 1366,
+    "photos": [
+      "ATCDNfWF64uJpbyFNhk_OicBnR39vOg5fQ_uGGLsncdRmNy4yEIieVztgj9nkOBBDCfrsL0-CPcgKMfW16NLs8IO_z53OOl0Yjsxwl6cHbnClkbtY998H_dMfT0A7aRqoSwZdcnk4cAqWgb-vMhejf5fRLb7QDtwnNUKq5SZnsJ3wKE4ykS5W_9qF6X9Xbi2JRyuSMB8Ja7eMUCdxTfyMbaHuT7dn6C2tKlruTY2M5LdieXFc31iSKkuQNJcZB1N2I_JRPdSF2Xcu8Mw4uyswUZhD1GxUK7upp_znKeM7KfaaofFUB1AvfYPnuOZjN0zu2zWCYgJphEKxKvDeqRaxm2q2hJDtNqNCfpo9njJFdzkX6-qgIWdg993rHl37bHmNoa_6wzS4a_yZ-wgVUvhCA6GWG-C5Qq2NyY4KePd0QMzT_GCw4OX0nwkr5jCzmxsfP-9"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ7emb7f72XIYRWisitNHvDWQ",
+    "city": "San Antonio",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJ14gv1SpeXIYRGzAtV5VtvuQ",
+    "name": "Windsor Park",
+    "slug": "windsor-park-san-antonio-tx",
+    "address": "2300 Ingleside Dr, San Antonio, TX 78213, USA",
+    "lat": 29.5122703,
+    "lng": -98.5282119,
+    "rating": 4.2,
+    "reviewCount": 123,
+    "photos": [
+      "ATCDNfV7PDu3jG8XHswtk4JaUSiwi7l3mPOgKRjBLybE_WoqaDw9N3VxBfu2coR0eUiJQVzX0cBpcHyLeCuI9AS7Qs2n4wWbeyLwwGKScw1_q1PEQMNiJqbzgNpyZLJQZAuE_iw6Rb2sfFSqdOZHV7LiYz7zhsm1_qUnmyVr5dTen-XZt2TjBxV_qjBKtrvbyb_XzTHLD99kFjE5jromMJSjSFRemlabcNnlgy2vTFrdMYZnWEauoQe2PwiLHObFJNYM56PKy4x1NRCxnv4BG0dpS3nj0uO2uKT3_AfOSVNZRdyvMcvdP-fZLzSmf1JgYjm-gEIIjxD7x6KCGd3bZey9kqD-ICwWWdOJ5S_wEpM-PSbt7xSoeRAFHoUN3HW9fFSVch7roXa3e0ia4aZslkTzLr5n0jLkswKhy5CzlsjIvk6t8Q"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ14gv1SpeXIYRGzAtV5VtvuQ",
+    "city": "San Antonio",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJqcl0n05fXIYR6YtkQIAMbxE",
+    "name": "Piazza Italia Park",
+    "slug": "piazza-italia-park-san-antonio-tx",
+    "address": "500 Columbus St, San Antonio, TX 78207, USA",
+    "lat": 29.4302046,
+    "lng": -98.49929069999999,
+    "rating": 4.1,
+    "reviewCount": 134,
+    "photos": [
+      "ATCDNfXRYenswSZGZVFwqCzId0J3WzgxxaU6YRFzSoJhJNjPTHp72kLX9RfZ0Dr1TuhXiGo3tlRa2bYy0ZVByukZd5AW-Oer-eBfTcoJLJF66B7apHPCj-qjZ_835fmbWTAUsu075UDFXoSl5vbkpSTtucxp3uJkQsAVHkML3TmnfIE14OFudXtTTiadbefOlrZir9ChBVoX4-RvQ8hiBtnDf0Q63hcn8Uy2FRb6vBVOIQp7e-zERUNKb8RG9Kq_MHvjSykjVdNKLtWD7_Ym4M-T_fPDu57jjx5bZco1EJ7ybT_bMxYWVhAMetwdP5Ym1xJUlVrk8lvs4xUahJQcj4GxyFAUcv_l2RGc8L_sdEkxR-EoYR1VY5QbH-zC7eet45JfkTLM3GAOMj-BpK8WrZoAKBBtPMBfn4vOdIQiEwh3JmoInQ"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJqcl0n05fXIYR6YtkQIAMbxE",
+    "city": "San Antonio",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJN-QbF-9gXIYRWtI98k69fYw",
+    "name": "Grand Slam Courts",
+    "slug": "grand-slam-courts-san-antonio-tx",
+    "address": "11515 Whisper Forest, San Antonio, TX 78230, USA",
+    "lat": 29.546476,
+    "lng": -98.54335359999999,
+    "rating": 4.7,
+    "reviewCount": 21,
+    "photos": [
+      "ATCDNfU16PFC8okWzvfCrcDZIzFRZfTP5fww3hISOIX6hIhOwFPg-TWi6XoiP6RY5-H2jvWFf_mvFt99fcI-t7s8hmBfHafnMvlc48lVNH8zaz5EZxy2lthSHlnovZqvBQoqUveydG2hiuEMItqef5U2DTcMjoS24HYpr69TGZdjgoqS-9bZXKGpSyg4kLFHR9t0M50PwoiI-uiWn4numeYd62QV30PSvJxUZeauEWSCvWNznHil3KxVoXK_peTzcYLD4Pg7sjrn1pN5xrkFEhyOnKLPDR2XZoxfltmbA67Du3NsLQ"
+    ],
+    "types": [
+      "establishment",
+      "general_contractor",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJN-QbF-9gXIYRWtI98k69fYw",
+    "city": "San Antonio",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJJ1WvYiVZXIYRqznFkpFlLjk",
+    "name": "Father Albert Benavides Park",
+    "slug": "father-albert-benavides-park-san-antonio-tx",
+    "address": "1502 Saltillo St, San Antonio, TX 78207, USA",
+    "lat": 29.4109594,
+    "lng": -98.5371651,
+    "rating": 4.4,
+    "reviewCount": 191,
+    "photos": [
+      "ATCDNfWK0BtcEIHMlDSmvCRsGfkVhnrFDd4prw1VoArvfSgHwDIUhV9w4kOmMmmpQOBhEMnD1HU3YtB9Iv3xxElgylirje-Welw6m8rfK3X0yGEb98LevDlDx4eHy5ek0vQ3BPp3I12qekTWFALBcMobaCaCoouZKwYlPjCQZ_KrCzfZMIq2F7j1ui-QayGbTmMcxSX0gLRpBRgxJwyceYyH1URyV_EVCyWY8sW-kZC6eMdhnF5Mwd7zI4dIuV8ijJXq4lzKjgNBr90jnhXog-REfYtr9eSUAh3Yuoq5ddhD_ULITQt9NkuPciq9KlZWkwaZRoy8b35JeyeGEciQwAcQIBpkzyNMligUZVDkIpfkbTUxwg_fyML0vjsZMGqlsCj-qoI3GboL3Sp50ecYEkv7Bs0U5ug_UOCyyWHHNnlGTRvhrA"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJJ1WvYiVZXIYRqznFkpFlLjk",
+    "city": "San Antonio",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJ08JF2HpbXIYRqBGUr3ibDj8",
+    "name": "Royalgate Park",
+    "slug": "royalgate-park-san-antonio-tx",
+    "address": "Royal Gate Park, Royalgate Dr, San Antonio, TX 78242, USA",
+    "lat": 29.3710073,
+    "lng": -98.608906,
+    "rating": 4,
+    "reviewCount": 10,
+    "photos": [
+      "ATCDNfXoT2BdIHwer-Fs87zSF74fhqQHRKZyrr5JehhxNjBR96xeBZ0_STujY2G1-5niGS5zjh2xMrV8J88Mj46gZcYbCFZFS5HVJi7rQHKyqd7T0-vW-49KR0cIPX8gdDWJh-FwrCO7YwxCULCckkzUXpMGHvR6nBfMfsPKl4N_HzAY-JQF9dPlYRHR5ua1RGrXPOzaX1l5Y-tjPez21t3LAU3jRO-jA0WZwmTEScSRYQeXI6_LaaWtO5V_ygeDQTNDRMx-YPberFnF19jjSEgRkgwNRR8XzTtyubo_YXk0q_Y0a5YxGtXvfy-IqsCpZPUlF4k3Bfmxeaks9B3sfb-DIPy8eBTWgythxEB2e0fEqFt-27Iqosg34AaBNQdH-LYkbscA1RtYvIh6EWEzXm00dUqJKPbHO6GooBoMntGEyjjhRplA"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ08JF2HpbXIYRqBGUr3ibDj8",
+    "city": "San Antonio",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJieL73OZZXIYRWCCQKKmSE3E",
+    "name": "Palo Alto Park",
+    "slug": "palo-alto-park-san-antonio-tx",
+    "address": "1625 Palo Alto Rd, San Antonio, TX 78211, USA",
+    "lat": 29.33595069999999,
+    "lng": -98.55321789999999,
+    "rating": 4.3,
+    "reviewCount": 397,
+    "photos": [
+      "ATCDNfWJmjBMvDOl74-tBubHtRD9t_J5P-zclpEpUI9vfVL_Wjnm13TtnkgHw9sHDgnVZOeVldJUccGEjUVfwJJ41DHtv0jTq78S0j1AKM-nplVzAbqMRl2IroNDo6YDNSyDATSLwM08iPdzOTghG3YGQ9vrSkFjDDKC2RxTlEpmY9KrTzGuvabcj5LfrxlId3b2q_GrNb3xI-IU3itRE1B9h2G-S6GXLICPqRX6h2wVrsJp4cj1EQM92PkdU-YSa1UAlRqGHgIteXzSZahwjF9YYktuJpdggdNJNNuPpY3wHCWkAJBOl_T_c0GqNK7npyws8M3URAL923l9X4kd29dNKcbikDDBuyWmLwxRC0p5XnvBefRBFqPM_ZWqYGUJrBGTQ-yIjVxU1jQUqIXFmOTmtXN7nfAYu7GqaakKwth-78c"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJieL73OZZXIYRWCCQKKmSE3E",
+    "city": "San Antonio",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJVbsJ5sZ9XIYRQm6NTMb4Qdk",
+    "name": "Pick and Padel San Antonio",
+    "slug": "pick-and-padel-san-antonio-san-antonio-tx",
+    "address": "30251 Leroy Scheel Rd, Bulverde, TX 78163, USA",
+    "lat": 29.744199,
+    "lng": -98.4867755,
+    "rating": 4.6,
+    "reviewCount": 16,
+    "photos": [
+      "ATCDNfUiu38CeJtNTF-eP1MDLIQHv470aEP7K0XC2ZenDMSrUN4zDPXNSIWl_2Kxlx3emY3ng9nEETd-m9lvlfcE1Z1WmIqF4vdQ0RDI2UVFROj5anAUctTvNjtOTJQH21MNzj3cKlyiYZi2qBSX1zWGOkyAxlEGk0G2vXAWlMeX7PI7gtPDZP7KFDMxMp1JhEsoJhSRBtekrcZX_SqNEZyiOKIXARVvjSWBa7aZo1AL7Y-QXLeskF8CTiaudpXsJOSlYftcQFo5q0lFeuHusAobwijPmPON6TATsXCybbh9wYaXNg"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJVbsJ5sZ9XIYRQm6NTMb4Qdk",
+    "city": "San Antonio",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJ_TmXFNj3XIYRns1FpAAKwWU",
+    "name": "J Street Park",
+    "slug": "j-street-park-san-antonio-tx",
+    "address": "3500 J St, San Antonio, TX 78220, USA",
+    "lat": 29.4047574,
+    "lng": -98.42968479999999,
+    "rating": 4.5,
+    "reviewCount": 82,
+    "photos": [
+      "ATCDNfVcqmCOZzTCzTui0_H_WkhaHabEeVTygHGX2TC7ilAyWnMe_KlM_G39Wy_rmYEPws9KflZ4HS3AvFHNJUmK7SG7ULyneNz9aRC7_ZpjdrXafgB7V_EpZFY7fvJJbPIsVDntKCwmgzLZS80hqQfJbkrG7c_Io3woeFmxTBshpNUwsBIFVXGhCwR4EQRtv0jS5L8wkXda43H_z9kfGQ4lA7SmEVL5fJYm15eZOfg2MAcaB5iCs4J1FIDDl3M-V7DoEvRBqP2n4rpkzyuZSgV9sSPgCZFqC4Y0051mtzDtYQesOMl0l0quN3-gAB8Im97kDqfJvDCgn0c_WP1SqhUuRXww36fRVupriAQBNUz3qL6G8EuW2_8jxwqSExTx4cQYrfvyqilDn_UCY42ZKZORv1qqDRCOErZ4PBPA-tOD7p-uXw"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ_TmXFNj3XIYRns1FpAAKwWU",
+    "city": "San Antonio",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJm0KMUSr1XIYRfm-Mhh1BZxY",
+    "name": "MacArthur Park",
+    "slug": "macarthur-park-san-antonio-tx",
+    "address": "MacArthur Park, 1611 NE Interstate 410 Loop, San Antonio, TX 78217, USA",
+    "lat": 29.516795,
+    "lng": -98.443067,
+    "rating": 4.5,
+    "reviewCount": 1359,
+    "photos": [
+      "ATCDNfVkwEA2gCkTx_rfpRadp5XGx1BuggX3oFJke5O0jJy6yQS_1w5KLmdjGacweWs50pMDwMY9n3AzsTPFlGEWeoVDz8gMU28u0zVolkXZXT-mlJ3rRJ9aL_ubL_NFwycFHn2JeZY1F_7IlzsHD9BTffONGib_ODkjLzF8HrKoC3SIe_ITGuWUVNV36omG3XM7xl7wL8eR14EE142JyJ-a9yWPO4-RmYqZYZ-Dt93socxFdAybh-jiGaBm2-52O_C08PXyDy7bVRdCjKc3OZrsdCvx-KetwafAMZj_R0KkzP12SDkR3P1Vov6Uh2rAJXnryccH3Y2D1rfz8_xydebSBdwnvqwbViLJQXWBUuZa0peSchc6kqVHScano28n_EeWNOnWdLD6xg8Kd2jJMhzGKlhB1wM8clKcvVOvequzCjcGXQ"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJm0KMUSr1XIYRfm-Mhh1BZxY",
+    "city": "San Antonio",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJZV7t0q1fXIYRV5C5lBVqgHM",
+    "name": "Los Angeles Heights Park",
+    "slug": "los-angeles-heights-park-san-antonio-tx",
+    "address": "1738 W Hermosa Dr, San Antonio, TX 78201, USA",
+    "lat": 29.4781968,
+    "lng": -98.52327110000002,
+    "rating": 4.2,
+    "reviewCount": 109,
+    "photos": [
+      "ATCDNfXAfey25JUdvJ_Fq_Wi3FQJ3BYEAnYdafMAKHX2FN-eNuh-EQoNlVl2QV6m5JxmeLn-Ezxd-E0-z8P4jA4QZcn_2bcjgLmlo5YUs3Pqmanp5Bzw6R2bLyPwMj09oRKnqoTw7eiodM1F_ChtRVgdk1JruBTK4nonMHCTqK1tShYWV2_oMA20RLNPlN_znVi_a_41QJuyAvpxycGQHJGnbV5H8JzjxJQNepok8PGnScS_APmCVOZwV6v5uwIkA8Jsm-uOCxg0W8xmVvsU1fF5fxtr8aFANvIB821KRAhI9408uv2w3-YKSlSyAhUv16_0w8sByd4bYverxzpSFxehY4OUK9dznVLJXEnEWOzVxi2BEpKj0t4XZilLHB8Wh1m57z0v0M08BHV3ixC0MR_ykirZU9T8NN-bfp2cuBgz8kIHfBfDa90-sNWmJdM-uGgF"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJZV7t0q1fXIYRV5C5lBVqgHM",
+    "city": "San Antonio",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJV-iMLx_2XIYRl90Hr34b2Go",
+    "name": "Premier Courts",
+    "slug": "premier-courts-san-antonio-tx",
+    "address": "422 Carolina St, San Antonio, TX 78210, USA",
+    "lat": 29.4053946,
+    "lng": -98.47941709999999,
+    "rating": 5,
+    "reviewCount": 23,
+    "photos": [
+      "ATCDNfWnUvPWqT03plA5pNtK_KvaF7RjCeh9vn97vlkAJeYH_o-43pF3Q0vNb7SBPv58ufGBo7mZFbzqbaq5VWzUL-46tg8IfzyMU006MJEn7pVCSdQRvs4_HVB-kquBmraCSZVmDvBRnHHSLefE9C7hwMib7WqcznZ368Vts4VeTCTCGvj8Qdi9dZ02Qj_Uj_8a_yzcHTYPK9Vv9g7YIpWhjeCTcs-BcN-LNjW0Nye5gMfSUaZm-MXG1F8sFawcRnIDOjRmc-94_9_4y1YSf2xBNo90cAAEDu0eCqLgi5tSPMtVYg"
+    ],
+    "types": [
+      "establishment",
+      "general_contractor",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJV-iMLx_2XIYRl90Hr34b2Go",
+    "city": "San Antonio",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJ-YUEw5OKXIYRHpDmboWcKXY",
+    "name": "Blossom Athletic Center",
+    "slug": "blossom-athletic-center-san-antonio-tx",
+    "address": "12002 Jones Maltsberger Rd, San Antonio, TX 78216, USA",
+    "lat": 29.550234,
+    "lng": -98.46768290000001,
+    "rating": 4.4,
+    "reviewCount": 603,
+    "photos": [
+      "ATCDNfUxO4kj7NfN8FM8Dt0nCp8wt0_-KTU4RCSO2ea5xvI2e8GyLa3IUVRg05Vf_Wu-0wkhJlZX6ZdPbxSAMLU1OzeSJ33sNWhJqa7g2kBnNyx4NiqZMUquKuzIUKt93wlQWdLGvL4RbScHEc2rYTBN6_pHW0Rt5yZTVX6KP3nOHeXuL5omcLykhZYN_njIjH8okA4Flmm3bs-Fv-3dMohFkGUzt0mTdYbI9jkWnWw7MLi96afaHryvCHFsu00uyzMZDldMDsUnRRPY6g5UsVQ3S3OF4tzMPrBLogp9viBTuWYnkwQU2FGahwvSj-HYvlEicYYrwb6hW11O_vtIGtxYKy03tFrAYeNknxUe82u-XoEVLzv5ibcmwTCsc3zlKtWl7bxZGV6fFabaTZLazWUassYMlPWdQQZ_htLY6zf6G6Y01Lve"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ-YUEw5OKXIYRHpDmboWcKXY",
+    "city": "San Antonio",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJAQMjPSVeXIYRB7KqpZkFHVQ",
+    "name": "Dellview Park",
+    "slug": "dellview-park-san-antonio-tx",
+    "address": "500 Basswood Dr, San Antonio, TX 78213, USA",
+    "lat": 29.503844,
+    "lng": -98.5409474,
+    "rating": 4.5,
+    "reviewCount": 728,
+    "photos": [
+      "ATCDNfVCrxKkvryT26-GIrSLZgmY8nUwmv5DRJClVAYzSGaXq4G75FB6P3jlRvcOfE8GzytSyXbZeQwE2Vs2BHmL8vlKpVJ9nG23YsSmqveDWYUjRvNaQXs2MWtNU6hdHBhcdENvUDQUQhBOGr2zKdTL8YGECVObdUgvOMjmi7jmkmr1nMmMHVzO8XwrpARjw3zxpg486ZoOAqOtkzqnAy1gYWVuXB-BZQJp0HVJy_3PCtqSdYwVrULO22GyWfBoysJvbzWi4RB-3qUT_927IWPqvkQdZ2CjhAny4Lic9RkDo09i92YtyjUFHTpzrFg9W5UBaNWtOTGpJ5DT_9krMfhusygAqXseV9uzT_AHQk7wSSkKVAC_tAj5D10_mkgkug5asmcN6RTudT_2Eb6UDvAX3EbEIiwSPK3JcMfE8SVF5ThBmTzz"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJAQMjPSVeXIYRB7KqpZkFHVQ",
+    "city": "San Antonio",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJaZVL2BdhXIYRrJgIXHU8C-U",
+    "name": "Outlaw Pickle",
+    "slug": "outlaw-pickle-san-antonio-tx",
+    "address": "618 Northwest Loop 410 #202, San Antonio, TX 78216, USA",
+    "lat": 29.5183456,
+    "lng": -98.50319879999999,
+    "photos": [
+      "ATCDNfUIUXrlodFgyidRCj3J7YQlRIq9oosN9-fb3jVfYwSMRmIBWZbQT_Y2lcPJMk9VtmWazIwHGXIcWlR4VwOpZmK2gup2YCv0EggA6hsMVO-R2LffBFBcgh7_bsHZrJsFj5Xoex5FZMpu9N3Cd-kTHq6xlpfTIQvf4Xo2dhghPlAxqa4KfoZ5HOetoyY5apr36g2wN38R-fwlznY2tIDqsabtUGyRZPx5ajVJRSapfzXjuHacxaEq01wT4VYRASUzQ8wrX2xiZRDeMsfxe5VW4k6znrE902Vnl72TrmL9vBCc2Q"
+    ],
+    "types": [
+      "bar",
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJaZVL2BdhXIYRrJgIXHU8C-U",
+    "city": "San Antonio",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJ4dvYc4tnXIYR7Zvwp6wUCPI",
+    "name": "Mainland Sports Complex",
+    "slug": "mainland-sports-complex-san-antonio-tx",
+    "address": "8002 Sand Pebble Dr, San Antonio, TX 78250, USA",
+    "lat": 29.5129285,
+    "lng": -98.6350016,
+    "rating": 4.4,
+    "reviewCount": 305,
+    "photos": [
+      "ATCDNfXW5RIxUS6WTSweN_RWnUdPDKkV662j1laXaxNJOS9v0xep334cqfl9S9wOpna-hcpfLeYc-nmY6zpk8uDVtQ-t_IDQt8xkZRk812Dk154fTh3vLaIBtbgA6FSc5Rgy2fRJQy0gaBswRzuWSOYUzX2S1-JhlQSYFosnOT972M7UDpkyQvzpEQjkzUJUo6UKvx5MIhF6keMwPosSPYX8ijTdV_Fy8aFRJHgQBSX4sqtrnAcuN2mnQ3H9yPppds081Erk5TU-_V62bF_pqJBLR3OMSJ5rNEbWT437Hv6v3N4LrIJomKn0uWMTsDvJyI1fZU0d3ALjonrzHjscX4RkegTSwK9__osaN_krMThRp_ovnQZ_LavT48RSiX8fyrfmsqHTC8O4fyblmHb92k05LywXMtVoPpo-jjCQi73rEQmK3g"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "store"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ4dvYc4tnXIYR7Zvwp6wUCPI",
+    "city": "San Antonio",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJKaThbG33XIYRvDTh85-oLgA",
+    "name": "Pickwell Park",
+    "slug": "pickwell-park-san-antonio-tx",
+    "address": "6911 Pickwell Dr, San Antonio, TX 78223, USA",
+    "lat": 29.358167,
+    "lng": -98.428118,
+    "rating": 4.4,
+    "reviewCount": 523,
+    "photos": [
+      "ATCDNfWd2ARG-XaTg7uzYMkItnGrQl2Je5x2Yd99rTqcA-q0Ax2Qqe6fAT5iapHerhjShWDE358MRin8xekgAN_GW9l2CnE1Q4oaqIYKC28eAPgZbes1Zg-FPoZmDaAuBkMymP8fjawmtE73PMhOGlSFr99iPbY1qBKZCezDqqzD7Tl8ImArpDdQ3iRmvJATzDnM6X094VMngwJW6U1tMDknwz42hz5UXmVRWq-6YHn4J0rUrpL02OM0f7ZJiq_lQQ1kaqAfQNlIDt5ptYhlNFnWJPlg1JdoGEosV89BeGqmjIeh2dGZvLQmwWxSWsNyzMLa_XTKqjbc5nZGNiHzexGE94VhQKSfVvXjr-VITiox80zOPdapG2PU4hZUI62-K2re8GXx4S97Rmmrdq2t6qyDgIbUh-Tu7FhX8JPIut6bp1qE_Z8m"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJKaThbG33XIYRvDTh85-oLgA",
+    "city": "San Antonio",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJh9eAgZhfXIYRJZTk-9E7clM",
+    "name": "Joe V. Alderete Jr Tennis Courts",
+    "slug": "joe-v-alderete-jr-tennis-courts-san-antonio-tx",
+    "address": "501 W Ashby Pl, San Antonio, TX 78201, USA",
+    "lat": 29.4532991,
+    "lng": -98.5344129,
+    "rating": 4.3,
+    "reviewCount": 6,
+    "photos": [
+      "ATCDNfW42k0AeN30tZMelGDN6rNDMlX9FJTWLa6w2jBoujXAqxiUZTHSkYmC_GYr2br4pINriNEjm9B227ysF5yUdWksKi2RmaGY4htYt0BVhiIfr-oK7yrMjz7yYDfTy6m9s0gTOnbcXo0FE9qytmQTqBvzpX6El9oBaA6yYtKzEIqZDEKyli0jRbiWQv5ahNXXpT06UBhtKksuIQ6ykzbLfpZB0Q-h_YqlCKTQ6_thS-tEh3TnFD-33yEvNNnAhGmxnvNpselKZDjvn_a3FAWStD5pkhbWIGz558vVYbVqxL4Vl0V3pXrKvp50o2yCw3nnRzQhLnBsVVbUwPf-Em6CxWtajS-ouvRD-JbrscpmxZN3j7jqwf9qNAQeh4uLQAv_13xAPfzcunKYrJupN7HxRJ-CAU-1Uet-wS3e62Cl2-gOzA"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJh9eAgZhfXIYRJZTk-9E7clM",
+    "city": "San Antonio",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJT-DGReiXXIYRaaPJrx0EnzQ",
+    "name": "Cranky Pickle, LLC",
+    "slug": "cranky-pickle-llc-san-antonio-tx",
+    "address": "624 Krueger Canyon, New Braunfels, TX 78132, USA",
+    "lat": 29.6654227,
+    "lng": -98.1898089,
+    "rating": 4.9,
+    "reviewCount": 126,
+    "photos": [
+      "ATCDNfXjy5vpdncxdWEcSG6sBHbDDR-S0H79EY35q_XPHmthyTYfypuiZdK1mEyGWuUe5P9iMMT9vJY7LDqeRdlgGTDC6fdBcIm_ibH4MoYeIjxKfr1rzaiVT3wXFKA_FUoYeoX-wkTxpLw0LIRJGSWxoy1axev4Uz5ASARmeLwdukYdhPoqj2ibaqpgJqFuLrIuas9kNMD_9DHPffb77zdyRUyLmVG2q9J3UX9uCPmJ_P1P1I2YRtdkjqw2gwDX6Ogzs_2V-tOcoGbcRrMKvxrGviZgTV9ExhdHoxiZfZnjWXsHYg"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "store"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJT-DGReiXXIYRaaPJrx0EnzQ",
+    "city": "San Antonio",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJJx1NcwCJXIYRehmwXWyUo6c",
+    "name": "Creekhaven & Blackhawk Pickleball Court",
+    "slug": "creekhaven-blackhawk-pickleball-court-san-antonio-tx",
+    "address": "Bexar County, TX 78261, USA",
+    "lat": 29.6690447,
+    "lng": -98.42557049999999,
+    "rating": 5,
+    "reviewCount": 1,
+    "photos": [
+      "ATCDNfVw7WEmdtD-N-TtXSdv1JeE62onBrVGH0z2kgID2TWibUlLZhfY_CPqz_ZKLWL_rI1-JuKbiFaJJqReCRL-GUiOAp5OZ2OByoiUazYEhZJe9QXVj3kc8kWpbuOG8jzkaF7FfTKS_vXSLeW5WVh0EmRNdTetN2sgpD5I1tSkONBbZ3KV4YRFfT77ot1ayJZ_02bgd-4Zkd7O5gNfbd8BAL1ldU-gGy8DUFSUVBqRK7cLqqQ8snbzNveQ2qisLEe344HOJSJMJFAssf0jpp_d5QTkznfddSviQXAJ0TAsxIOmuFOeTrjqjPpiOY2AuWBDpv5S0cefD7tc8z6ZSXnxqssgA-i8VxkFNcKG46C69EHAoqt57Mpz0iOnVRe6iFZCU569gWO-6niUoQVq-qMyysn4uyt8zj_qOXH9Kde3rmI"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJJx1NcwCJXIYRehmwXWyUo6c",
+    "city": "San Antonio",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJ9cctcTi9XIYRwjlF9nbMSZg",
+    "name": "NB Pickleball Club",
+    "slug": "nb-pickleball-club-san-antonio-tx",
+    "address": "1269 Summerwood Dr Unit 201, New Braunfels, TX 78130, USA",
+    "lat": 29.7155682,
+    "lng": -98.1013692,
+    "rating": 4.2,
+    "reviewCount": 54,
+    "photos": [
+      "ATCDNfXzdpK-9Jtyq_P9nZO9zWGkSXd4LugfrrItEle70nSIeza1XmvJDHRiGus5TFxHA3k_nGLZNZx14Rl9PEGDV0FvPjbBxxPAH730w5G6EWfRFX3cBxhJzXQ49xHjY3YyB0zkXdd-1u_HwdYF4h1HGpC6HlYZpWLj1YQOrIwrG96edOfdxxNjl9vlAg9q_qS-CwRDRLHzBDcmUOGMpb-YHdANAMuJ5LrlGK5Bn6wYceHFOR4UT6fQuUYa7vriARMGVnYTh2fCojnQGgUFGSn52CjvjW77PdWzOkLKQsS0o9aN0Q"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ9cctcTi9XIYRwjlF9nbMSZg",
+    "city": "San Antonio",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJuehHOwBdXIYRmqj_VsChJws",
+    "name": "Monterrey Pickleball Court",
+    "slug": "monterrey-pickleball-court-san-antonio-tx",
+    "address": "5919 W Commerce St, San Antonio, TX 78237, USA",
+    "lat": 29.4337695,
+    "lng": -98.577376,
+    "photos": [
+      "ATCDNfWWwfFTG63nj_FtvtVWmEVAxDm4gS5LugvqiXTJgbaRYpNmiTyeDQDSOUwhnrFSp8mSD1dyZVybVaAIXHszkpuwNgckJHLcuV8NzSZwYvY8zXQ1LhQpKuDVlNeJsFfUd2AFGYSIO5MoTqvc6M9y1au_ZCv-qr8NOKzyDwDdVKuEm6ZMorUmYSXTUomnO_msSJ0RRbAQVfFOuwhb7f5AtrOwZwP8-RHuSDTi6xK5X8ZByfhD0em1Ba4c07h359Wj9C6WxTSnV6Fyk2StsgL6PIp9t8rKIIMDj_L1ujdnG_5-WGOFIB5fynFNanZa-t4Sij3JbR-cUEU5Y5OTZst3KGShXoVCxal75e_CRkN6TCzA5QNLadd1TWkYV5eKAaZejpMcc7bjYCPBHx4K3U8ltZoy6u5sHiFaWTPgDBreeKi_9rcS_1YNEyhUjVfwZlA4"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJuehHOwBdXIYRmqj_VsChJws",
+    "city": "San Antonio",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJc0H1LQBdXIYRvZUPU9CjfVg",
+    "name": "Pickleball Courts",
+    "slug": "pickleball-courts-san-antonio-tx",
+    "address": "5919 W Commerce St, San Antonio, TX 78237, USA",
+    "lat": 29.4335846,
+    "lng": -98.5779535,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJc0H1LQBdXIYRvZUPU9CjfVg",
+    "city": "San Antonio",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJbd5iKFLzXIYRHo8_J0FOb9Q",
+    "name": "Windcrest Tennis Center",
+    "slug": "windcrest-tennis-center-san-antonio-tx",
+    "address": "302 Zephyr Dr, San Antonio, TX 78239, USA",
+    "lat": 29.5177478,
+    "lng": -98.3881301,
+    "rating": 4.7,
+    "reviewCount": 44,
+    "photos": [
+      "ATCDNfX0n0-R1TsgVQ7ERXACMs0mbTLf5kPAa4wLka_bRDBy9Vdfphl9-Qr8oYAZQM-P7o3FUGA-lCUVE9_iUos99Ks8XLpVswP4_GRwPwEnxvEuF7AhLnRDQPKFmhibJnI0ECyH9iF4OCDVxouHZXiAHFz1tY5CKKNWfpEpqvaqgAyj6B1mIH_OEQqa_446yMXyih0Vgz3DY6_bZxIkFE9jJtEkUP6ERneMyIAlPs13tXzp9pxoV6wNY0B4VYiKwHrgkuNNEU-DtTDWzxi_KPq7rV5gYhCV-binY7GZhdsrXDYVRig-ApduIXijI1fivSMNqPqfuIC0T8fKzyhrAM9sQvc4fGTYGoWSt9JKLXb8mGfAfZpRsXrXBqTUDLQ_-byhs_yq-rnfbksG9B7uuR7OVW8KYsNzfMuY3k9_hf-vvjtsLA"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJbd5iKFLzXIYRHo8_J0FOb9Q",
+    "city": "San Antonio",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJUc9p1zD1XIYR163DOzsttsk",
+    "name": "District 901",
+    "slug": "district-901-san-antonio-tx",
+    "address": "901 N Alamo St, San Antonio, TX 78215, USA",
+    "lat": 29.433045,
+    "lng": -98.4808333,
+    "photos": [
+      "ATCDNfVl1dVrCK-3FNLjN9X4XJHn7LIBd4FFaY9KsbxIwwpKsG30XWFTtf_Ky2DwoKWHLZHmNSoOd1zhO7VH0mFiYWnW5FA7GmqnJr_AEytjlU8zGVCC8AJMp0sja0yqfQmCuaILgj7D1p3m8sFkkAU20aCxG2geSG4yTciZNWMJA59x58OGJ49uXd4rFy1kE1UtRPwvDON1rz2RJ3xqoDMXMhQKqQHawJhIICnTfJ5tC9pb7cTEr5Sz5LB3EtHfs48QcmBwrpW9_UfSG5Xy3nQ4jaLdN6PotDpeJSIqLmjGZdMChQ"
+    ],
+    "types": [
+      "bar",
+      "establishment",
+      "food",
+      "night_club",
+      "point_of_interest",
+      "restaurant"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJUc9p1zD1XIYR163DOzsttsk",
+    "city": "San Antonio",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJAVnfGQCLXIYRFuYCqHRrDKE",
+    "name": "Thousand Oaks Family YMCA Swimming",
+    "slug": "thousand-oaks-family-ymca-swimming-san-antonio-tx",
+    "address": "16103 Henderson Pass, San Antonio, TX 78232, USA",
+    "lat": 29.589368,
+    "lng": -98.45073169999999,
+    "rating": 4.7,
+    "reviewCount": 6,
+    "photos": [
+      "ATCDNfXnVZcSOa2YhYLwy208DUN17wIWskce8NHnNh6vqqedO7AVnXGMqno7QVnwiOyxG6NjCEbqi975nqIUkz8bdCGJH1BN9Ku7YvScKnHk0MVQeY0VPTDWkkVYs6b2mxI1CYFVEAw2VHR-xFg7-Y6W6n8tmltLWpC2XWp6YEjwkWkeWmPihOC8tDFUNBbu6-LDH0TPwHDD2DKbCMjMxbJabNtroP0L87S_pZDmerjo9o53IzUQoPccF_Km_ALUVlM4Vfj_sRztsKz947uWUZpVHsTXaOW16w2TwTU1xjDpO6NS0_ygXsL6NtQ73_9sR73Wfq4Jude-pcVfd9-qSu1sK29BkDEGkZRyKcxFDSC7q0boeVPe6S2shdpE5rnbNqdr-22tX2-nb4Or3OTxIEUi1t2QJyRY3e-gf9c05tysmcPppDgh"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJAVnfGQCLXIYRFuYCqHRrDKE",
+    "city": "San Antonio",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJWwzZgQT2XIYRebWhGoA0ZpA",
+    "name": "San Antonio Sports",
+    "slug": "san-antonio-sports-san-antonio-tx",
+    "address": "100 Montana St Suite 310 Lot A, San Antonio, TX 78203, USA",
+    "lat": 29.4158434,
+    "lng": -98.4785777,
+    "rating": 4.5,
+    "reviewCount": 12,
+    "photos": [
+      "ATCDNfVB8lH1Z-n6xvgJQmtYfArDr1bncVqlidlqh9QXmHYNqgOcxcMYFCpLblfQoSFDiC1m-aAvyEAWKO7AOO9QFBZpjcwzGpCILpBHJFVwdYy6Hw4Dob-edhfp__5iZD30lu6OMcK6SDrbw5gsWK7qpvVUgtXgGYyTpq62M0-yC1ejmb6DWA-TM5eBmy8XA2KPCe_KTYG_XPtOdi27O71DrS-W8fojtLzyYWtsD_2CPqiON1mJzQItZzie_jPY7-MTduo7fxZbuZ5BNfHw_YozW0iVEUJhfQ8UAuJPYTYz8mYJFA"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJWwzZgQT2XIYRebWhGoA0ZpA",
+    "city": "San Antonio",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJAQBEdiSKXIYRXDt0glGR65Y",
+    "name": "South Texas Sport Court",
+    "slug": "south-texas-sport-court-san-antonio-tx",
+    "address": "18847 Redland Rd Suite 201, San Antonio, TX 78259, USA",
+    "lat": 29.6150619,
+    "lng": -98.4496559,
+    "rating": 5,
+    "reviewCount": 13,
+    "photos": [
+      "ATCDNfVVZboUguqTVo3eDGsSShzliXtDJ9cwQNLnJwXvwVhsuJo1_qpY8FIn1zv5YH5BJiL9pk3MDPxjvoKGNBGCe5HVGThbJYaU2FWvJUkdyj_v624gHfGHuLcXBov1Ji4lYb4NoQPIxGgLBttSf2QfrsppRlsK375OpgGAr6VES_BL7UluVc2__2EY-cRTvaeRnxBs4-qDTk2GCUW07lXhsp6I4Yxyd-8tppUAmGKy9T4ZHZNlr6UoiT83DwhL9PK7Uv1Nl3TSzkJFDWzcH7Yy7UyYuk1-jb5VsYUhiIStepYrEw"
+    ],
+    "types": [
+      "establishment",
+      "general_contractor",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJAQBEdiSKXIYRXDt0glGR65Y",
+    "city": "San Antonio",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJ1ZA-4_WJXIYRt4y1yU3QQ6o",
+    "name": "Life Time",
+    "slug": "life-time-san-antonio-tx",
+    "address": "18510 U.S. Hwy 281 N, San Antonio, TX 78259, USA",
+    "lat": 29.6125183,
+    "lng": -98.4656753,
+    "rating": 4,
+    "reviewCount": 579,
+    "photos": [
+      "ATCDNfWogQWlqs_90ifPgydy9P63WiVy-4N_TqTkTStZsT9fZe9Xbp5KBgS-mI8EIn592i3B3jVlg8cZsOG3KAWvc42SRcu484keDY-l_vhJIzZ_VWD5vcQ5RAVGZDhruH66kQI_T67DF_o2y9WP97vMNCjiXM6kXuYbNgCezgKYHDEUnQjwNIPTe4HlT_k9iA2fKKYYATOiWjmTPZViZqmPaqE36iiLsEG4OzCh_Fo0cr2oZjdG26HgMWsEP8YdPiBuxfm1VLY_E06UQeLZLmGVxtSr6aAz9O22TuBL-bwHlKOt9Q"
+    ],
+    "types": [
+      "establishment",
+      "gym",
+      "health",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ1ZA-4_WJXIYRt4y1yU3QQ6o",
+    "city": "San Antonio",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJkRrfTaP1XIYRYNna2-iGkAU",
+    "name": "King's Tavern",
+    "slug": "king-s-tavern-san-antonio-tx",
+    "address": "314 Nolan St, San Antonio, TX 78202, USA",
+    "lat": 29.4270076,
+    "lng": -98.4782292,
+    "rating": 4.9,
+    "reviewCount": 19,
+    "photos": [
+      "ATCDNfV__cFhrgOEfhKCzFs_MsYc4vJhVEp5hHdvVYXDmOy-1NUbN9JPA3eho92L4gRRVzIqMCSzZhkDO8_aHPBwCCfeA-TuSM07SxtBPMtkgEiUfI_udVre0RK17J9c4Ue-7kpab847s-gwZRZL8cIacEngvapiPO9WqBV1IVOC4Bspy-_B_kfadgEl_EjXJTATSS7IM3-c7THnPPO3ZCZLPlPGomuyFjKfpJPcArHYtVBxzFbZflQNnCXiMg9M9ppeHPxs7ACjgGy6x7VQv8UvDPN8xVQQYYAEOT0OW0spQFgdZA"
+    ],
+    "types": [
+      "bar",
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJkRrfTaP1XIYRYNna2-iGkAU",
+    "city": "San Antonio",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJw7y15_z1XIYRTZBVU51v1Ek",
+    "name": "Ranch Motel & Leisure Club",
+    "slug": "ranch-motel-leisure-club-san-antonio-tx",
+    "address": "3101 Broadway, San Antonio, TX 78209, USA",
+    "lat": 29.4554742,
+    "lng": -98.4718494,
+    "rating": 4.7,
+    "reviewCount": 198,
+    "photos": [
+      "ATCDNfVQASXPZcDi0BPwy-i9AwzT9bxBplZOLVQ1kEx231qfuQFNTZn_tsnAwIIcQCxyIIDz2N1jw2FJ24UBbmpVUnjXZSuiRYxxMk5bXJefZbJM6mYKY_BYa8Kybn4D80kfzdWvQeDBzfUNh1A3Pg9fFklAqdcT9nLrOmdsiOWO_e5ZK9PhYks_83-rNVo3r9S6MdlUZzJGMJ2UzqzOnXHQxSNmjdsFYrlQQHvXLiT_9ObEgBkMDvzQ8WI-Dkil7TzoGBgGJftV1Wr2D1i28smKDavGIeaZG7eYzUZBASxpPQae6A"
+    ],
+    "types": [
+      "bar",
+      "establishment",
+      "lodging",
+      "night_club",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJw7y15_z1XIYRTZBVU51v1Ek",
+    "city": "San Antonio",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJOQhiOACBXIYRtwmC48tBE7I",
+    "name": "River crossing pickleball courts",
+    "slug": "river-crossing-pickleball-courts-san-antonio-tx",
+    "address": "427 Redland Dr, Spring Branch, TX 78070, USA",
+    "lat": 29.8227064,
+    "lng": -98.40143669999999,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJOQhiOACBXIYRtwmC48tBE7I",
+    "city": "San Antonio",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJE8ePCRBoXIYRyeveEbyIzsg",
+    "name": "COSA New Territories clubhouse",
+    "slug": "cosa-new-territories-clubhouse-san-antonio-tx",
+    "address": "9023-9075 Bowen Dr, San Antonio, TX 78250, USA",
+    "lat": 29.5173428,
+    "lng": -98.6720538,
+    "rating": 4.6,
+    "reviewCount": 15,
+    "photos": [
+      "ATCDNfUga2-ViV8LrzkCQXYIfIZ0Vx-7ZJLQRFaUBbv-M-AHXrgQ7jt8ecTVvLX-4f-4dMfqGIqT9-OAkMxfU0lO_bgVPv7521O-9_MV1V3E0j84NqKWAxOED0O94hrGRxzPI9TrJ9MZqRMrF3JL-B1Ly4G5ah0NT823ZEQ78SU5wuePiKI7B-xllwugmg-untrhV993ZKfsOPswlqaTriL8gMIDv7awXuE08ct-DsjlYdssup0Jdp2FU6fpPcIAAi9GD2KuiMPeB7WnRWa-4jAFnOFO5WpCkHBneL-MinPaHOyroVB-ZJsM2b8DyJbnTIo2VKjT-glmP9sdhiO6MyChgFPQXXKdJAEPr8gx_6Qi6Io2Nz_Fd0AzJLqZzZOmHpitq41ra3yX5hNabNXcoEeoTrC-Uz5BiY8Bjt_AnMF5LvLt9NI"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJE8ePCRBoXIYRyeveEbyIzsg",
+    "city": "San Antonio",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJVVdxDABhXIYRRXz-lU0VoQY",
+    "name": "Pickleball Courts",
+    "slug": "pickleball-courts-san-antonio-tx",
+    "address": "13330 Blanco Rd, San Antonio, TX 78216, USA",
+    "lat": 29.568715,
+    "lng": -98.51773329999999,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJVVdxDABhXIYRRXz-lU0VoQY",
+    "city": "San Antonio",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJxSsK9Zv1XIYRTOX8X5zZ7es",
+    "name": "UIW Tennis Center",
+    "slug": "uiw-tennis-center-san-antonio-tx",
+    "address": "951-1367 E Hildebrand Ave, San Antonio, TX 78209, USA",
+    "lat": 29.466894,
+    "lng": -98.4691335,
+    "rating": 4.9,
+    "reviewCount": 15,
+    "photos": [
+      "ATCDNfVG_JcHTRg4df0SE8rNpJgHdmh3gbiXkkOhv4KUlo8G4FNbkEgQTn5MwnS3ImT3zZxf2j5kljXhwCjwUc9lxuQ6KBS6O1zk9bQfKTbhZJ3OjKHUONYTpqXmKnBpdBQXnth-AwW1YHa4HOt0davwZ2GoYpKF3fukyJri7nq2Gxu0YOAVXAY-fXv_TFmeET3bTb4i7gpS_R11cA0L0_iOaV0RdHdS_F-NhiRskfyysti43nMmbQKzpEWhrENg9COMTnxgDgJxG6Yxwf8uZTpKPnmxMYXNAVbI5AK0gkZSsZwe-LmzlSHKjqE_awAgEgcC15RFrV6pTkb1eSqCTgASzBd2wBULcwbDv-_1mWZ4DmW2_xnb3tqyeXagbyOf6aW4XQWqJF1rBZiTKBl2h_sgRnylHhYyoBC6HibLa4fzNQC0Ouup"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJxSsK9Zv1XIYRTOX8X5zZ7es",
+    "city": "San Antonio",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJ23Hqiv5gXIYReO--Tx6T-5Q",
+    "name": "Barshop Jewish Community Center",
+    "slug": "barshop-jewish-community-center-san-antonio-tx",
+    "address": "12500 NW Military Hwy #275, San Antonio, TX 78231, USA",
+    "lat": 29.5572538,
+    "lng": -98.5333713,
+    "rating": 4,
+    "reviewCount": 64,
+    "photos": [
+      "ATCDNfV4ULnqlxcBeJFHzzthNlIumNgK_Ha6iA-dalc2b5JrzbrfcyeU_h5tt8cxnlFTAW83EFRITp3pCupDu04KagdtA-zabMQly_j7xV1_AS_EshZve-X6lJHS4DIK4Nwj1iKXg1CO8519lyXZaennqyg4LvYkoqy_OCWbTXcPn7ErgGvYWNriKZk32TuiM34mXNvkANTwZc5UAR7_Em6Eo2RgSHTH77TM2kfvaA7Skd3Lxca5bAPxosPbThzRl_fCjpFNKpBTt3UElmL3NGXErxT49yM-yL4s6h5WpGUOzQdudQ"
+    ],
+    "types": [
+      "establishment",
+      "gym",
+      "health",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ23Hqiv5gXIYReO--Tx6T-5Q",
+    "city": "San Antonio",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJl1LvF0iKXIYRRIfqy8RHaiY",
+    "name": "Thousand Oaks Family YMCA",
+    "slug": "thousand-oaks-family-ymca-san-antonio-tx",
+    "address": "16103 Henderson Pass, San Antonio, TX 78232, USA",
+    "lat": 29.5889111,
+    "lng": -98.4507119,
+    "rating": 4.6,
+    "reviewCount": 1004,
+    "photos": [
+      "ATCDNfWGB4UnZd70IByudJJh50LxVms23fItjNRa5BN8xVZqEXHTKpiQ9kY4KxCi1SiehFizQ0zWSALxsgNtVVasf-zLVOELb9x6azRiG3bQZpGG6mC1H-eg5_2-W6FaBCDKFvAaHh5zZDEBpfcN6eu7bVWvw6iCxdavAMlDssdNSrh6-km_dvTjFw3oj5k45Fpamgp2DEmABejIh8kDOPUBee-Ii9Z5KKBiJPhQ-n4jqpNeZff0yR6kprSwTqBRPJx9VegABj87X_VZwz-BeYj62OTaWQBwGnHXouHNHCRZuaU6GiW7Xtb2mEISVancNTV6SJ3r7cac0Hj53iFrkQUod9b_XCgZMgrG3g_hiuLhlSa0_nxkGqPoAFYvnQXAWpC6LOH1jXABli_NDcSVvuanzR8p8wiMpolr7BegjWs6GkIBJgw"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJl1LvF0iKXIYRRIfqy8RHaiY",
+    "city": "San Antonio",
+    "state": "TX"
+  },
+  {
+    "id": "ChIJy5cGNgDzXIYReA6AkjmEfZk",
+    "name": "Pickleball court",
+    "slug": "pickleball-court-san-antonio-tx",
+    "address": "5721 Windy Hollow, San Antonio, TX 78239, USA",
+    "lat": 29.5244043,
+    "lng": -98.37852459999999,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJy5cGNgDzXIYReA6AkjmEfZk",
+    "city": "San Antonio",
+    "state": "TX"
+  }
+]

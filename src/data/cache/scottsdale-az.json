@@ -1,0 +1,1636 @@
+[
+  {
+    "id": "ChIJ85R9L-QJK4cR_ZCr4JONoE4",
+    "name": "Pickle City Scottsdale",
+    "slug": "pickle-city-scottsdale-scottsdale-az",
+    "address": "2012 N Scottsdale Rd, Scottsdale, AZ 85257, USA",
+    "lat": 33.4698913,
+    "lng": -111.927305,
+    "rating": 4.9,
+    "reviewCount": 67,
+    "photos": [
+      "ATCDNfUPSgteqS-0eha5xusnvIaIDvf_FaOgMoHrfUJcQTKIYQa8RyrC15wNTXNrTYKrMpNOxP6GcYWYA9jfrBvbhAH5fJz6NH-yw_q-JkLNUW7ra3otzTjHy_6dWwei3uj740H9ZsuWL6pgZ-xyBNpdKEH2YoD_l_7rc9a-kojuFc2znFm3Z1SzFmJqiMP1AwU_SK_kPT5MpzGwcFKrQeLw97zCCRBCFaf6bETQ8Xrot5_06-u8_5HHKcHCfyJd8JRFsOZc-vhIlPxX1jLnELBLthNXb16YXuQXeUbsfz3gVtuFqA"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ85R9L-QJK4cR_ZCr4JONoE4",
+    "city": "Scottsdale",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJ05G_JasLK4cRtp6eg1H7oR8",
+    "name": "The Picklr Scottsdale North",
+    "slug": "the-picklr-scottsdale-north-scottsdale-az",
+    "address": "9190 E Talking Stick Wy, Scottsdale, AZ 85250, USA",
+    "lat": 33.538949,
+    "lng": -111.8832216,
+    "rating": 4.5,
+    "reviewCount": 88,
+    "photos": [
+      "ATCDNfXAJ3XxQ9RbRZ5zJTJagKmSj-vtLrm4H6qwGjUPcdLL5L_9N4Nvok8LcQw3bh-G_YaArkJbYzum3EeeZY9fJvfyr9N1Nt4eNl50OPrcy6gIXUitQL1v4RJikombiTrx2UYqhAlhUwi89QxbZWNC36oj70xpsxfd0fh7kh9il_RG0IjnLD69OAcLT94fvALZrNPMd_nIzPP1H530E70r_WHE2lpDXob5gEpUgttLPx9D4A2GCQb0XLld9s1Mxpgn5Z-HBLu8VoatR3OtYmwHD4GQPI1Vt0XFInA4jVGXKgK4D86wuYb_JV9sOq-XaT8bixKPRMjy42hrldPecxjK_nJ5j2t9EmWebKMJFjAzp-EroNbzlifBiSJ_-0I_S7-jmrj0wBGw5Uxo2KCqFwXfRwsaSCbvQPY_6cMzvMBHp3rnzUhx"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ05G_JasLK4cRtp6eg1H7oR8",
+    "city": "Scottsdale",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJeR4O7-ufK4cRmigJbbwhUWQ",
+    "name": "Cholla Park",
+    "slug": "cholla-park-scottsdale-az",
+    "address": "11320 E Vía Linda, Scottsdale, AZ 85259, USA",
+    "lat": 33.5898774,
+    "lng": -111.8378547,
+    "rating": 4.6,
+    "reviewCount": 249,
+    "photos": [
+      "ATCDNfUYYAMeo5ubd6c4S2t2qUAzMjYnyKs0X2CPgsfO1XqSYW1v0okPI2nm4P6fPXRtcpjHYmxkCchGN5K01GWzY_K44Q7ulanq9HmiPRp4AkeP1akNJGIMRrnlGuPfAjAKNW7jijc5f569Vhj6zixLOz42YZv5GGLL26eaBpXPSx6ePhSkrtSYhof6J3g9fQmjx02P58_c__0M4PYOnrXT3rWhHaWToi8wHcTiy2S7z-oSJI9xpq5KqtSzGjKFC7IYZ2CwhYiq7CluVZ4fdtEnQWGQGaJfOtoP4R1u-IZfg-1fIGzQ2tC0xP9nTIjC81xT5kNxsZw0t-yzRno8NcpuQAd_QTN5PN9sd6Xdg6oX-S-8YNBbL5zOL-fbEwEgj9hcC5-6SVMmWckY_CJh2tbc4JESc4u3-obtKR84OL0DFDzLtQ"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJeR4O7-ufK4cRmigJbbwhUWQ",
+    "city": "Scottsdale",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJm6fEoXB3K4cRuryeuNWa6_4",
+    "name": "Center Court Pickleball Club Scottsdale",
+    "slug": "center-court-pickleball-club-scottsdale-scottsdale-az",
+    "address": "7000 E Mayo Blvd, Phoenix, AZ 85054, USA",
+    "lat": 33.6569077,
+    "lng": -111.9300486,
+    "rating": 3.9,
+    "reviewCount": 36,
+    "photos": [
+      "ATCDNfVgEBmXVJTrKbezHGgxJ8zJhbh6KFFOKDwR_FL4_3DYwPlnBViDjnJk7Bo5G4Om0fBWzrdAQ4ncJ48bEBdpHtQN_J7NgNg-e6-nABRH5ZC0Nj4bLlgXGHjdiR0YcNWnhu5WPcNwcaVbSsmSCtkIgeJYH88zjCBe2-z5GjdIhpRmNDOzFBgbZxj6pz9ALVtAbmmxUKKdekUA2KjIjLrtnuNveondfBAuU5gS4Xttiodz_47ZToV66RFaIoeWJdl9SiM79PY8bsuoQWYfTkr9mIhgAMXuAkJG5sGe7Wub4Bs"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJm6fEoXB3K4cRuryeuNWa6_4",
+    "city": "Scottsdale",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJG64Ck64LK4cRHkAqu7JE7nM",
+    "name": "The Orchard Indoor Pickleball Courts",
+    "slug": "the-orchard-indoor-pickleball-courts-scottsdale-az",
+    "address": "9035 E Pima Center Pkwy Suite #15, Scottsdale, AZ 85258, USA",
+    "lat": 33.5592038,
+    "lng": -111.8860373,
+    "rating": 5,
+    "reviewCount": 173,
+    "photos": [
+      "ATCDNfVysZcNqtpemyehe_QiSdpf7tzN9QYESQSV0iSIYUxzdPP7TOlJV6YrHVLzrYMWz2y4XWkZvwsRJMib19rh99AwzfwrZnHCZcIqRF4nCXe256BzjNI73EAVwd_B5QFz3EPbkJ2iQtoSYCqKlMmgGONqb0f3uo_rXRUoJHt557RWX2CzcXhK0mPWesQF4JUmU6E-5tS-UYUtnIlAkp_q5X0viJa8QTK5bEfTn3bsPQCFGUxiMDak2jR8EBUlBfllh2RT--LAayFW-0Yo1sS9TKF7Z8ruaYT8lOIWgKf0NQac8Q"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJG64Ck64LK4cRHkAqu7JE7nM",
+    "city": "Scottsdale",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJHdOU5ER1K4cRGyeK9xI8c9g",
+    "name": "PB - Horizon Park Pickleball Court - 10 cts",
+    "slug": "pb-horizon-park-pickleball-court-10-cts-scottsdale-az",
+    "address": "15444 N 100th St, Scottsdale, AZ 85260, USA",
+    "lat": 33.6268967,
+    "lng": -111.8729464,
+    "rating": 4.6,
+    "reviewCount": 93,
+    "photos": [
+      "ATCDNfXHWiQ8B1kZgy9veZxBsJdyu_w6oZyV4A31vB7UVxUcsA321yweAQlmsofzZO1_TX8JUz1OwNoStklK4WPwqUmxzBr3P3r-mF-d9KO5g22OEchNsaSM4z9JU6JYTafC3AJIOByGMKU-3c0FP1awtsOF-x3xW_WYB67aHqLtKA9afJKojItiVcnMEDiZKLcu2-vgK98kg9nSKb33-emSxR8qkDl_KblohVrIvJM4vZl86--q-RLAbAYlcu759q33QV27cLrIU_WcnQPLWrrr4dkLyysCLEOXkp1Q-dDrzh9f7pRrBF4w5qW7rvEERmQ2pPDykfDYYFdb3I8L7PjWdZJ8xJvkogtoygqkJQTr0zwmx78lw8ReJj8hyje9RAA9Ao_j6HUZANbXxFJz7pfQP1OdM-50iVtgBNzM2eE0W4XlIg"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJHdOU5ER1K4cRGyeK9xI8c9g",
+    "city": "Scottsdale",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJAQWLQ3QMK4cRbQKjzC32o1E",
+    "name": "G.R. Herberger Park",
+    "slug": "g-r-herberger-park-scottsdale-az",
+    "address": "5802 E Indian School Rd, Phoenix, AZ 85018, USA",
+    "lat": 33.490798,
+    "lng": -111.9566635,
+    "rating": 4.5,
+    "reviewCount": 305,
+    "photos": [
+      "ATCDNfXECZFnhSRPYgAcHXb_Bl679Lumg3fy1nYWyyZIXA8z4_ZqhISBjeILUXJqWsDgy3w5aJnRV7MC_1NL51X6PHJt8haV87KJ4762Zzn6PJF8iNENggqAg2PtG7YvaAgGu5q_vSPXM5mlNfQNmBsPvyo_Fyw8tQcv4gifEyONohf4JYPZuS2SsR8WZ1QW0Q2EB2amOmvFNop4uWhU9V5SYQGdNg304oi1AAenw44FKmkF73cOy024TnGmgWRG1VbiHrdkd7X7zLs4zxhCLEXLqM80P3i-CSCuL0YoGs2IkkkM9ro2ItSdE5Kfz2Rgvah5CwL6Igib6nqJjDfjNYN_DXr4CsqBmdqdPRKs-ORZNe7ymKFqXmQNhhTFszFA_l_AYhNryZlp7iWfTAyS66MUyOHyBV4hXWOe-Ql6f7tvgWY"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJAQWLQ3QMK4cRbQKjzC32o1E",
+    "city": "Scottsdale",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJ66qq6rULK4cRaaLgK4l-G-M",
+    "name": "Indian School Park & Tennis Center",
+    "slug": "indian-school-park-tennis-center-scottsdale-az",
+    "address": "4289 Hayden Rd, Scottsdale, AZ 85251, USA",
+    "lat": 33.4966374,
+    "lng": -111.9077621,
+    "rating": 4.5,
+    "reviewCount": 341,
+    "photos": [
+      "ATCDNfUKUg0OLKu3IXWIWi2vwNieSkngFd7DkwgrLpYFkUzmHvODbEJXqXS4ne-ioNHRBQ72UlDmzEKl7tDOhfGFwozfVxP4X2tY8EjAlbjLO8FbeyreCe9VEP0Gohv-8qcv5GeKxQmwUNPDjfWbeafoJ-h0ogAVHUD_kXOGnDNojHkNxdFeMxDafv2mEJRVzKuI0M2nZVo0CTCiw_xvxbvtCh_rP4KZNuyOP1s3GHyFbhT3Wxlx_0pJk2utFcp1mOXfKdKyboMQ2-gkUrcLCPbCp3FydgAzxD8vv7f1uI0h_B4absjofyvZUNchXvij3qJ-U79MdUnpIgEz2_cK9yY9Qd2RgEK6Uynmdla2BY15CtMh4uwmTYFpdeqrtpHupcWv37DsFMGxu3R8D20r7y1uHT8XBrvs39YgRz3mQ1ScMpzVtQ1r"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ66qq6rULK4cRaaLgK4l-G-M",
+    "city": "Scottsdale",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJsfU-o5N1K4cRPOpFZAWJhsw",
+    "name": "Horizon Park",
+    "slug": "horizon-park-scottsdale-az",
+    "address": "15444 N 100th St, Scottsdale, AZ 85260, USA",
+    "lat": 33.6260569,
+    "lng": -111.8733005,
+    "rating": 4.6,
+    "reviewCount": 408,
+    "photos": [
+      "ATCDNfXGYl7cYN2faE1aA3_V4jR0eEDngCfpB7jyr8-5lB0v8ejKheX9l3USr9II0fXfV66HKsXONnf9H8IL1waJZPBucoOpUx9qgzVx8amqeC4OH8Kg10xyFZbN-VYwvGJDcpkf0krkVGMqDpZfdqCgiFz3KWYYkaU_c-QhQACc0JfnySWRez_mJq70uIe4nBC-jjEZpV9BbZaoIS74fSbdFV3xNzfWPu94kiALluVpGKVeefBoACUMxlgLxiM8eZzdQ_8T6Et1GeFecmkRT3aiXugi_2ETX20rzM5xoSBr1YUUZuGHcg_pePAQa8U21Bb72oYLTDjQsnhHZ7yKZKMgTGKzcsGbAUwrgUeK0p9FR9QgiLwZqUxV1lgqqBwljJ69rogNylZOhxZVX06vnnoDcFGvBdvNEKpUobKpFCL0fl-x-g-9"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJsfU-o5N1K4cRPOpFZAWJhsw",
+    "city": "Scottsdale",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJO9DguFgLK4cRJeNcLIyaik0",
+    "name": "Courtyard Pickleball",
+    "slug": "courtyard-pickleball-scottsdale-az",
+    "address": "4343 N Scottsdale Rd, Scottsdale, AZ 85251, USA",
+    "lat": 33.4997902,
+    "lng": -111.923019,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJO9DguFgLK4cRJeNcLIyaik0",
+    "city": "Scottsdale",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJn2L4-vELK4cRFJengmR4o-s",
+    "name": "Paiute Park",
+    "slug": "paiute-park-scottsdale-az",
+    "address": "3210 N 66th St, Scottsdale, AZ 85251, USA",
+    "lat": 33.4850208,
+    "lng": -111.9390022,
+    "rating": 4,
+    "reviewCount": 313,
+    "photos": [
+      "ATCDNfXMFOw8cUTbaaeuGKI3_u9hZqpAcV2py41kGguwCXNXIQv2uvZRCQW8T-5D-OggmuSHj8W4ddb7elKvjOGvfuRbKrzU2nUjP3gfwbj72G9Zqb2JH3wjD2KAc6NnCikUrbFqVOlcrCfr8MRiqpbzpmlnMjwPer8cur9NdxsIMdd5wjsN7fFvw6mo3oVD8TcPRKlYSp55H1g6XJOey8MrExlq7CkSqU91me6qQ60Xr64bvi-GFHb6p1fUUl7l_jYBkT8WgWupwg_Kh5q0UjRLTvdBpfoXuWIn9nbzgFs-6D2P1qw6eQqjJz3UaPCEh8hPzwDdfLy-7CexZkQhQGcdmuA4s96vUCTwWdHWt2bF3ntlNDuxKWt7KjiGpG0hni2Swhz2UvimsQpLxYUacJmIHXJV_Rl_Cfiu4KFSClffS6k"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJn2L4-vELK4cRFJengmR4o-s",
+    "city": "Scottsdale",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJT03PJS6fK4cR0Fqc3w_ARYw",
+    "name": "Cholla Park-Pickleball Courts",
+    "slug": "cholla-park-pickleball-courts-scottsdale-az",
+    "address": "11320 E Vía Linda, Scottsdale, AZ 85259, USA",
+    "lat": 33.5898709,
+    "lng": -111.8391084,
+    "rating": 4.5,
+    "reviewCount": 24,
+    "photos": [
+      "ATCDNfXF25VzxTsmFZndnnDUXsaGmuqAJhqLNe9YedVJbQj5flRPB6riAzM_XkbediNUXL4UC5cG1PPXFOa1IzosXgySBrJgg26U7jpRs9tupUit3pRdcvmil-e6WJZl6egWIU-vuMAgZw3VZV0nUMwkMwDzUEi6FOS-79gI80_pTZiSIFBWGcBJMuTSn8G3Tk2vHJdd_hDckIQwVz9sKkyP6yv0X1cKdjBrRadG4gNG6aBS9swYEB-b-xjmaCv1IWWThwjEHZVK-bg0BPiaZ3ASi9r5LnazYVrHBaxVZ6PPNL2BV7JjsAMMWhB9I1Dlig1zIDHWRdqPUklWlHaBDMgRUKYSpKrSa0DH9-SAJYGCVL99ymKG5_5d7nmma43CsDarber_0SPrliAD0D2VFGuJyr5uWJPcq4I2lfloR5fBQ8A2bw"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJT03PJS6fK4cR0Fqc3w_ARYw",
+    "city": "Scottsdale",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJfZi1jrgLK4cR1J_2z2U0f4w",
+    "name": "Indian School Park",
+    "slug": "indian-school-park-scottsdale-az",
+    "address": "4289 Hayden Rd, Scottsdale, AZ 85251, USA",
+    "lat": 33.4958889,
+    "lng": -111.9079624,
+    "rating": 4.6,
+    "reviewCount": 211,
+    "photos": [
+      "ATCDNfXWZNB9iQnstK5ASdO3Z3rt6vXnebRPyzIxGln6a_kuyphYMEHoThW_2n-FiXFjoVgNldw-va90B13x2zTddT-lKztiXybsiEL7QlGcr2cG0r4zyM56wSRscnaZruahkvuw39CtxB0n5pDUkTQlIOd_EhV4qyrNHOcZf_AMn1Eh-9mbNyHxrQyovAH0Bbeqrl0tILid9a6bFiB5iur-nZssHx0VtJXK1HhWsSRu0ztoSNxWGTXHMCLTQVWEfKO1m-0H-OjTT0Hqk8-UdRFYpUIe70CJUdespKlGm1ZCnqboxIb5yzguKGat7hJSFKm2qD4bOkvBFTsLEhflV49oFjznDrCMKEgKXQG2AoczzeOuVl8n1zzjtj0ENMjb9eGETCxpTiuBYHmUPHCpu1Mz82SUKTBm7hlbq5LYL2508tQ"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJfZi1jrgLK4cR1J_2z2U0f4w",
+    "city": "Scottsdale",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJTSnuuYx0K4cR3RAWizkl1bc",
+    "name": "BRAND NEW Pickleball Court - 7BR Scottsdale Estate w/ Pool, Guest House",
+    "slug": "brand-new-pickleball-court-7br-scottsdale-estate-w-pool-guest-house-scottsdale-az",
+    "address": "Scottsdale, AZ 85254, USA",
+    "lat": 33.5922318,
+    "lng": -111.9292068,
+    "types": [
+      "establishment",
+      "lodging",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJTSnuuYx0K4cR3RAWizkl1bc",
+    "city": "Scottsdale",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJmcMCXFZ1K4cRP9CP6Qggn7c",
+    "name": "Scottsdale Ranch Park & Tennis Center",
+    "slug": "scottsdale-ranch-park-tennis-center-scottsdale-az",
+    "address": "10400 E Vía Linda, Scottsdale, AZ 85258, USA",
+    "lat": 33.575895,
+    "lng": -111.8594669,
+    "rating": 4.6,
+    "reviewCount": 633,
+    "photos": [
+      "ATCDNfW8IJgXa2QYt6rx8n7H2FLpV20L9niRRWEaK0Q_VUBC7AZrWLbs_KEoj10kmiHs966mVDBRzHxZiVq5_44o26snRl69YxKMr2-9ZnOgpHT5VcaqMg8fNrZbDsPVePRbFqN1PGI07yDqvQpF5maAOywICuO2M4kAOh47k7pY80bSaM_mWZpqQKPi6tAN2rNaJ7wH-Wi6VA63LqUh54tVIU_Jni1EfD0JHzeDlAH8oBoWC2eMEtOfPW57pHZbLL0r9L4gywKoFi2gOGVm2ahvTCTjJCvUPY104nNTtj2CyovbwuEYVMQTKeH1CbMJVYdtfHHlOta1dCJWDai2ZlvrnFWXGBfR1paUUBWMhhu8jDXWJED94sBp7s_oUKJMCP5S6RIIEKVKy8gW4zyXUU9fUN6byfAWOEvIh-PJG-WFi7q-rVwO"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJmcMCXFZ1K4cRP9CP6Qggn7c",
+    "city": "Scottsdale",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJ5cCSAFZ1K4cRsW1eGKd_jsU",
+    "name": "Scottsdale Ranch Park",
+    "slug": "scottsdale-ranch-park-scottsdale-az",
+    "address": "10400 E Vía Linda, Scottsdale, AZ 85260, USA",
+    "lat": 33.5750811,
+    "lng": -111.8570548,
+    "rating": 4.8,
+    "reviewCount": 54,
+    "photos": [
+      "ATCDNfXu953lRX0bihh4k9YG-SLqo4dJCnooRNQWG0hkircrAtKVjOiNcih3Da-T_tEkmd59lmFGqz2M6e-ftjL1vkrY65G5GmSjj_hUZOoJe1OtjenapAXmLakp150upFVAECA7--StOPY95tY3d21ElG4XK0falET9XEabrckZrfBax5HLjW_1_XKkWB88_HMRvjZ_brllqe-Vpix9YfFPpqbe5OKzAsAZACdSRRhtC6S-Ws-EKEBMhyoLZx4-C3QAcikm75Z7Pkg65NG6pKt1HlivgXsWH6nQlfP86hZ5rf7oOo7tiTzpkbRaMCe4Q_QLaBZ_KBPPLVRcrSo-nqM6Xq93yXNjR9TNWzRqltX9joikGp0EKfkjymKnvBnvn3GmPj2P7QxztmdBqcYbTv9n2N7bp-YHA55rnqGPKfI-7lZQipfy"
+    ],
+    "types": [
+      "establishment",
+      "parking",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ5cCSAFZ1K4cRsW1eGKd_jsU",
+    "city": "Scottsdale",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJ4yCQ-ct1K4cRAKgdSB9U57A",
+    "name": "Scottsdale Ranch Park Racquetball Court",
+    "slug": "scottsdale-ranch-park-racquetball-court-scottsdale-az",
+    "address": "10400 E Vía Linda, Scottsdale, AZ 85258, USA",
+    "lat": 33.5758016,
+    "lng": -111.8572627,
+    "rating": 4,
+    "reviewCount": 1,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ4yCQ-ct1K4cRAKgdSB9U57A",
+    "city": "Scottsdale",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJ2xB4aeR3K4cRMB0cEXdH1AA",
+    "name": "Thompson Peak Park-Pickleball Court",
+    "slug": "thompson-peak-park-pickleball-court-scottsdale-az",
+    "address": "20199 N 78th Pl, Scottsdale, AZ 85255, USA",
+    "lat": 33.6692263,
+    "lng": -111.9083018,
+    "rating": 4.4,
+    "reviewCount": 18,
+    "photos": [
+      "ATCDNfUKT3M5G0ZyHqY9aIw8081YfS-z4rib4n29EkO4gwy70G9zaJtSvLZU8fCGpWzXCi8EH7nxY8fXIsEg9FVW8StxuXAOXCTVWFWG0QIyGb8-IYK2PUz1ChSLULifVH4j62iLyzd4_aL9C4fMpcEd1HNPB2k8G-tG7UcAPQDRaX10AHyhnhsJdxDvpxrJMKyMTggYQmaNJefEgCtjNej5QPdJjfI0tT48Jr5ItcvK8YZqUfmXL1jVDPUZbSHEkwTYLlZwes8N-FpLoM2i376J1g1NHN6uIX9C6xm82sL4K6-moVdPpq_M9IOGvueHpWDhR6mTydgYNW3vQyVyaGsl1-8K6goiZPIrAz3-bTCn2ZWScT-BOmozcPdtDejKeT-29pPX0_--B2to7zIlFyOsAa2qefQ2OnemU5HE_diTtUcb-ETV"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ2xB4aeR3K4cRMB0cEXdH1AA",
+    "city": "Scottsdale",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJBxtU_PR2K4cRnAofTM3A3Mc",
+    "name": "Thompson Peak Park",
+    "slug": "thompson-peak-park-scottsdale-az",
+    "address": "20199 N 78th Pl, Scottsdale, AZ 85255, USA",
+    "lat": 33.6683546,
+    "lng": -111.9082803,
+    "rating": 4.5,
+    "reviewCount": 230,
+    "photos": [
+      "ATCDNfXcd5qLhsm0wKvUm7fpKqih1P-zqrhSCbPnnajfEiQT1caOFRnwBuLTLcQ46pNM3rJU8FVCj_M9k7_qrgte3_WSNBK4a4dq8ARBmMBb1_NknhW0Om7_qAsgpgI2nKVM0xFXbM8M3k-ileszw71Nus53C3WICAY-TyfX-xjTg4AGQwcWtc6VDpiQwFRpeGyf21B37R_UP1KKqv_0uob9eSslBxuDCOeG3QJRsuEd3K4OYvQNK31-rZigvRik1hCO3CLOduJw7VkGZV69LUhXk55yjgK_jSGffrMCnvsRIMGpAwknYUDD3vt5CFnuu0o32S179w_5eJWkb3hyA6DbLv6xFISVqmk73RmaM0htVw90VBhGe4S2T-xHH9DsrCno3bPssAQ_OKvY-Px_SGhkXjAsYfBKIJbVotqJ-MGhmnc0Ow"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJBxtU_PR2K4cRnAofTM3A3Mc",
+    "city": "Scottsdale",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJt3d5rF2lGqURgFQtR5pV-Hk",
+    "name": "TopCourt Tennis & Pickleball Academy",
+    "slug": "topcourt-tennis-pickleball-academy-scottsdale-az",
+    "address": "4565 N Granite Reef Rd, Scottsdale, AZ 85251, USA",
+    "lat": 33.5035043,
+    "lng": -111.8988269,
+    "rating": 5,
+    "reviewCount": 5,
+    "photos": [
+      "ATCDNfX3jOiZIHMQVdWfbyyJ6U39OMIMg1Qkd4kzdSopB-YPLIXLUIG8zsAtEZZFby8lcrdBa1ZZov0Rp8Xb3_xybk40hHx1fK5OAOc8pHlgnCqTEF8ZjUXTZbhPHX_qaByIAC-hUqM-C62Fnpw5kLYz1Wnzzj0cSB6PaemLcNYKQVHA6u8i3ieI3pw9_DF5lAkfEc5DeFapdclcHReSZvYnp8vYD-clFovHRvvZv-aArrHxRe4pbV0_7GtSnKCkjsdeBPSghTOHZnapF__lNvBhN_tQiANlGGg45pL2A0vexbs"
+    ],
+    "types": [
+      "establishment",
+      "health",
+      "point_of_interest",
+      "school"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJt3d5rF2lGqURgFQtR5pV-Hk",
+    "city": "Scottsdale",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJYSkAeDMLK4cRpljEp3JlXsQ",
+    "name": "Indian School Park Racquetball Courts",
+    "slug": "indian-school-park-racquetball-courts-scottsdale-az",
+    "address": "4289 Hayden Rd, Scottsdale, AZ 85251, USA",
+    "lat": 33.4973251,
+    "lng": -111.9075173,
+    "rating": 4.5,
+    "reviewCount": 4,
+    "photos": [
+      "ATCDNfX199pqG16YCzsm4Q0sWcVi48dstxa2ZlQjSjA0GYtevylhqnT4ankwWR-om4L3ClQPJxsrOXE05MVkz4uz_00yrEiJB2AfmZPVJUulZoMUQov7OD7LauU83sxfdVWx_lvTYc6rGo0jipSzz05DFGv8vD0FNDavZJtNuZeYz3XyvUU881cNkJ_MZj7xK3B35Roh__OctKmfLLEeyZwtwH52IcIoUPujT4CuT1UQ2bgU1vulkqwN68JTLGylxstMPJUBujk9rVMGRj-wiQ5THDN0FYcj599RIdG0dYMPYR0DW7xurm1JLd66NJvjmK49MrZ0Q7hcGjx8at8dDGagCQeXqHOXgiFcLEk7BnllSsk8y0qSHXrSXFyKri1V4mhdpd5VQBCJ-3YujnOQ8WOVvn40iLiuWMVjhm-OdP1Pi6sQzw"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJYSkAeDMLK4cRpljEp3JlXsQ",
+    "city": "Scottsdale",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJsSgK-xIJK4cRDYw0qNpLKkw",
+    "name": "Indian Bend Park",
+    "slug": "indian-bend-park-scottsdale-az",
+    "address": "Indian Bend Park, 1250 E Marigold Ln, Tempe, AZ 85288, USA",
+    "lat": 33.4490688,
+    "lng": -111.918341,
+    "rating": 4.5,
+    "reviewCount": 186,
+    "photos": [
+      "ATCDNfU-mC85LbwTQcuEIFlZj97dNQJIRWfLRnnIg_l2XkF4KF3esVt3mxSMsL_fHudigPP2a2SBajXyvNikrwyz8749GafNKK1Bss6bcFccN5DSjG2RFCMHMEDSe5hrj4y1_lxOoOoGevK_GfhOdDcEfgpqLiKmrdBZzDIxlkEdsi_R-4ha90I1apdZ_bXaewDylQDB1A9r-VOFQKO-LD_E8JT31JoVtcbFKSKzirh0nu8dJH25eVlDtZ_Eq8Iq-0kxCp9Tdb0LaUlIIdkPOS13SOpGZlvUZEjo3kY9IK22SDqEj8X4GXH6MprvpbnDM9a-FY2f-a4b6aHb_6Wf2Np-7DvOX3qYu9IzayRZJ7_izUyYrZ2_xb7nf_VX2WGNevz9RGHWmJOKzcXlSStgcJ1f0Q7cNbhixBgfAjUPxOyJqxmbH5o"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJsSgK-xIJK4cRDYw0qNpLKkw",
+    "city": "Scottsdale",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJVxPcmbULK4cRvRnOfZ_rbo4",
+    "name": "Indian School Park - Sand Volleyball Courts",
+    "slug": "indian-school-park-sand-volleyball-courts-scottsdale-az",
+    "address": "4289 Hayden Rd, Scottsdale, AZ 85251, USA",
+    "lat": 33.4970511,
+    "lng": -111.908463,
+    "rating": 4.6,
+    "reviewCount": 78,
+    "photos": [
+      "ATCDNfWLb_bXAT-_sy-AUjzt6smwLNMWMnheK2Hyh6e0odMa5cewL4H62D4WP41iFrNviAuQM30vBM_RBFQMwOe6OGY734Zuvv4hs65eToZSlNMIOzZEDv4hT8st-228LSM0HvPilkcegW8g0-YkNIWSFP2-dhDKSnu3dR6R3M1a29rBqmmIsYYdnZCwSg_OLvGl7LpQA1h1xVH70Lq_TS5zyXkGzJ1ao5CoIU6eMxBYtpVig4lgJ4eBM9GYVyE8dW4svfZxMefjnyuxnb4qJ26nXxN7lzOJU6vszX2UJenl6cHhOC1jBWb__uWycjO_SVJJMA9ZjpYEVVIpE3r8Ttn0lt7jzIlwH2bbzg2B1CPaZnn2GQpMrm52q-1iAecuAnz2uImnpkn-k7WlmOGOpCtXSVp7y7P7sDSXg-ja_7GLzWVsfdo"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJVxPcmbULK4cRvRnOfZ_rbo4",
+    "city": "Scottsdale",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJ3XF-F_N0K4cRypFP_ltwuFM",
+    "name": "Scottsdale Acre Oasis: Resort-Style Backyard w/ Private Pickleball Court & More",
+    "slug": "scottsdale-acre-oasis-resort-style-backyard-w-private-pickleball-court-more-scottsdale-az",
+    "address": "Scottsdale, AZ 85254, USA",
+    "lat": 33.5917473,
+    "lng": -111.9267044,
+    "types": [
+      "establishment",
+      "lodging",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ3XF-F_N0K4cRypFP_ltwuFM",
+    "city": "Scottsdale",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJ0Ym_Y6m6K4cR2CXkMflehrM",
+    "name": "Chaparral Park",
+    "slug": "chaparral-park-scottsdale-az",
+    "address": "5401 Hayden Rd, Scottsdale, AZ 85250, USA",
+    "lat": 33.5153684,
+    "lng": -111.9071652,
+    "rating": 4.7,
+    "reviewCount": 3082,
+    "photos": [
+      "ATCDNfXmYbPD3l0WxKD_vy3qg_Py2SfvPpegsqDT9HKIbzPKu-Rd3Ovv7eLSssX4BpUlO2qyvS2dHF-kHo9c9kzALTVCqXwoR29tfZ640Df-dJLxIs_wrZ52JLAHPNdJCQAyDXpqFxHfcsgzveywgFmL-sYJEGFhTWE4BaSH9zc2pCWNoydl6bEi2YeOCjjqm2HyqgLX6RmFLa0Bw5Ow5eAbuKxrgl3ohnoRSR_Wa15a_rJKUq6N6t1W2s18k7EisMws-Uv2VlHKZh8Swk3b3za6lQgCt8kYAbkqKSfia3KR_dq1KTM-5QdV7W5q75CUj_fHtYO7WwRu3lcfiwCwwFSnHh5nn-6o5rvgrT7sEbb9HyRFk33Yxfd7JLkEoWl_6FEU5Cg4qVIS_fbD0FZQ159_iC7gCAY6kIDf91MNxg"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ0Ym_Y6m6K4cR2CXkMflehrM",
+    "city": "Scottsdale",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJXWHjfQB5K4cR4-nhjnK21O8",
+    "name": "Ashler Hills Park Pickleball",
+    "slug": "ashler-hills-park-pickleball-scottsdale-az",
+    "address": "32220 N 74th Way, Scottsdale, AZ 85266, USA",
+    "lat": 33.7776419,
+    "lng": -111.9213451,
+    "rating": 4.8,
+    "reviewCount": 10,
+    "photos": [
+      "ATCDNfUNAcwTYqM1BgPmBe6rz8B3gYRPLr0moySkqmywGq4UeCFiyN9JU2GfSWaCtxwifaV4Z_AYp9n_SMfHa4loA3GqPhoqmfBZBtAquA1jIPt7gL3odxccR9eAnPyQuzFa6BSRl4caGk3fkGIh1VuZLCrEPcZWiEEi8LnWMTwi9cD9EffjmoLdzRDfJcz9TU-VsBfCCQUxFafgDMP192m_AJ5B205Cz1XMIcZx-MpSQQk51eoja8e9gmeIyu1ipoKquviLUeyER07tPdzNne33SUk125nmvBmVDL4h7SNPTZwkBoprBbXgcEoLX-oPqC01f2PE8mk5AkZQlTISr0FJ0hL-iwqo-Y_udWw-fno6dMWaFGBKse5EYY2NNPNDzOcVVWJUJ4bCmMHkvRDEQpdGSjE4GTkZHz9iI6HEhVdqQrEvraB4"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJXWHjfQB5K4cR4-nhjnK21O8",
+    "city": "Scottsdale",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJSfaWl7gLK4cRcOVwaAX0TFs",
+    "name": "Scottsdale Parks & Recreation",
+    "slug": "scottsdale-parks-recreation-scottsdale-az",
+    "address": "7447 E Indian School Rd, Scottsdale, AZ 85251, USA",
+    "lat": 33.494603,
+    "lng": -111.921013,
+    "rating": 3.3,
+    "reviewCount": 7,
+    "photos": [
+      "ATCDNfVuc9oCDG5GCG2bnENJ5J-ML0pyy2lWnSMAYnJPwQApUl9dyfBATEUJZ8Dl7MrAT_S2x5zozrrxmEcA954wAL63PXF_9QVm0LVG-YsL-bzDcygVcpD-sBoBIoJWbqsBtbgZG5HTkNK3UdnLunmvKlVtsvv3vm8wdLt5JJpozB-inAAPWj6qQlPPJRVSiFYER4q5Dak9j8fQqmitnVT5_35VuA29SDkW9SV176kVNpaAqgttUJEnS0f2tc1vBVDv3S77sc2OsK3NqLIB483LQyQ5RoRA2QVFigmwKGLenOWAzXoEhbElbSiiCGQDag7HdKYxD09Nc9z9GMJtfd0Zx8XU1I8462auRXnhue-CvL3jIYPqFF2Kr68hlpQbEvAyKoNnX5fvaVFVOEnSt0WvJKRAt4-pAtaDiOFf0PbYHVf1TLY"
+    ],
+    "types": [
+      "establishment",
+      "local_government_office",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJSfaWl7gLK4cRcOVwaAX0TFs",
+    "city": "Scottsdale",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJ-7RefDUNK4cRNb5nXbNWxrw",
+    "name": "G.R. Herberger Tennis Courts",
+    "slug": "g-r-herberger-tennis-courts-scottsdale-az",
+    "address": "G.R. Herberger Park, 5802 E Indian School Rd, Phoenix, AZ 85018, USA",
+    "lat": 33.4911521,
+    "lng": -111.95662,
+    "rating": 4.7,
+    "reviewCount": 19,
+    "photos": [
+      "ATCDNfVxJyk47P314XwFiH14Hn6ia5z-9UCOKAGw2HD3eqlRky_i7qv1RH81nfOU6ejRcdUPRTKfIhK-agsJq4VomeUsW4UAVNOsmG56b3VkCQI4XGzJ2z3eBwmOfmdnkELvLxhLKV5LyqYMaVgtju34tjXc2sBtikV8arC3ha7ej12gRB_848wtfZyFmoWyvpx6ctrxoiSFj8SXoE9BweHpR3FRPvEBOpGtZ57Zy1M88Egy_8iizBfcVOF6b8-uL8CNAKbjNnhy78KqBzOU0NPgkv1cbF-Xc-pGTIZABA5HotSdE_tvss4AgAwipfJzAjD2ZEhUVU7a8sRr7CsL0hCrwbvUssjoA5iQ97RXkXzjgAi7WLf1K-4k28P2drj3OVfKd_PvKtnRD5SKqqOPaQ1fwxfe6_KoLaxoPJKi9aFTu20hOQ"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ-7RefDUNK4cRNb5nXbNWxrw",
+    "city": "Scottsdale",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJz0rAl-IKK4cR0X34HijZHVc",
+    "name": "Pickleball Palace- pickleball court, spa pool",
+    "slug": "pickleball-palace-pickleball-court-spa-pool-scottsdale-az",
+    "address": "Scottsdale, AZ 85250, USA",
+    "lat": 33.5301513,
+    "lng": -111.9037094,
+    "types": [
+      "establishment",
+      "lodging",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJz0rAl-IKK4cR0X34HijZHVc",
+    "city": "Scottsdale",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJgbvoHQB1K4cRyKI-0dABRNc",
+    "name": "Scottsdale Golf Paradise -1 Acre of Fun 9-Hole Golf Course, Pickleball Court, Pool, Cornhole",
+    "slug": "scottsdale-golf-paradise-1-acre-of-fun-9-hole-golf-course-pickleball-court-pool-cornhole-scottsdale-az",
+    "address": "Scottsdale, AZ 85260, USA",
+    "lat": 33.6022301,
+    "lng": -111.9044799,
+    "types": [
+      "establishment",
+      "lodging",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJgbvoHQB1K4cRyKI-0dABRNc",
+    "city": "Scottsdale",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJScIwNAAJK4cR6DCxeB0as1I",
+    "name": "Pickleball court",
+    "slug": "pickleball-court-scottsdale-az",
+    "address": "1043 N 85th Pl, Scottsdale, AZ 85257, USA",
+    "lat": 33.4595629,
+    "lng": -111.8971433,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJScIwNAAJK4cR6DCxeB0as1I",
+    "city": "Scottsdale",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJDS5Dlbx2K4cRmwsN1ZQiWt4",
+    "name": "Life Time",
+    "slug": "life-time-scottsdale-az",
+    "address": "6850 E Chauncey Ln, Phoenix, AZ 85054, USA",
+    "lat": 33.6525119,
+    "lng": -111.9331526,
+    "rating": 3.8,
+    "reviewCount": 419,
+    "photos": [
+      "ATCDNfVRQZraloG16DI8QgZmpMyS9YjFCtuVfXwXQrnexEyEB_QSIb8GrdLS4jVD3Q7PvGn98-q9buH0lnsJYWo7CGMIISZcfawZQukcYOqMFFmIJ8a6WUCc_KRvlBZoe1b6m_kXJ_iDRC32cW0I3ZydeWknPxcKd9q7InV6FD90pssQuYYA8_QOZWwHlZbQf8lw--GL4Y8ctl9cKoYiulvPAiwFpjEkQauRfmScY106hNn61imB0fqK5jsOthXSXJo9IaAkyoo5o2DNAhzhtTV-wEMzxH7bpMOW6k4ZEDLeEP8HGQ"
+    ],
+    "types": [
+      "establishment",
+      "gym",
+      "health",
+      "point_of_interest",
+      "school"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJDS5Dlbx2K4cRmwsN1ZQiWt4",
+    "city": "Scottsdale",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJi81xbgAJK4cR76TfWeD3B34",
+    "name": "Pickleball Courts",
+    "slug": "pickleball-courts-scottsdale-az",
+    "address": "8350 E McKellips Rd #9, Scottsdale, AZ 85257, USA",
+    "lat": 33.4533572,
+    "lng": -111.9023576,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJi81xbgAJK4cR76TfWeD3B34",
+    "city": "Scottsdale",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJWWHGRnCpK4cRg_giQJXmtWk",
+    "name": "Pickleball Backyard",
+    "slug": "pickleball-backyard-scottsdale-az",
+    "address": "868 N Gilbert Rd #102, Gilbert, AZ 85234, USA",
+    "lat": 33.3658328,
+    "lng": -111.791562,
+    "rating": 4.8,
+    "reviewCount": 85,
+    "photos": [
+      "ATCDNfVmZFcb6kQ5kG_TNE-dv_MVPlDlxkMLtOiN8MeAoaCxJDXdeDtDrWkrqA38T568Iudm94bbMl_NxmbY6PBSMF8orEO-NE2MGehKvJqRuO3CR47iZlQd7dhCbrXnHVz7jcsUtkhVXcJarwtNBlqI1xawzyB0dhOfRphcDphWOacCyLC9sRnThB8GGaemQEp6xaqJBGzyiUz4dxF0GfCJimDP9CNDpnIVtGrMDIZ_aXQbv4G-0uc5y34Ibs5VrVQAB9oDjin8XzzmhLLo3jg1NivPVzoNxIm6lhC6rs7VlGqa1A"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJWWHGRnCpK4cRg_giQJXmtWk",
+    "city": "Scottsdale",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJM-g5e210K4cRxyhfH52HhEs",
+    "name": "Sandpiper Park",
+    "slug": "sandpiper-park-scottsdale-az",
+    "address": "6530 E Hearn Rd, Phoenix, AZ 85004, USA",
+    "lat": 33.615879,
+    "lng": -111.939842,
+    "rating": 4.3,
+    "reviewCount": 125,
+    "photos": [
+      "ATCDNfWzwSF_-zy6Kthc8wBwh9hp57bS6nuFpc-M8nNqdcYwRQSi92B7mN6ATcMJ1kCGy6HYcSGkKKP7YSm_YCtUmT9wxR452JIyM6i6KbMjpTjbIJV4bOhlomX97_PRDet6x13P7jyt7kvQQeqeVLEqaD-_e7PYQGkpQwAVhP4KMWfmh6KTJWKf2oK9hU0A4sU2EXYrc7M1FMs8wD4l5r6Gg2iqxRmF-Pkf5XHDbELrToX3O1RbG_Mgr4xrsyLKGeOasiMD4Oy5ZZcSKQIG8SoRa5P3X0IB1CHZ0lqJ_WkQvmsaKCY_WnhOZ6cCclh8cwvPTHuA2s99p2SWNtdZHk4Trocr3BPDUe_VcqN86YR-XBVnOK1LsG8GUi1ALs2xtF4NJWB2YbNAN6NGGBFQyuv4axtGCD_Fbs5KljkbfggOXLTGojdf"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJM-g5e210K4cRxyhfH52HhEs",
+    "city": "Scottsdale",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJ2dQY0d11K4cRnGGjyRRuRzg",
+    "name": "Victorium",
+    "slug": "victorium-scottsdale-az",
+    "address": "9219 E Hidden Spur Trail, Scottsdale, AZ 85255, USA",
+    "lat": 33.6441148,
+    "lng": -111.8824764,
+    "rating": 4.5,
+    "reviewCount": 190,
+    "photos": [
+      "ATCDNfWoRIQQHiaYuNx2KPW9c3QksAhta0V2bdwpDSbwTGzdnbO3dGaQlH5aIJLCq-o0NqzU3u-1XNm0dN7o_2IHOPRjCvvSpkt4R0q0FqYgsit0qefZ7GQbNv1AiYZ55SZmK-_sOL4SL4dppImMhYCtt29pi8oLRSiZ36ShBYkV6Ve4GIGfMPWJdU9z7hVm4xOa_RDVHTsLM-hyV77emhdIqSMhg2_NLU_rEEnoLvf6C0R1Z6dMsUV0PZvDSLBC3Q6P3jVKb-AldsDjQ790anJ0YuYTCxeWy8moWgS2ArbI-rrlEg"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ2dQY0d11K4cRnGGjyRRuRzg",
+    "city": "Scottsdale",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJ-X5_bVsLK4cRz06NILLd74w",
+    "name": "Paiute Park Basketball Court",
+    "slug": "paiute-park-basketball-court-scottsdale-az",
+    "address": "3210 N 66th St, Scottsdale, AZ 85251, USA",
+    "lat": 33.484028,
+    "lng": -111.9392874,
+    "rating": 4.3,
+    "reviewCount": 7,
+    "photos": [
+      "ATCDNfWAcXiazKfcyGQvJEcDLGnbPmdRUTJyo6fM2-8JZcA7VRhBdPezZ6XwAGBa3gk1CsuJyVChKj-tHXP-y21Je7IlPTPdeaJxouH58u6oVq8U0s1Nt18aDNdwInbeM-6Bj5CRqQVm8u-xG5aSh6YDDqTNXPtsAMWsryy93oUu5ra4Aa3RmXqg3bSSqg-_hJ6DdiOIaj4lBVas152IvoeUjJBayuSoD5DsErguVUZO6TFAXlWn-4CKiPUKl2Cq78bkCV_xClSLpS-PBRwKCd1irjBNuhHDNrCcl0VySrh6GPHwm_XrRcilKHFjkyvceqKeX5G5a3P3VbozWqPUeqhAIhlRpRAf5FOEbrz3t-sGG5AFZxwDDm4LvbzuxhShBBxCzcR9shoIX-9F33CMmDQucD2QEQtXOh7FPIM_8t7NgOH6wTRm"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ-X5_bVsLK4cRz06NILLd74w",
+    "city": "Scottsdale",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJHcz4WCaeK4cRQZDonVXzw4E",
+    "name": "McDowell Mountain Ranch Recreation Center",
+    "slug": "mcdowell-mountain-ranch-recreation-center-scottsdale-az",
+    "address": "10550 E Queens Wreath Ln, Scottsdale, AZ 85255, USA",
+    "lat": 33.6261347,
+    "lng": -111.8533186,
+    "rating": 4.5,
+    "reviewCount": 61,
+    "photos": [
+      "ATCDNfUfIEH2eMlvph6R9QmiARuRxSkipJoZGufhfV-Y7NnBubmcrxSFqoRmrOMFYuh8u46RUDp0_yomQDKI-OkZXYpRuFh7m303MJG1zfCRAwibpN58p6hIJOlggQanDhOliX9Y_xYCYKspdZymOuxMxr0hxK_4hoqGqeGCJRalzRorMDkYzdICx86LyeMNLMzztzRz8doxgMf4MgCgDCvQJ1xFSb4zeC0fw_h8fm9fxntUzZzjvB_bI30tXFyCNqR5ZEhSM0aUgTArMU2qb1umGON-OU7Pw83uC4svRBwIwMfraSKOJOF1f8OPFJo5Jwpg3Amzv49TtHEu_WsUp-YmaLrJl2en0L3v5ljJTToYAvt6y9GSok0FYaQ-_8ft1ASb2c7Vx7-sT_xbx7cwpp-ISy-39pDXkDt884NjDAd3RQ"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJHcz4WCaeK4cRQZDonVXzw4E",
+    "city": "Scottsdale",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJLwbOYwJ2K4cRn09U_mlX0p0",
+    "name": "DC Ranch Village Tennis & Pickleball Center",
+    "slug": "dc-ranch-village-tennis-pickleball-center-scottsdale-az",
+    "address": "9800 E Horseshoe Canyon Dr, Scottsdale, AZ 85255, USA",
+    "lat": 33.66368569999999,
+    "lng": -111.8679267,
+    "rating": 4.6,
+    "reviewCount": 36,
+    "photos": [
+      "ATCDNfXsNkof7LhyMyRZpyb3PnugI6N8ciUwJ6btum-hTjBDWNIWCwzxyXfiIqj38mnXUgYL1dZjLkaVHt7qgcges6eZh4ta6WdlpkYToRv1h2E4w6dkYFZ0Gp9LXvjky4oO0d1K8BHchgh8jDoZjEOg6iAmYBP9ppT-Wd1IYiwFGM5f_6ldtNKPFV5v_HP9YUDvNYOUwL-HXWayoDjFWG5BZ2vyMRP_lUK9NPhshHJAX0ZBdvUlpejM3XTEOFHBlhUngA1uvvsGHe2FyMyB5skRM27u7R1loVT6aBbZMIpgYmlXi6w6RgS6hJgPUkDf5KZJm2B_mSZgAGIvuYb8f0sQqWnAU4giOv-PNuTtF655BFTZ-mfcYn8cY0c3em52hiWxiZNDBQdkHvyGtg9F5_jp_mCujYlf2595bZgTebQ3iMwMy794"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJLwbOYwJ2K4cRn09U_mlX0p0",
+    "city": "Scottsdale",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJZeC9NtsLK4cRuRNIDsjptLk",
+    "name": "Center Court Condominiums",
+    "slug": "center-court-condominiums-scottsdale-az",
+    "address": "3031 N Civic Center Plaza, Scottsdale, AZ 85251, USA",
+    "lat": 33.4821815,
+    "lng": -111.9211044,
+    "rating": 4.2,
+    "reviewCount": 37,
+    "photos": [
+      "ATCDNfXAA-WwqhJXVmfIhgyXrJH1JcdmXjk-6TN_xQQtzMgAIbw1FQ-YGyz5P4E_ztJ1QZqir4sUM5D-gLxJIUGPca7yxUEpE0TyIqmJXEM2w7ua83Zoqkth6utZL0dpX8AxnLCuIoGFz16leOKqpkU8VFGorPrwZbL-K31HHUuRMVZuE0wK3_i3M7fJGHsN4L2rtV8LGdgP4PigrdM8HUOm8vTqOYaj2feRDMC6TiIWZoxmujusbNzuKqIO1O94dySlQqcGj80fPbDEQfilBzsSA648WOExep8AgzQ1d8VWOkuo4MuH6sHz0jthjoldCRJXH-BUoXW_GJz8UmldTtoejUbDK8H8z2ZYje9JzZ_C4Q6Mi82K-GW2WE8CWiFyzHAfS-0emIh_O8kQM9SWAuZXx5M32rozG3Xz8bXGy8fOvouo1Q"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJZeC9NtsLK4cRuRNIDsjptLk",
+    "city": "Scottsdale",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJg7qsfSefK4cRtxqJKzkvHm4",
+    "name": "McDowell Mountain Ranch Community Center Park and Pool",
+    "slug": "mcdowell-mountain-ranch-community-center-park-and-pool-scottsdale-az",
+    "address": "10607 E Paradise Ln, Scottsdale, AZ 85255, USA",
+    "lat": 33.6338192,
+    "lng": -111.8522409,
+    "rating": 4.7,
+    "reviewCount": 47,
+    "photos": [
+      "ATCDNfWf0uOfluhK59SqEvboOaMmD8STjzoaRoVqXipwe1ge_1X2V1G5OnST0Ps2DmY_AKDXVTgYrik_KlflKlttz8-j1ifyP8dp6zipP4DOyiZNnTN3xjjr6QbW9uRuN3B8OpleHGU7nAyptfpo2NizzwxANgEGmtVxqCmZNBQ-ewwl8mGZaQ4VWns-Y1GmV08EBtyTEtMNaX9MQVGswseHZejXGbqy6maNiKzJrzqcgF7ZGdbf0SSiJEUAwCODHng0i1DZskMMLkp9oU9OxGLkDFE8VAHU48AkROyYVlrGs8aKzus35CpUSYMjapnCkdzvZXe_jSphTtEaalC64gcivggRP_iThPAJvWf2PVoYB4OCsZsHpplvuoEYLLNEODQt5xG5n-qYBd4hNnqdCpHtKH2_PdA9vEsoYAu_HxojhmmiHHqBkUU2vWh1vVHGrt4o"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJg7qsfSefK4cRtxqJKzkvHm4",
+    "city": "Scottsdale",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJZQNubwt2K4cRjTzYas4mhxY",
+    "name": "Ironwood Park",
+    "slug": "ironwood-park-scottsdale-az",
+    "address": "18650 N 94th St, Scottsdale, AZ 85255, USA",
+    "lat": 33.6550783,
+    "lng": -111.8794641,
+    "rating": 4.5,
+    "reviewCount": 57,
+    "photos": [
+      "ATCDNfV_q69v29Z2oexXI7zkM7ux9P4spqZTD7-KUQeuIcWcWN-HWD7UNzYupRe0Ji2Ovoci7e-vwESDhhknCMwd3Gdl0_BduzGwKfkM57_0T2lGpi65BfmD3RNNilDTDOD0jGysnMhWQwt857O0betyAktNA4C1WwtOw4fyz-iAftbBWoSNKn-rb8BrOI7JXhBa5mplCsdM7_oWnRllHq1YAiA8rOSBnAGCtT4Z1_IlQ1sjFg8ZOwVtThFE7nO_ouEuMo1GvgnJCjRcIeCDIegoMtNWet4Vvg-tqPX_vjjhswkeO6RN7Z8UsCC2ebJPbmMsGLppbgF71mv8wbJ7rUEh1tn9S7Zb092eIrjPH_hjaE2AMQ42Ak9vNPyts7-s1n2iPfnLqem83Tnvjp9rPQUXPwx6hS5vwcbx6CiUB7joM2w"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJZQNubwt2K4cRjTzYas4mhxY",
+    "city": "Scottsdale",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJRfrsHZYJK4cRUCnP4FxtZqo",
+    "name": "Eldorado Park Basketball Court",
+    "slug": "eldorado-park-basketball-court-scottsdale-az",
+    "address": "2311 N Miller Rd, Scottsdale, AZ 85257, USA",
+    "lat": 33.4728195,
+    "lng": -111.9152303,
+    "rating": 4.7,
+    "reviewCount": 6,
+    "photos": [
+      "ATCDNfUjmbIfOalC7rLCmoOkgTc7NUFXt4BIxQXHn_FCZLM06iILb-iFoXxtY_XlTM6LxQI01AghePEsTBTG0_dMbAv1nBuJCzBY5fAocn8GroyxaQmz_59DWSjcrX64oaeADbQ7M6eWPmwdGbMxT5KwU8m44TFypxqXeyWrNDa5Ry9qmmQRLT8qfemUhJ8wIUAp3OkiXjWC6CUZ4fKLoUrnwR8CX_i4rK5Jht8QLBaTZBtqSL4Km5qt1_YEArAT3_m_QyRWCGjkIneV1Nh7UHgb0dSTog4RptupZjO_2eCTDwonVrMQaT4I8Z3TaV7rs7t8zReNNhYG8ElZMe-bxhrMSfvU84J0tXjfHNpI5CLVPJW08TclE8zb5gbV2ZFPGElLBRShPdP9sKG2MB8YOZ2zUBJyAdfFX2NMYTykAi-BriEOBA"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJRfrsHZYJK4cRUCnP4FxtZqo",
+    "city": "Scottsdale",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJI-NDXVwKK4cRLbULEz8f5Rk",
+    "name": "Racquetball Courts",
+    "slug": "racquetball-courts-scottsdale-az",
+    "address": "9000 E Chaparral Rd, Scottsdale, AZ 85256, USA",
+    "lat": 33.514152,
+    "lng": -111.884889,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJI-NDXVwKK4cRLbULEz8f5Rk",
+    "city": "Scottsdale",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJ9-ljGAB1K4cR-zGzf5qtUL4",
+    "name": "Pickleball Courts",
+    "slug": "pickleball-courts-scottsdale-az",
+    "address": "7600 E Doubletree Ranch Rd #240, Scottsdale, AZ 85258, USA",
+    "lat": 33.5653711,
+    "lng": -111.9185782,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ9-ljGAB1K4cR-zGzf5qtUL4",
+    "city": "Scottsdale",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJteouBi91K4cRah-GHEdKTh0",
+    "name": "Mountain View Park",
+    "slug": "mountain-view-park-scottsdale-az",
+    "address": "8625 E Mountain View Rd, Scottsdale, AZ 85258, USA",
+    "lat": 33.571829,
+    "lng": -111.8963255,
+    "rating": 4.7,
+    "reviewCount": 292,
+    "photos": [
+      "ATCDNfXS6b4_LssmhJbPz6Fd4qsbeHMKtans9UgTLRLFS9sdO8820duFxDd1YzR16u360ENrgbyzZL9LQy3QeJ1qJVqAJ9LJJPYgQzA5Swbys5V95D_kViA6ZHLmq2tg3RfSGYwRckYjU_j3BrfIqnn5A38O9kzVPmXI5Ju5ILim1xKMl_9vkSCbCrEYRghj5-KZYZ7m45Y2Z9SivtT9SgaX1e_pGvtHFTsE0MoF0rUNgUe6LGbiYSNYZwVAorwUHzBK7Q7Ed1jc1LA3ywcm9YERT0HMATms0Us1oGzOJ-EgxVLPHZN4BuyQq82aCrwz2Gdyzi8101yCX_pSFeiFa4qsV_jLtw1eRBWNbt0t4H0tmoVIw7cp6zDFFnOBtzg_iFhQkwh1eC9ohdXMMt1_czyrHEnZqdQ5xPZCvjuBiSqt8eOJjg"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJteouBi91K4cRah-GHEdKTh0",
+    "city": "Scottsdale",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJf58OxIV1K4cRz9LD_PcujU8",
+    "name": "USA Pickleball",
+    "slug": "usa-pickleball-scottsdale-az",
+    "address": "8901 E Mountain View Rd Suite 110, Scottsdale, AZ 85258, USA",
+    "lat": 33.5734207,
+    "lng": -111.8876931,
+    "rating": 3.3,
+    "reviewCount": 4,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJf58OxIV1K4cRz9LD_PcujU8",
+    "city": "Scottsdale",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJmycnmwN1K4cRAvxeIoGhZSk",
+    "name": "Scottsdale Ranch Park Volleyball Courts",
+    "slug": "scottsdale-ranch-park-volleyball-courts-scottsdale-az",
+    "address": "10400 E Vía Linda, Scottsdale, AZ 85258, USA",
+    "lat": 33.5754486,
+    "lng": -111.8592167,
+    "rating": 4.7,
+    "reviewCount": 20,
+    "photos": [
+      "ATCDNfWX3To-ecAgF7yJ-Ow17PMUUXgIlXLLk2nhKVX61_xLgnFuoN_qkpCJjABYfzyKFSL-SMNYo-nnm8UXfYID265-BVfYemtQm8Piew-R7RVWFG9ZogIL4IBWDDbN1tNjFEciXUa5wf9brEgmgQ-JRCp0Ubgwb0JaHEHwO0eggizMRr5ITbMZ8U8FviwuRdtyfDwtqRrTN4npzYtbUBwZIt9W_t8oRK8EX5Xg-ZDciBGEz5I1ECGmiCLBE9-0m9e9T_VuAnERafEpQ-IUaFB4bSU3Dhzp4aF6CLJ2RtcNNSEdN7oSrq6Is9qnH3C_hRlHV8MODeEmhsp8QLk0iWyjj9fVd6UQMk5I-SVY0AFBpiQ2XliLWAPM4-P5I12q2yZe4xELHMXQ1s88yQEAYqRHLdN4kVe_Im5uBDDyzLcGEIdQLw"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJmycnmwN1K4cRAvxeIoGhZSk",
+    "city": "Scottsdale",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJ3ewle8ufK4cR2NNpj6H1k9w",
+    "name": "Scottsdale Ranch Park Tennis Courts",
+    "slug": "scottsdale-ranch-park-tennis-courts-scottsdale-az",
+    "address": "10400 E Vía Linda, Scottsdale, AZ 85258, USA",
+    "lat": 33.5755812,
+    "lng": -111.8564592,
+    "rating": 4.6,
+    "reviewCount": 5,
+    "photos": [
+      "ATCDNfV84hsg0bb2YLiHg0ePu809RqBKksG2Ff34wgvOjHhWD-DTvKj5Phv6I5QBCoLfV585hYAgOJTLRIGjxqhaPyXzfFVQc4vQgDkiqcLPVgBAQn7vcTzpLyLCyxew3t9nUsnBT8b_IQf70eozUnUp9__m4kEHor8ApXekniG1PhkmP1mvDHwzr77PojMOH5-4ikXPmrjWYMyrKHiEYriGSSnepGfAzuv02fNpsOh5RADBH4nuauX6lzqTwbVRS5cT9CyEMw7oJGzVxGjKFqNQIhZ_Wct8etsZtiopuh3biUixVcd2azTw_jmtN_elc2-8fKD-Dmu-dwUqVyZUmF8cuAFW961w5fewwv9Zhnnr7dT9bnXbyXGwxky6LjsyOne0aj5ooDqFX-aKCWIXk34Be9vhxVa8oPIigdK6uXqcQcAL4A"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ3ewle8ufK4cR2NNpj6H1k9w",
+    "city": "Scottsdale",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJU75bmMcLK4cRqos7nH26ryo",
+    "name": "Paiute Park Tennis Court",
+    "slug": "paiute-park-tennis-court-scottsdale-az",
+    "address": "3210 N 66th St, Scottsdale, AZ 85251, USA",
+    "lat": 33.4832357,
+    "lng": -111.9393864,
+    "rating": 3.5,
+    "reviewCount": 11,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJU75bmMcLK4cRqos7nH26ryo",
+    "city": "Scottsdale",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJF0Xjxl0KK4cR150Y1oWLJy0",
+    "name": "Scottsdale Community College",
+    "slug": "scottsdale-community-college-scottsdale-az",
+    "address": "9000 E Chaparral Rd, Scottsdale, AZ 85256, USA",
+    "lat": 33.5133225,
+    "lng": -111.8835653,
+    "rating": 4,
+    "reviewCount": 143,
+    "photos": [
+      "ATCDNfUrvjhFCNtiZ-ddXMJ_WAJXn5nBeMDHSBcpStFldW-lqBHrjZ3dievMSuhI0YGl1a8JIBTmmuB-xW5A9tfpYZqk1PExFfa_RKaOBY5mtuGqhbklmi7pmlJMBctMHhKFefoBxOPfORjPPhvGmFZ2cthfO3rdP3IJOBAfDauRokTRLCcAIOwYU_yOfqVWKCMSArf2pnhNocND2nyDjX-Iwg4Yf10BdviElsiIg47UcKQUU1AHNHMtkDMFqJ7KGyZAk9GQsQQCOqG1w3VtRmDlY5N1KGLRYlzkpqnqezuaiQUVbw"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "school",
+      "university"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJF0Xjxl0KK4cR150Y1oWLJy0",
+    "city": "Scottsdale",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJoYz_EOQLK4cRI8tgtDzYzKA",
+    "name": "Pima Park Basketball Court",
+    "slug": "pima-park-basketball-court-scottsdale-az",
+    "address": "8600 E Thomas Rd, Scottsdale, AZ 85251, USA",
+    "lat": 33.4815281,
+    "lng": -111.8952836,
+    "rating": 3.8,
+    "reviewCount": 4,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJoYz_EOQLK4cRI8tgtDzYzKA",
+    "city": "Scottsdale",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJE9Tse_0LK4cRt0_5iecTDw0",
+    "name": "Chesnutt Park Tennis Court",
+    "slug": "chesnutt-park-tennis-court-scottsdale-az",
+    "address": "4565 N Granite Reef Rd, Scottsdale, AZ 85251, USA",
+    "lat": 33.5036464,
+    "lng": -111.8979563,
+    "rating": 5,
+    "reviewCount": 2,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJE9Tse_0LK4cRt0_5iecTDw0",
+    "city": "Scottsdale",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJye7uTnQLK4cRnKHS9ukZR1o",
+    "name": "Chaparral Park Softball Fields",
+    "slug": "chaparral-park-softball-fields-scottsdale-az",
+    "address": "E Starlight Way, Scottsdale, AZ 85250, USA",
+    "lat": 33.521241,
+    "lng": -111.9080777,
+    "rating": 4.8,
+    "reviewCount": 5,
+    "photos": [
+      "ATCDNfV-xxRZFo9oN6rwWPzywh2waf1th_LPFAzZ-oS7mlMKo2do44vO6TIwQO3_5Z2WRfsHe9Xep4yyiOnDbRrv1-vKPROfsEu-iD7OL5udtDQEWc9bIjxT5ACKEAtafh3pnG_c1AJ0ak8vu_RUt7SMVwC6x3N1ENOui89ynFOSizpZ8D6nz5P5ZD-NxrDUWRCe2c1T3QWXRKNNDMI5nflQZV3xHnpqU3LqjQf8Fw9j8YJUGASz_g0f5ogZ6ap-AS2r2_nT8b3OF_AgvFKJkWqwnSBub1Gqqosl7fni4In5CG_l7Jm9un1uRgdRWgeJkMo3WOk_rCjLOhPtg5Hig-cESoBNGoUlUNlv-dcaWgQJsFiATAVVI_Grn1ncASXDBLrqh-lszC7gr3vU_p3oisscF4Yur8dwMVAqR8WUyB_7qoUUFQ"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJye7uTnQLK4cRnKHS9ukZR1o",
+    "city": "Scottsdale",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJ9QyicAB1K4cRI3eCdb3Pr8Q",
+    "name": "Pickleball Courts",
+    "slug": "pickleball-courts-scottsdale-az",
+    "address": "7720 E Gainey Ranch Rd, Scottsdale, AZ 85258, USA",
+    "lat": 33.5717086,
+    "lng": -111.9105383,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ9QyicAB1K4cRI3eCdb3Pr8Q",
+    "city": "Scottsdale",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJ1ZhLVJF0K4cRB3Qj1YTMM0s",
+    "name": "Scottsdale/Paradise Valley Family YMCA",
+    "slug": "scottsdale-paradise-valley-family-ymca-scottsdale-az",
+    "address": "6869 E Shea Blvd, Scottsdale, AZ 85254, USA",
+    "lat": 33.5816091,
+    "lng": -111.9338681,
+    "rating": 4.4,
+    "reviewCount": 110,
+    "photos": [
+      "ATCDNfWNg3Sb4gLkd1I_F5SuPRYpowr_4O3o1lNzFawQbh0PO8mqEIa7GyTuVRKCGbQ53xQgMiYI2MOMlqywbxE1NkmP7Gq8ScEWhGEgGrsXAMSXxsZYNuqY5Yxd2ewIDAw0rmKY7w_fnE_uaat5Hn74sgd1ZEFU-MyUqXleCEj5CIpxCtGpvnSkPYUT6i6AHIRZcdra-q8aIpaZMWwC6v4H1i1KIzj_OC_OChjd-7-B2J-W-WNvokqs3MPo6txS0Vm4vuQSC0NF36s6Qw52vlsrprNSmlCEGk5H1vR_4N0e9suhdw"
+    ],
+    "types": [
+      "establishment",
+      "gym",
+      "health",
+      "point_of_interest",
+      "school"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ1ZhLVJF0K4cRB3Qj1YTMM0s",
+    "city": "Scottsdale",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJ_x0HnSULK4cRcqJ43j2twVc",
+    "name": "Vicki Foster, Pickleball lessons, camps experiences at the Phoenician Resort",
+    "slug": "vicki-foster-pickleball-lessons-camps-experiences-at-the-phoenician-resort-scottsdale-az",
+    "address": "6000 E Camelback Rd, Scottsdale, AZ 85251, USA",
+    "lat": 33.50545160000001,
+    "lng": -111.9496028,
+    "photos": [
+      "ATCDNfVjYss8InQpyIRv2LrSrizTlp9ADpd8noZY16aZfJo8o7SBOJfKVKew7ZgJU6tMYd7p5Zg4YX-J-WT_snZoKd6mZHG-vpEHbvFW4NceY50r6WoyzWRpON8PTaHeP2-aPwzuGhkVJuPPqdeDMkgGUncdr-7Us4nh5UqI64pgSebO8HlkXTbtDinAdLfPbtiFqLRW8SxpoRxxAmdyWJ0c0U-qPZLrBNAKe13YHBNlQxv7E2HwBTBc3QFvR3PFt7EBh_A73wPiw65IXGDbAI3W8WptpiGj3UvIW4QZraH-No8NvQ"
+    ],
+    "types": [
+      "establishment",
+      "lodging",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ_x0HnSULK4cRcqJ43j2twVc",
+    "city": "Scottsdale",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJq6p66pN1K4cRyCScmZFF3ow",
+    "name": "Horizon Community Center",
+    "slug": "horizon-community-center-scottsdale-az",
+    "address": "15444 N 100th St, Scottsdale, AZ 85260, USA",
+    "lat": 33.6260569,
+    "lng": -111.8733005,
+    "rating": 4.7,
+    "reviewCount": 13,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJq6p66pN1K4cRyCScmZFF3ow",
+    "city": "Scottsdale",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJPdPu8MelK4cRUEw01MTBxl0",
+    "name": "Mesa Tennis & Pickleball Center at Gene Autry Park",
+    "slug": "mesa-tennis-pickleball-center-at-gene-autry-park-scottsdale-az",
+    "address": "4125 E McKellips Rd, Mesa, AZ 85205, USA",
+    "lat": 33.4508074,
+    "lng": -111.7431839,
+    "rating": 4.5,
+    "reviewCount": 231,
+    "photos": [
+      "ATCDNfVFzWnAm9f2rxTh4-yfjY_dkcgHfMQMjbifRmabj7pa2uieooiBmr2gpLROyIVVZvzpAxoUETHW6OsGm83Eup9s_ZcSFi6MwKEGRQoRefw58EFN36RYQiLQlYMFE4wpI8pi3ey_SJ4AxLvUs2-YiWwjRAjaSN0YC8sfIylmxTTNUxTEPCVMTO0HG2WjnBjEsV-EZbs_Nb2EwsKd9HK5zDQcI5IPZNAM-meD2H445dVROidgRu1o6Tcnl3eV6VbeUsZQ3VBhldaIuMszbTcX3Fp3mMLcVFi94i8jAru_1105hA"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJPdPu8MelK4cRUEw01MTBxl0",
+    "city": "Scottsdale",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJj4YLOAB5K4cR_s5nZ4AFNHI",
+    "name": "Ashler Hills Park",
+    "slug": "ashler-hills-park-scottsdale-az",
+    "address": "32220 N 74th Way, Scottsdale, AZ 85266, USA",
+    "lat": 33.7788051,
+    "lng": -111.9209694,
+    "rating": 4.7,
+    "reviewCount": 18,
+    "photos": [
+      "ATCDNfU2BXRNyy9_HTrqx7w4fCCFqm8MTvgLCrVaNnVoDboco_A8xSZ3XDF0HSTSs1oSI8CVCwXXcM798eXDss51wT0pi4YCy2MwNVEKfq0sauuwDOwblne8i7DfWOdElh3Xo1x0T7NNwXODhHo2e8D42P-svU7Bvyw0YXaH6dmrVTmw92swft-PCYfjWJoA3mOvQZPl4H6ZCq5ZUdo9qhHmf1nIEgarB3YzmTXtH5jGQ46QoEqVtzG13r_h2ZCe_A_X7m6wZTnU7R-0V7ErH2dbQaTxGAAKgg0exB0pCpqUrQ4XWxE87DKeCYxU7hO6I9VZh1CnJicDRNvpMEUofQDenZ6zHCoyMar_o2gPohPVY5m4lKmlxgiKt8XCN-1Vb45DIsY4HcL80d8pxmZhtBJAsI1Q-EQQeln65wuTioQ02KnTXg"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJj4YLOAB5K4cR_s5nZ4AFNHI",
+    "city": "Scottsdale",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJ_0b7RAAJK4cRFgdBgvV0hus",
+    "name": "Dink & Dine Pickle Park",
+    "slug": "dink-dine-pickle-park-scottsdale-az",
+    "address": "1017 N Dobson Rd, Mesa, AZ 85201, USA",
+    "lat": 33.4353963,
+    "lng": -111.8661396,
+    "rating": 4.9,
+    "reviewCount": 127,
+    "photos": [
+      "ATCDNfWSlugq-O-SIZg7yPdmZhGTG69G-QK_RXA7zZUIoF7eSSPlZ_LwD1Fyv650J5kbw9IfJgG31TS38B3MRMFrRnVQcmo4SdgInH_ixu7qclsbXGywmhXUNaYVATP9mU9s9RhCCmZ-y45SGkwqOs31p_OKbb9ESlebmlAlam7voa6JOYZpn_spBI0IgCmmyDmjFrWNPsKRZhIb1x7QMqJkhKm1y_3-zY4LvJpoQEUBAdtBYXr07Iolgz4p66T2ySf8JzvpHSIiGpO07DzHJZrgxi8r4V5uJgzDXe56PjbzGCcITQ"
+    ],
+    "types": [
+      "bar",
+      "establishment",
+      "food",
+      "point_of_interest",
+      "restaurant"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ_0b7RAAJK4cRFgdBgvV0hus",
+    "city": "Scottsdale",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJmSjqWW0FK4cRHpvuQ1S3hoE",
+    "name": "Electric Pickle",
+    "slug": "electric-pickle-scottsdale-az",
+    "address": "8688 S Emerald Dr, Tempe, AZ 85284, USA",
+    "lat": 33.3361419,
+    "lng": -111.9677998,
+    "rating": 4.6,
+    "reviewCount": 399,
+    "photos": [
+      "ATCDNfWPTEAjoSof6XHf1-9tEq-7hYlAxWBFy0TgyZsAdShG17f25u6ZVUH9xZ8Rjrhzga-zkgS3ybv5aD7PzLDbH0uHTJYzb_u0ibk0Q0paBQTBisWtwXgNWwqKuYyMdVbEVwgpJNdFjBy3fX_b3anfVJa4Okls2KO54Wd1BxZv2QDTncfcwmlITG-RzeLghrCE9ilxrSSGxyDgehLqTrFdHOZxQbWbsJlvmfDPcuc0Ip_Rdm3_YGqHDz5OfPY16vhjigeWSkO_AYK4RldprIU4RKCAOKOrq-smVCLNbVyXiUj06g"
+    ],
+    "types": [
+      "bar",
+      "establishment",
+      "food",
+      "point_of_interest",
+      "restaurant"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJmSjqWW0FK4cRHpvuQ1S3hoE",
+    "city": "Scottsdale",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJzQRasZ0HK4cR9Re3uirlD5Q",
+    "name": "Pickleball Kingdom",
+    "slug": "pickleball-kingdom-scottsdale-az",
+    "address": "4950 W Ray Rd, Chandler, AZ 85226, USA",
+    "lat": 33.3213457,
+    "lng": -111.9263523,
+    "rating": 4.3,
+    "reviewCount": 190,
+    "photos": [
+      "ATCDNfWq58BS6yat22ffDBVgHjEKYFRlufG4q1GAABYC7UGkrZcDDetBEyMFgqxdVF4zFGgpkXRNQVJsVwLinmVjWdqBzrl0X_x82vzE85Qbr14Ulh1t7Hx4vh96QvoTOHgbHenfK7yslqZ3pf2CugeTFO_wp_OXsVv9JPsZlNTryWQ8zGBt8MfZdqVe8o7I3RQbk44zAu4OM1mghFhiqn6vEzph5USxyXC6DkGw8yfNy4-8cWhcfA91U61YLcAfo38LIt5qVTLTgCVIF7ZDxnC8pFZIpQLJ-6l5lGsPEH7OSWLFBA"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJzQRasZ0HK4cR9Re3uirlD5Q",
+    "city": "Scottsdale",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJhb2hOIsFK4cRwkuFnM4knLY",
+    "name": "The Picklr Tempe",
+    "slug": "the-picklr-tempe-scottsdale-az",
+    "address": "1315 W Elliot Rd, Tempe, AZ 85284, USA",
+    "lat": 33.3472926,
+    "lng": -111.9584395,
+    "rating": 4.6,
+    "reviewCount": 85,
+    "photos": [
+      "ATCDNfUWeyzCYK7V1EhnQHWMBa4_qbDcMxND0Qyayl9TXHlEVx3FzicPPqKUMQg0I-vZIcwBjy6rsr0N1NxJgh0Ny6acHQIU9sdzCKWrH6NClNP0S5_sDkycPkJkuP-uigmJqMq4N0ci1XQHTSxPSAaVH_iAks1F9kdEIRiTzvgaL_qQcVV8ZqitFntxsulIMrXaTDItsHqGfIv172znhlHFqgQR3Bl4xgZ-SiuTi0z4Zq2ZvcivXS2EaDKtiLIkPVtHx2th40JZ0ItfEiHoo_TYsb2dNjQx05meSEn8E-Y5Qe23Fg"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJhb2hOIsFK4cRwkuFnM4knLY",
+    "city": "Scottsdale",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJB5i_8EJpK4cRwAfm3zJAJAg",
+    "name": "The Pickleball Space",
+    "slug": "the-pickleball-space-scottsdale-az",
+    "address": "5665 W Bell Rd, Glendale, AZ 85308, USA",
+    "lat": 33.6372224,
+    "lng": -112.1808762,
+    "rating": 4.7,
+    "reviewCount": 150,
+    "photos": [
+      "ATCDNfVBIQXJC94oQJlVu13-gjZjN2YOMGt0tfzbWKzVFCLwhTD7yHcsDl8wcp9A1DpD_mH79jivt19wmQ8jULsTbW1aUmurpSQLy7DaTLJzj_IoX0XLd7nfTJHiaoq38IBmpWIH1djkU4aHFKYbFwzg8JwnajKBYGuIVCuvNrvM2pURpWb95GuJ9DPfH3lx9FJV-MG5DOHsW7LVuedKlXwiXxsWJNit8_vyXgAWq04Ig1xGlYy9l57-SMhbnEQlumUlc_bur7fCdvPnXj5oZETnG9dje6T1Exc4huDHvCtkUqeHbD5qpujH3h3l8_-KjVHd1LKoKSh3_aOpIG7uBiEL8-9_dt8XeetElkYzcsONasT_qK2GiWRZN0y3jb1ELUkVquV0F0oXu2tq-RjaC8LzoBnTmTphrLAQs388AvRusO6U79Hk"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJB5i_8EJpK4cRwAfm3zJAJAg",
+    "city": "Scottsdale",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJTYnBCCRlK4cRpxZv6103AIk",
+    "name": "Paseo Highlands Pickleball Courts",
+    "slug": "paseo-highlands-pickleball-courts-scottsdale-az",
+    "address": "3435 W Pinnacle Peak Rd, Phoenix, AZ 85027, USA",
+    "lat": 33.6969855,
+    "lng": -112.1319052,
+    "rating": 4.7,
+    "reviewCount": 79,
+    "photos": [
+      "ATCDNfXJF_0Ve9z7D1QfJGo_1fKc2m6su4ghfQ-SjnjG1bKmAAzZdSUgoEN20vHpajKBWA-dCrIgw9JwJvu_9NBINIdbwoeXg7zl2-Ks0Rn-5xkF29bM0EaXpCOMbkPmZv_TjElNP0kqkAF1L9QRe6eHaWpc3HLNQ6JLGzKyZwKTmAjywt0CS-eB-g9ZIJQ-0bXFOlgAbw5aaUDoZLiKaecXxaDHJSPItGi_3LhfUmwJ8MaIk8z353mphInkVGoZ1vAbJYXSI6SI0ldIRvK3KyC84fRb2i29hv-PEEMC3uOx9BRe6osufYAkIpwD6h36O80yGgKSs5A4PRxcybgi1vPsSLpE1gnIndXit_P_h34bCpUQjXDXnh_hwENCNYYw544E6Pu6o-ycDFnWziOKXVb7C4k41mJIOahNQDZeEDEI1LCsjA"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJTYnBCCRlK4cRpxZv6103AIk",
+    "city": "Scottsdale",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJK1VAgO0FK4cRkCD36y6hPZE",
+    "name": "Tempe Sports Complex-Pickleball Courts",
+    "slug": "tempe-sports-complex-pickleball-courts-scottsdale-az",
+    "address": "Tempe, AZ 85284, USA",
+    "lat": 33.3378978,
+    "lng": -111.9537749,
+    "rating": 4.8,
+    "reviewCount": 48,
+    "photos": [
+      "ATCDNfVlqlmSEDGJ9QUwBMyUDEQ6Ol0iL58mILgCsLZCXsuYLSUy9fQwH_-M8ih96Rp7M_QISQaQnRZFP4uuno2FF-l7yt9ptDQjnG5Dir88UZUytCqvRfjcdKnam2bk0GHeWVVcjeQYplpGUGw4sz8lUnBgCihI_PnCVdkdRwBD3C1boDRsnSvHrDeeSvkHzDKbdEUnq7H7AMeT5YmitnH-XEMYNZ5Ud14VxiWvmXwEB_Y1MGzJrsjYiFZIADNSzVjtKaJtrxbLqx9nEiIiAMUxgp6mukyUYiGH_-FzYTrBiVKVO7zRyYaVk6cx7fG1dQGznDgZZrdnCPWzujLYSxgSpQAPw53u_U31VSjZnPTw6m4NUmPmwrddjFWL6kIRPKKKYVJJX_4P4BB1aKFLIT2OUMtbMiw3Xl4hZJZEFo7V-p-fnA"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJK1VAgO0FK4cRkCD36y6hPZE",
+    "city": "Scottsdale",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJ-f8bOfV1K4cRt2zND-BGfeI",
+    "name": "Privacy, Pickleball, Club House, Hiking, Mountains",
+    "slug": "privacy-pickleball-club-house-hiking-mountains-scottsdale-az",
+    "address": "Scottsdale, AZ 85255, USA",
+    "lat": 33.6338806,
+    "lng": -111.8585587,
+    "types": [
+      "establishment",
+      "lodging",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ-f8bOfV1K4cRt2zND-BGfeI",
+    "city": "Scottsdale",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJEyQcOfV1K4cR9IpnbZbRpC8",
+    "name": "Privacy, Pickleball, Club House, Hiking, Mountains",
+    "slug": "privacy-pickleball-club-house-hiking-mountains-scottsdale-az",
+    "address": "Scottsdale, AZ 85255, USA",
+    "lat": 33.6338806,
+    "lng": -111.8585511,
+    "types": [
+      "establishment",
+      "lodging",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJEyQcOfV1K4cR9IpnbZbRpC8",
+    "city": "Scottsdale",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJg1e18lEFK4cR78fCM7j7gz0",
+    "name": "Pickleball Courts at Pecos Park",
+    "slug": "pickleball-courts-at-pecos-park-scottsdale-az",
+    "address": "16827 S 48th St, Phoenix, AZ 85048, USA",
+    "lat": 33.292756,
+    "lng": -111.9790184,
+    "rating": 4.7,
+    "reviewCount": 19,
+    "photos": [
+      "ATCDNfUOhVE3VaLLo2GZX7qUl-BVC3aO5vEx9yE0wEpIxZy32oTTa1MqbHbcVoDIkaEup6lO-FvhUW7P8pUI6jlYpRq4A8bMvXrwvpcrFa52x5Lvj--NViTGtgQFuT3Hl4P3--YdY42H2NVt1muk2uOJUN_XkOI1gQ_aFs3Rkp6YhB92xWwC6M8KWCP4jUNTDe7Upit903IgVUZISIYygmLQAwDxBCEQvC5iS1nawOITq84EiUoODSEKgvGwRMU78kHgfLfdjVV9yyMnJ-4HZ4nC9UhRO4C6wqhoh-WF8Ru50CL0Aw"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJg1e18lEFK4cR78fCM7j7gz0",
+    "city": "Scottsdale",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJ_Qtpw8IHK4cRFOyuf3grADM",
+    "name": "Los Altos Recreation Center - The Dobson Association",
+    "slug": "los-altos-recreation-center-the-dobson-association-scottsdale-az",
+    "address": "2524 W Campo Alegre Cir, Mesa, AZ 85202, USA",
+    "lat": 33.3817026,
+    "lng": -111.8867883,
+    "rating": 4.6,
+    "reviewCount": 85,
+    "photos": [
+      "ATCDNfUF3fVYmKyxf0_L5C3MvQE0fE8UIQO8juQQ8FkgR_XcWFDqYCSkL282dszsTD3GPFV3Pox2kszuTOuL5JOoWv8ffbUIwuv_uu8f5BR8uyEVsfjZqYrzFZ5yuAYFM7iK0N502E27fAawRl6uarHyAbRH5PkGVvIuD4bpCCGgVyL_DHUVyIISBPI3R3TqGl-8WU8sl2-05G2d1kCo2trcm9VblPaJFD0GZTnD_YCvIWC-eOPaEzCXUdRutX5zAo_n8Z4GE20hrtNGIf00S1F1bKVhMyWdR57avSK4CfEywlN4yFPknkj684tk7Ns36hePL1zc3oY0wXgYQcsq4R16xKWIgBvV-0lQSjMt26IxxrNoF7wLR2R1c7DeNbnaH5DzcTZRSXjVIccV9wnKvhfQmwPQwUx6ax_1n5bSNp5i3MF4sJg"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ_Qtpw8IHK4cRFOyuf3grADM",
+    "city": "Scottsdale",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJYyuqFZutK4cRNAx78E4bjDE",
+    "name": "Center Court Pickleball Club Gilbert",
+    "slug": "center-court-pickleball-club-gilbert-scottsdale-az",
+    "address": "1433 E Williams Field Rd, Gilbert, AZ 85295, USA",
+    "lat": 33.3052817,
+    "lng": -111.7592577,
+    "rating": 4.4,
+    "reviewCount": 38,
+    "photos": [
+      "ATCDNfUThqyQWWMpNTf7LBYoVI5jm0sBCaWtu56cCAlWTjeFqoOquSa3SYng7BxGuskyF2feRU15T4b5oLXOJdBevlG_SfydWd7Ngl6NPLNdzBmBl4d-fVWy5gkq_XtI-OOk9T-1p9lfsou6aC2hKmowRzJceN1D5yA1QXpmr9umFUd7Vm3sgLrs9FF_X735uEc-tsHGmGWqCZ7cg3Bu7YZcVlmDWmIFU_iyQawnUf6uBmSCXpJO2eqazIQQ9mi3oA0PG8b5h_vqRRP3okDTT7GN1eS1-TMx73NptGyL3bxjP-Ucfg"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJYyuqFZutK4cRNAx78E4bjDE",
+    "city": "Scottsdale",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJKyRY5s50K4cRkznyGDF7cEw",
+    "name": "Gainey Village Health Club & Spa",
+    "slug": "gainey-village-health-club-spa-scottsdale-az",
+    "address": "7477 E Doubletree Ranch Rd, Scottsdale, AZ 85258, USA",
+    "lat": 33.5652923,
+    "lng": -111.9201176,
+    "rating": 4.5,
+    "reviewCount": 180,
+    "photos": [
+      "ATCDNfWxvM89OwjPk2ZHAtiBZs62u3Cop_dAmls98AKA9e1M6PqNg5mODPNQYBMzS9ZPFMAXGV-Ietox0Xl34bdVwsy8cUxm7FqkGn3BYv2kdK64Nf8XCQWMuzUoKn0VD0DncmEtikJm5hpMVyMHosHzcRL9xwvISY0HGjziJnaz1CDcLiJgK_c0IscKs3Rj2FSwICNxhGisMVDwzFrzewggI4d8_Qu9KpQ03DBwdg7NMDUbXleyryWodWiZUt7yHg2E3KSOMPdKwYNdTlTkVNTYSDIStZbk7bvAAGrkpwLQ-ufcD5KslAXD-35rYgTJjBpcyQMAEPPzm6Giq3bBUReOAma7iH9vX34WyNhZiO5V8pRdIR5WjhCAYJd7GjnGRQ4koalJP9IKYdHPITZTT325EXoU7-zpabwWqQzbB8w92gE"
+    ],
+    "types": [
+      "establishment",
+      "gym",
+      "health",
+      "point_of_interest",
+      "spa"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJKyRY5s50K4cRkznyGDF7cEw",
+    "city": "Scottsdale",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJPyE8dUSlK4cRvKyV6TyXI5U",
+    "name": "The Picklr Mesa",
+    "slug": "the-picklr-mesa-scottsdale-az",
+    "address": "1135 N Recker Rd, Mesa, AZ 85205, USA",
+    "lat": 33.4363548,
+    "lng": -111.7001683,
+    "rating": 4.3,
+    "reviewCount": 63,
+    "photos": [
+      "ATCDNfXH6-S2g_i82P8FX7Xe4vGJn41FqW_eAsDqz5az-A6eia-29R1e9HC102ArdWH4ZDUZWZ4t4R9h8irupJoiElW6un8g2T43p6adTFwfSXjKNeCpRLdMw-guc1Kn5N_tWoIUdVZLWPm1dbYr_I92xQr9Lwl3VmkhnZqZwWnS7YHvbcHaJpbZLA1MzEiVCNjlVQ6GGj2EcZ9YydP0f1izF-lNRW-R8yYACfX37K_hCz1qn-8k1ItHv51VEYDvW5XMSFGJaFhj1CWJM5-bnv8O60_Lv7ldVveivDrpXIcpbtHaqheAxwof5NWTw3_xICMd4mhMbwq1-UBGhdnKz5aMTlClgNtrHVvFuivtXhW3kDjnHBYL30tgIKpcHXhn7X9nBd9fhhVnSolSKAnf3RmKfOKNNxqmIsjGQrIN41KxpkeDjL6E64bFflxVwEYRME1t"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJPyE8dUSlK4cRvKyV6TyXI5U",
+    "city": "Scottsdale",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJDYdYFKMBK4cRP9tBaNU6HHs",
+    "name": "Arrowhead Park Pickleball Courts",
+    "slug": "arrowhead-park-pickleball-courts-scottsdale-az",
+    "address": "1298 W Toledo St, Chandler, AZ 85224, USA",
+    "lat": 33.3081807,
+    "lng": -111.8673517,
+    "rating": 4.7,
+    "reviewCount": 59,
+    "photos": [
+      "ATCDNfVM0mk-4ZPm6gveBbpaqr131_rTAVJlRzlqwjnEIN7MTyq7eKglxLR2RsIzqptJ_Jp2VMtbiY5Lx6oBoicD2_7JNKS4Ynn2h37eoimy2AWb-vtGTn9K0zTsjZohAJbQuc_Lp4t50vN3s-8G5Mm_bLjuyyaiFVRk8xkwPfmQTT-NL517dooKcSrt-1IidoaP1FaxQiX8K0ehBZQ-JR6eawCNyq4vGas7NFSe3dqhJWbiGFhSHddvJOXPsnzkwjgOBRi9X5yvTq9xE22-4NPvJWaqaCaC_tx9lKLm14ZXDvmrg8Fbi8slj2U2e0ubEon8GWhq8whjc8dbCrcLcY-PZ2iFfi78_wzIXvDcrrFrbKKkTLAbLY4wwv6MVIL6OqCpPJOc_X2QxWvrtW7kIlNY3C7FuGMDUAuBY4G7CLJ-c8A"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJDYdYFKMBK4cRP9tBaNU6HHs",
+    "city": "Scottsdale",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJkSE3FfZpK4cR-vO997J11Zc",
+    "name": "Center Court Pickleball Club Glendale",
+    "slug": "center-court-pickleball-club-glendale-scottsdale-az",
+    "address": "5960 W Bell Rd, Glendale, AZ 85308, USA",
+    "lat": 33.6404184,
+    "lng": -112.187911,
+    "rating": 4.7,
+    "reviewCount": 86,
+    "photos": [
+      "ATCDNfUq5LyalEj9o6lbd6-YMF08bDQEqnnoDO4VK6ShBS-ySyY7w6ZN6ld8wc-L8Gon8WxjP7OoVKAe8plVvjFTWx2EvBZXPf7Z2YqElSROof3x1recU2RBODEW8GvFW9d2EIoF3u9AFZ4pdSggHYxuOzW4GJsEN6EAH7SwRjDstduEUNPeJqrOTgquQxZiIK3fuaE8zOlKvN-AdzCWKLPNwSiIlCtN-oOUNfXunx7Gxtz1I7sITIObb33NkzjDGDRCHN_-t1b07TOfE14xE9wZ3iFIS2MEhxweF_lVK2Gtg0qX_Q"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJkSE3FfZpK4cR-vO997J11Zc",
+    "city": "Scottsdale",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJBUoOLwBcK4cRg2VimI6DBKA",
+    "name": "Trilogy Pickleball Club",
+    "slug": "trilogy-pickleball-club-scottsdale-az",
+    "address": "Trilogy Golf Club at Vistancia, 27980 N Trilogy Blvd, Peoria, AZ 85383, USA",
+    "lat": 33.7373038,
+    "lng": -112.3303935,
+    "rating": 4.8,
+    "reviewCount": 10,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJBUoOLwBcK4cRg2VimI6DBKA",
+    "city": "Scottsdale",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJdTdrUAALK4cRakp6sAR_-uw",
+    "name": "Unlisted Run Club",
+    "slug": "unlisted-run-club-scottsdale-az",
+    "address": "7887 E Thomas Rd, Scottsdale, AZ 85257, USA",
+    "lat": 33.479095,
+    "lng": -111.9112856,
+    "rating": 5,
+    "reviewCount": 10,
+    "photos": [
+      "ATCDNfXr-eatE31lS9q9oLN0UwzBsxAqN17yHnomQyIQMRUVU3MKVLHxhVVw8eIMK0Vfd0cSNU-uok7mv9G1RVM9w7sdluMPR1YalZrsFYeG49Sg357UtfNaNZxPjDt0XHdTxpFadhcG52tKAYz0weroYIAU943p2WuyPN_LNrF9uFzySQHIOHXsSYZt4PEwD-JFL9nqFScWCkmsriPhI91reBmqHqZKutKrSECPTE3as0fM1yYmxDINbGKx1pAB4dU8l97jcntf_9I-qcsIwJytbyD7wWDgeKms15V0G5NB924Xrbc2TAjmtUnbRCq5Q1UaXjTezE2GSR_z0oTX1nij5yAdMGfD8gtfkBg5gZNPuGVZbhcNEq30kMGJ8ku5aHITLuJoJ5bxaTKYp21DROIB8IFITNSxbqpAz0Scm3Rdnv3N4G4"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJdTdrUAALK4cRakp6sAR_-uw",
+    "city": "Scottsdale",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJN7V5XF0KK4cRTUwPzSMGnxQ",
+    "name": "SCC Fitness and Wellness Center",
+    "slug": "scc-fitness-and-wellness-center-scottsdale-az",
+    "address": "9000 E Chaparral Rd, Scottsdale, AZ 85256, USA",
+    "lat": 33.5134022,
+    "lng": -111.8850366,
+    "rating": 4.8,
+    "reviewCount": 33,
+    "photos": [
+      "ATCDNfWf5PqrzrjFog9e4Dz8wH2IdbhVRevCuogVZq7nppF80ZeDhKZR0-mlfgFALMtgt_oUEJPQVwlRHOMhB6lQ33PTXx5HACfLOsSyrlWigFqai1sqr_ocZZbAz2GP6hUyjCoG6Et5nf-XsrHRj82LW0WI2ztZ3Yhz_Plp9bSyct0ASRphTmpT55QDuVfn8tSH1klFzZVDWo-3ICOd00tmhOJsVNovDdXSIMe1zmhYRn_QyT9PxxZegri9IvT-tYZaamYdx4jazCEj0-RSuDJuUbkL5sgV6cnbToyEJAE0N7obvMRz-jY1XGHukp5h9vXN2x8YoRudOVLHo-xu_rS4ECqPf6XKhSEuT5v0_q0pYhJDzsmI36n05O1QhELENnEGKyfuNDsKx2HAzAJbl5Y6Sia5h9OX-3PluR2Azy6wAzdtjw"
+    ],
+    "types": [
+      "establishment",
+      "gym",
+      "health",
+      "point_of_interest",
+      "school"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJN7V5XF0KK4cRTUwPzSMGnxQ",
+    "city": "Scottsdale",
+    "state": "AZ"
+  }
+]

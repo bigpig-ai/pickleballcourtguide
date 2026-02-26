@@ -1,0 +1,1691 @@
+[
+  {
+    "id": "ChIJGXGU0rRBkFQReWdKiIMrY8s",
+    "name": "Picklewood Paddle Club",
+    "slug": "picklewood-paddle-club-seattle-wa",
+    "address": "4121 1st Ave S, Seattle, WA 98134, USA",
+    "lat": 47.5663249,
+    "lng": -122.3353916,
+    "rating": 4.8,
+    "reviewCount": 89,
+    "photos": [
+      "ATCDNfUTZIrkmG6XNhqedfW9EC8Um-cNqOjv1FpbkH9I_WWdA3JAYD-WOvdwOc8EfA29mOfoHPx8Mked6vJQqECcf-qn7goZ1a_-CBcuHn-ZckT3bGciGg_CKKogXudzSmGq9o10xPUTlkS0U7SK-_AJ8p5h5cdjZQPUJMooMgHoC148VQppYI43hqxXKlgHI2PFj6zSS59RP74Kpt7tzKYYMZ6y7WXUNEZfYZm_vFfeHLyREFet599sxVBoZOQO5ZRkc_2atasQ2iBuU2XdJrR4Gcusr5chZ4L4LAt_QH4xsNJStavN-ilMOf0Mp7Nueb5HOxV51OFHePmDWh4HV1QT43FjM-4sBTJKy32WpcnaFM0ajxbbVtiUTrw8xYadD37g6ZQJS6cXULx_EJUPDAi5gXS3vpCimaWrtWk7ZveAi37csyF94XGyyZThY4mGY1Dr"
+    ],
+    "types": [
+      "establishment",
+      "food",
+      "point_of_interest",
+      "restaurant"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJGXGU0rRBkFQReWdKiIMrY8s",
+    "city": "Seattle",
+    "state": "WA"
+  },
+  {
+    "id": "ChIJQXtXXbxrkFQRZLXs9CQ7xmE",
+    "name": "Urban Pickleball",
+    "slug": "urban-pickleball-seattle-wa",
+    "address": "401 Union St Suite 230, Seattle, WA 98101, USA",
+    "lat": 47.6092514,
+    "lng": -122.3355479,
+    "rating": 5,
+    "reviewCount": 10,
+    "photos": [
+      "ATCDNfXqVPYzT9AY0u4xLHCauFT_PnRveUhWm__YXsBiQDiaGz2YtaFETWrSoehBWX_6-vm0GIyWmw9BzDE3P_ns8ZIPxf0q3Oja0Ob7KWAQwe5BEpajYFdVtVAkx-JH6VhkQc4HzG2aml_Wm024R6oIkK5CAqVgvkRkXijeOGEi4b6EbiXKD7zu_jt5rhPN3_q8TTm0aYZHzXFLclWmdKZ9xYJ0juI_uPwRobSIzIImNGVtDGAauTFXp3EF2Go3J0e9tIJDPojlKFjahY6wi4vHcW3rESxtxf_DLa_hIbeBBqpD_g"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJQXtXXbxrkFQRZLXs9CQ7xmE",
+    "city": "Seattle",
+    "state": "WA"
+  },
+  {
+    "id": "ChIJYwpd39RqkFQRJRN18Jx7NKA",
+    "name": "Miller Park Pickleball Courts",
+    "slug": "miller-park-pickleball-courts-seattle-wa",
+    "address": "300 19th Ave E, Seattle, WA 98112, USA",
+    "lat": 47.6207559,
+    "lng": -122.3069802,
+    "rating": 4.2,
+    "reviewCount": 63,
+    "photos": [
+      "ATCDNfXGDBon9qVsI3STtUcmt7CmRESK81xpyXs1Pnsws-hhebElKJSykds4UU9ECLlyeZCOyXW9mvMJZwNXzhGtUv7A-P4821Zc_yRSYvxYQF5hpUMTOMtf6wuMQNXb8Gyiww5p_J1EHQWExuG_ahIIWjHRfadSW4OcGD8N5hDW6Ncqfgp7Y2CRpXwP-UjWWAi6kdnEbOgLWIXGUyLtSLGrJYwf4sKgMgxJmZiEgAxwzbby2S_oICHsk87UZHOoUtTifltfvULu_2fNk5rOr_mT3_hUIXs2U7c_47oCPhfFf9y3aii3AC_IQYAJEgXBr4G5LwsiQ20p7BemQeM_gIZvFm1_bZZyndLB4mq7qjs16GLOxZd3gLp8UkFdtYuC6ooHUDxOm9-ogoCbvK_cRlTXTZ2Y_5GqZpSN3YSCWgj4cff3Bw"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJYwpd39RqkFQRJRN18Jx7NKA",
+    "city": "Seattle",
+    "state": "WA"
+  },
+  {
+    "id": "ChIJt1r9jwYVkFQRpooOxuabBDM",
+    "name": "Belltown Pickleball Courts",
+    "slug": "belltown-pickleball-courts-seattle-wa",
+    "address": "2600 5th Ave, Seattle, WA 98121, USA",
+    "lat": 47.6183218,
+    "lng": -122.3462874,
+    "rating": 3.3,
+    "reviewCount": 16,
+    "photos": [
+      "ATCDNfWqt3-vtFd5o-FQvjlNZ_GLOVQXga8YbV2o-pJQ78jp2qcxynxe99v1tPEs5k83UgQow09zfevfDINgWCbIHdHQPYQhtveG1Obe9456rdpj2Tkr3-NC0GNWhdGVmdvSpSN4dAhcrEZrpwSEU76vgqqr7JxuxZ8hORf6ya9Ub5nGT2E8ReTQyzZbF5W4NWDxbF5TgcWNDRo7QVncpohhFyAqNn7sOc64QosPWCVagkTWabowOpBNlAdYH7FjWHDZaQ9GchlPe6fHA4RNrSdgNVrhYr3_SDwbptHZQAuRFLpDt2N-8MlxeL_ye4gR32PLpwhHhwKHE4oXsVkKkVhOHfl1I-bHz_PnaxJXKhzsTkuFxgf4qxhaiff_wo0NAtZvRX3Bad9Jhg9YNI7-lfHUcwR-nS7qczcIEZGRiEQT2Dft9so"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJt1r9jwYVkFQRpooOxuabBDM",
+    "city": "Seattle",
+    "state": "WA"
+  },
+  {
+    "id": "ChIJG_ZvVYVqkFQRrYLFOUu95bk",
+    "name": "Beacon Hill Playfield",
+    "slug": "beacon-hill-playfield-seattle-wa",
+    "address": "1902 13th Ave S, Seattle, WA 98144, USA",
+    "lat": 47.5864339,
+    "lng": -122.315749,
+    "rating": 4.5,
+    "reviewCount": 137,
+    "photos": [
+      "ATCDNfVJRqOKbI_My7EcTT2AfzkUye023VudvMWfR4R0puB-mst9P5X8rlTAGZYxVGn5Nno69B8qEe4Oy2Wsb575_YJJKdJrlM1YVHiPXqJ7iHyMvud8U7xeu6HnsGqztBqka_TIH05gEvk4bAYiu_v4nEAeOFh5MEDUMK_-34elXiC6OQvkZ3HGkxl2TI5mBjq9bPOfmHjJwrb_IjjQKSRWPPBjCXNcB2Va9v3hAcIIC6ab1qcswFyC9Seer1eDcDIrmIMBmqkrvEmnPKEg3a2SBWhsYdenY6tyJJ-pY8i_6-7g_pFJ8fqHJGcEBZJjAMen1Hg7z34nFrwpdtm1Be5vWqTUkoIbPRpPccAyiiXVgv2jdN0EkxEb1ychOsfVfhemq9_g6Kja1l1d2z1zV-fvr5Q1i06sGadRHm-Hi05APXZC0w"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJG_ZvVYVqkFQRrYLFOUu95bk",
+    "city": "Seattle",
+    "state": "WA"
+  },
+  {
+    "id": "ChIJK0ZNGwBrkFQR7jStWT9Iw_E",
+    "name": "Sideout Tsunami Pickleball Center",
+    "slug": "sideout-tsunami-pickleball-center-seattle-wa",
+    "address": "2300 26th Ave S, Seattle, WA 98144, USA",
+    "lat": 47.5826218,
+    "lng": -122.2996823,
+    "rating": 4.3,
+    "reviewCount": 69,
+    "photos": [
+      "ATCDNfUp6R8s6GAs2xWTYZ3meXuKxVmb_SgUTydIYmkx8aT2ani28ZodFhZAl3x7ku8dzifTotWMsjsupVMqbY47kALbtIEsz7VTi1jer3YZpf8bn3O-CNsqYXNVdpQQELstBKsizSzpxEqS6ejniPRgRPft6jUK9JUsbDOlhkgeKxtbY8Y6wTfkb_94jgk7yfYhaetmUkEwpatYVUo2XeSf0TzW40rR60_PdQ6RKrneBahEKbP35CQVKiGoiBWe0ECoQ2pAEDdfbP5C2YLStMsGy7vQP9xak_twPH3Ufm6WofVIQZ2uqZI81bLr2b1khfHuXcZ-Z_rq4tlNWJ1HjY5ejrIC5vHptsydWRMuq9YZgbNaKwsBUA1e7cJuDjqvK8OhOzJC0ODQdvHODGoLxXUU8fJwZLKMUrUVjVeJbGYUjvFXDeao8N0gjjJ54FPcpCFJ"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJK0ZNGwBrkFQR7jStWT9Iw_E",
+    "city": "Seattle",
+    "state": "WA"
+  },
+  {
+    "id": "ChIJF9jSD2gVkFQR0snmUAa-GbU",
+    "name": "Kinnear Park Tennis and Pickleball Courts",
+    "slug": "kinnear-park-tennis-and-pickleball-courts-seattle-wa",
+    "address": "899 W Olympic Pl, Seattle, WA 98119, USA",
+    "lat": 47.6263012,
+    "lng": -122.3650716,
+    "rating": 4,
+    "reviewCount": 32,
+    "photos": [
+      "ATCDNfVtsVVZt9VVECjdA-eibhLx4eT9vNu7pC_f1KOtm1tFtSjjwgFczZPm48JNmZ1-PQHWbhaIlVBXHJubiVDqdoHafelev1WBKdPxqdOmrloieKI7e5wObfrtuMtH3rPKy4dbsNfwKEu01M1oYiqlw6vM9Y9yMzFkSjBpn92zOhP3sl5ohJfLV8o4Cxp03TXemNKT6T3UU0Itxc5o9XmLjcb9MZJXXkLUj4rq-RH1SY4oyVu8zIbznZ9yFuFej3ULDy_sSdgR3-h4RhPXFGUBE5NSVI2ofOXh78RvjFDmh9eacfSbfZq3ja3Vt_fF72BQKLJL80rU5R0RhpwZHQMMV1aOpvktx-ADmvFGff21_PWdUDhzi0uXxlBLikDridPTP3mWkiuMYI09N8--Sk5IhHRUA-En9bD7s4fbxB89T2WSOA"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJF9jSD2gVkFQR0snmUAa-GbU",
+    "city": "Seattle",
+    "state": "WA"
+  },
+  {
+    "id": "ChIJjbaX7gkUkFQRLly7Lk17cSU",
+    "name": "Maple Leaf Park Pickleball Courts",
+    "slug": "maple-leaf-park-pickleball-courts-seattle-wa",
+    "address": "Seattle, WA 98115, USA",
+    "lat": 47.6909354,
+    "lng": -122.3170293,
+    "rating": 4.6,
+    "reviewCount": 13,
+    "photos": [
+      "ATCDNfUc21Dg87XJQY2QEO3e3Q2fgA480GX8b57F1K6M8qUFL8S4TAt9p79Jkzb2yhVH0lAX2VvvdOPmWGo27aiAxcOtPY8yGDmzpXLRNa2UZrjzAbhpctnj2d6-83nNTO0L2AlaeukkJNeHc9duBxtBbwOJ8UOBmjEvrMLwHahNs7oeePJYfIOg5CoB6WZHsO_i2dHEWa8mQIxcBKSVt8rTsQ2DRkd_t0NpJkKvogYGwLYa92b1LebtAJIzmEP0iluawRcy-b28o6G7UFUof-Bg4nL0luukfAFqtT2R27ByZpqmTmKGead8hxzaAM-IMqYK6qKbnFHkh2yFHN9iFd1s0WM7ZIEKl3QeC4BRKDZvMQPJbP79WTZptNSxqVV1kTEMmSvoOlUYvZGkjPME09T2CTKPmg1kvRxkBOy0t8MgExJVXnA8OM09TajOgh0dXqRe"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJjbaX7gkUkFQRLly7Lk17cSU",
+    "city": "Seattle",
+    "state": "WA"
+  },
+  {
+    "id": "ChIJE2Ye2moVkFQRaf51qnIiu04",
+    "name": "Observatory Courts",
+    "slug": "observatory-courts-seattle-wa",
+    "address": "1405 Warren Ave N, Seattle, WA 98109, USA",
+    "lat": 47.6315706,
+    "lng": -122.355005,
+    "rating": 4.3,
+    "reviewCount": 44,
+    "photos": [
+      "ATCDNfVEXT40GtSqY98aTVIuan2D5t6r5aEhyX89STlDluYIB-PMH1XbP8ltA5NFsNPngDn2ltkzfowyXpuZbDg3spePhMocxHyn1lCZa7CeW0-34ArwLAprTSRzHdMGZywkKprjOx7bXvajfioWG7ACe_undJcpRGeQu2s4eXFX-xoBMkwPZW5aTTnK6xx7JZnvqImjbxI20_0ZVOCD-V4ltTDkQx5GIY27CpQ6X6KSc4Z8JwenBtzhMl4x6b1GKJlDIZXJuW2w9eN6BbdTydseVB5V1zW_7tSuPEff2D9BlD74Xw"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJE2Ye2moVkFQRaf51qnIiu04",
+    "city": "Seattle",
+    "state": "WA"
+  },
+  {
+    "id": "ChIJRbDI17hqkFQRJxdIHdse8To",
+    "name": "Yesler Community Center",
+    "slug": "yesler-community-center-seattle-wa",
+    "address": "917 E Yesler Wy, Seattle, WA 98122, USA",
+    "lat": 47.60151,
+    "lng": -122.320222,
+    "rating": 4.4,
+    "reviewCount": 291,
+    "photos": [
+      "ATCDNfWnlYYQgCEIdjWDCRR8Y4F_-GjOGeHN_7sdBB8BRJQnW3pA2IXiBtdIjguqrDK0uHkqsLa1_yWrqYqdex-1ZTP-xkkA658QWoAGZ6pC3H_h6Sp4tzUC88G9cuHHQoS1vgBQatq16KP2FD2r0Q8v2ivwDRFFMKVZgGvCMnqXV_gLsyKqShVOsNL-ZfniGR24bdS1EohPA0Oym1fPZUyLZjBFleO3RW44-2rCIE1y04OPfBBOkAAdLGTDt1PG3Bj0HybvqOjLOxqgVO99txsPItOSVBOZY7Ahk5zWGxom6shqaA"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJRbDI17hqkFQRJxdIHdse8To",
+    "city": "Seattle",
+    "state": "WA"
+  },
+  {
+    "id": "ChIJAZpvKdVqkFQRFoUYHG8OkiA",
+    "name": "Miller Community Center",
+    "slug": "miller-community-center-seattle-wa",
+    "address": "330 19th Ave E, Seattle, WA 98112, USA",
+    "lat": 47.6217681,
+    "lng": -122.306964,
+    "rating": 4.4,
+    "reviewCount": 212,
+    "photos": [
+      "ATCDNfUcsXOzys3EGvw-Q0b53LvTLSWoIVkSumLMR-mdgDs9R4dnBPuvezyxC7z2YkncuYCIQrayvKKCjGPgh5ESo3Qwyn1d7jbBznnCOlzrToiDbLkT_RRz6YEcRO5Gh8itsbkt-Rz0dotogaFMFlPTycfnCZnbyx2EjfTJ9-He0DBb8tXmDaInLHkP5mvRAKMVuRTsTmK4qbRoN9SI_CGjosSGsNgDHmmYqx9DUurofIuO9mPHCo2QP0x5qqOsH2MKMe2PNIpv5GGF5Av4JvQQPSYbkt3r3Oa4n47HmNBheGCFlwq-tsJlNB6CWcFoFn0PIPSTPyxXxgeKlPh2155km0ESFZtugVHsQEDGx_LaYNjiZfkvspKWT9Ux1mc5NZsKShau31Lbm-9XQlI8cSTcPOpjaIra2cndR2cbYqbbhCXywOI"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJAZpvKdVqkFQRFoUYHG8OkiA",
+    "city": "Seattle",
+    "state": "WA"
+  },
+  {
+    "id": "ChIJgahdSABrkFQRtY-dfui4kiE",
+    "name": "Miller Playfield",
+    "slug": "miller-playfield-seattle-wa",
+    "address": "337 20th Ave E, Seattle, WA 98112, USA",
+    "lat": 47.6214174,
+    "lng": -122.3065401,
+    "rating": 4.7,
+    "reviewCount": 13,
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJgahdSABrkFQRtY-dfui4kiE",
+    "city": "Seattle",
+    "state": "WA"
+  },
+  {
+    "id": "ChIJpdJ18LUVkFQR7drsvOjNxK0",
+    "name": "Gilman Playground",
+    "slug": "gilman-playground-seattle-wa",
+    "address": "923 NW 54th St, Seattle, WA 98107, USA",
+    "lat": 47.6674414,
+    "lng": -122.369546,
+    "rating": 4.3,
+    "reviewCount": 378,
+    "photos": [
+      "ATCDNfUOMQCE7vpHzflRHnL-Ps-rhZ4Q7vDp33FwEp82Xm-Qj8GkeZHD68KtdA-lHl4DszjAJIBR3f4EdTGhuZMU8N0FVzdXCvk6ASGxqmBXLn1P4Wmsb-tfj0zC0FXJxP8eRw-cNLCfTd__b4J-kHHKgEbMCu-mdciaUazqvj0F_VN5KEwOKzrI8YyNY2IcWEM_UOaPpWWCwuBoRKKdKix0GxDZ8WLV0943gTqLroH3NqbV8iXFg19_q4zBxLgPTeGUvzJEUf1VkP2SZKfY52A-rF8cNP6MYOkbRhAhBzQptP6V4G3Xneheqm4l4kLi-ETXNVcf-9k0ZD9aFzPxKR2AiXZex3rIHP9JWTYl-5645EE60Z6xCqQrMt9cKM3FpbxrFlTLOJgTDm89IxDroVL_mEwhoGqlk87FUngKKG5K4PuHJw"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJpdJ18LUVkFQR7drsvOjNxK0",
+    "city": "Seattle",
+    "state": "WA"
+  },
+  {
+    "id": "ChIJZx8fMBMUkFQRXfvD0Cqlvak",
+    "name": "Green Lake Tennis and Pickleball Courts East",
+    "slug": "green-lake-tennis-and-pickleball-courts-east-seattle-wa",
+    "address": "7201 East Green Lake Dr N, Seattle, WA 98115, USA",
+    "lat": 47.6815308,
+    "lng": -122.3283887,
+    "rating": 4.7,
+    "reviewCount": 61,
+    "photos": [
+      "ATCDNfXONvoxwaY7th4lhwFcO18mafYkvlGFGjin1LzsIemT1mlKBOHmHC6g8ZqvlHxFhh_NcstQzdECTuU07DS4BgoqBemTdflnkZgybF9C6YrTquKahCq1ZYBEbbADcuozLSueSo-HHXvvwMWMjY8cdYS-XQq3tcx4cqg9Ck82xPk6nssXt2aEYOiHH3mM-Zjv5-VnJOgdgbi0maGdzigkKBqAi-j99-QdCHw2RZGaFjsF9fp5T5ODI0PBNhlVx9S4Mj3u581vwi8ifG_N7Go9NjmbmDJHsB_dVeuOAOZ-WH4RQn-O8qLzOo1jalu5c6NViMFAAdDXg2tMYbJ1RQMnFg1qabW9jw2x_25VnpCzVFcN2EC2FL89-6N-2HjiHCgk_EuCfcPQd0D1ueALaEGAy83V30fS4xoCV-cnXflr_Qk"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJZx8fMBMUkFQRXfvD0Cqlvak",
+    "city": "Seattle",
+    "state": "WA"
+  },
+  {
+    "id": "ChIJ5eDOcg1CkFQRw--vSEDQci0",
+    "name": "Rainier Beach Playfield",
+    "slug": "rainier-beach-playfield-seattle-wa",
+    "address": "4707 S Cloverdale St, Seattle, WA 98118, USA",
+    "lat": 47.5255442,
+    "lng": -122.273173,
+    "rating": 4.4,
+    "reviewCount": 109,
+    "photos": [
+      "ATCDNfU5JGL1v5p5q1VzPeP1YDaYlXRbeWrRBvvw5OzwVjxgg2HbTJQA0QJXY_pmTHxpyDN-xj8Ar7fJ1mhlfPgX867jhubLBIKk-5sm98cpekvosrhjTAnn-e1jV6z6PUknbWK-pKqwnXvncsVUxLeePcxruwvwlFjlv-e2AJLZhR3TAfgvkqAedh66esWDJhOaVosbfQ4qHQCU8iUudF1eJg5-Imo_UsDA-_2MRdr33NwoL_GPOM7aIE_R4P9STC9oNWckp2mzyOmtFxK8Up5s4nWYkyu9KGxN1Dtj7k1GfO-Qvw"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ5eDOcg1CkFQRw--vSEDQci0",
+    "city": "Seattle",
+    "state": "WA"
+  },
+  {
+    "id": "ChIJ84iJh0drkFQR_EVAN4x8KQ0",
+    "name": "Mount Baker Tennis Courts",
+    "slug": "mount-baker-tennis-courts-seattle-wa",
+    "address": "Lake Park Dr S, Seattle, WA 98144, USA",
+    "lat": 47.5795238,
+    "lng": -122.2885196,
+    "rating": 4.3,
+    "reviewCount": 18,
+    "photos": [
+      "ATCDNfW56hyKWfcYSN8CMIIadNHcjBsdLGzusyurnBoy9bJxjhToYTee6hk7xNou8PHuEppu3lMJSAz8VEJa3do3jmRQ9QinRX4OhuVBdyzzooOWEKjmAfwdFLZyqcXH58zEyehg38atJscWwbGkAIYAfQSxu3LYY3MXktEz1LzR6ZS_1XpanrMnFFPne9MD-HCqPKAg-k0nrTsyQCjTz9w9MIIVCbFw7aD8O2WjY_luW0V5YMbSd87wigRi9fpCKzO1Cr9EG0rwpx-Y2AvgJZk3q1Uj0LmKzrGlLcIaVI8yDr4f_dvYBJOw6Weqt465XBi9R6fH41yUNjV6325Sz3nAvkIENbMU9LwDcN8CZ0y5E9_6fg7T7wrLNlUEnACRCTriwaHnaOKUXOuQZ2NjXlzsjh3-ZEEpquAsifuZUYx9D5rJmg"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ84iJh0drkFQR_EVAN4x8KQ0",
+    "city": "Seattle",
+    "state": "WA"
+  },
+  {
+    "id": "ChIJyY7SJQdqkFQR0LW-KmBiYcw",
+    "name": "Brighton Playfield",
+    "slug": "brighton-playfield-seattle-wa",
+    "address": "6000 39th Ave S, Seattle, WA 98118, USA",
+    "lat": 47.54933399999999,
+    "lng": -122.282939,
+    "rating": 4.4,
+    "reviewCount": 213,
+    "photos": [
+      "ATCDNfW9WWxrKCLKqg6lkyAoK9lRn4tbGUhc1WlWtbgvJYwuXcjYmySqdl0TH5Z7Gi33uFegCclgtr_E-JyF059XMy2nJYUsAgY019zzd4wr-xcZlTc5tmGMGC6G-Pq3H4dp_0MJ1fZZqUrBT7JHbRfN-HD-uw6DBgJsmdXzLqocVDg6NwcXO_S6DFA2JNNk3zM7kExsF7G803ps51B9uNGGbwOrrLKWE_ZkGn76YKzAXMhh1dGh-4Y_JGZw4Prn60hdUQ3QbIEXzgvHzsdaPeOoN7BsR84k8QUMVFUQEc_3FWfh569EVvUNmyH8_N5phMZL9zCN3tpDvvTwHTDBlTcnK8HcIOrlyiMPdRNAygC71hDJrvEIkgZM4NQdo3BCbKHre2uBe57DVQ5xn9mzrYV6fKc32RRJcmu9EMfi3iTZ_RnwPig"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJyY7SJQdqkFQR0LW-KmBiYcw",
+    "city": "Seattle",
+    "state": "WA"
+  },
+  {
+    "id": "ChIJXe8EU2hBkFQRwxCpvvl49gw",
+    "name": "SWAC Pickleball and Tennis Courts",
+    "slug": "swac-pickleball-and-tennis-courts-seattle-wa",
+    "address": "2901-2945 SW Thistle St, Seattle, WA 98126, USA",
+    "lat": 47.5279541,
+    "lng": -122.3699545,
+    "rating": 4.7,
+    "reviewCount": 31,
+    "photos": [
+      "ATCDNfUHu39x8lVdj4cT0DatMh6rtfshMUfqMioRpdRebinyjh0nIJela-0RLcFFj2kPfFEhEg3kd4t_uZkgCYcrdEmgqJsXoyDaI5yfqIHjGAXvCtLn4K0pMC94SWq3VFRI7Gb--X1iMrz5U3m8kfcjw7tP0bc5vX_Aue3hlZHNs_-tGEDdEFNhTDN_t1_r-nVY7pVyVE1eqtZtzsB2qhU__wj-ZS-xbYx2hNHNcO4VVzPpf8e65gGvQFSyVxSRhnwX-dBnku6t4S1zyGdZ1KAKD9rc0SUBKTC-C8G__PlDt5A_K7XozJHuyRIp-OkvvC5X6rmfy3KPZilZRF8l7vJogQoQGSFTwLrzE4rH1vJbjHFjTxcYAMgPXROW0rmpM4V37BZUpHH6WajoP-Edt7dEGnTJg4PocDnSJFfHxS4CK-QVMV4"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJXe8EU2hBkFQRwxCpvvl49gw",
+    "city": "Seattle",
+    "state": "WA"
+  },
+  {
+    "id": "ChIJA3mSXYkVkFQRdhaMYX4d03s",
+    "name": "Gilman Playground Pickleball Court",
+    "slug": "gilman-playground-pickleball-court-seattle-wa",
+    "address": "923 NW 54th St, Seattle, WA 98107, USA",
+    "lat": 47.6669649,
+    "lng": -122.370274,
+    "rating": 4.6,
+    "reviewCount": 10,
+    "photos": [
+      "ATCDNfV7fg7FayemI4vgyHGfKvuFvL0WDdaNLqG5za6hMUDPNGINIxkjLkRioitMs4sq5rZ1LjMjJlDHAStXjcbXQnHbZKbFklf354s6qD0ojWo00usI6DiF9zXOiYZYYQ8FwLzbqrDLTAwAHHpyQISRhGZdSv857pAVCpLJfh_yTln-OgSf-EGQlnLkyfHuPyhukUUCwjb-iLYGcKvuSdGlcBnpddqN3FgzUHsuMIpbxCKwJ2wmriMUQMsVyOXp2W-zwNtg9BhGl6EQwnwm8ktAwHgEzGMbN2WcX9eUkNyvWVoPgv6FLd6EhHO4RrJliUsIYuXzDYJZd2GQGivRGFubjPYEPReEvEAsVDmunvp-0yYdD6-Oim3-4EZ8gurS1drYrdOptn-01KjTbRQVaWAViKEquYnXGq8Kda48fvlSgU5PjVWbwmIAfuE3BJHFGiJH"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJA3mSXYkVkFQRdhaMYX4d03s",
+    "city": "Seattle",
+    "state": "WA"
+  },
+  {
+    "id": "ChIJtYvzusIUkFQRC5uF3mWN6bY",
+    "name": "Montlake Playfield Park",
+    "slug": "montlake-playfield-park-seattle-wa",
+    "address": "1618 E Calhoun St, Seattle, WA 98112, USA",
+    "lat": 47.64221999999999,
+    "lng": -122.3094864,
+    "rating": 4.5,
+    "reviewCount": 389,
+    "photos": [
+      "ATCDNfWWo6d2wWcKfhhQ19Ckf6HlXk8cx9BscHJpcgHZkpK4uKBybLnGuvKUjtO0VI6RP3z_3695jaAIOuIDlRLWQqisEuXkAq4y0Fz1OTGyBaPL81k1U1yJWOB62jCvtvKbZBXGLeH5qx9AgQEpuPvlFvzqOKJ92wNxRTM56-7jJUCUKhP8V7ZVYCWMCfjvN7we5QuSXzDU-iR93GeTNFfQ50pTDT3fUaCj67jqvgapFl_7vUwsIerEMTmrCC0BQRwICtqrtiCyaTq2JSgM0jqHJXsGyV6O5hRfmFE3vjdcRrxbDg"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJtYvzusIUkFQRC5uF3mWN6bY",
+    "city": "Seattle",
+    "state": "WA"
+  },
+  {
+    "id": "ChIJ7YPuupUVkFQRiyTtUkxW0SE",
+    "name": "Basketball and Pickleball Court",
+    "slug": "basketball-and-pickleball-court-seattle-wa",
+    "address": "1618 E Calhoun St, Seattle, WA 98112, USA",
+    "lat": 47.6419098,
+    "lng": -122.3092286,
+    "rating": 4,
+    "reviewCount": 2,
+    "photos": [
+      "ATCDNfX1w4nZDyMfHX5BLsqyCvHlHEuHd8-lJJvlUXUf82alufIgPYbeVOfIBImNnddFG_8VW20QtCFVxHpyjuPtjP3Aiy_6lJwnKYeN4XvtdiRtbVl0BpcXhiYDfZ-3kGxH_OL5N-W_P_i3wQgpTEqONkht-daopKcIrtSDUcJJ0lNqVb6wlnPDD5vz86Dct-tdSz7gOzcDjtQBPscp9RzBnSeKT5xyrA8EvQ35I5pKLEY9S23CjCYbHrzeAzUUJwAMAFfEzQTOVsPj1N0fWDQ01qyAkwymyD066JgfZl4_vlIVh0cCycpTMvY3opYFprJd79MSfw-rxxGngxtHIHnonRuLFCvoSGSmy3LiO5T2hjdAVQN4dcofo8s6jNuSU_9J2ckI9NPLhpkJUdum1oybmoDr-A-gJ5k_WhkgsMnM8rfojA"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ7YPuupUVkFQRiyTtUkxW0SE",
+    "city": "Seattle",
+    "state": "WA"
+  },
+  {
+    "id": "ChIJJ1-WRFJAkFQRZTbSZM9a1MQ",
+    "name": "Delridge Playfield Tennis and Pickleball Courts",
+    "slug": "delridge-playfield-tennis-and-pickleball-courts-seattle-wa",
+    "address": "4458 Delridge Wy SW, Seattle, WA 98106, USA",
+    "lat": 47.5632819,
+    "lng": -122.3649883,
+    "rating": 4.8,
+    "reviewCount": 12,
+    "photos": [
+      "ATCDNfWTCY34vjSZfTb8qfsDmZCOzHsb5T3HNexgrptrAomiSQJr-xMFOpH8qf5ufdScke1E-xFPS4leRnH6z81M2RldxsS9oeZ6hwc0zT3-iyz1vilTkYbT2PlIB5-CLwigNIg4PiPFynY2O6uoBTd0NI8Vqx-E-0DNdG7a5hvlFg7JuaYtf1yR6DkgKnz75k4R0fscZtmpm6gisZI5FMPwnex1lVqAQL-SkhzGExvvB20N7w1aDBhggQrJa_HGxZPxW-pm-y0hDaPYGKjWwFXQVqoA1u8bJqCrgJjLI1qTVmeVH-ma9tph5eQOrrtTZzXvb-4oeiy9fWgUpDBl7vdZz0tLWq63zRZ4a_s-zvbCbo9YJuau-adVZb25xwQO9kYAbhbzTqar56tv3gZY543Kflv5vbOOrbaAmOydh5gwcVjJMYd9"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJJ1-WRFJAkFQRZTbSZM9a1MQ",
+    "city": "Seattle",
+    "state": "WA"
+  },
+  {
+    "id": "ChIJK20DX1JAkFQRIaAy5mzMbog",
+    "name": "Delridge Playfield",
+    "slug": "delridge-playfield-seattle-wa",
+    "address": "4458 Delridge Wy SW, Seattle, WA 98106, USA",
+    "lat": 47.562992,
+    "lng": -122.3645195,
+    "rating": 4.4,
+    "reviewCount": 707,
+    "photos": [
+      "ATCDNfW_5s_JgbbFbh7HFUm_UV4PYP0mC8-anxPc_5szwnJ1AQSY_mibVPTrJAZ12Xu3otAFbmvlURU1DQy7H-Z4GMm4DzLlJTfIVa8j6isW5tzQBapX1BhUHA6XO-pdcJQaSwsvtS55F8DeMsgGF-v7ake2Vh2iosxNNpQo5O2ewRcpXO7G20KylzWESfoYzIFfhosySaYt2yybOX-J3-8Gg6bsJc91rsRzE8C8mMJ38V6ZCE6O7jnN9VZvLMcE1jXYcVnydXdEv4-7ObkTvGgokyItY4gbN4BJmLgfYGfxq1KpUg"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJK20DX1JAkFQRIaAy5mzMbog",
+    "city": "Seattle",
+    "state": "WA"
+  },
+  {
+    "id": "ChIJWR7wZXhqkFQR2chT-PFZQ4A",
+    "name": "Jefferson Community Center",
+    "slug": "jefferson-community-center-seattle-wa",
+    "address": "3801 Beacon Ave S, Seattle, WA 98108, USA",
+    "lat": 47.5696993,
+    "lng": -122.3079517,
+    "rating": 4.6,
+    "reviewCount": 186,
+    "photos": [
+      "ATCDNfXNmVz2M3ap_epVgIRo5jXMVzJskYM6dKSeEytcYsby0dgffOc-BKPuq4cwRfzQPYsP3lPJMv9W_0NICs56k_sE6mapzkhbqZCxUSugKNvo3Jz3Pn1Ez2C_PI4SCCWG9T8sQ395xe6wGWkIfzR3fNPrcVmGJlEuPDrSBYZ8O2DUwMC_JG1XqujiMcnOR3rGfJaI72g4EXG9J56NFDdik-7nE7-t94p2pSzJePxITa4cqM25wvMotDwXu_ddYy-gvewMOnC4gV1eiLOEwCaHquWVsI-FeXoh4qAEbsaiK235Hw"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJWR7wZXhqkFQR2chT-PFZQ4A",
+    "city": "Seattle",
+    "state": "WA"
+  },
+  {
+    "id": "ChIJVzXJnb1qkFQRZ4DavtFXQ5A",
+    "name": "International District/Chinatown Community Center",
+    "slug": "international-district-chinatown-community-center-seattle-wa",
+    "address": "719 8th Ave S, Seattle, WA 98104, USA",
+    "lat": 47.5961399,
+    "lng": -122.322797,
+    "rating": 4.3,
+    "reviewCount": 204,
+    "photos": [
+      "ATCDNfXWd0olP6amlPdIHwbcgU0KkgR_Rw9bvaco4HzjZShhlAWpz3Pa5f8jIDnYlAAUJLn8MokJ-ccbKuyUryUfxdX_fvFdzfiNO_ZB-2i8kx-uEb2kmqqKL_d62q-ZaHlOeLvHI6Wgy-cPuFrp8Jq6zyWhBGyvCxd295pZTX164_o7ySFF9n6wzSYyHMyXLHTRMLdOKdmvUc5MIGY-zd3lI9kmIzjjS3bY5p3vorl3cRdgGJnKbrR11NrtVK4497LvCcFzlOv1f_NlZHmXvRK5d9D1ye4Hh091QTLabymdhd9bbg"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJVzXJnb1qkFQRZ4DavtFXQ5A",
+    "city": "Seattle",
+    "state": "WA"
+  },
+  {
+    "id": "ChIJ9dQtxYAVkFQRgz4Mest_Sps",
+    "name": "Magnolia Playfield Park",
+    "slug": "magnolia-playfield-park-seattle-wa",
+    "address": "2518 34th Ave W, Seattle, WA 98199, USA",
+    "lat": 47.6409455,
+    "lng": -122.399698,
+    "rating": 4.5,
+    "reviewCount": 206,
+    "photos": [
+      "ATCDNfUfF3fw0yuJ2OVYQX_JSAum8r_PwiwBf_1cgEIWyJdHqcPEEJnbODPgI2comfGUarqYXhBIS8pe4ns8YIT8fhvSeIawd6mrUz1wKg96C9Ju-3PAdyRG1H_4Rq9ztS6fEqdVFG7B2xofXnLd3a1PRqNm3S_leAkqfM9AgzylnqZxHTUPNzhqe4I9A4QLpXVaqLyW4ddKUp2aFyzaNs_dIYrknYAhrSdPFd3FgxrO16HNItCr7rKEQPOc0CVDhbrrFgYd6YjaIKRC9d-NHILO8mAoAzG6vDZwmsLP8mTBBBuu1w"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ9dQtxYAVkFQRgz4Mest_Sps",
+    "city": "Seattle",
+    "state": "WA"
+  },
+  {
+    "id": "ChIJ600WlZ0UkFQRVoTDEsOsL3Q",
+    "name": "Laurelhurst Park",
+    "slug": "laurelhurst-park-seattle-wa",
+    "address": "4544 NE 41st St, Seattle, WA 98105, USA",
+    "lat": 47.6601159,
+    "lng": -122.2779859,
+    "rating": 4.7,
+    "reviewCount": 254,
+    "photos": [
+      "ATCDNfXiWn8HMHbrzFiVuIIRJ8bLqZhJig3bZz3SHCSLMKyN0hNFVdcQ4p2H8IbQRYjMODP5X1jSIg4jRci1FkfLwyaI4ZkPhMVk-CPoUdNmEA3BkAmaHseqvFBtYoJiCVUpU4dhmz9tccn1K8gsJHpl1Qlk7Kv2LCjvBaZRa5Fqv8j0BqfSdqsQdBUEHK9riYpPCRGkFWFg8KfHXwDEUoGtm5Y3eI7Ab3Qj5ES7bEV4XttTfIWhX6f5nQggEblU2kbBoJDSLdAs41ZhSn_mG5qp2S61Q4BhbNYFacqyir0gPZfqsEp4omi4buVZPBoAF56V3LVzAkSOen22CkrDMzCOH-8pTZj-8fp_cQxF8MkolBDhhbS3OvR_QmLgK8PZv9thSrCh6KIawSvC5D7NRXEzT754a53dkM7k57e_Df_-RSV-7A"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ600WlZ0UkFQRVoTDEsOsL3Q",
+    "city": "Seattle",
+    "state": "WA"
+  },
+  {
+    "id": "ChIJXe0xfyhrkFQRF-tIOip-NpA",
+    "name": "Brighton Playfield Pickleball and Tennis Courts",
+    "slug": "brighton-playfield-pickleball-and-tennis-courts-seattle-wa",
+    "address": "6000 39th Ave S, Seattle, WA 98118, USA",
+    "lat": 47.5479581,
+    "lng": -122.2829819,
+    "rating": 4.5,
+    "reviewCount": 2,
+    "photos": [
+      "ATCDNfWAfZdivEn9uuJ5eLDNDH5JLiFblzr6zYEOT8FHIVM1xyBdwjD-oPrl7RndGPmx3a1KMuiU5fB1tsW09fksxRUSfyg49Ip61DYJZviJoDM41_YOCuLxn4DvkOqA7IbM1UFNKsunsCgMn9NlszvUac8NE-BW7ZpDVUTs86BYASnuVgUkhBgD1pDMy4Vy7d-j697sm2JYyrDtbPVeSY3KMaHRTHN92hFWbns1QyLUmsF0QP0dwqfo7Bo6PShTBjnTlnVgaKsbCfHZmF3Hh2zg0IuWtJkAcTpz7StwFMEdq0IiB6MFcfitiBsqX9ihuxukgw9r6z7LBBsZOEVnd3ryglxG70fDCELmgknP5bJKCRpO5WJ08kILOs2q5bon-DJaG64t1kbM-96Hh54Bhu0dkpNllxH0hm06lGIl6Bfg_szFZzWB3uJWIFkFtTiD5iMn"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJXe0xfyhrkFQRF-tIOip-NpA",
+    "city": "Seattle",
+    "state": "WA"
+  },
+  {
+    "id": "ChIJffoNCM1qkFQRQPVpV0EhDoA",
+    "name": "Cal Anderson Park",
+    "slug": "cal-anderson-park-seattle-wa",
+    "address": "1635 11th Ave, Seattle, WA 98122, USA",
+    "lat": 47.6170185,
+    "lng": -122.319127,
+    "rating": 4.3,
+    "reviewCount": 3245,
+    "photos": [
+      "ATCDNfWCiSX0i3ajhkuMhV4q-Vi5CMdFZR7NsYpxAHl62lnpbg8PpF3YvoWJXnUBlEXeF6O9e_rEYPwf9zhmI2GsvuEO7u66KszAH3X4kzT3OJpF2t_odQ4KVhHz2loWcqkGHwVwAJ9PYGthg-2eC11iGca0eBEhm1bdw8O74cKC5Zoa1NjWojRhIVDfKtDux7_qGUcUho6G6zVF9NOyllQxfcPPk7NGazA9jnnhZgyuESktxaA7zVGWHZkRgoZZpoY8Y2p8Ft3BIu7emWR4LyCHIRr0W01DVBqJ3Papjpu58gZMyg"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJffoNCM1qkFQRQPVpV0EhDoA",
+    "city": "Seattle",
+    "state": "WA"
+  },
+  {
+    "id": "ChIJdSR4hj1BkFQR1E1mfCfuw4A",
+    "name": "Walt Hundley Playfield Tennis and Pickleball Courts",
+    "slug": "walt-hundley-playfield-tennis-and-pickleball-courts-seattle-wa",
+    "address": "6920 34th Ave SW, Seattle, WA 98126, USA",
+    "lat": 47.5401652,
+    "lng": -122.3747643,
+    "rating": 4.2,
+    "reviewCount": 9,
+    "photos": [
+      "ATCDNfVnSMYFszIv67Sv1kE4oiw3EqKGXvsacuUtTmJ2pkQ2vAL86Kc0grH2_m1CmhbCEMuIFkRzEI5l-LPpWNuXSccfV87dTXlDQmI2VdBomdUqiQOmqMqBt7jNxHSPl7KcwJxplahgN1JZUJ29MiM9vK6RPBBe3nxDc8wNDhNufebUVLxgqBZ_BUPKiUBJpTsy3EDATJjuR4qw5mEVy3xXUCZs_wcw1bTbJy_j65yX0Wq2EUWcis4kRTWGcMsrctnAQBqjChWqH1JRU3sFEU2qoAGNovOVGGJ8Rx04xgjHq58OQogDRpn3Szh5b6aLd6Z-y3LsumJtKiuF8EQ3cd9GtoX4PJAyMwY06DG7Tvb870W7tVy_1B9I5ovuRkwBnkXLtmD2pwPlm1iL9iKAphkMHvfN1qT-qzBi3C61GJpMUnoIxg"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJdSR4hj1BkFQR1E1mfCfuw4A",
+    "city": "Seattle",
+    "state": "WA"
+  },
+  {
+    "id": "ChIJQZzhaItqkFQRWQlsdzaXnqI",
+    "name": "Amy Yee Indoor Tennis Center",
+    "slug": "amy-yee-indoor-tennis-center-seattle-wa",
+    "address": "2000 Martin Luther King Jr Way S, Seattle, WA 98144, USA",
+    "lat": 47.5853565,
+    "lng": -122.2976644,
+    "rating": 4.3,
+    "reviewCount": 115,
+    "photos": [
+      "ATCDNfVrpYBekAOSILTw_xpJ4TQPF4WohKNEuRRSF0GlQ1-iXOUJ6IEZlwOgyOf0N4y3L-8i6cdgpwjjn4GkRHsd8r3mnuVWlvd0kV8elc2jHgSChWbkSV3qO9zNCzXf6DqzwFq_m9_kKpTlmxKcdH69NVhviF3rXtRw7uVYEPTeZ6ttZdKN5uFg7Jw7NtENaKlCX4qBl9UDEcAHAQbG3US9Mi8IcuBviuqxV-hLYlg8SXTDgamJOpdyqPAv8hQQS0QVsP8Pm_EMOelLuRbGEFCr74l0Lxdcnh5GrVjy4qMPahXOcQ"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJQZzhaItqkFQRWQlsdzaXnqI",
+    "city": "Seattle",
+    "state": "WA"
+  },
+  {
+    "id": "ChIJVyImwoYVkFQROOlkkh3Rmgs",
+    "name": "Magnolia Community Center",
+    "slug": "magnolia-community-center-seattle-wa",
+    "address": "2530 34th Ave W, Seattle, WA 98199, USA",
+    "lat": 47.6410337,
+    "lng": -122.4003177,
+    "rating": 4.4,
+    "reviewCount": 66,
+    "photos": [
+      "ATCDNfXbXWGXI5jcOSeGcigtYaSxiYGhEzxq23bcwZHtS1rEqWOYDiRMTiYTOcZE4-U2g5o5O2smwMgI86sUGHbae25RyMqTQ5HYSzm_7lNlff29syb5Lb6WQ3DjjyZoQ1F8khURtl-KPTd-4hQ0q4-NJtIwoAaK7rPon00OHvXuGzAALMETnnWlteDRrPAGIe8jBRce37jZ6bNKDUF7RbKl9mrWarWXZ73wmNvcsqHtFIXPeTF4ApphGsqjh4E6qPalF2rpBZQhTD6PxXFnXPtEif-I-4XLMv81qFaAsi6r9Ds83w"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJVyImwoYVkFQROOlkkh3Rmgs",
+    "city": "Seattle",
+    "state": "WA"
+  },
+  {
+    "id": "ChIJJRIspSsVkFQRAO3DzbFqOr8",
+    "name": "The Picklr Fremont",
+    "slug": "the-picklr-fremont-seattle-wa",
+    "address": "124 N 35th St, Seattle, WA 98103, USA",
+    "lat": 47.6518755,
+    "lng": -122.3561465,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJJRIspSsVkFQRAO3DzbFqOr8",
+    "city": "Seattle",
+    "state": "WA"
+  },
+  {
+    "id": "ChIJu0pJilJAkFQRy5Q1Wb-lKxY",
+    "name": "Delridge Community Center",
+    "slug": "delridge-community-center-seattle-wa",
+    "address": "4501 Delridge Wy SW, Seattle, WA 98106, USA",
+    "lat": 47.5633146,
+    "lng": -122.3643843,
+    "rating": 4.4,
+    "reviewCount": 139,
+    "photos": [
+      "ATCDNfVYB2XNdlzbP73JN6-Xqsn8ZNzaUP3R75TRwRWv2XzFl9F-xqI4iWQsGLdMqovcAFJtPTwW4DWqR_cpnbKgwbQ-kjiZOXcDwtLc0gHhSoRiHFf6trKcKqqpHS3F8QHdTF8CipUB4Am990Jdc8t8kTPXx9Y1LoGOZcUTlligKuL-LJBxziygSihqvOC_KtZwFeHDeDxjJysSvKt9yhLKhfw9gJKM8zvM-oA7x_YDLcvJy9rPVsZS83jNIKgbn4E2GKiOWq0bAYHyEbrP2jGNalTJVbBFhByanBpjUh7wMANOKw"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJu0pJilJAkFQRy5Q1Wb-lKxY",
+    "city": "Seattle",
+    "state": "WA"
+  },
+  {
+    "id": "ChIJWdJU1zttkFQRqqBOQtBBvf4",
+    "name": "Bellevue Pickleball Club",
+    "slug": "bellevue-pickleball-club-seattle-wa",
+    "address": "44 Bellevue Way NE, Bellevue, WA 98004, USA",
+    "lat": 47.6111216,
+    "lng": -122.2007564,
+    "rating": 5,
+    "reviewCount": 18,
+    "photos": [
+      "ATCDNfXyTTLsJu2C8HjmtWzb0oPOfR6PZM-6X8iO-uSrYdTZIPtyEKF9-6LeVxKnzv_bnj_aLh8O0qLalRf9l63OIrfuxpbb9SgfaKAKbzXA26hIVkU75jc83ejt0g5LwOlhePR6d8JkB8b-FeOxMwWBnCsfr1n3oskfrs5pQNgJ9wPN8OF81bomLEV9jvPBWy9Atp0MU3zPafj7gx2s65jT3bxYuNqVtkddseHSqA_LSSXjd4wnpNVIWQ05n2yG86aHLU5ilhsWxCQ-Ho4wMS_D0xYVlrVFIPg5JP4fn6EnZectWw"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJWdJU1zttkFQRqqBOQtBBvf4",
+    "city": "Seattle",
+    "state": "WA"
+  },
+  {
+    "id": "ChIJD21VGwoUkFQRJsVQ1pc8Vno",
+    "name": "Maple Leaf Reservoir Park",
+    "slug": "maple-leaf-reservoir-park-seattle-wa",
+    "address": "1020 NE 82nd St, Seattle, WA 98115, USA",
+    "lat": 47.6898896,
+    "lng": -122.3151962,
+    "rating": 4.7,
+    "reviewCount": 1217,
+    "photos": [
+      "ATCDNfUD6i3SCVYVK_gBPVfLIv00HjHI-M5KLovSBJusUVz6m7NTC8rU_ArxyRmN2DeNZstm1LoYITPfTu1cB-zyij4_HIOXCPGetBWKSmiBmKLdRGnuTfo2GUqHaAlY2csgjzxZgNZYp1cH8Pro7R1MD35AtBU6v_yHZSdEAp-AmuX_TS1ZppfeljQJ-FKBuFY5XoZ8Hsq-EgC8SG-zvzEAImEuZGXaMI7m6CAzzKIFNdLJSuCvo2F-YWJ8MRt2oiDOEKdOjaF_Ixp3FszYN3mUJnIUBwlZqd-vJkACDR8ajSj1fQ"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJD21VGwoUkFQRJsVQ1pc8Vno",
+    "city": "Seattle",
+    "state": "WA"
+  },
+  {
+    "id": "ChIJDaOUNOJBkFQRLdfvGYWCcQc",
+    "name": "Dearborn Park",
+    "slug": "dearborn-park-seattle-wa",
+    "address": "2919 S Brandon St, Seattle, WA 98108, USA",
+    "lat": 47.5530197,
+    "lng": -122.2955025,
+    "rating": 4.3,
+    "reviewCount": 93,
+    "photos": [
+      "ATCDNfVZCh6m4H8xaPMjc66N6KOhPkEO1tbpKM39mpJrLlqpREGlGSl-ixl_ZxjOpiC1d1xdP25g3Km5OS1PRtBTiGU1Hwp_U-ghn51toGM2OtLo0pT3RsxQyJqGWHUPJ8GJy5GelNXz66itAz4GzuoHbIZFRNHEDDPfxFC9lu4jRKIxbt-0XywBnW9mzlVbh6VB6R_8XYr4yANkE8XbkhkNZI3CuAKeeewrzfrWNZK9uAAYaEKGQZM-qxhtQbK2oXWVYNHRcwtYe5Id9T1tRo8yS1wsxJ_-Z4jA1R45ym9ANlqh3JFZ-FqCmNAwF1CU3_iyCv7DEGxN5nNCYUL7rdhmCP4vk5Wm6daq1ehgha1aihyvwKmIchDV7y75Hj2ocWuzKmdy94EKEgPk5SjAU7KpKTHE_SWOMK0TgKxjvGWd9AM"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJDaOUNOJBkFQRLdfvGYWCcQc",
+    "city": "Seattle",
+    "state": "WA"
+  },
+  {
+    "id": "ChIJy6xSfYIRkFQRybITIKOVtbQ",
+    "name": "Bitter Lake Tennis Courts and Pickleball Courts",
+    "slug": "bitter-lake-tennis-courts-and-pickleball-courts-seattle-wa",
+    "address": "13035 Linden Ave N, Seattle, WA 98133, USA",
+    "lat": 47.7235023,
+    "lng": -122.3498622,
+    "rating": 4.2,
+    "reviewCount": 51,
+    "photos": [
+      "ATCDNfVPUSgDV8m3w1r74LXEProiHciKaR7Vy8_xy_sc6rFq02xPbpBCU6zbfHjD_EaXI3E0tmI37R4XMa5hHxlGE5AlAsjDK3UJKBbxOAFRuWeJ3Utv8rMoKV22gU-5L1V6pubRPTcv8baW1e7q57HyI0cImpIDG2W51psVsLDEYFRexMTXvQ-8dFUKxSa1DZQWMMeuBwwT78FOHwoe7xCXsnF_xYBM0646CMjLZzQGp4x33tkRzJcezspdI9itA4YfnBd5bBKGDtiu3LpXyaG4xEJEbSQGa9s-XFwesHHGv68zeHE0fqOxjZLCvZEaGP_umbOCcyyU0b8N0Xkic_oq4UatOlgXVgo6425D8dWDMKANf1KG00HXAaABtVMAfK_VJB90cGcef61XFW7ngfu8cYxsExqksCAFY4AGhS2VkXEfudeQ"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJy6xSfYIRkFQRybITIKOVtbQ",
+    "city": "Seattle",
+    "state": "WA"
+  },
+  {
+    "id": "ChIJ7R34KW0VkFQR58DMYuZT5eU",
+    "name": "Queen Anne Community Center",
+    "slug": "queen-anne-community-center-seattle-wa",
+    "address": "1901 1st Ave W, Seattle, WA 98119, USA",
+    "lat": 47.6362323,
+    "lng": -122.3588445,
+    "rating": 4.6,
+    "reviewCount": 151,
+    "photos": [
+      "ATCDNfVQr7XVRacmnXegOZod5H-6-eEDdVc8I7z0zw93qA7VCXu8luMG9mvt81LyYv_3KOrOC4uE96TDRcXdwKIbE0QmI3ZvSK7hECYR4svOx8iJ0hjnWIDpxdFK7qp7D5xZXiUGtAkRYZeTiiXxekVa2vx6VHxn4ZFtcwJPZpEmCNhxdcWFMEKtvzcVQq8oZy138V65F6cubeVRxWkpB1Poa5_q6Ze7KfXsgzeJXdQ5dlBK9Op5UlvB-MnvkJHZh2NK3dFKz3CA8ku1aHXqkkF1HGIcKwaTZ-wjJR-bUtg2R71_2A"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ7R34KW0VkFQR58DMYuZT5eU",
+    "city": "Seattle",
+    "state": "WA"
+  },
+  {
+    "id": "ChIJ7QOrdupBkFQRS77K_bCGI1o",
+    "name": "Georgetown Playfield",
+    "slug": "georgetown-playfield-seattle-wa",
+    "address": "750 S Homer St, Seattle, WA 98108, USA",
+    "lat": 47.5514318,
+    "lng": -122.3213014,
+    "rating": 4.3,
+    "reviewCount": 576,
+    "photos": [
+      "ATCDNfVnq4Sol8jmfIfc8IYhPuRv2_enLTG4S5iVZr_BpJ9JrWZzBbQIX3ydgkhNbO57jMEwhwMcP3X7AME-USAh-gHzFsGf7zwlM3VuHomlf8lhYIhYP2vbXaGLmduKodJJ6EZu-tKv5tUsWm8taKUMz56POwL6NrwFGJRcVRDIXai-h3IPKWJ51GYHBE0OGyvirybu1_bcZX3KWvskez3DKY0d2NXSCMvxerkxqhzYEmPrsnnuzJ0E-AJjv1oewdEwhJ2EybHIQXPRgZi6scNKEpB6bbDmdektmNXrE-yXNPk56zswlTccfLa6elqlegUGOedkqZfmjaIXJKGL6PmN0AUaRQIx_rYc_nUc6GwbewyXs9hCBhTilLymPUmmGpno9YRMXpnxD3rnlHx7bEz3yr0jn3S0WymsLHJt2qa9_cLhK9D6"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ7QOrdupBkFQRS77K_bCGI1o",
+    "city": "Seattle",
+    "state": "WA"
+  },
+  {
+    "id": "ChIJQxlGSt0UkFQRh59-YIKpDkE",
+    "name": "Montlake Community Center",
+    "slug": "montlake-community-center-seattle-wa",
+    "address": "1618 E Calhoun St, Seattle, WA 98112, USA",
+    "lat": 47.64168,
+    "lng": -122.309974,
+    "rating": 4.2,
+    "reviewCount": 89,
+    "photos": [
+      "ATCDNfXZYmJB5ihhpvxKT6yTIhKzJg1nSIb-7mrQUzYv2zDx9raLhnhwJgpCl01dfn1vUKf9Rohq8PfqU7-44diTEHQxlVziFBKQQsAagHnQvToB25hTyRSyLo-Iyf8r_suH1lJdkmKP4D8tdRg2Lfw4Qs0zojiCEaRDQhhubScJ7a7WUfkLFDW-qBuKODa0MlZBZ1wy7vhSd5Mtbtpi2g-36GS2WNfXLZtfpRbDADRfXmxyYuGOSZWb4AY2jW9jz-zvembYazB4-Gp-OhJIo4g4_ktqIHyYqKqIyQAhMSF11lfivw"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJQxlGSt0UkFQRh59-YIKpDkE",
+    "city": "Seattle",
+    "state": "WA"
+  },
+  {
+    "id": "ChIJU_GH4rRDkFQRS3gmVu9K9YM",
+    "name": "Lakeridge Playfield Pickleball and Badminton Courts",
+    "slug": "lakeridge-playfield-pickleball-and-badminton-courts-seattle-wa",
+    "address": "Seattle, WA 98178, USA",
+    "lat": 47.51015710000001,
+    "lng": -122.2471324,
+    "rating": 4.8,
+    "reviewCount": 5,
+    "photos": [
+      "ATCDNfU60i7aBMFArH9EDB3WSM5nylYbVFUH0RbCD2NzyZWLszZHWrjb3LYOsYKkAmTEQYQ1I9pk2S9QRtVgFfj3hQ-jCeQ2WbpA1l8xg46tfISetcJr1nApiDuq9Jc5R7ct-CxXNeEfRxFFP-th0Rp2iagq4tLmdfSlL7nJmjsIalwBfqGPeKcCe3CmJ6Dt4gZc_hQ1hOF9-554Xa0Y4Fv5OpS_zi5N7ZixdPhTRcCN-U28p0K_dKR_0qz99msDKq2kkf4_b8dFEvErPhRUakD0dsP0UyzIc6w7oFmliBuJu0eM1Y5MF9fNNm7-phjIHQ-VwivkiYay9iBVCvxWqnvcyX9nC1TjavYsepDEPDq6sR04LRSM-BqEAekgHIGrKhsckzWsaeQNYlS52bfx17Styo4GQJXhu_3o5MgiuhqJ80BR1sVt"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJU_GH4rRDkFQRS3gmVu9K9YM",
+    "city": "Seattle",
+    "state": "WA"
+  },
+  {
+    "id": "ChIJh5r7-TMRkFQRfvLiojLMrWE",
+    "name": "Bitter Lake Playfield",
+    "slug": "bitter-lake-playfield-seattle-wa",
+    "address": "13035 Linden Ave N, Seattle, WA 98133, USA",
+    "lat": 47.7242563,
+    "lng": -122.3487884,
+    "rating": 4.1,
+    "reviewCount": 532,
+    "photos": [
+      "ATCDNfU_av1AUbcSfSm6EQHVyaTsLtD-DnDrXMWC4nF2Sx9b4dZY5doQN16jkbkfOyaJiZArQbFB_2TBPKquLIQUg1p0XdpcSabVNTdGkfVBx-4arRfc5GZ08YdvyATL_8NhuyczzrZDJC2vaGMTv0JUkGFKwTWN95ubDDqfM1RqMwGP9mWg0por-rHb_8X332EHTPvnhbFcXRzL0O6qikd8NjrETnGvi2_iBt4EN-eZMevVhbf48FeR2sqgu_TzDGuLQbNr1WM-o0kOB-l-o56LlQlyrzAtpRsdc3AfhiGv_2bboA"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJh5r7-TMRkFQRfvLiojLMrWE",
+    "city": "Seattle",
+    "state": "WA"
+  },
+  {
+    "id": "ChIJqasyVe0VkFQROv2_V1aAHFw",
+    "name": "Discovery Park Tennis and Pickleball Courts",
+    "slug": "discovery-park-tennis-and-pickleball-courts-seattle-wa",
+    "address": "Seattle, WA 98199, USA",
+    "lat": 47.6568131,
+    "lng": -122.404834,
+    "rating": 3.8,
+    "reviewCount": 8,
+    "photos": [
+      "ATCDNfVAc1xBdANUtQXdQCROyFiMiZBr4ayhpaej8rgGeW_w9fESi7DGEQuARcxUJoXtqQ-EsEhonH4atpTqu4TN-dayw649ntUKijmUdD6ntR3qLfm8ZYcEzOHLLBdQ-XJiLYgVKwjhGKmKgGpO1uF017zn70WSw09H5DQV0PVbYXsNLY4Kj-ZUxqCqdcjVwj5H1ByNiwH8_y_1GoLSG-GPlHhUlRM7R0o_u0fVMnqWGDpnCAGdDESzMVEkpIRaYl0ix_w0HPvoeBNtc0G2mQiKGO1GCcYeFfEMeOHKPc_0tcARaeelqedgiOsC2fP8zFxXsFCT_XXCAknSQKMfLGan06WqZSc-yPdd9QQzcbRPYq9H3tDjVz7oKhz8l-HmKUCuLUxc_ScogeUvtVMGj5gm-oK8sPQRQK7YnkfPiGIdZC8"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJqasyVe0VkFQROv2_V1aAHFw",
+    "city": "Seattle",
+    "state": "WA"
+  },
+  {
+    "id": "ChIJe4BQ7dxBkFQRrWzpme2gdoQ",
+    "name": "Alki Playground Pickleball and Tennis Courts",
+    "slug": "alki-playground-pickleball-and-tennis-courts-seattle-wa",
+    "address": "5817 SW Lander St, Seattle, WA 98116, USA",
+    "lat": 47.5792867,
+    "lng": -122.4077076,
+    "rating": 4,
+    "reviewCount": 4,
+    "photos": [
+      "ATCDNfX00Vq-ePMZQyi5uwDkmNS2OrQ_YIvIhAfBuycvLhiGgfbHB5wf9JG45op9AbwonzDVhddjOWyg4ZrkAHAuf5p4zj5BJ4JB1SGm6qOWR8ZEjjXqR9jJjHvqn7Lc_Ztruo1Kz_P_VUne7rDiE6vvpYgLsdkq-ypySJU55LgQmsBzjtk50C1KQt-IKkqJyPRpdGvbUKGrQls0wC07KUESY9TLxibbN1F0ronvu3B9fuD65mgvHKC8PDJmpdgnZNFQ12EJ_-XKpIstY5m0ZzwXvgaWYgV5meJwFAYcsxgFsTme8ShCZOK1hOKwmP7Fh1LeYOIfmPqlXfl-hH_9VGCBRpJIL7OEzKexVvfTNP6bFUuKoyOAv5erjO5pPxMwr21ef2FTh5PjiGg9bIb1wXiYeudg4-vh_Shrwyv_QYrDVYKhPS0"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJe4BQ7dxBkFQRrWzpme2gdoQ",
+    "city": "Seattle",
+    "state": "WA"
+  },
+  {
+    "id": "ChIJr96w7EUUkFQRh2-48QVQmjM",
+    "name": "Lower Woodland Tennis Courts",
+    "slug": "lower-woodland-tennis-courts-seattle-wa",
+    "address": "5773 West Green Lake Way N, Seattle, WA 98103, USA",
+    "lat": 47.6695057,
+    "lng": -122.3433241,
+    "rating": 4.6,
+    "reviewCount": 81,
+    "photos": [
+      "ATCDNfXdhFosNzeWbWUjizcsT2dBO-KtU0I2V8Ms4EEcJS3cFJgUP1Y64-vKcgSzRADLPRYj-vynrrxGmop6lpTKrgX0zv8eRTcFGxffxkaTbVYi8XyZaMjrqy_df5XOZtTCRs9EE6r2Rl8dq02vf91N8x_aAwB7MORI6dg5-pa5c3vBTYJASdOe6PogxWRCfa1k8CYPFAPy2Df1aFTFlfP5LpDyvmdmUPMNzrgiC7wKLmj66crECx75jVwPuPHmTShHUMpRVPae5vfe5Qz9UaM-e8DiiQacWpn5MlniV3sysThKKwRnldYXKObVJubw5ZMBqbqhhDfTJ1Hxh24jlQC7303j_u0JMKT-uHxamiPnIomt_t1SduVgYtr3w0MCXPROvxhHDul5U0j5OTzKwN8aShQkOfbaztaYdML4F19jGvARtvSI"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJr96w7EUUkFQRh2-48QVQmjM",
+    "city": "Seattle",
+    "state": "WA"
+  },
+  {
+    "id": "ChIJlfwfIdsVkFQReb4Xw3Hg_Dc",
+    "name": "Ballard Community Center",
+    "slug": "ballard-community-center-seattle-wa",
+    "address": "6020 28th Ave NW, Seattle, WA 98107, USA",
+    "lat": 47.67276,
+    "lng": -122.3922568,
+    "rating": 4.6,
+    "reviewCount": 193,
+    "photos": [
+      "ATCDNfV0cyaU6rWH8tYFhfuLl46sPGWYacyMjEJIv6bCBear7caxJzWPwsYgGfb-_rsnTODfSbXuxv2QWOwv_0uIhqTc8Yt8Cr6TISkaJ-mvzQMJdWziIFgjStNgoXOchfov9FjrFTll87EGQwVEoLu-sb-JT6lZj8wRLMxSa4n46msmUiBDPfscnXK5ghPdwljJcFroaMHJbaoSf8wJx56W3OEjKLxnhvldTlhJf1GZNUqsxQ5u5Wl1OhBjtwy6VxGks4ZZG9UtN6P0n7alZNmaSS5fPsb3QUXwn-JzIuXKaI_hew"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJlfwfIdsVkFQReb4Xw3Hg_Dc",
+    "city": "Seattle",
+    "state": "WA"
+  },
+  {
+    "id": "ChIJR4bsxHkUkFQRwT75HeE6TxI",
+    "name": "Ravenna Eckstein Community Center",
+    "slug": "ravenna-eckstein-community-center-seattle-wa",
+    "address": "6535 Ravenna Ave NE, Seattle, WA 98115, USA",
+    "lat": 47.6769156,
+    "lng": -122.3042887,
+    "rating": 4.4,
+    "reviewCount": 138,
+    "photos": [
+      "ATCDNfVyp1KutUAflC7nQWqQQHoh9n8LERtTh1e8Po-PiLcTL5_goHq4rYyCA3jtogRKutWjdQmhCMO87MgnGoMNhjg7VUF1uE6pvS0UuPOkExonMFo4wYveJySKD3sGAM_JYMnWkGHe3RhE7wHGicypPOXH5gE5x0xV8wBfWKKj-PrNY0NBs4pbLiosQoW9E80-rSMjl8HGhT4SbghzCP9UKUe-2iDBBMXzTHctg-4573LOif1K8R1UIK3pI41KvBvpYODPZnTGEvDYBIcGwNXd4XYiNnAmTS1HErwCBEVry1eMOg"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJR4bsxHkUkFQRwT75HeE6TxI",
+    "city": "Seattle",
+    "state": "WA"
+  },
+  {
+    "id": "ChIJDWLENdUVkFQR5yjCeXOSpL4",
+    "name": "Loyal Heights Community Center",
+    "slug": "loyal-heights-community-center-seattle-wa",
+    "address": "2101 NW 77th St, Seattle, WA 98117, USA",
+    "lat": 47.6846798,
+    "lng": -122.3827862,
+    "rating": 4.6,
+    "reviewCount": 109,
+    "photos": [
+      "ATCDNfWiZCTXFuArvbD4LlUDiE-ypOjZHWcw-3oo1k0mxLPg57WS688ZjzIFHZ_CCgVSFfTbagL59J5yrHmVnvpuI-qVJW7OWyxm5auHc4ZJ2rmimD9WqxvqgUf6Rdm1i3TsZoYYwTqbAMqS8rq_9TiyRaXS3aQtwQ5GIIlqMDyo2wwANor7_kNrVzN9SNQj5q9nMOuQjyhyAabl71h0_rS_X9CFMpWoAVoa-H3RERfBx5cT9OuNTEydTWPHwrbje0LR7HFfizmsFspmPaSKXwqYqLioy4RoWnyzLvzrtkZyx11UNQ"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJDWLENdUVkFQR5yjCeXOSpL4",
+    "city": "Seattle",
+    "state": "WA"
+  },
+  {
+    "id": "ChIJN2V7BPJrkFQRWvb1gmjau0Q",
+    "name": "Sandman's Courts",
+    "slug": "sandman-s-courts-seattle-wa",
+    "address": "3723 S Hudson St, Seattle, WA 98118, USA",
+    "lat": 47.5565028,
+    "lng": -122.2852641,
+    "rating": 4.8,
+    "reviewCount": 47,
+    "photos": [
+      "ATCDNfUZXlgC5x3O78chbkUILNhs4ez2yFQI79DFD99v2jKVuNdd77B_NhVCZuM2QRHeM4NVnsZ2ELEHl4M_2WcreGw1TkDy2-u3tLTsaLLuVxLRM_lm9TkItx_c956V3tlJXRM4gb2TmGTqATHiWf6tLUXwx7KU5YCmaZN3jW8Q8y_vYy49kgRvHZBcG2zVxmmqT2azs3VDyJwsndIcQ09LVC460RSQLDAfGaDRhNjkJcaCC1KlI7a2FV0PtmIkXBFv4RDOm7KQ7_edsL43NRo54vANV9eDm9MIWd4WS5VtewYQ0g"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJN2V7BPJrkFQRWvb1gmjau0Q",
+    "city": "Seattle",
+    "state": "WA"
+  },
+  {
+    "id": "ChIJq_lVo0wTkFQRcX4wcuTIJgI",
+    "name": "Everest Park Pickleball Courts",
+    "slug": "everest-park-pickleball-courts-seattle-wa",
+    "address": "500 8th St S, Kirkland, WA 98033, USA",
+    "lat": 47.6727503,
+    "lng": -122.1914485,
+    "rating": 4.1,
+    "reviewCount": 35,
+    "photos": [
+      "ATCDNfXkFcNl7dcCM1H4q96kx03IktIxJZP15Ov4PJUfpPuLHQZjTb6eY6hyVIbVCCkb5dRBEQfg0FGnZTMx7i6Yb1YFFTphdjhAY7dDPspBcWD4UZLsNIyFGqCC7GEK0wJ5Mjp80nsQ6fbOkIQ0eYB5SDZLhpLucDbxWv4iX4PCbafy7qfOPGM-_cagTz4vmmo3KFg_zZP4igdrBZVxo6hr_1HTw3kGPlVoTkMYufqhU3uI2Tl4HWlN6lvMivr7ZAuTT2bcyikIql7Fx3sRmkoDiKJFdITN0unVIvaSWDjn5m6P3QRyCraPpfQUfGV-hyfk6cIH34iXu24td4zpyIKAq00uevksWQ9Nu7rDxNevQ9WEHS6KFAnpFW2yzaNgtwwG6dbwvPwkpfFnR1wCBb2epu7Vz9P17tFkuZno4P4cxn7QEAo"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJq_lVo0wTkFQRcX4wcuTIJgI",
+    "city": "Seattle",
+    "state": "WA"
+  },
+  {
+    "id": "ChIJk4QZY2sUkFQR3aJEU8ufnJk",
+    "name": "Green Lake Community Center",
+    "slug": "green-lake-community-center-seattle-wa",
+    "address": "7201 East Green Lake Dr N, Seattle, WA 98115, USA",
+    "lat": 47.68026039999999,
+    "lng": -122.3285033,
+    "rating": 4.3,
+    "reviewCount": 192,
+    "photos": [
+      "ATCDNfVLzU1huycbpHeQBcQ2Ace0SdGdW1YW9Stdb_BQ9jYHUrBjMKa_7wjhbtBLwaX8RUKu1K6wEQKdhfq93-pvdhLMTJjr1N6QMOHiHquxOupBDEyQCuZRlTItTMpAeSzshw35-uhQLJspKMgAthFTo7nljc_IZOOelAi8hSIPsx8A7OB9X7l4xBIsKXpfsWXHKqmxR9rdMU3laLTR6YGaHWFQPuXe1BfvP8TUM82ZnSiRNVzfAqHbQzlMYxYe3-_g_9UoB4QaOgKlJp8jebgdjog6w5ko_kBdRQ-s0pI5LQ8Mrf8sWGp0SM5FimlacrtxhazArQ-LURoPktRuOV5mcpDfeb50NZhKfYDvoDVta9W8roJC4vlJXyAhjmTC6GFqLET0LE6TZG-CvdXXy2_LLXdwX84d0HnT9AbUO8LFNfltVA"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJk4QZY2sUkFQR3aJEU8ufnJk",
+    "city": "Seattle",
+    "state": "WA"
+  },
+  {
+    "id": "ChIJb0MpxI8RkFQR77DmdXTiCGA",
+    "name": "Shoreview ​Park Tennis and Pickleball Courts",
+    "slug": "shoreview-park-tennis-and-pickleball-courts-seattle-wa",
+    "address": "700 NW Innis Arden Way, Shoreline, WA 98177, USA",
+    "lat": 47.7497915,
+    "lng": -122.3660573,
+    "rating": 4.7,
+    "reviewCount": 28,
+    "photos": [
+      "ATCDNfXTreGn4e0fl-DXD5ZjSimwixMgcb9l5UTFaE5mLCmSDtz2GFF3Sgz_v-zA4flGHUsQQkN-eLoL-dFWWZE0oAU6CHZozuVj2FpbMa51DM9-i2Yb779mm0tX46vaVxE00efLgPPDDYUhMMVa4P631u1UsQEiO5A8E7pj_HRCmcmd7uKEIhdDIIKiWyxy6q8YSfpwXP7LJ5yrnA5o05fxXX9tzBp4RmUDs3Sk9qZXmBdGE0KQ1Ciy9BG5y9TJZDgszzbJ-150ZoVL-6idstIUg9TEAMTFIxbqONVVfkHglenJlPZ5J1jp83s04Ytr2utb078Tpg5a_4b4OwA7Q3icDNt1txrpFJkD1pNvbQL4PgKzsODMaWbgTT2p_EdoyEQGoUySQo2hE127TPCck43e5J5lPrhdO-L0ZU8roCp5v3nUxDo"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJb0MpxI8RkFQR77DmdXTiCGA",
+    "city": "Seattle",
+    "state": "WA"
+  },
+  {
+    "id": "ChIJK9L9wcFBkFQRUJbdwiJkQYw",
+    "name": "Georgetown Playfield Tennis and Pickleball Courts",
+    "slug": "georgetown-playfield-tennis-and-pickleball-courts-seattle-wa",
+    "address": "750 S Homer St, Seattle, WA 98108, USA",
+    "lat": 47.5524446,
+    "lng": -122.3220904,
+    "rating": 3.8,
+    "reviewCount": 12,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJK9L9wcFBkFQRUJbdwiJkQYw",
+    "city": "Seattle",
+    "state": "WA"
+  },
+  {
+    "id": "ChIJO2YxpgkVkFQR9cGlB7XJjws",
+    "name": "David Rodgers Park",
+    "slug": "david-rodgers-park-seattle-wa",
+    "address": "2800 1st Ave W, Seattle, WA 98119, USA",
+    "lat": 47.6437827,
+    "lng": -122.3590162,
+    "rating": 4.5,
+    "reviewCount": 230,
+    "photos": [
+      "ATCDNfWAGQUUTSDKmyC4WqglJ-J0fiChaeYztvIDdXZJaJ5T0Z4PF1EN4zD83U9TFl2sh2mTbC7MAknUdSC_SheytR-yCBze6qBrdpq_ze6nlqOm2zRgz4Oa9ZVhHawIz4rnc2EpZEzHDygJ9tHwJUwlEly4LJYS59mcuRAdYoHoZFz-IZXXwxn7snyuMthsWPQv0syZhlrcGwj5fcbH6gGgkFg56DxMQ81t-TX1tkTclOR4w5PKedunAzwGJNlSaasUMT0gX89LMrxN3vHcK-DEPQUaoZQ5PTWHcpPR9Zh9nKEjNg"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJO2YxpgkVkFQR9cGlB7XJjws",
+    "city": "Seattle",
+    "state": "WA"
+  },
+  {
+    "id": "ChIJk0dlEPsRkFQR6Op8gk4TQDQ",
+    "name": "Ingraham High School Pickleball and Tennis Courts",
+    "slug": "ingraham-high-school-pickleball-and-tennis-courts-seattle-wa",
+    "address": "1819 N 135th St, Seattle, WA 98133, USA",
+    "lat": 47.7252843,
+    "lng": -122.3365479,
+    "rating": 4.5,
+    "reviewCount": 13,
+    "photos": [
+      "ATCDNfUb-Vyq1-eE-FgaonIGJ7ynNDZh9oSS_BaqQMLQSKGNaHEW9GZsjpXBCJThfPAH_ew6Af12i6owV6BkwvqMiDgE1F0RIWpMcNsn22QbcF9Xkh6-dDywvLiSiSCK8Gxo9WuGrSJXMdUc9fwEi6_LvSVIP_5WjIxpyO4RMTPl7Hx7wAOQZK4H5QWb7eRdY7a6MiLkkMNMqqiKkGjV8gHbljHlCc1LoDn-uFnxuz8tiWw6w9Itz2dXbj3xyODv8aDfAkYlbEXqN-48McBMDku0bxI4OStPt2RfvLVZO-7lm3rJO9JgPe_4XcVvYhTZPYgF7zAJkO34ySNX-EqRMNMuD9mGa35f-k5MA1dTzwTAkvwcZ-jiINUu8Hk9KWCv92pAnl1dNms1dYDzPkpYgZIDQf-0C8kWQdw0a_hXSmlvJJg"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJk0dlEPsRkFQR6Op8gk4TQDQ",
+    "city": "Seattle",
+    "state": "WA"
+  },
+  {
+    "id": "ChIJrxnpLl5qkFQRcjJlMnDoKN4",
+    "name": "Mount Baker Park",
+    "slug": "mount-baker-park-seattle-wa",
+    "address": "2521 Lake Park Dr S, Seattle, WA 98144, USA",
+    "lat": 47.5809164,
+    "lng": -122.2886379,
+    "rating": 4.5,
+    "reviewCount": 302,
+    "photos": [
+      "ATCDNfVM8EUpvBj9ZcSb7vYGaD4odNb9IM4Fn_-wdBrA7iDbNbHRGxCyGpYujcCJlCwfHKdaST5AHNH879G7C8BtwdqX3LfSOqY01T7UylTsX24WzzE-h6Kmi8fYGSiMIYgameb1Nb_Ngag2SvQMTfHHWG_bfTPewd3sL53NeIDm6Zh-wZtRng3Q_ylX9cEPkDpwZywD6nLR4Mf9_B2uVKgwIWZnEnCBXB7voxY9_h2cFug2uFzbMbX427mnOssj1y_7BsT8QqCNtVxesFJOjXoTv4PND7GKxxNHlx9wkvdq9sL-8A"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJrxnpLl5qkFQRcjJlMnDoKN4",
+    "city": "Seattle",
+    "state": "WA"
+  },
+  {
+    "id": "ChIJAZfGcw1qkFQRL1KrHhXvV0c",
+    "name": "Rainier Community Center",
+    "slug": "rainier-community-center-seattle-wa",
+    "address": "4600 38th Ave. S, Seattle, WA 98118, USA",
+    "lat": 47.5613892,
+    "lng": -122.284164,
+    "rating": 4.5,
+    "reviewCount": 165,
+    "photos": [
+      "ATCDNfWm3dPPs6yYdlO15j0OFVIj2BoIGM_A_8wOyR31yGH9h5eveCZE5HxmPL1kAip-6MFKay4Eb_DNycX7BpoHCyaLGyDqZFWDyLH-V5KPtgbxM3AvSMgnawb7yhfDnKJBudccKOw8Con0HrVRXhhcnl7ccL_5m9uaf6BGIoUkVmL-t5y7QAkDxf97BjrydcIHWb2RDP1ElffRYMe-5V8Kn3Fu2to2z60ZjhrQMpeGqk7nCXphCYh_jwwZmiNC-90fhbJ0tKTHt1pb-r1dpL-n4j9PuV2pePWEGErs9LOwIcaERw"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJAZfGcw1qkFQRL1KrHhXvV0c",
+    "city": "Seattle",
+    "state": "WA"
+  },
+  {
+    "id": "ChIJZ8lMWzERkFQRRzhuQj56s7E",
+    "name": "Bitter Lake Community Center",
+    "slug": "bitter-lake-community-center-seattle-wa",
+    "address": "13035 Linden Ave N, Seattle, WA 98133, USA",
+    "lat": 47.7240367,
+    "lng": -122.3486525,
+    "rating": 4.4,
+    "reviewCount": 177,
+    "photos": [
+      "ATCDNfWnC_3v7LunEoNAPKuWAzPviNpJTvsqwANg6JcynTg1Xk1W_nDaKVq86M7TjhZrZCM-jxmyV-10iKeDVlqGuo1soHVSx4EzoMXrTYNMdEo3PbZ7HDi5azQ4i69lbSAvyUd8D0KL5QUb8f5A8mbfROhfy2wWvmijs42rOOk-c0yEBjdki0bnv0MPHlTSKRZNKA-mQ364cwKPqx9DdAR3CZtEpJsWXzr4RKD3VixNqkwKJZ3VpVbtb9xoY9ssZJaPnj2MU7YzE410tFVeSGT8RuBR85fkYm7UIqIwcgJmf_988_E6n5DILmKszw22_coW1mPL0Dd_CQAA1V3OcEicOtGX1FK_nQaTiDF9gSbWjqa0Z1k7x-atsliYUKhMnrtRKmgivhjSYj_SJAOB8h5_mu2xW0TQQ3mg2wfm0v4hY01u5w"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJZ8lMWzERkFQRRzhuQj56s7E",
+    "city": "Seattle",
+    "state": "WA"
+  },
+  {
+    "id": "ChIJ21rMKNVqkFQRcqnJqM4n-5w",
+    "name": "Miller Park",
+    "slug": "miller-park-seattle-wa",
+    "address": "330 19th Ave E UNIT 316, Seattle, WA 98112, USA",
+    "lat": 47.6225189,
+    "lng": -122.3065779,
+    "rating": 4.4,
+    "reviewCount": 15,
+    "photos": [
+      "ATCDNfWthjahzYdfYszj-UFlWvcIvATUZLGPA91dACJQyc8b6HREUgv7DxGIGxC6qW17c724bI1i2oqhErSoFszmof1eIUoKNr4NRqCuZFyfAFEjg3f4OhQ_ov8WcfyVfFRFgOJSLY6REPlqW-jzUmVccq80I0Xvt598oozDWLzBiVMQsLKgnl-xBXdl7tboGPHItG0FhQlbrezqRWVd6Hcf3hSlnD2M36sD5svn-3zpHnfWjx2aTjnu6aUBltjxf7I9RXpSTwMq95Roh5MwJZ8Lzhcn7-A0o_-ofvcg8HyIQjjIoHR3lVOtkr6HfpSFzbEFRjZC4pDnbIeV4IyH6RWDSr_QrwH5pv4t8Suxz98icZxO6nAMnTqeHkqEMqzMSAe3Fd3WjkYYM_6gHJIC2ylZxuPdYzeNo6CJ7vAtv6QgXMw"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ21rMKNVqkFQRcqnJqM4n-5w",
+    "city": "Seattle",
+    "state": "WA"
+  },
+  {
+    "id": "ChIJfX5Y9NIVkFQRMBXOg5FxfWE",
+    "name": "Think Pickleball Coaching",
+    "slug": "think-pickleball-coaching-seattle-wa",
+    "address": "5719 Kensington Pl N, Seattle, WA 98103, USA",
+    "lat": 47.6706829,
+    "lng": -122.331739,
+    "rating": 5,
+    "reviewCount": 6,
+    "photos": [
+      "ATCDNfV7zFZ7Wwk9ek5HJoj8z_Ruey1f25j2tuJxp7LRRCp9H7hskmkrBtBQqvYZU8grNmRU-5ahXAlhhX73Rp-jAKHMmTPCcfrDIVklTvsh0ijL2sY-0zKQmXWlbIZRRDg9JkR_WdPrpVqu1WyW8Fd_kY7PNbofVeeWnziAxDgH7zvnpbs_GygRvXmMKut4ckjvgokGvb7Rmp6NNKdzmVSgUmBL8ZsA9gdhUfTxGMpuu15DhU2ZCWWp8xDJ7mMbFXftAoEBzHU0yJxzvHipl6Nip5hEpA3tc_tdp1Gl4m8IKzvIzg"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJfX5Y9NIVkFQRMBXOg5FxfWE",
+    "city": "Seattle",
+    "state": "WA"
+  },
+  {
+    "id": "ChIJP5hsLgAFkFQRS-Kvg01TpOc",
+    "name": "Pickleball Kingdom",
+    "slug": "pickleball-kingdom-seattle-wa",
+    "address": "3115 196th St SW, Lynnwood, WA 98036, USA",
+    "lat": 47.8217192,
+    "lng": -122.2756252,
+    "rating": 4.3,
+    "reviewCount": 63,
+    "photos": [
+      "ATCDNfXPi7jXfg7BxqedX2-GDDFVfjHseMgn8vnpekyUThs8xBsVbGASHfA2ISxWwg5NHH4rKQSUmtxXHGUOuDFTcLA7cHER3Ubg38MozP91JC4B3SCWXKRcJOJE5hrpDx8pYSvIjuy5VBzETbSvR6Vw5YgB31wwYY2YdAS4107xgw9GrR1jso8YVYh3Qql8Y5zEg8NN7NMLGa9x_DW-DkkFk6efGC8hscUbpaJO4j_qFrRhTNCWvX717KybqN7OK5krTEsuFe5sAiRKnie8TP7CovmWDN4yqxOqu5KmTI8o_Cz050R3mTsWnLaeBPSfrgpAntY1DQhfTf-hHMuBHztgZ17fbYEXwQeJQc1QJ1qo4wYk8bIcIL3eHGmK7uA97Y0ZCbU4bpr5-0Bxr8oOQEBIuMMTWT5nLHGbn-9LFbkJn-QjKd0"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJP5hsLgAFkFQRS-Kvg01TpOc",
+    "city": "Seattle",
+    "state": "WA"
+  },
+  {
+    "id": "ChIJ1ylY4fUVkFQRBxzcFE97CDw",
+    "name": "Pickle at the Palms",
+    "slug": "pickle-at-the-palms-seattle-wa",
+    "address": "3435 15th Ave W, Seattle, WA 98119, USA",
+    "lat": 47.6511867,
+    "lng": -122.3765542,
+    "photos": [
+      "ATCDNfUgjwO-QU2_hfsjb6mow6OkQhcTrN5S-13D_0FKyfyIMCXgTdFTcpHsNFtf5J_D4qnkg9mK6MvXbUzGvbjquTvuOg8CnogilUHjtdW6hTh6pFDqiF3zaQ3W2KuTjhddLKDNZkGY4nbX-JSPYlsHLYxyEd13YlzIP8xr_WjZ4MaP3ghbtaKwVeUXvfxNtKDS3f7RMTM7tuSJ7RsXnUbxkeW_YeUaLu69MZV7NHb1eSPWyIVtxAGJx6FRzP5RQa3UNX_nhp_8KpF4HOf3T-hmN1aM_Zaq1negIbtrgvmBT0YV8A"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ1ylY4fUVkFQRBxzcFE97CDw",
+    "city": "Seattle",
+    "state": "WA"
+  },
+  {
+    "id": "ChIJMY0KIIxtkFQRVmvnJUlXYqE",
+    "name": "Pickleball at PRO Club",
+    "slug": "pickleball-at-pro-club-seattle-wa",
+    "address": "4455 148th Ave NE, Bellevue, WA 98007, USA",
+    "lat": 47.6509958,
+    "lng": -122.1457304,
+    "rating": 3.7,
+    "reviewCount": 3,
+    "photos": [
+      "ATCDNfUF2q4Io755xRFit-G_yRrmZQoTUpOcEYSdYkYutHkFcx48gJILpTZhzSITh08pq9QB6-DPPUOMiAqLFOfu3gY0aJ1odBrb1GCa_UGgRWa_sIEyiGoDCSNlLUgQYKKf-Pyr-HMUME65R5RB-O3-OY3lKyxQvGbPcIhxx6NTB81G88eju2DCAez8CDtqIgFTlpb2vx0OjiX83qHGVtf4fDiCkhTOSLuzlg0cRsgKkuU8HH4YrSOqcUp8kd2uafVAIP8_2DlMvqKWGq4fOMVWlHZdCuXE7b8aPiBxtoyaz_a3FA"
+    ],
+    "types": [
+      "establishment",
+      "gym",
+      "health",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJMY0KIIxtkFQRVmvnJUlXYqE",
+    "city": "Seattle",
+    "state": "WA"
+  },
+  {
+    "id": "ChIJMyrLFU9tkFQRTje2RWebK7U",
+    "name": "Westside Park Pickleball Court",
+    "slug": "westside-park-pickleball-court-seattle-wa",
+    "address": "5810 156th Ave NE, Redmond, WA 98052, USA",
+    "lat": 47.6590342,
+    "lng": -122.1321894,
+    "rating": 4.6,
+    "reviewCount": 25,
+    "photos": [
+      "ATCDNfXStAap1I5MPX3lJKavzPgXy7fWyp3gSLkGuaa27KW6s3a0pPkt2IQtyOrtsWin8JbCNDzlEAo1GIRdoMJ8DYzZRZMnchZXj17-OJDydssD5FxaDcyWzmOD7JIjf4kSwLrYKf6Xc20dAaD1beizXCqF_t5ASrTFkHc4bJ21AUeevRQi49zS2Mm222w5Or4g-twW05cOSn7ZuXW6HJ64w4SRwAl-PE2baBYrp04mDO7zSuuFdhUewt49ns510VVxUK7YRJk-Y-cSmZ5vRN5qkW4Z-zXAJbla3cv2tR4GYXA3aYokKt2yMblbLoQvOkPZ_6ALS6pNzJbqDXvELSJjs9Fi-fuzGEgjxDYFhCocqTP6z-o9_br_Iu_mfZq_kL5EIUD8Q-ptJqhxvUwrO7HSnhvRHnl2OzXpCZOWjKlMC4e7OHpP"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJMyrLFU9tkFQRTje2RWebK7U",
+    "city": "Seattle",
+    "state": "WA"
+  },
+  {
+    "id": "ChIJ82hb8QtrkFQRhac5NPRiSbI",
+    "name": "Luther Burbank Park Pickleball Courts",
+    "slug": "luther-burbank-park-pickleball-courts-seattle-wa",
+    "address": "2040 84th Ave SE, Mercer Island, WA 98040, USA",
+    "lat": 47.5909732,
+    "lng": -122.2257309,
+    "rating": 4.4,
+    "reviewCount": 20,
+    "photos": [
+      "ATCDNfVaI_Lxqaw5yhSatMTiQ4OLkh07ObwqDx4bJuv9wca3aaZ7kxm_9WFGOcFxaH4ym4wtup-fr9g5X7XxbbfOHQFIxfLNCpBgYrLT8qJw1190UVstDLbpOStnRuw2juO6FmF7FmEJ2ro_GmuPvXE309gv3Wx6pSQCVkMOUkAek_pTj22KnsvOpOKmnDp8mtxq-dIUpHQ2hTokcrzQMrFf89LO8d7MkKIEcf66VxelEfKFFO4fjdKuB1-dW7fU_KS5VMd-LS1P03Nld45eFRZO6DsJO1Jy5xDdHic_9t6OwLsCDBRjRVTs5NNxpQYSZ_Imc8KugczKDyNtgqQwbbxZFjuhzhCpaqiwapDOogokC1OzrL43_9JTiFwyCUVFPU1E-eoqs5eMvx8yec-fDW6I19etkZGI83qLYeLhHVR9xJQ8U5lcDgRAJILK3l8wzw"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ82hb8QtrkFQRhac5NPRiSbI",
+    "city": "Seattle",
+    "state": "WA"
+  },
+  {
+    "id": "ChIJxRG0N00VkFQRDKdpTdUwLtc",
+    "name": "Seattle Athletic Club",
+    "slug": "seattle-athletic-club-seattle-wa",
+    "address": "2020 Western Ave, Seattle, WA 98121, USA",
+    "lat": 47.6108856,
+    "lng": -122.3440399,
+    "rating": 4.3,
+    "reviewCount": 163,
+    "photos": [
+      "ATCDNfUvVL6wccq90AakxTP3bw1xUbKpC2kJIDySvL8n6-Wt4ye2v2Bd7ejfQ8teqnYvgsT34tNSbsGY6AswqXKtAgZImDW6awste4a-lfiGIWalUtm-bS6CjwNmuNipKxWyUXPJfgylGZr0KmEpvRVJK2f5r3zVZ7O6cqOMlKX3jyD4hqoaNiHAncsx_jPMJacXqv7EjFjaNsDNie_lZuaTCndiGx_uK0eeBjXVdTQOHaDm8zVU83seASP35k0RPlA2BUeW6Q01Tz3wyvvMDd175uRX_DFvdvoZiCJuvT89TUmvhTDEUej0MxHXvQK0nFv1YJ1b9zque09-mwdRz6JbhkbpxeZSe41-kEI3g_A42gfdjIyNpb5RlsPy9-f-nI77E4vslIQS3nigdji4l66r7i5EL2gKP6CkDEkyBUANtvU4sVS8"
+    ],
+    "types": [
+      "establishment",
+      "gym",
+      "health",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJxRG0N00VkFQRDKdpTdUwLtc",
+    "city": "Seattle",
+    "state": "WA"
+  },
+  {
+    "id": "ChIJ4TDTZvkRkFQRUTngfJBLx4E",
+    "name": "The Lodge at St Edward State Park Pickleball Gym",
+    "slug": "the-lodge-at-st-edward-state-park-pickleball-gym-seattle-wa",
+    "address": "14445 Juanita Dr NE, Kenmore, WA 98028, USA",
+    "lat": 47.7335875,
+    "lng": -122.2569449,
+    "rating": 4.7,
+    "reviewCount": 6,
+    "photos": [
+      "ATCDNfVGULbCvl3LHnFQEdY6rZcAyMZmQq0y217CH2sxhDxVnMYmaCAgsNTplFrS9SiCz3IHxnrCJH79QpAo3IF7UrTPnx0yMrwDLKYQIKQW8TL4RFoiog66Jy-b14IRMcTBJ5DELshS6lp9sxAVbxQCo8tfRC1s8dwRn4fpXHv9LqLZJrt4WEyXV3Xow0M6f-LwXw2pnqlxdlGCwqkJS9nzwgyWmaOm6i4bCyhRS3CRWLeFRZy0OVXiebmz2QJa-Fk720teXLIdoPbJaRDV2C_qU6dcFsng5QFQ7CxTOjfxFh66OhgO9RyNzwm5Pr8T2Z0NjPvXMf6w5qvukeKvZrX96lZEDVSwMEIs6WOUBk_u_1c_GNZa6lwVwHqU73dYrELKlDUMZ7LjfvV9-xH-cGHDJJpsC13VCtKumNN8AIoq3vQBPw"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ4TDTZvkRkFQRUTngfJBLx4E",
+    "city": "Seattle",
+    "state": "WA"
+  },
+  {
+    "id": "ChIJZars-n9pkFQR05uIxog-F6U",
+    "name": "Liberty Park Pickleball Courts",
+    "slug": "liberty-park-pickleball-courts-seattle-wa",
+    "address": "Renton, WA 98057, USA",
+    "lat": 47.4828598,
+    "lng": -122.2005315,
+    "rating": 4.9,
+    "reviewCount": 9,
+    "photos": [
+      "ATCDNfWkk57WILm2O3gLsjZKSbeM0zcsl6LGFbEN1MrNKRlD8ob86UzXuDTIn1K4qLd1iNukPzHY9HpqTH-8oIVdLa1fhS4keq4y54gUM0xSt3S28ENA4PlBMDD899TKv5hRdi99X36Sa0RegU3-uc_br57Vn62YHhPm6qR5Pwxv8tu2KzuGiTkjMB2R_ehrqlbl2Mb6JzIwQEig-MqQUh2PEp9cAQI8g9Gi88jRG6rU7qp8ftO-1nWClEPStLQJXm0d3pZjTezMRDEHDwqQXj8fMa9nERY8UOGjFoqFsECV2gzmtoDus4YGyjPOKXuEnhA0A-G0ixZWDuQ-yZ1XzIJ1a-FQM1v88F6QhuySiSqlb6wu6FanE7RtiWgxwrG5396tVPhdOEMGQY_MpFe8aIdDUow41Xd3HYGyrJy-uniQL3jpYQ"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJZars-n9pkFQR05uIxog-F6U",
+    "city": "Seattle",
+    "state": "WA"
+  },
+  {
+    "id": "ChIJWYtiabRqkFQRmLQhcVZ7-40",
+    "name": "Washington Athletic Club",
+    "slug": "washington-athletic-club-seattle-wa",
+    "address": "1325 6th Ave, Seattle, WA 98101, USA",
+    "lat": 47.6096207,
+    "lng": -122.3335738,
+    "rating": 4.5,
+    "reviewCount": 265,
+    "photos": [
+      "ATCDNfUHXUl89hDMeUyQt8NAJ6ic2AznACbB78Q8fSh7qu7X8fYoH_rbewPh7jJaApeGemMfNrqo5j2qfHOXKVv4L6mDvHPHBLRA0jl-fjX-edoPCoQD9d33X6PuhRP0rTB3lGRiqjLg_cO-0rol5j5oPjOaRavujLgiUwZZUlpeagiTclwsZW3jD6ML19RAzULQeYsohXiKT-RWnpZUKOvIJcW-wIP8LfA-7B4AskvdfIS2eNypHri5qxQKWJn7rLT4wSsruNfTd_u-oHFUqS9JbCFMkuTa2QuWkFFJ37TGO818Tw"
+    ],
+    "types": [
+      "establishment",
+      "food",
+      "gym",
+      "health",
+      "point_of_interest",
+      "restaurant",
+      "spa"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJWYtiabRqkFQRmLQhcVZ7-40",
+    "city": "Seattle",
+    "state": "WA"
+  },
+  {
+    "id": "ChIJqaPzaMQTkFQRUIdA6VaGFJU",
+    "name": "View Ridge Swim and Tennis Club Pickleball Court",
+    "slug": "view-ridge-swim-and-tennis-club-pickleball-court-seattle-wa",
+    "address": "Seattle, WA 98115, USA",
+    "lat": 47.6840638,
+    "lng": -122.2644233,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJqaPzaMQTkFQRUIdA6VaGFJU",
+    "city": "Seattle",
+    "state": "WA"
+  },
+  {
+    "id": "ChIJUYLSVD8VkFQRJ0_f66R69NY",
+    "name": "Magnolia Playfield Pickleball Courts",
+    "slug": "magnolia-playfield-pickleball-courts-seattle-wa",
+    "address": "2518 34th Ave W, Seattle, WA 98199, USA",
+    "lat": 47.6407407,
+    "lng": -122.400357,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJUYLSVD8VkFQRJ0_f66R69NY",
+    "city": "Seattle",
+    "state": "WA"
+  },
+  {
+    "id": "ChIJbXL7eftCkFQRbnWm9D6cOdQ",
+    "name": "Tukwila Community Center",
+    "slug": "tukwila-community-center-seattle-wa",
+    "address": "12424 42nd Ave S, Tukwila, WA 98168, USA",
+    "lat": 47.4910118,
+    "lng": -122.2793225,
+    "rating": 4.5,
+    "reviewCount": 709,
+    "photos": [
+      "ATCDNfV863WVC8eVrItUo_e3NiVADaCaPb0tq60XLHlRX0iMa_V0kc2Q08h8va8a1EKxAfEP8Zl86FKfMH3F3VVWFI8oQvnLbE1uJT15Y0zaEQonBH3QcttLg1O013rkTKs5eeHze_Q1p0YHQ0t-kOolo_YWY9woKyUNl7pfAF8aAmuobrNfvsceER9uaCdfk2cOxOEU3rPQd7nPapBDAW9S1B8kEpLA_AjqaYvbwGJkUg8HKendB5uMfDdqGNsPepdB6KoO3GwEZa84DAV1RuxjbSmk1WjeNoGJBYEqDnnBeUSHBaT3N4gFqhntWYnPOGnieNOaFwEFFMFAVJdheQlf6r_49BJ3mQTZk_hfOB7zRIb1siG9JGm-oP6tocU4gexdFCasDZtnxDsgsYRSutQULYg3Ae8DyvzMJsy1G97MsBnYKw"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJbXL7eftCkFQRbnWm9D6cOdQ",
+    "city": "Seattle",
+    "state": "WA"
+  },
+  {
+    "id": "ChIJhTguLSYVkFQR2k3TB-lsoUo",
+    "name": "Pickleball Court",
+    "slug": "pickleball-court-seattle-wa",
+    "address": "4339 NE 43rd St, Seattle, WA 98105, USA",
+    "lat": 47.6595956,
+    "lng": -122.2789995,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJhTguLSYVkFQR2k3TB-lsoUo",
+    "city": "Seattle",
+    "state": "WA"
+  },
+  {
+    "id": "ChIJ_XwQDB1VkFQRDLIvIJrzDs4",
+    "name": "The Drop Pickleball Club",
+    "slug": "the-drop-pickleball-club-seattle-wa",
+    "address": "2360 Fawcett Ave, Tacoma, WA 98402, USA",
+    "lat": 47.2387527,
+    "lng": -122.4401108,
+    "rating": 5,
+    "reviewCount": 52,
+    "photos": [
+      "ATCDNfX2WNts9Jz3pp5yX6lnJw2c80LOGJlCc-PW6ygpv4Ogfa2YLygIhZiOXfr1OBufPnjoPqP9PJ1I5OAcJajZ0p70PQpl6wuCalmnobMUCnlSACAokXGeKopW2z2aCr96MOQs8csi2gyaf2zk6qo9v486Lw6Knt1W1d3AA2_PuIoZo13ukXtuPJ7PjgXyVFkkg7TDLG1mN1CVKIGKArofS5yENY2zCED46MMssjpB5rjKh5lbWaimslwkDyRaN7sWmD7kb1Ww4WDRU6semDd_6rPSySz0SNJ3XCe7lx1lXHdw-qJ1i4L9Vddi4rULu4sBN26PFh36x2-fCj8N_OVyeqsxNfWP9rcBkMByjG0WFzCCPX168WZoDA3CPEb6L_5fJEfwPOFqNvP1mOWp0TyTNOrMuIogmHvIafvczmnRh05seFAFR5scgCp6RtJyGe4w"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ_XwQDB1VkFQRDLIvIJrzDs4",
+    "city": "Seattle",
+    "state": "WA"
+  },
+  {
+    "id": "ChIJdTEihsVdkFQRKcHt-9rj1vU",
+    "name": "Talbot Hill Reservoir Park Pickleball Courts",
+    "slug": "talbot-hill-reservoir-park-pickleball-courts-seattle-wa",
+    "address": "710 S 19th St, Renton, WA 98055, USA",
+    "lat": 47.4638704,
+    "lng": -122.2101991,
+    "rating": 4.5,
+    "reviewCount": 17,
+    "photos": [
+      "ATCDNfVnYQ50_KL0-M6MXosjvaWLJEjuOL2Shp7wF1SDKky_FlwdWmblTdeNeaJjMQuH5HC0-wR7AkwPGjfS8NaHooHPtat6uhqbwfQ1Sg40mwalNOgDv7MfrkBIVZmrOu3iNzQe31m5gAGIdGShUdtdDTjirZ3nypkP-0UFpghh5r_D1Je23Ghi_vQcfn4-Gz9fSs9hwp0x4GEJslSkk4vjz9v1HWwP8NAoOEwyF9BuHdw_Ft78Mhrj_U3XztnlA_OxPrkvcourR3IpKAsbmUh1Z0nwC7qF-dsCfkkn5dGK3TX7XdeDmT9ozIsuqUCAxUoh1XCOZnE-fm3A-EoZQ790W1vnt18zrj5D7nt3CWP1c0MCw2FRG9F4nd7u_3xsyWf-AeQdl7haoSVVC84r5Lg6z3uVFdWS74RqrS3F2olDgwHaux3LZD9PFlLijeztX-Ub"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJdTEihsVdkFQRKcHt-9rj1vU",
+    "city": "Seattle",
+    "state": "WA"
+  },
+  {
+    "id": "ChIJ71ML_l0RkFQR-w0Ac4Lrsp0",
+    "name": "Shoreline Park Pickleball and Tennis Courts",
+    "slug": "shoreline-park-pickleball-and-tennis-courts-seattle-wa",
+    "address": "19030 1st Ave NE, Shoreline, WA 98155, USA",
+    "lat": 47.7667495,
+    "lng": -122.3293325,
+    "rating": 4.6,
+    "reviewCount": 37,
+    "photos": [
+      "ATCDNfXRGggsFgMoWM5lDElLfP4aryn-WHtJSA5JXFrUJSmjSpvEYPQCZy5_DnWcbc1Ycvqd9aY8eOksidRGMnfOsAgeemzNOVsHWALME1gAnbSQ6kKN9RK7UX1F1-mtXMQE2kjuFGxCqecEBSfRnKKjJhV0C28388aKUuwfeIdwhKWHEoez-bwIZMhuORVdgFQnIKKr1RUI4ZXE6EmnL3hLEwgYG-zbYPzgQdlvFxNJGcoRyf2bidAjUvzm6fNKiPI75_QOEktOZ2HldaeaUVevzSGKV86I2XsfT1NOM-soNOn699flMGtlwN1qFiBd95ZVDHU81IK7DQHut8tigSrI3A_iVviQdz3PfrO8arG9RojyxAbk0wGjtFdcvlcAVcP19KWPF2fc9xd3e8ebs5BRsrPVFdNL-NXA8e65QVJIH89WOnDA"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ71ML_l0RkFQR-w0Ac4Lrsp0",
+    "city": "Seattle",
+    "state": "WA"
+  },
+  {
+    "id": "ChIJY8lgYWZAkFQRrjltZOXb88w",
+    "name": "Hiawatha Community Center",
+    "slug": "hiawatha-community-center-seattle-wa",
+    "address": "2700 California Ave SW, Seattle, WA 98116, USA",
+    "lat": 47.578193,
+    "lng": -122.384535,
+    "rating": 4.3,
+    "reviewCount": 62,
+    "photos": [
+      "ATCDNfUcwNDkx1WNsHGMOjT1cjyp40I60xNFX8Yx0HCYNOoMGHLHXJmdtIL4TW_VIAIyZClFEOWmVvikCFrvwOVBYHeHR3yKH7dGNKBy3Nx9-jvCA7dPxfEj8n2J84eMX9a2r2kXfQ0tIPJ8HxHrrNw3NBQn350uENGnQjIsa6jMMzZ6RYiQHIaPd0yibPC5cmKkG3it_r-r4hECRvebnKr5J2CmkGDQXyUUdG5uwkMbvkOoXss-m64NdEy8940v_UyJqP1l1S3mTwM_GHsnxTT2JWe-1gHBv5Us6BF2aGclsx4JvQ"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJY8lgYWZAkFQRrjltZOXb88w",
+    "city": "Seattle",
+    "state": "WA"
+  },
+  {
+    "id": "ChIJR1ugLnAPkFQRp9_3U4NQL0A",
+    "name": "William Penn Park Pickleball Court",
+    "slug": "william-penn-park-pickleball-court-seattle-wa",
+    "address": "19900 100th Ave NE, Bothell, WA 98011, USA",
+    "lat": 47.7723524,
+    "lng": -122.2055076,
+    "rating": 4.4,
+    "reviewCount": 26,
+    "photos": [
+      "ATCDNfXjSZc-GdSsdMZ2r8Cfy3HbDQ8_9kNzLceg56x02_RRtyLpqmNp6vY_cvZhflDMCYpEKgX0fg0RX-ecsYc8lAw7_gme0Ux3Ypk4H5evi-WmNwPRUdsjheSG3L1XJ1-vUaFPCHR5tM6YTkcjDZWXXl4fOPIK-6JM9hvQGpDzuEZ6p-bhHoWNCT29rfc50Oux8eVGu1iYAkgwiUOwGOw9b6IlQBsGL8eWE2bwKnboNv8qZsR0C5S98a_fVSeLPMjGp1gTEsB2efkDbsQdmdhXsQFfgHbrzwJ0WxSVtE0ecmpCO8FGEiG4iSw8HPpJPX2qcif8IjvdsAkk9r2MGFOHRbrb-Z-VTJQOz7LwutR8pS5ZV_5MWqJ8Rsy2gihVKUO9v9ViE7C7CzR7xUS4rCFhElvRW5hYWAcvYGWzEmfMffPeMr4u"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJR1ugLnAPkFQRp9_3U4NQL0A",
+    "city": "Seattle",
+    "state": "WA"
+  },
+  {
+    "id": "ChIJxSyc_YVEkFQR5-ExvsqZHuw",
+    "name": "Lake Burien Park Pickleball and Tennis Court",
+    "slug": "lake-burien-park-pickleball-and-tennis-court-seattle-wa",
+    "address": "14810 16th Ave SW, Burien, WA 98166, USA",
+    "lat": 47.469609,
+    "lng": -122.3557045,
+    "rating": 4.4,
+    "reviewCount": 24,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJxSyc_YVEkFQR5-ExvsqZHuw",
+    "city": "Seattle",
+    "state": "WA"
+  }
+]

@@ -1,7 +1,7 @@
 import { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { cities, getCityBySlug } from "@/data/cities";
-import { searchPickleballCourts } from "@/lib/google-places";
+import { getCachedCourts } from "@/lib/courts-cache";
 import { CourtCard } from "@/components/CourtCard";
 import { MapEmbed } from "@/components/MapEmbed";
 import { SearchBar } from "@/components/SearchBar";
@@ -34,12 +34,8 @@ export default async function CityPage({ params }: Props) {
   const city = getCityBySlug(cityState);
   if (!city) notFound();
 
-  let courts: Awaited<ReturnType<typeof searchPickleballCourts>> = [];
-  try {
-    courts = await searchPickleballCourts(city.lat, city.lng, city.name, city.stateCode);
-  } catch {
-    courts = [];
-  }
+  // Load from local cache (no API calls at build time)
+  const courts = getCachedCourts(city.slug);
 
   const jsonLd = {
     "@context": "https://schema.org",

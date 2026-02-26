@@ -1,0 +1,1302 @@
+[
+  {
+    "id": "ChIJpa7a31Fz1oYRGPexJH2yt2M",
+    "name": "Ace Pickleball Club",
+    "slug": "ace-pickleball-club-tucson-az",
+    "address": "4881 N Stone Ave suite 5, Tucson, AZ 85704, USA",
+    "lat": 32.2952349,
+    "lng": -110.9724471,
+    "rating": 4.8,
+    "reviewCount": 80,
+    "photos": [
+      "ATCDNfVH0B5gi1DGqFQTjdk_XaBAfpTuM4IHk_dZOuLUgrlOkDZvlFyZi2OjOnWucUyN-jkJV6hGMuTb41NZ_xzOSmARn6Lii1_S56FmCQ_xKoFkB50QxRY0AqQq_0-o2W6cpTwcRuXYgzpiYcru2sg4xiujSl7ZbTorriDBLb0O606ep1MgmJr5LhrKRJFzZ2KvN6BbEwdZm0KHmTN0g4z0zYUciB8hM_MWUXSzjCB0aocXbVD91piqByEbJTu_JAlhCarHqQk-hpK0Cwe_3FWMIBrOUP2x6qh6AwUEbofIQZM95g"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJpa7a31Fz1oYRGPexJH2yt2M",
+    "city": "Tucson",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJxRPRH-Jx1oYRWxxppcNQAWg",
+    "name": "The Pad Tucson",
+    "slug": "the-pad-tucson-tucson-az",
+    "address": "300 S Toole Ave, Tucson, AZ 85701, USA",
+    "lat": 32.2182322,
+    "lng": -110.9623992,
+    "rating": 4.8,
+    "reviewCount": 28,
+    "photos": [
+      "ATCDNfWXOFHvvdOb4rq1XTBHnjVFKPgWov3q0STLbJiEBzZBZt-H366AxxL64KT3LsWTqbCaKVdWeqaLtYON7cfJbXaN5Wxgw6xUhXsvw2_Bht3SChxxPvNYOy0g95UZWQdgmuwAxzI_FnvCTO5eQI8jt00zngeKOitzVQ0Xx6pNU8v4vCKfhemQXg4XG4Bd5oDWI1cgY-hTSKgYauk2FT3SutmrYjH7tMeAgHHkpGMLvD58SdIJkDrJmvwRbNqeo65GwaugWxahD2PX28Ao14OrSgf9ZEb_ECj21NGS35GE_YnlNw"
+    ],
+    "types": [
+      "bar",
+      "cafe",
+      "establishment",
+      "food",
+      "gym",
+      "health",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJxRPRH-Jx1oYRWxxppcNQAWg",
+    "city": "Tucson",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJ-8zfl0Nx1oYRsc4HnGoXp5A",
+    "name": "CORBETT'S",
+    "slug": "corbett-s-tucson-az",
+    "address": "340 N 6th Ave, Tucson, AZ 85705, USA",
+    "lat": 32.2261921,
+    "lng": -110.9674347,
+    "rating": 4.5,
+    "reviewCount": 506,
+    "photos": [
+      "ATCDNfUs-gu4XSov9VBmvNlWRDKPmd-zGgalB6nKOGO0KZCFuPmAwCYVlac4nDqpgsIHXCVEkZLf2nD4W3FaXkVJ1UIS6nsgVrMC3qWEPvTPYgwaXF95mVUwJykWLLbkxZpXiC3GC13Rm1WJ9Hy63JOV4p2SEYfbajBzxURFzo4Ja_qspQFOHg_BaMI3tV43WpntDmxPzjyNFElUimmC7NYLMu8sSb1LWiJub3yOYI6GVZuU7MCqQ5e9W8sXCG2Ietbu6GoQddxX6iK-51u078bt5OScnfLuT7cd31GKcdv8qNyAVmkWLKK0IaMU9Ae_FESKWqB1RqALCyhp0vmYhfxbpjMPzYfWf2lX-ES4GAGd5F5WutX6IkeGwfwagKKhctWgWFXMALo2by0TdTXocR6oBBlEG25SG7Lhv1WCbcLtGnBadg"
+    ],
+    "types": [
+      "establishment",
+      "food",
+      "point_of_interest",
+      "restaurant"
+    ],
+    "priceLevel": 2,
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ-8zfl0Nx1oYRsc4HnGoXp5A",
+    "city": "Tucson",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJD1EMQFRv1oYRfMX29Qspcq0",
+    "name": "Udall Pickleball Court",
+    "slug": "udall-pickleball-court-tucson-az",
+    "address": "7200 E Tanque Verde Rd, Tucson, AZ 85715, USA",
+    "lat": 32.2485897,
+    "lng": -110.8367296,
+    "rating": 4.5,
+    "reviewCount": 50,
+    "photos": [
+      "ATCDNfUgFuLyL-LJyInOmMYW282A7QAI3V37a50DSJw85lGGsRmkRRyKD8usM1saD9_6DFRcOxVC7IFv6nOc_sHiIndgIevnREmDn3cneEeOj-rOk-zKecbXLnzlKZzBsxR9JNK7DL5ek0Omlb-iZX0voWhrTu0plEahVF4Ec3pGnRUggZx81BHqmMD762FxeqmWpV-aF1RnuWHOFus9spx8LB4x0qfWsvPJHDE6dOdIN-mNqskZar1ZFi-6vKl6woYYgmPadjFsq9kCn_GS_hPhn5yPb9RSomcZLFFadwUM8KweCOif6xdPplmDBTOxbrAvRMe9NamxsCm4OEKqTKHw4QquFxVXMSsoYyFLDj8V8PSNEmxUNbf0YRkJ31IeIDbZuYLoEr9AK3GjNFB5USt5xYA1x74MaNN8kCNLlQ"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJD1EMQFRv1oYRfMX29Qspcq0",
+    "city": "Tucson",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJxZYPMiRw1oYRn-I5X1HnLaU",
+    "name": "Randolph Recreation Center",
+    "slug": "randolph-recreation-center-tucson-az",
+    "address": "200 S Alvernon Way, Tucson, AZ 85711, USA",
+    "lat": 32.2191795,
+    "lng": -110.9100387,
+    "rating": 4.5,
+    "reviewCount": 218,
+    "photos": [
+      "ATCDNfWarEz_P4mk3YMija514XMweIkx3rhPgPlgHc1LGKSSHu-gCHQr7m47RYn951V4lZncr7IGpt-PSXlJ2CiU3hHmc47an4pza55acFQIK1WXFlm9mVoZO1uLi8d5yKaiuRGSYkNfbN3oq2VBznBFdogTnES31EtPLI9pb1QCWKEDdQPqkCisXi7IrlIbB8VeKu7hWbYmL1JNfeDwkX6qCzpfyl4V8LDCWl-ShlCtYk3shn3w-r6clL0chSbk9cZng2dMl4QWCJ75OLxIm_vfs8AUng5_tO64b_wcTTVJvbwZt7X_Jz40x8aOgDxXaYzgZF4s5h5-1sJPN5qoRzohx2IHuMwTss-AY2ORobed6vOoPkoTGLq6NFkbXtkH7DCvRJ2Wwgw1q-JTlkkf5N_uBiySDUjUDYyRgzreEmVYfBwNaQ"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJxZYPMiRw1oYRn-I5X1HnLaU",
+    "city": "Tucson",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJoWZ9mgpx1oYRPmv-De8L_Dw",
+    "name": "Pickleball Rx",
+    "slug": "pickleball-rx-tucson-az",
+    "address": "3148 E Fort Lowell Rd, Tucson, AZ 85716, USA",
+    "lat": 32.2644138,
+    "lng": -110.9251902,
+    "rating": 5,
+    "reviewCount": 66,
+    "photos": [
+      "ATCDNfWLo71AwoDB29rvTVtsdYF32bPuPHrufuLRK9YXU2RX_QwfhCSaDwvEQHtZdUqVpG-SjiuTXMCBexAxQUyz9cnRQvGm18CWpXodllowxT7Pdhwa1srwAUUMph_ou9X6G_jgtLQV7QzTeezmxbX4_e-gFBdAKrS0A-_xGZXVcT0dFbMvJHMe1tKXApyVUtDd7ST7zvFt-t2rF2Sv4m-M4IFQIxHnmFeZoDmy9fDEf_iGf65q0hr6ceodUtZdEfkBUthjOaGBvGwsNvU4x1gQqVX8vSLWFxqmezaBZZ6_IlcZTg"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJoWZ9mgpx1oYRPmv-De8L_Dw",
+    "city": "Tucson",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJt7-8m2xx1oYR08U2G2bA5VA",
+    "name": "Donna R. Liggins Recreation Center",
+    "slug": "donna-r-liggins-recreation-center-tucson-az",
+    "address": "2160 N 6th Ave, Tucson, AZ 85705, USA",
+    "lat": 32.2471787,
+    "lng": -110.9679861,
+    "rating": 4.6,
+    "reviewCount": 156,
+    "photos": [
+      "ATCDNfV3YLK3SyHsbvff5OtzuBnADTuu1-QZD6kmAFEb5qa068HCUv-6N6TlCc8prgpB6j_cbEzmWqIDWVq_W8lHSg6_ZxtgFm2NIKbpYVUgO51eNktg_XEc_cDs0MOCT3lFFsxTNI12I1qD11U0bt79-4bNCw23bZ3MrsjDJaRU0bOWz-9Fg4ZpfuPeHPi-BMSfhV_gycyZFKe6jDPQ5YeMjj8Bk2FjJwtZNW-qYy2hpgaiMFI8UElHIWkxB_lVQ8dc7IZxpuXEeFS_iMjTzowVFmSs4ptrfU7SuXOo6Pd83tV-2w56ICCddHDNIfJfN9sxbUjSFvDxnXtd91OtrhlzAHLF-I_gVQg50veQVqLojX3L8txRChY9ae-yMF8qclgLyKi2bvZCTZ1qpfJsC6hLXvsxNBy7Yge4vch0FgtIlLA2R--o"
+    ],
+    "types": [
+      "establishment",
+      "gym",
+      "health",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJt7-8m2xx1oYR08U2G2bA5VA",
+    "city": "Tucson",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJtXjXxQBv1oYRDNwEylZDdO8",
+    "name": "Padel Alley",
+    "slug": "padel-alley-tucson-az",
+    "address": "5943 E Speedway Blvd, Tucson, AZ 85712, USA",
+    "lat": 32.2364298,
+    "lng": -110.8654888,
+    "rating": 5,
+    "reviewCount": 118,
+    "photos": [
+      "ATCDNfV-NvqbxBjXq5020XfhnvLKpfx_ZHekpUJ03XrsA3tbfS4PEckDkSShqGxsBEWDN78zrUOhb3pXDfE2dNuXiQyqteYywKd7fDqMsxElVEmxiLySUwPHlPNv_fwEGjVMwfEN88houUy6lINDlRQSU10FqXTZ6VD4twuxIPcBcQH011KUoS7_1b48afRAKN5G3F2fuCrMNIwyuUc5MloETMvTh15RvgFqdxIpfMrXxMZjzJVjLUE1KOMgi71-YyePWdmle-sKB2PcOuWX7_EZWFGLcuxYDLfORawLsTc8CGF24Q"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJtXjXxQBv1oYRDNwEylZDdO8",
+    "city": "Tucson",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJcz2fLyd71oYRe9vPm7hYDBo",
+    "name": "Kino Sports Complex (South Complex)",
+    "slug": "kino-sports-complex-south-complex-tucson-az",
+    "address": "2343 Tournament Way, Tucson, AZ 85714, USA",
+    "lat": 32.167648,
+    "lng": -110.9346279,
+    "rating": 4.5,
+    "reviewCount": 235,
+    "photos": [
+      "ATCDNfVWmVs4qpaFLZGB6NWF_2igiHpz3yqBnQDXIC_VrnTxUkF_M5e7KiMSrhReUn2B01Q0DuvoWMHQdBdpHUxRjzmUOpu_DH7oec1hf2yZ-z0CIHU3IAvBMSRDK7faJMdJd9ueazeZ8nwuAEP0KLXgraEZCQXt3-eig-TwML3EvQPz1jERN-pj8XBPBoj20o6RcYIW5580hZ5K-Pifh4COka3xwsDGCeCMA8RDYmvA7W_8yEcSfsUbID761X8qlxDy_ceTAdEokCVSBO8pryCLPLrE7HpDBM9JVs03ls3pU0FfPg"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJcz2fLyd71oYRe9vPm7hYDBo",
+    "city": "Tucson",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJCflu87Nx1oYRT7zuP7HUs3w",
+    "name": "Himmel Park",
+    "slug": "himmel-park-tucson-az",
+    "address": "1000 N Tucson Blvd, Tucson, AZ 85716, USA",
+    "lat": 32.2338763,
+    "lng": -110.9331501,
+    "rating": 4.5,
+    "reviewCount": 1860,
+    "photos": [
+      "ATCDNfUBuYPRBhys20XWC8cP9uKu8h17dJxpE-oe_sCQHcP1-YID94pXz7_TtF-UFpMidBbtkzAZsZFcWHI7l6ZEp5KHA2eZqn-uTseas5v17zIHKBXK2hHCArwff9JJlIqi5hjhzCH6ZjsYL7kuAnM-nICKCDf-2KQISXlf3g1uHuZmA3dfhWF8zMwdcnEBbH5TSLNWPuiODNrB4a4tgit7stBTPn3jhqSFlCqX960m4KqQ9K-edFo4cQYSElZ1PS8fy3X11M7R9nrxUZdUwxrTZbTmFdwF87NcAZlJC5gFP1QIZlMiLmjwgNWJbqryxJdXdUL1OsU5RXI6Hp5z3F-Yt2OQxZ_a_IXlIiRjs7H67c7GBC79x1V77bENxyK954Tz_C1vPnvYEcZzVeXkXJ7iDZtIpMU1HmvKulrfuGHAm2u2xOQ6"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJCflu87Nx1oYRT7zuP7HUs3w",
+    "city": "Tucson",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJqf6vFCJy1oYRdIW2RmMtQIc",
+    "name": "Tucson Racquet & Fitness Club",
+    "slug": "tucson-racquet-fitness-club-tucson-az",
+    "address": "4001 N Country Club Rd, Tucson, AZ 85716, USA",
+    "lat": 32.280526,
+    "lng": -110.927983,
+    "rating": 4.4,
+    "reviewCount": 487,
+    "photos": [
+      "ATCDNfUTISQbjE2VSZnULwkAywFUdOBt89uI5yEaRIh6ts__fW46PhR4IRaA_mo75b0u82gKQLiljYEHt4In8ytYyUqA3PAUR3Fp169_jONnA4Pixqf4cUwdA9jLilHrWU2NIZULOqYSCl44AWUuua-CkOvYs-tjplvfqZHfh4vYbOzds0SgHPdjupUfm9LYSNpjrcFV5G0xqx4Fj_gXSEOio0IuL8UbPCv74U0fiw40yYWqqtOT3Ejsjej3sTn_IX1gMFa7_x-3a-g4V_Hn_jKh8o5XZrZbafJkq2AXyv4MSGA"
+    ],
+    "types": [
+      "establishment",
+      "gym",
+      "health",
+      "point_of_interest",
+      "spa"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJqf6vFCJy1oYRdIW2RmMtQIc",
+    "city": "Tucson",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJ-WzIa_l71oYRUraVdBHt0F8",
+    "name": "Kino-Pickleball Courts",
+    "slug": "kino-pickleball-courts-tucson-az",
+    "address": "5388+Q6G, Tucson, AZ 85714, USA",
+    "lat": 32.1669375,
+    "lng": -110.9344219,
+    "rating": 4.1,
+    "reviewCount": 25,
+    "photos": [
+      "ATCDNfV-8JAkSlKDL9n2PokgIznpINNy51bxgU1jKUVYIQ8YdHg2dPA2boer9Z4u_2psVSktGf2Q0A4PaqK7RNK5Z7nhWRCPPjleu3PFBwhcTL3sEXWhXhxSu4TId_CzfIoViPKMO1xEVm13Y1Wu0-oXftazlRvSW-4yJvGvkSwBMfn3p5W5lrD3E-5BRE2RUp6P8wIgrqv1IkJBoHUggA8tBVxHymtTGgR_kX9OiNf6WSlJIfAIhxhDyDZ9H13pFFRCvtz9mM9HHWmyRJlfIvA9Qml8Wtrhxezp0JjteH4sssZbQFABmvVrjtMpSmuq4lo8_4kAukuQcO76BOG-VN909cYZzK2mrklvgvr1ASpCrJNJZt0sQKe5E8pPJsIsPXzDsIbawQX-_YTHn4AsiuMNtF2RD9s3DrZ0RfFwJKfilkAz4Q"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ-WzIa_l71oYRUraVdBHt0F8",
+    "city": "Tucson",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJq6y_-uFu1oYRx23Fw3BWo2s",
+    "name": "Morris K Udall Park and Recreation Center",
+    "slug": "morris-k-udall-park-and-recreation-center-tucson-az",
+    "address": "7200 E Tanque Verde Rd, Tucson, AZ 85715, USA",
+    "lat": 32.24928850000001,
+    "lng": -110.8390471,
+    "rating": 4.5,
+    "reviewCount": 1419,
+    "photos": [
+      "ATCDNfV93ezcjVsvtsNUZLxq6AnN4IAHLBILb1_TVNjCcGFZgKQg6p2pvhXXGewW-sSt-wE7G1YcBRQNiIXwUs5TAC8ZiOGiY_E9iTgbcGkbcYxP1nrQ1lbZrl8xXi-jfbH75-3dvlK4RW_o70WCdoDyhQcj_E54czJnY9LMBejR5wJqBB4Z0TH3LHdGJ_Qi8VXfZOK0UFmsPUHbpx81AmBYrJNh-cLDkj2aefJoyJBWD5f8LFT0SdxOjh_i_ALD971LXCPTlYb_iX1hH9VeoLTOw51WUgKlMVe1ZchnRCVCN2TYYPpk2WsvMUTprlsafd8PmRiTy_vmwIKZsB63TxMwStzmLlx7N4Y9FtWKFJKIc3VghUhTp1vsr-tAvlI0bwjR8xoxs1ymOHH6Tc-PDeLOH9heKAUWXI_hqa_E97krVkWsNFk"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJq6y_-uFu1oYRx23Fw3BWo2s",
+    "city": "Tucson",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJYS0L6elw1oYRopeVgTxAjIM",
+    "name": "Santa Rosa Recreation Center and Park",
+    "slug": "santa-rosa-recreation-center-and-park-tucson-az",
+    "address": "1080 S 10th Ave, Tucson, AZ 85701, USA",
+    "lat": 32.2094778,
+    "lng": -110.9735112,
+    "rating": 4.2,
+    "reviewCount": 115,
+    "photos": [
+      "ATCDNfU0Wop6fShK4arAUmQQ52mu0CbWCXHRm5iICZ6Hjc8o9sWLyH_r4GgYO1n4j_9xcX0yqUhO4TL4YigLwyjq4rDgQJHw5mGJyAXYi7DtCz1tCXRRWcJp4Ns7EPh5yFANYhtSeEypAl5iwdMlDvp-6A99jcawEFVwXgjk3gppLx5OhpL7UxD5Y87fSHL_aqZA0TzClGDllk-tVcn65-oBhbA3UzoZ-lgTzbuLUHBzrULrq3ZONdEWdmI3zTFiJvmOOK9qtyeWqfVps1149XLX4-AGh1ZOx768VoDbrhPEZLpwqVHylprF47UaUSSh0awzXApylld0LSMHFxZ3LsI8lSF2yZJa8eDIIIxB8sTh6-S0Dg72diGLgaARFz-gerMS9wblKaWb2En_hNWReS4X1WB8dGXJhloDxu3UcS2Cs4j5-Dc"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJYS0L6elw1oYRopeVgTxAjIM",
+    "city": "Tucson",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJH4TxDlZv1oYRyTQitWiP6W0",
+    "name": "Morris K. Udall Park",
+    "slug": "morris-k-udall-park-tucson-az",
+    "address": "7290 E Tanque Verde Rd, Tucson, AZ 85715, USA",
+    "lat": 32.2491198,
+    "lng": -110.8360407,
+    "rating": 4.5,
+    "reviewCount": 228,
+    "photos": [
+      "ATCDNfWFdOeRUMkpsUEAfv1Wyk40TMXsI3zFViFsyC5_3L1ZCYTz8j2uiqv9zUsyNUgb6NMuYFnulFLckduk8JDyuANy2Rbkiu8hZy2aQXJ7zycmyDUEj9D4tZsS9YB0kj41XHhbk9xDZvLtKuO8tUdvsK6eElffTruM1bCp5vVtwK76Pv8VYSjgczOh2yx8fr3gNLQHxK0RzTboWvuxCMGcUvEWHnS-F9dQ7HDhUJoCOZONkAYnT4Dh7xGYwHyBSbtSbg9kZAIFnmS3e5ML28gR99WMJhoahb0Ru31xuPZGPllkYsjrM3gDFtBaQkYPWssEhydpGF794SdOIV1a4SKdpMVMXozmz6NO0Dz2CJ2SEE2O5riyqwoBANiMKc5m8jWWqjYm_sh-6pSeZLKEfa7UKi-vz5eRFcS25slct8K-Cc57Vw"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJH4TxDlZv1oYRyTQitWiP6W0",
+    "city": "Tucson",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJ08lL57Nx1oYRroE6mESeihg",
+    "name": "Himmel Park Tennis Center",
+    "slug": "himmel-park-tennis-center-tucson-az",
+    "address": "1000 N Tucson Blvd, Tucson, AZ 85716, USA",
+    "lat": 32.2343693,
+    "lng": -110.934178,
+    "rating": 4.5,
+    "reviewCount": 30,
+    "photos": [
+      "ATCDNfXrRCa7ChQvXLXkYWH9cXtsGSXhJJAZVblBOt-5CxUi2_Rp2cl-JFd0V5gelEHBPPaQdmJB0zuQHpJnAPUejrAYidE-WdBDLMCJBJy4HN1ibD17Lt3h5WX9vgbyQoaoiFiO0xNlPdS5iNS8IbjDCLPoYk7NUxzeUm0tCKTrJW2tK7p4ob6trJMG09k0KwUn0pglANJ4-Vfe3Gc91URpk43HmFymv2o7J_htOYeEsCA5btKsMW3CF5fN0ify4VQtKEecS3cKyI446ZPIYJzdD3ZN46CYVKPs3ocTUlCynSyqJ3a4XrDAjYQSy43DZmwGP27UgPizXdAEvSo2_JbJUiqPBzaqaFaN0soQPRmmlumSTS4Epj_sRn3OC1KzjU-zQ-4rPT-4CoFlZjUMRLl6zGpbpiqn_tUZY6hOItqKreKSNg"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ08lL57Nx1oYRroE6mESeihg",
+    "city": "Tucson",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJHQ4oliRx1oYRCYBpGnH8Tck",
+    "name": "DAVID G. HERRERA AND RAMON QUIROZ PARK",
+    "slug": "david-g-herrera-and-ramon-quiroz-park-tucson-az",
+    "address": "600 W St Marys Rd, Tucson, AZ 85701, USA",
+    "lat": 32.2303262,
+    "lng": -110.9815861,
+    "rating": 4.4,
+    "reviewCount": 216,
+    "photos": [
+      "ATCDNfUGB-eifHmemsYOCIFPF0KjA9VzOlxp2_Je8RcGaH48KHdGYFC4iTCCZoLF-TCoD1M0dNn2GsOj76ihtcFda5do39utyb3twau0XXPdkvLNZPVRX3F5P9Um4M4KbmVmecszxsq4rRG3uArhlS9m7Xy7RmoEfsEtxlIwVzcDWSLZAeZY-aRZsNSgVXut9AMsrn0KJxLR44l265wcFBps_tcc4p1PZRupi6BCSmo8Aal25WwiJQFNBNXHDCtchQAIwXo77t_Sidj9QbpF1FFzClCS36Bg4ssp94ixBcg2YGrhj6dtoKR8uZfRtqePbiaBBE6Lk9MpU0h5O-fkr4FKvrCLHqJDC8dqF2eP0e57DD4RM-7VWeoHbXKS4FMrtwnsRlUCI5VM6IDcmrB6csVCL6M76jKd5QJzZ2RkXfs0J6ROHo6h"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJHQ4oliRx1oYRCYBpGnH8Tck",
+    "city": "Tucson",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJNbc6wyVw1oYR5FsLAFjHX4I",
+    "name": "Reffkin Tennis Center/Tucson Tennis Management",
+    "slug": "reffkin-tennis-center-tucson-tennis-management-tucson-az",
+    "address": "50 S Alvernon Way, Tucson, AZ 85711, USA",
+    "lat": 32.220571,
+    "lng": -110.910308,
+    "rating": 4.5,
+    "reviewCount": 180,
+    "photos": [
+      "ATCDNfUtdKGHotuNpDP72kNynLjbDImbplNgQ3pWv_Hj14tj-XQ8WvP8M8na7lQsi_LJ5kvWWVsjFQvcIP_NSARjvWEGkWssNg2coLue7rSgowlA-pmbm0ORpHiAhCMeiboSwHJLU2UPOc7OJ_cAV8I2Skum4qm9dmxdXWqbUuRbyGdtAckEW2lkmQqCYygOz1avTc06jB9TW8ITm8fVAAdhmACHqnywB9PoMflNz6KViKwHgC_lYqrLhDwz9hZBbzwIfTre927O7VbG1bxWZv4KzVwY4PxqvuoXIE6FF0nFMXoSzPUNn5HpkkwiGr_mzVnFXd-Kg6rembyY-lamKC11-SGCz8u4M8Rc-jWO5X_1TLiBiGJjn0K5czmIIhiS91dJREE1_XXCBh-qeb03vw_Ljy7anUj2YQBRQJzuF9gu1uzINs0"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "store"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJNbc6wyVw1oYR5FsLAFjHX4I",
+    "city": "Tucson",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJUSsfm2Jw1oYRQnXOJ8ZYLas",
+    "name": "Quincie Douglas Center",
+    "slug": "quincie-douglas-center-tucson-az",
+    "address": "1575 E 36th St, Tucson, AZ 85713, USA",
+    "lat": 32.1932771,
+    "lng": -110.9491573,
+    "rating": 4.5,
+    "reviewCount": 159,
+    "photos": [
+      "ATCDNfUSui4qWgitBR3aLP4qIk-tiCGhFXn1V7yb0-UIwWoC0GnDJY72ZRkJNTt6AGpexsmUxLjvjcRDk-QbflcRc89DuIDaEpIwyR6udSWTrBDKgiJ55GUXBcRBJbZBbhP4Uz46vWvQtvaT0m-FheM_LCdZQrPERh6yS3YZn-KmdTLz3qtsA1WrW_E1MQLktGYprq1xDX695I2so4hfx7d4m-A2Cfp9scEvZUEf-I4ybe4sbzd9lv1q4KBvGUMy6AyymSdDhczxgTdl4F2Wq7jmljbCS3y3cPgDrYdY7-0BSQH5KLVUFPp5DZTqZn4YBn99eeU6MGi_1SkIe7R2x3-1D79CEBLRhoKUKcUKi6TiYjiHTywKlOFH_vChXnCqzq1mqYvcPoQ58dPl_PLnh6fyNZ6Hl8EgsUBL4mEeyknhB7qoCso"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJUSsfm2Jw1oYRQnXOJ8ZYLas",
+    "city": "Tucson",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJYa0wxCVx1oYRBWDZR96e598",
+    "name": "Randolph Park",
+    "slug": "randolph-park-tucson-az",
+    "address": "250 S Alvernon Way, Tucson, AZ 85716, USA",
+    "lat": 32.2189763,
+    "lng": -110.9111328,
+    "rating": 4.6,
+    "reviewCount": 94,
+    "photos": [
+      "ATCDNfUiqSOuqzb9A2di7uuNLNinUrD3lofUC_LagFbPKkNJ574X6wzoimZ7x1CsMPxkXaJIdIA2zC8qwnbG_i9ALG1j8wR9KDAjyTaHUAepFVeCQ_EPTutwEVuIKyvMlTm3_DZF3axRyTL93IzNfjFtUT1eTOsksYe5hig-_wOlgHRtWK14V-3E-BsXDS7_rXhSXi3wea15lG1H0YesavWwCb2GNIYAzU6uHBRTmpmP60qxQHESFwUgjG2u0DtS6w0th3cbJpuq1wi_AF1KWz8LdGMLdufZNyBgb5DKiQbx7X1T7xOJob_3ae99UrP8X7zaIIeLRGdKqCFgODyt8DvF3f2SiXgpiBzsymlXBWczeSXO5nPfp6_jUx0VL6Zcmo7MAhqix2R4RshgB-a5cRMvDiW3IkZvtWD3j8LpOy6HvL8"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJYa0wxCVx1oYRBWDZR96e598",
+    "city": "Tucson",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJWy0_xx9x1oYRo8Y_ckhUo6w",
+    "name": "Lohse Family YMCA",
+    "slug": "lohse-family-ymca-tucson-az",
+    "address": "60 W Alameda St, Tucson, AZ 85701, USA",
+    "lat": 32.224083,
+    "lng": -110.972635,
+    "rating": 4.5,
+    "reviewCount": 151,
+    "photos": [
+      "ATCDNfV8ldJ1lJzTLnJr84oTFipfPPbn0kosUEhftmfxbdB1oel9NAp5kNX2L7BXYQxQDxvKM7NicDfU6c0BwwaZdAAO9b2Jmfy2aGXOhF7d7QlSPDIeKPkyclCkUCjtfNhp4Fg8sJXe2EGEZvFySQxD4EU02L1sVYargvXjv0GsSOCVLNDkikNAYZeQGMXqkKcCLzXUTqeXD4KQ-XuWa3hrGb9_LNOlApRIjVmoLMUhybGF27UIsvFSDEIE8oBl7aDaCMRbh0o14zxqOPCNX5_CG_l5V_6Yo_B-x_2_YpqEN6KB7g"
+    ],
+    "types": [
+      "establishment",
+      "gym",
+      "health",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJWy0_xx9x1oYRo8Y_ckhUo6w",
+    "city": "Tucson",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJFblwc8dv1oYR1SXxb9tyKLE",
+    "name": "Fort Lowell Park",
+    "slug": "fort-lowell-park-tucson-az",
+    "address": "2900 N Craycroft Rd Ramada 3, Tucson, AZ 85712, USA",
+    "lat": 32.2596871,
+    "lng": -110.874732,
+    "rating": 4.5,
+    "reviewCount": 1210,
+    "photos": [
+      "ATCDNfWUH3csxFsjH-kRBT9MRukd8YJZLG8QG3ZHWdPjzrM4DwsNEEqlFQy7T7obNi4qWrhljidXlBvrZQKy4JtXqMqxl3PKbiEUDmg5GbxIUOSvqjUQlQYO_B67U0H6uPzdSAUfGTC5CQ1XRDv9dNd1e06sa0kQcecMWyrFaTH_YColN1ivmz-D4wFgv9oT0Pjzr6_OZEd2egnP0MCMe8rxHvI9GR-UJBpjh4a5erGqLC770iRvAgrD7izXgGAAUITBPfOHuWhmigDsaENoUzHMALDDjW0Pzi4h5rP0_99mENiyZ_ORWMpC-SJX4XZ9bBFxIig-Y3i3YFWLH-JF6uatcvHArs32uuD-OSpWB4W_hrGM3W2DGZdAj9tAZ1Ve-505FwbHnWu00YAy_xvx4UN2CHtqedYap1qTQAYw-WCSb_Y"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJFblwc8dv1oYR1SXxb9tyKLE",
+    "city": "Tucson",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJp7pWLgZm1oYR9slh4aFl2kw",
+    "name": "Rolling Hills Park",
+    "slug": "rolling-hills-park-tucson-az",
+    "address": "8820 E 29th St, Tucson, AZ 85710, USA",
+    "lat": 32.1980831,
+    "lng": -110.8040076,
+    "rating": 4.4,
+    "reviewCount": 286,
+    "photos": [
+      "ATCDNfVfRqdmDrNnVilDb3rzKmTor92M76D3Yjg4PF-VBQMqJsSI0GRbR3gK2rvapWQLk2_-3xt2ONdMNhJU8bMGRYHIr2fIwwQe_dhBLUKlqZMpqvyVnU9Ke5IBPHNpjPvXONYvY8H_rjpGJ12O-s_pDxf4eAV9SqsKCup4HfyzgrCEnXZU3Nk0KYoDZ0TBqjmsJGailPmukCItJS_fpf6V3e8ysJE29Iqa_60Am3grweU2QI8gkgvca-azgfT5CisvL355qJM2o8cJndni2mXTjcminXCQp1XFn50RenrvMcpfVD0a-T8Yth-s1Rs-UsbnzTdfmqNxqTb2cPEMsukpwiRG8YHluhRq5dc0fuv495AYVOz070HcCL7dHBpooyssmM5hMHyZENdWgTFbWZR6l82zwdy82etgyRDroJTbWZJ22Tw"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJp7pWLgZm1oYR9slh4aFl2kw",
+    "city": "Tucson",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJf_ZTH7Bz1oYRh2FtD6IP7UI",
+    "name": "Lutz Pickleball",
+    "slug": "lutz-pickleball-tucson-az",
+    "address": "7001 N Paloma Dr, Tucson, AZ 85704, USA",
+    "lat": 32.3343542,
+    "lng": -110.9886074,
+    "rating": 4.7,
+    "reviewCount": 20,
+    "photos": [
+      "ATCDNfUYUw6wPo4fm4MaZ90ug-p8Pmn6-JOSBK8WD46a_D_S3pi9pNWGUCUPUSGQoDpibaK7G8TQEcSywUPyCxgSjXxEj4yklyQOaUU6H5xjCNpy0J2ZSxz3kBj4RD6c4M7abUfd4BKQVusgV_IMAARAefUWhzk3Am76gFSd8uKo0Uca0KqN30aWjObnTvVms-ZmyLGogFMedadT9VDxloeKedlqJ81Sj2g0fzwIp78N-uFrOeZksN1FQPfuj9ERYiurGWYevWsjTecKSspvTtNmx1qyr4wa9gtEQMAZNUX_1sBGAg"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJf_ZTH7Bz1oYRh2FtD6IP7UI",
+    "city": "Tucson",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJbaVLsapx1oYRCxha0rLy0uw",
+    "name": "University of Arizona - Recreation Center",
+    "slug": "university-of-arizona-recreation-center-tucson-az",
+    "address": "1400 E 6th St, Tucson, AZ 85721, USA",
+    "lat": 32.2271207,
+    "lng": -110.9502163,
+    "rating": 4.6,
+    "reviewCount": 476,
+    "photos": [
+      "ATCDNfUoYZkD1LxHv5_xA9NEDzOfzdXPDMfUMRwEc2C4UuPG_E_xQa_0TeoNVficocOid1I8X2EePMxvGmIIUhp53oQN00CTjGg0otfqFFjDHCi973-vT65Z78QuNlq0TKrZCWNoHjXVLhf04IQJpER3vpCmO4Bh6XcRGJF_ZjWC3ESAglSqtduwHBiS5EXAPBjkvbIot_jOtpL5SD8wMpvgP-KtUfQGOjZaIU8FRZixSQKQYDaSjwUoJ6ilAFY6HGIO90XeFy26JKO7ugxXwrkAS3hGNYI1qEPwRMuZi0M2DFdzp97ll7jYYcoKNX3OyGyqeCxYqwlUzLGnkjtvSqIjnBpowUziMDyQVRDAyC7HwrPpbjitYtSFPXdb5ncONZbwc7onFhXlaFmMPpt8t_F-r1xA5vakkOFABilYvpSw2ly42w"
+    ],
+    "types": [
+      "establishment",
+      "gym",
+      "health",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJbaVLsapx1oYRCxha0rLy0uw",
+    "city": "Tucson",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJb1l4_6tx1oYRFEtJ9adg1F0",
+    "name": "Robson Tennis Center",
+    "slug": "robson-tennis-center-tucson-az",
+    "address": "900 N Martin Ave, Tucson, AZ 85719, USA",
+    "lat": 32.2328096,
+    "lng": -110.9448335,
+    "rating": 4.8,
+    "reviewCount": 23,
+    "photos": [
+      "ATCDNfURTZzAs3cu3czX_FfNDrBFGFBMosu-LyHf1DNhN_ge9qAS6_1vTjn0lbToIK4Zp1wf0F1PrSm_u4VGfIum4s1BPyYSe80s0mXkV1Uy8Lums1JyhMAvRVasBWXe7pXu3oOSPwmwh4yRv84SC7csC2vHySJpNl8n2GmjscAaUIc4HwmeKL4jBG7TAFhZjyTYm2bz25I5pyHSEz2gmWBFKirFXHF773-AJspRqocVQYN8b4FetKzSfb8pnZPknEDLFqJi_OMgDdsuvZ_P2NZsD38szg68ipwLeAJr_dG0FPCpcsGefTSYKndQnuDq56vHrS4c-hhIntb8DF44RhfDh_DdnXGzdNzAjRksTWWp4DNHB5a45zHhg8FOfj7WctHFVFWOvUyZBiwnnSwk-ZVapmgIvniyGd_s7IqerGjIp7cuQw"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJb1l4_6tx1oYRFEtJ9adg1F0",
+    "city": "Tucson",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJ_f7xhEFx1oYRVazGkGRRK6k",
+    "name": "San Antonio Park",
+    "slug": "san-antonio-park-tucson-az",
+    "address": "502 S Santa Rita Ave, Tucson, AZ 85719, USA",
+    "lat": 32.216543,
+    "lng": -110.953091,
+    "rating": 4.4,
+    "reviewCount": 5,
+    "photos": [
+      "ATCDNfUOFBwczLW_r1v-7m3ZlQreBTefut1NUwIEl8yJ6OVCgC_LMnpzQcuCPIBQ-Jd2z2ED-WIuXWysbA7KIE6vcLKsy2-gTocMjccuk5ZJJqiWM28ob9pI4EfUe2JMOPZzCbIzf7hSws8OWCd6xYtEXRcGBePJ1zYWmoipCKfelfQnXU2EWhYgkUSI3vaMEne_6XqNPYw8xbOFPUQTAwYVW7IAI9bU7I4dWAqxpgYfp4Y7T4COcSD60VPt8z1LlvSZ9v4wdur5_K3KVCdkO3kT7JSd3-BM1gW01f9RSGUgn6g3GWz92qNIM3g6IUD0JWaYDQbMez80TAsAEbTCATTfc4EsNIHKQnWhNTbH44MaozTdGAxT-Ozf8CJqhsQWVtgc6GENKw3RzhCbadR5FpF6SIzxdFnHo1UdLcy430DYVCk"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ_f7xhEFx1oYRVazGkGRRK6k",
+    "city": "Tucson",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJ42zAFHFv1oYRC-RIqzQVMgo",
+    "name": "Palo Verde Park",
+    "slug": "palo-verde-park-tucson-az",
+    "address": "425 S Mann Ave, Tucson, AZ 85710, USA",
+    "lat": 32.2158301,
+    "lng": -110.8471116,
+    "rating": 4.4,
+    "reviewCount": 954,
+    "photos": [
+      "ATCDNfXpyzEpOCJMgTngpMpPwMR1NMszyEh00Hb2nO3ga41tTBzst8muQbOdegM6Mx8TW-SsH4JceN6TWlae-mxoDYCgm9KBs7mVt8ji4PlPtwEQlANcN6qwc4P-xDt1bGad5-DmwN_qivQGvEVkoowEPDFFDJvBsuXioJBw_cnNHoA5Nz14ZDn9R34flTQZn_XRHWLX48sQbfMspDEDe0L1GKziwKI4lcF8earvgZ1Jb3kNrWHUYUFitQAohf8gOFi4cd8P-qzI-i053iskEqVr5p87JNsl0k4ggC4bKquNCb6u3EkvYJ4s7-qDrZiktq8QSJKjNIyUxxG6zkXl10REC6cfJ7Ze8thQkBbgDtJ-OKg70ZFuNaNlzTYoP4kPAetDXlzosVGKO4mVwzWXeO6uO7XlNTj62TEVUSPUI9FKeRCUbQ"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ42zAFHFv1oYRC-RIqzQVMgo",
+    "city": "Tucson",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJm17wk2J01oYR57eoBv0gqc8",
+    "name": "Sporting Chance Center",
+    "slug": "sporting-chance-center-tucson-az",
+    "address": "2100 W Curtis Rd, Tucson, AZ 85705, USA",
+    "lat": 32.3018209,
+    "lng": -111.0129921,
+    "rating": 4,
+    "reviewCount": 227,
+    "photos": [
+      "ATCDNfUBNc3TgQ_LEMi91-pJBgH0XoLb0I8HM3I2EjYcJ3EdNw-cqeNELtouYUtPtmDfguxyncVy1zP5WRn1aYswzBUiI7csT0tpP9pgJpSes1G1dMKZoWhL6QoB0bZOdtNhRTDSNQrzNFUw3qbn7G9M0M-AFmeMSKbX_lYdpGTe_ptoLdDNpicLslQDTmRcERMLSwhYeGNmcsIGuWSjBFELZVDfXDktPA1Yyk_MUObVn4sLQ6A2VSzp5QdITuU0IsF8GIUA6u1ctFEBgh6HFYKm8zRQAIWaKoPhBPIfa5wbwdMFzW4AIXmSq8cqrtmNkHggLH-EmFqcKDQZU5UOtevnEZKA73RbZbw-N-h2mCjRb5OIeWQazMlsY9nRs142agNfk0WgNBPXez9BSFLq-KWTl4QJrkx9_zJIR2kFnibJJkI-qQ"
+    ],
+    "types": [
+      "establishment",
+      "gym",
+      "health",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJm17wk2J01oYR57eoBv0gqc8",
+    "city": "Tucson",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJF1i1I5p61oYRGuhiBKCQMvw",
+    "name": "Kino Sports Complex",
+    "slug": "kino-sports-complex-tucson-az",
+    "address": "2500 E Ajo Way, Tucson, AZ 85713, USA",
+    "lat": 32.174556,
+    "lng": -110.9347207,
+    "rating": 4.5,
+    "reviewCount": 2179,
+    "photos": [
+      "ATCDNfX0Cw-rcIB-OXpDLGmZByux-b7GK3jWXoK6XJ77sA-B-1u9dBU445sJuki3o9fib7zJscO5ry_JS0M9Gf9qFpSPrvTbhEvK2zuF47v9QWgimvdTu3MXdpUkridIjzVl4XorvxUNtXzfmSn4tAO_d9zTXogC752lfSDkm6qqziIi42WWEA-kXTt12H-KrzKukMnnK0XaZ86Wq6EaHu3GBuNP9uBxHqRIIwFtEmIk_ZYxuTsHEFj6bQ-MqoU1cOqRXp1ZZe0j3A67YaDLnSLrAE2PSXFXje1gaJ6v0PtnsivxqcY4pMkMdDm8q4BGwYxZwY2Z-xHzRPMF8LJg5YH9nak5bv9W1FyeJNXJQGiEqip0-ld2xSAWPwIEqd0eDqsml6LhDG--OjjsbdyPu9L36oEEe-Z8NBWfPAc26na0X8Qoo-DXI0SNFaKZF8BSKhGO"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJF1i1I5p61oYRGuhiBKCQMvw",
+    "city": "Tucson",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJWVgT6exx1oYRwfGsfOa62ts",
+    "name": "Country Club Annex Park",
+    "slug": "country-club-annex-park-tucson-az",
+    "address": "2230 S March Pl, Tucson, AZ 85713, USA",
+    "lat": 32.1957511,
+    "lng": -110.9208878,
+    "rating": 4.2,
+    "reviewCount": 87,
+    "photos": [
+      "ATCDNfUoNICK8dCelutI-QWj4DW_5H25SFA8YISy4LUAfFTmh3zs7QEqbMz4-2tUgxBFmRcHlom1EkzYOfUTAHBl1zyNnQDk_cW_u1VULFlkSU55mjPsvlYNEdc6izYSLCcVMj7iA5pjWw8cUEVZwAPKCSkDjSFvZCFk0SL477ivaVyro4oZ1MlmM9bxKwSx87irG91TyZ5sjCnhxO_NCa-xrprWcxZuxLtCVOIQQ2AWF75hMq018otYDZvI2qS22ytli1myZWDqC3_MsDNS27YmomKhgxjFxeSQXq0ChCosISHPM8NajdK964uB_kU9g5vQ68J5mz8QXqspv4CwgNWX32lDCOf5WRqnp9NrVzq6xuo7-DmQtAQzDJufQEyIO8kt6tUCwfClsqa1jFt3Pt_BHYBhCS_-U6YF6Q9fwxCfWetB_A"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJWVgT6exx1oYRwfGsfOa62ts",
+    "city": "Tucson",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJc9QNFkJu1oYR1d3OK1EgUes",
+    "name": "Fort Lowell Park Tennis Center",
+    "slug": "fort-lowell-park-tennis-center-tucson-az",
+    "address": "2900 N Craycroft Rd, Tucson, AZ 85712, USA",
+    "lat": 32.2604537,
+    "lng": -110.8718931,
+    "rating": 4.3,
+    "reviewCount": 36,
+    "photos": [
+      "ATCDNfXaWfiICa92gwgxwr0cNinha1kBb4230BjU9EL0lLRIjAwwNlayw8rxmmazoINJJKOvVvrNtial_2WZQe4A3NUBMfBb-XRQKJDOqWHLtOds9XBumLZVf3Nh_xFsDrTyLcGhrHPEzqJAKte0vFIG2HLy1zp65qVPbjOLEAhWeH76PNbLY9AH_HnzemPg1Z2VYnYBKZy9ATQ8kW8y999sv1BRj2wAOVg_BU09VNHHzYN2i1jriVSqlfOoCVZvY8Ie9zuKCBmByWMXBa-tgT9QgtWFlyNsIB13_baJoF7nSgQgNEgJvTENSO_jrR0nfjbuun4ewZmiZ4RqNEMeqgKzQ7BzQONAlSedHtkM10j083e-olgBBZFVTVgL8QLY_lytz0UB6E42nVaLkBIwRfQz-zqbQ7QBheLQR1xSxo85GOV1BhU"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJc9QNFkJu1oYR1d3OK1EgUes",
+    "city": "Tucson",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJUUfvUvhx1oYRDmrLAoo3Yrg",
+    "name": "Tucson Jewish Community Center",
+    "slug": "tucson-jewish-community-center-tucson-az",
+    "address": "3800 E River Rd, Tucson, AZ 85718, USA",
+    "lat": 32.2738817,
+    "lng": -110.9122313,
+    "rating": 4.2,
+    "reviewCount": 113,
+    "photos": [
+      "ATCDNfVgN3NjJfzMfljgGhnAigmRnEvtI8UEKwiK0OXN00BvsgIk8vaF8vTRzTeyUH5x4mqySvyV4DuIGA0d6t1qN0rTmAf1JISzplm2oU_uKX1VWETJu5zc1GqzhocqjAIOPgVbQXNA6E_fWzFUzZB4p6mDCCP4cwWtPOkFOdRAO0mP2G6TvQI-9m8KdsIK_w9rQTAy5PdbkqxU_Ylkil9Crm955S71l9LJ6u4WVsXS3WJJIjWxf7U-Jj-bw1TIoLrEbsccsR509_0aJZVodcWOhU4vuty6zdgdMKowFe2yJh8XzQ"
+    ],
+    "types": [
+      "establishment",
+      "gym",
+      "health",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJUUfvUvhx1oYRDmrLAoo3Yrg",
+    "city": "Tucson",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJ600LytFl1oYRlR2-QkU4s04",
+    "name": "William M. Clements Center",
+    "slug": "william-m-clements-center-tucson-az",
+    "address": "8155 E Poinciana Dr, Tucson, AZ 85730, USA",
+    "lat": 32.1686784,
+    "lng": -110.8190636,
+    "rating": 4.7,
+    "reviewCount": 124,
+    "photos": [
+      "ATCDNfU8fUoRiClJRY-8-WQq6KrV2iHhJzittvAMdS5dFeFDSoqc8DYpyDdzix999rlKcizHrIq3dL1OgUNpJt1e8U1wh35MU0cRHWFqyf9Dcj2aIZhKZuZgiqqNnzRjhh91NlLBZotdxKKMCW55lrchmY4qDfrxIlR4fYVNuQ5SSfmX7Dowmqh3pMQRQRO-0SN2ika7EugUGh9rqr-vSbMLMvUyq1-iqbRT8kb5BUlAE_3YdXjHZHnoZBr8YugOrXCGcBcTpSl9a_KqLO4pyXPMaCpXx1Le2JjA1THacaKPp1eMcw"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ600LytFl1oYRlR2-QkU4s04",
+    "city": "Tucson",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJkaKcCuRx1oYRW11CEuSbjKU",
+    "name": "NorthREC",
+    "slug": "northrec-tucson-az",
+    "address": "The University of Arizona, 1051 E Mabel St, Tucson, AZ 85719, USA",
+    "lat": 32.2402518,
+    "lng": -110.9565168,
+    "rating": 4.4,
+    "reviewCount": 47,
+    "photos": [
+      "ATCDNfWofy3iarBLx_QtHkjXCq-HF6gYLNtbHKm-Qp3pFhdOUrrNdymkJ52FeD5niJsvgLmI7NHpnj28Bpn9_kk2C6JLfrDv5iy8AcnamPjkjbsZzYKWXmtjT2FddIC_X_Kus0xOu154qYDrMy2_rYOOwnPqQcKNmONhbLlqcF5ha_rsvMi-MC4P-Qt66DilA89GQyL9ZwR3nwQTDBHZrZvHZ80S7sdZx0iEspOCooi9MlsAw18EVxpdFDtsyP17jOautiVFEbkiuTunQLMOuP5dEFIfoQDMK05tTN4wsyKfUfzR2ubOrr2liKp8l2SNEdKoFtJzHsT-cjX_fNAVZ66F-_QBfzpscUKceQ5O1N7eaSQxgTDoGEzkQs5fUNdX0DB5n3_gqRX07TiiTC2qlKKmFIfaSIhyp0HEQRoHay00Sig1Ig"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJkaKcCuRx1oYRW11CEuSbjKU",
+    "city": "Tucson",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJaxUiJ0vg1YYRWriiDr5zldY",
+    "name": "Continental Ranch Community Park",
+    "slug": "continental-ranch-community-park-tucson-az",
+    "address": "8900 N Coachline Blvd, Tucson, AZ 85743, USA",
+    "lat": 32.36931,
+    "lng": -111.120715,
+    "rating": 4.6,
+    "reviewCount": 240,
+    "photos": [
+      "ATCDNfVsqJytg3I5vMdmNWyFGeKX1wHGLo0UWmtd8SOEn8-jVM9gCV843tn1UNzzbeLOTbGINP7poB9vbzUjHoNMCSu8jgCUNcUuJpzWp0uSqdBmdUNksujLTJWshM3NAe-0nvp7JRxcH-pu7uS83xuGkJVE8ZVZn2EMZPsF3iC6jblPTlHRMuh31sStDESs9_ENrlT1LLNjX6ZN77Gb-FEfaD-vv09TgifcYIgzLIAnmeu5qdz50AOyILPx94qXyhztx4ygrcOMmZkUHs4NR6GLuuTOftfxLgPZteeD4v3dKQNcmgv62Ry7D_YBPdvSUCwY7Ih0CsHOfGzWM3J88yjR3qqCBHfxHDu82H4m6HmFhu9EiFXnuuwGPhIF2kr8itlXybmuheJ0B_ywSdJJKQK1H8CYn4kYuxB3hwxopffS-0IU4347"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJaxUiJ0vg1YYRWriiDr5zldY",
+    "city": "Tucson",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJvfu78DJu1oYRyIZNZqJKU5k",
+    "name": "Pinecrest Park",
+    "slug": "pinecrest-park-tucson-az",
+    "address": "4870 E Fairmount St, Tucson, AZ 85712, USA",
+    "lat": 32.2393619,
+    "lng": -110.8890066,
+    "rating": 4.4,
+    "reviewCount": 200,
+    "photos": [
+      "ATCDNfXx_YNSZYZA0wyyFpq1dKlRIJi4_0iHT9WBXAjz8qcqX54_ivHZLcoNNe7K2navfWmyUBOf1Lzud80wEvjRo1sDyoGywDQfxTa4GAYpqmZCeFBMfHvI1QVGwyfyX-3GX0fgxKiFgozTQmuov8R3Y6KBeMJoWRdDUMNlAbG00mjEbylaVtkIalmM39pAC4__uX9MCeHrhIWpyuOkXpYgoT5TgO72MOjvah-daIJcuNev850p58RAdY6k5K6V-l6I2GKXFkrVElfCbjqv7kEvRywKCf3ArfsjLMZhQOLn8idLWXwDQqAb9OM-zIDHqBWRA3PZGDOVc737upUT-kXsco0sGhQOfqhhf5SCrZ4gPSr2fGuYd9l7spUH_4oJHCKLWSuoHg9zmgR-tUTQUj7GyFXpmDH97q_zpCxJ2d3sU7XEOFE"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJvfu78DJu1oYRyIZNZqJKU5k",
+    "city": "Tucson",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJN0NNTbV01oYRcR8sIThG2FU",
+    "name": "Northwest YMCA, Pima County Community Center",
+    "slug": "northwest-ymca-pima-county-community-center-tucson-az",
+    "address": "7770 N Shannon Rd, Tucson, AZ 85741, USA",
+    "lat": 32.3466224,
+    "lng": -111.0236311,
+    "rating": 4.5,
+    "reviewCount": 188,
+    "photos": [
+      "ATCDNfWjsViMBqW0H7bOFrlBFk-XU63wziRdEipHgqRQYGVaEYNRX6Zp6OyJUz8ss3Uul3XaEsOMdE6ZGl7dis0lHlPIN7z9ukf6sudwaGvyxXcEKOXlOX2hNIKgcE7EAZrDmfW9iYMEvW6cBeLmxqHmVwsPEJYzFW8mOFbkInoRR5fy_W3uGHqxt51RKF0UNSZxogdybywyzq7Hk5d5b0uhGenRssEHs8qVwSHhBM2Pe4gAyY_U14Cnke5DR0v5QBzlVTyZnsN5cDwSR6-8z8xAZ6wB6vMZmSqT13U8e_a-C_jowNZqzzdQ8NBM4h4KP0ZkmsL-zIIRkBC7uRongH6lKviHDFGGMBEoh0u3t_yG9NnT4ZAZ73tPY59ZPZnx1mYxvBYbxO0NmPT28rRcBzr5tO7BWgnksrUyzg9KiFwQPgeUmEQ"
+    ],
+    "types": [
+      "establishment",
+      "gym",
+      "health",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJN0NNTbV01oYRcR8sIThG2FU",
+    "city": "Tucson",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJzzsqrLxv1oYRylCLeled9ok",
+    "name": "Udall Bocce Ball Courts",
+    "slug": "udall-bocce-ball-courts-tucson-az",
+    "address": "Tucson, AZ 85715, USA",
+    "lat": 32.2478886,
+    "lng": -110.8397023,
+    "rating": 4.7,
+    "reviewCount": 12,
+    "photos": [
+      "ATCDNfU1vZ92RL_ZR0_bjF8LHvNXWxl1VZKiL_hzsowIPXV30u_jCHYb2MseJipHGdWCV5Tuv3vPJ-s7Tu6ceZ1ApK1_IJo4ytQgIke4jGgppozCEKHyPoPCRfHa_UWpKEEkaRQA6zVT3ouUH0Y5waFQWI7SZuRAb48aXO-sLUzZs1OVzAuJ4Dq8BognDIV7qzW7XJ1KYAQrQ-vWUE8eIf0EPjLbV2CHh7Fa6nlm63Oe4nWqo3dbjwNNSJMly4wXDR-uRN7-Sadn4dMGRER-Cw_FQw8VRPKLdpCqtAu4oXJDsdFCoADNI6eQ440ZrFDSrB5U2MInfkj1jjrP25f7_nSPXcWI6I2x8cISEo29HNbGt02wVP53PQT4Q4GSb-gGqkWOcpREiEnznXR4edxGSo0vKBnM_booyg6bECLyGKwgerMZdQ"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJzzsqrLxv1oYRylCLeled9ok",
+    "city": "Tucson",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJGdkzbMR21oYRKZEHHSLRZzM",
+    "name": "Pima Community College - West Campus Tennis Courts",
+    "slug": "pima-community-college-west-campus-tennis-courts-tucson-az",
+    "address": "Tucson, AZ 85709, USA",
+    "lat": 32.2299665,
+    "lng": -111.015281,
+    "rating": 3.8,
+    "reviewCount": 13,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJGdkzbMR21oYRKZEHHSLRZzM",
+    "city": "Tucson",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJG8f4AwAR1oYRQ0K2Ij-9Hnk",
+    "name": "Pickleball courts",
+    "slug": "pickleball-courts-tucson-az",
+    "address": "4955 E Rail N Rd, Tucson, AZ 85739, USA",
+    "lat": 32.5061672,
+    "lng": -110.886372,
+    "rating": 5,
+    "reviewCount": 1,
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJG8f4AwAR1oYRQ0K2Ij-9Hnk",
+    "city": "Tucson",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJm6qhTF1v1oYRH54kaCZ4hqU",
+    "name": "Stefan Gollob Park",
+    "slug": "stefan-gollob-park-tucson-az",
+    "address": "395 S Prudence Rd, Tucson, AZ 85710, USA",
+    "lat": 32.21477,
+    "lng": -110.830294,
+    "rating": 3.8,
+    "reviewCount": 152,
+    "photos": [
+      "ATCDNfXBfoHAfOxvWvbhQ-ZajSVaBitJGxRxCpnGJpJ25k2GOiL6W2Xe7RFpVIT_OX0kRaUxh9OTIFlWH3LFwntv8KZyRIlRFyKev4ivsBdm2ic1FzXxniICWDUs0I6M1zYUL03VSrZ28y0e2UMxTwoNiCPE_HSW1whz4gRbGV7m24SdPq8V-l9AArG7Nw85bm4jetHNHANjKNKS3-ttFTzGME8jqWYhMskSY5iyYc4SNjwrs7FIZeY9jl6Qy-o8ZEf3vq5_qRGql3q4fYWlDgMsTuc_Tq3FThPIzKKn-izFlXfl30_YZgwRsC_QHrwgq6NBOK-TmuewCNvmFvI5wq5keI9NlA3DkUKsNino6e71SxSew86y-mrZtYCi-u4I-hsQGbQSWtbbXie1GNBVqrQzQqYISTgQVmTZdUtWub-RuaBxgg"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJm6qhTF1v1oYRH54kaCZ4hqU",
+    "city": "Tucson",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJM1fciiTh1YYRbmq7CoRwHTM",
+    "name": "Continental Ranch Community Park - Pickleball Courts",
+    "slug": "continental-ranch-community-park-pickleball-courts-tucson-az",
+    "address": "9V9H+8R8, Marana, AZ 85743, USA",
+    "lat": 32.3682875,
+    "lng": -111.1204219,
+    "rating": 5,
+    "reviewCount": 3,
+    "photos": [
+      "ATCDNfXmz91gK9crkNbkdtDoIYb4F54JbTHy16nhGKotgqATsHLS18PriJXI1UBtCOX5X7Wxa9gVRaYPIBClVJlISeyALP81p2BvNzGRXchBvMHssDI1AzU7kO73gRwrQ-vFhH_cTqvuOroXuUk0LLYPoJCw_TrUZscgKC3GzC_LbkJwJfpBE4R7SQlP3eN_5kzAfxPjRtKNAzjlQXnZDJy9jYJRDDYKRqD7F0RegejtRr3sAh9sph82nwlFlRqEY4vFjWqvrZZh0R4B-JXLTE4GwdoubYAwFJQr_oOQbtHRtH1jyIX9knduptk6mH76LtjzSILK16IuB05Ik_wH4nYJcrQCoImYPZSPdLFk-gzZZHo-lK2lcL7o7eA_A_KUzOysYaSuow42t-wKW87BTWXXp-L8Srte5MP0azJKIhj6hBN4sQi1"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJM1fciiTh1YYRbmq7CoRwHTM",
+    "city": "Tucson",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJUVK8s_561oYRGogOmxx-J6M",
+    "name": "CSM Martin R. \"Gunny\" Barreras Memorial Park",
+    "slug": "csm-martin-r-gunny-barreras-memorial-park-tucson-az",
+    "address": "5890 S Campbell Ave, Tucson, AZ 85706, USA",
+    "lat": 32.1454824,
+    "lng": -110.944526,
+    "rating": 4.4,
+    "reviewCount": 245,
+    "photos": [
+      "ATCDNfVr6xbPT3IoORCmWLGl3ZsLNhmfab0Gy-AnQ51wHTkk5oSxGUT9Y01gBgqcXiu-QGnTaoKDzSuHPRJOas_0aTVCE9GaZXEm3jVLZwXS77GFHAB16GzPPgHN06fQdPqE-Ci7hpkQvrANFCuWsbnzvXh2Qety-gig4oaBlNwN7T3Gm34ipqWU4JGFGQzGYQkMFLmYjfDzponn3Ao1pmxDbku-wzAc4ivfzuu0hxYfJz9lSEt0kmBhADuU76JI9BGkAJaqDx-RxJVyAQTsDII-8861TciBO-OcGYtJAAaVQJI7NeOrtP-OQc8tkQFc8RMCk0pCKyFx1Q-ICrlCxODNeM7AnOAVkrmckQTR9WZkPOT32ocXjKvWJLrfVaDDFYfmCTVTV_7YEXGQKQaEmFoHGsl4DNmTx2cquPY9IZinYJqqqiF4kE_qA7BY_MQkgKyr"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJUVK8s_561oYRGogOmxx-J6M",
+    "city": "Tucson",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJS6G_SAFv1oYRUni9uYJOXNQ",
+    "name": "Ott Family YMCA",
+    "slug": "ott-family-ymca-tucson-az",
+    "address": "401 S Prudence Rd, Tucson, AZ 85710, USA",
+    "lat": 32.2141139,
+    "lng": -110.83132,
+    "rating": 4.4,
+    "reviewCount": 192,
+    "photos": [
+      "ATCDNfV1nHttDapcwZeac1UvNbFUYeXhL2yk63njvYfYqlwSnFbnk2ORj6cRx9Vvm3d7az4_fcPrWsGIJGtwGqVRpA668RE_IlR1iSU6KwEuLMpsJIhtQNC7dVsPXLVeBbjEoxKl454O8lHXl09OmP-onRVrcZfzMB9j74AST9_1KEBQeGtqu9V_GeM1EpPdccgBWHNIxqcxfAHY14aFu8x8OTnDrF7Lp2GcYp5kyjUPOmKp-95PzhUKPJwVbshXRaBFXcVQPBJHKTZXVIdNEcA5zNqTz-0V97TDWqj74t4rZb81pA"
+    ],
+    "types": [
+      "establishment",
+      "gym",
+      "health",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJS6G_SAFv1oYRUni9uYJOXNQ",
+    "city": "Tucson",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJ7YhErv4N1oYRmHRuFHPqXzQ",
+    "name": "The Picklr Oro Valley",
+    "slug": "the-picklr-oro-valley-tucson-az",
+    "address": "11855 N Oracle Rd, Oro Valley, AZ 85737, USA",
+    "lat": 32.4215652,
+    "lng": -110.9382051,
+    "rating": 4.9,
+    "reviewCount": 15,
+    "photos": [
+      "ATCDNfVxHYezOHAlNFzNXVSSsKUnPmohs76VLIp_Cq41_Lp9yp1ydBPOQt41KYjhU5OrTbx5nMfA4xRNflbmUVjr9BFd-GApi9KCGS7o_0kJtOO7ouyG-Ab_InKtVlXzfpiwFI5toTx8-TyVQ8O_yxixO7zKgduB1T0CigHtbpgUthTN6i-ClbpW6rBHw40clY8lkb3i6XrAQcC0365ApIicBx-A54K1SkmBN25KHPQJMX6rg3093bfO8XMGKlU9Fe7qIsmV2bp4yxW0BI-kOTWpoOVkcCbNelt6o9tI2Hk8n2-tIQ"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ7YhErv4N1oYRmHRuFHPqXzQ",
+    "city": "Tucson",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJ230SYE2H1oYRW8EgqYocB34",
+    "name": "Santa Cruz Park Pickleball Courts",
+    "slug": "santa-cruz-park-pickleball-courts-tucson-az",
+    "address": "14455 S Rancho Sahuarita Blvd, Sahuarita, AZ 85629, USA",
+    "lat": 31.9870128,
+    "lng": -110.9640863,
+    "rating": 4.2,
+    "reviewCount": 6,
+    "photos": [
+      "ATCDNfXuTFJdi9xUz9dK2JYTEOBu_tYSKrsOe2HeCsDdEnIA8-fpVTv9RibcD0KpFSDJjLHci9XXWqYiOvtPSJpfLVN4NhyVyYNGtDiSAwdMArPhWivH8CUYFn-aaBa3AvU6hWcQaK9IfLLBPgtrrBrpHfF-SVg5rbOFSS6C2up6nZHAuYqoWlZAddsUIiXZQOmxn3OnKIRfvMSkSxAR3UkYB1Av8lo1Y_L4v5mrUDttUNfm-AZHN3Lz2SxRVcQaPeFoGSZdF3xu28RnlB7Untsqpsvhuu4L3GDlslltEqbv_GXzy_cGtifmUNTtrBvD_wy2yaR4W-S7i_Kq9E0BGTaI6eOZPihbS7CaCZMKIUSMyIh-HqnqpxEBj85o62svBco9fSZdnGoYQDfQbC_splaa09NV4vwFUKcbcjyDx8eC12nAwg"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ230SYE2H1oYRW8EgqYocB34",
+    "city": "Tucson",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJWfcPchB51oYRuSpllniwzTs",
+    "name": "Roomy Tucson Home w/ Hot Tub & Pickleball Court!",
+    "slug": "roomy-tucson-home-w-hot-tub-pickleball-court-tucson-az",
+    "address": "Drexel Heights, AZ 85746, USA",
+    "lat": 32.1129761,
+    "lng": -111.0334168,
+    "types": [
+      "establishment",
+      "lodging",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJWfcPchB51oYRuSpllniwzTs",
+    "city": "Tucson",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJUURQLgBn1oYRQ3-Gfka2YNI",
+    "name": "Civano Pickleball Courts",
+    "slug": "civano-pickleball-courts-tucson-az",
+    "address": "Civano, Tucson, AZ 85747, USA",
+    "lat": 32.1565157,
+    "lng": -110.7691089,
+    "rating": 5,
+    "reviewCount": 1,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJUURQLgBn1oYRQ3-Gfka2YNI",
+    "city": "Tucson",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJN0bu0v6F1oYRsnSZUm9e3qA",
+    "name": "GVR-Pickleball Center",
+    "slug": "gvr-pickleball-center-tucson-az",
+    "address": "2612 S Camino De La Canoa, Green Valley, AZ 85614, USA",
+    "lat": 31.8316421,
+    "lng": -110.982254,
+    "rating": 4.9,
+    "reviewCount": 41,
+    "photos": [
+      "ATCDNfV28u_sbZIzZnSLfrhVn-VIo5DiOWshCw9V66Fne5i_rUdDFsy2DzT3UE3oXl2mclGoKt9laJ-8BARjfISpHGd8X9yMKBsP06wIEW3QiIzbeLTNpXRJ2QHrf6EipL7jr_Ik-UBKt_q9jF9VGXhrwHUe0AK67AcBIz3YHNWRmyhS3zjwhb38WE642ZUy6vKF37xW-KqjW744Er9dIzqOzC39eGr-bC3EY7dG0jtkAFXrWJWexdFVUPGWwfsVdNrFgBmBri63sOWz4G8QkjG3DQhvDocndbdolSovIsklipVSrA__KEGcg4lbqxH6TLOf6jdUvR88DEGoWkn3hrSX8G_-d2HWj3xS6eL3H6FTRcEkOr-xigL3nAKKl3VJlbSH4s5bClEuumGZzkIjjPa3jb8uKowuh7qQd3FB70PrzqGgnw"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJN0bu0v6F1oYRsnSZUm9e3qA",
+    "city": "Tucson",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJ7V34w_AR1oYR5QOqPdKNsIA",
+    "name": "Ed Robson Pickleball Center",
+    "slug": "ed-robson-pickleball-center-tucson-az",
+    "address": "40700 S Ridgeview Blvd, Tucson, AZ 85739, USA",
+    "lat": 32.5274894,
+    "lng": -110.8753022,
+    "rating": 5,
+    "reviewCount": 4,
+    "photos": [
+      "ATCDNfVG6zuUlsWHPdNF0jsZ5tmGlWflb4RhS286GqjG7mELWq63AiorbCZAhlcMIt6HIgjWGL2OB7qwhoV6PsLh_wWQRJhTyylhITgZuA2diiPIFdzlNhkmpaD2EZmKLoPecCu87CUxdbRtsT5gjLt5A5NmTw5pNTpKcmUdLbOSyavfqAimGi3hzYUwZ5KzLZzlILwOD7np1QWwjb5ANcnkmXkqPISXrS5LspeDpwbBYC02cvYYURyAhAEqYdjt18jJKbJB97bAHGPqU1zT_Br8eR-9ngr2c-r-C_p8qk9rPxpwuSpW8ho5u3Z9Zi5K8hcx-K9TJhAkHUloVCL_NrIG6_K5whRxyEr9Po-tT1vUy2jgBLcTR4WS563M2U-kE9PCejQkTdxO1H6HrZuC2-d4vK2zyeI-vUksSdX0RSB19mreIA"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ7V34w_AR1oYR5QOqPdKNsIA",
+    "city": "Tucson",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJe1nrXXRt1oYR4VbpB7joEEo",
+    "name": "Skyline Country Club",
+    "slug": "skyline-country-club-tucson-az",
+    "address": "5200 E St Andrews Dr, Tucson, AZ 85718, USA",
+    "lat": 32.3289647,
+    "lng": -110.8825765,
+    "rating": 4.5,
+    "reviewCount": 269,
+    "photos": [
+      "ATCDNfXw4__VJ_GFkzFsqDd5om9qirwzTUJoQ7hx0qn2ueW8uOq4-al5nkokx52SrrSQ1xyriY10KLyRHpdn96o_RPVYhN6mzUu48hOmiiiVAvUn3HS_bZ6RKuf2kKSr7tr7mSj73J-c0sKHZTzW1K7rAyVUuiGvUzmTlLKGU2FcFjryY2D7BcH1xdrx1C9MpTj43qHday_lgQIx7pyHh9i3x0juECKWdZhuLcmGpJHNvtwG5Zrc71qdm3KZ1gK6A2gclpq9UejaVhva44ndiPxPa_rA6JruvE-WGAh7nmweFvGs5xGtE0fXfFTx3hSlhl-YcXn1oLOyMRKdaiBenr-cxZ4Oy0PWKxhOdGTXV8Vh4HRu3LNJBrCDEaJukVF9h4c5XwjMljD6NubC611kVxQJ_4YmoxIC7TtoIr5sxLnhAxWvOQBa"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJe1nrXXRt1oYR4VbpB7joEEo",
+    "city": "Tucson",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJu_nI3eNu1oYR3lwhdDtMfQw",
+    "name": "Udall Park - Ramada #1",
+    "slug": "udall-park-ramada-1-tucson-az",
+    "address": "7222 E Tanque Verde Rd, Tucson, AZ 85715, USA",
+    "lat": 32.2499038,
+    "lng": -110.8333759,
+    "rating": 4.4,
+    "reviewCount": 165,
+    "photos": [
+      "ATCDNfXPmsVv9NTDSs8yPuqgmnYFeS2CsP2bTFwUVbiA2e1xOlTPHr1a0IsrbhVMUPDE16zjJc_17-QUmz5SRzVwKWfvxuwmnTlbGXp_hJpFqjYQkPf3JxlrgcA4aZEDAN39qjGvSGm1G2pqqcDFeN0PRw7pkSIQ8_XxOTO0ztwq8LQmp6FqH9_Jg_THRifOmzx4oMlDgEXPntQaelFHEchev-0piAEcs0MJeN8zrUBGtTf_dRczAgImnU_xEFmz1y6SlEYMC-7q_3El5iB1s8R9umJgrqLdFCr0zmOrD_OWxaMMaIl7aiPMburesOLXMgYz0AMfYnWxNcrc3XT433F1Hv_mVlfx9VyKtsuIhqVEjNzUZvKhgU7uBhbeVurts9EndFt73dD00DNcmYzI1BG4nq0l84jxGUZemU8aSgEk5rSooA"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJu_nI3eNu1oYR3lwhdDtMfQw",
+    "city": "Tucson",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJx3CDWPtx1oYRhhVyNXrsK90",
+    "name": "Intermountain Sensory Park",
+    "slug": "intermountain-sensory-park-tucson-az",
+    "address": "348 N Commerce Park Loop, Tucson, AZ 85745, USA",
+    "lat": 32.2248243,
+    "lng": -110.9860647,
+    "rating": 3,
+    "reviewCount": 2,
+    "photos": [
+      "ATCDNfXIDPNHUlTUAmwqZim06KFjW36c5c-uspk3kafChyKyVYp9GioxT7xNQQXwY3RaUSRfwN00fdXTz7o7AeO44kxnKfKa1BYuRjEjx_Cdz0g8vu39vhF0sDE79wNSqzIKQ6WaO1ZYQkiIQ7OsWpwKBg1FYS5Xoe1aFMiI3SFnODrHv_xKMmY-ZzKwWZik08QFUSbsFnljiSwZvc96Vf3SYaXQnNhFg97rlekWUHGKIOOlGAHslASuEbxCGSWmy3u9E7gUtn4pc8e5lxpQURxtoLOljNLH9tC0M5CiB4KzaPo5zw"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJx3CDWPtx1oYRhhVyNXrsK90",
+    "city": "Tucson",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJW89BS2AM1oYRzIqnsJSrFcQ",
+    "name": "Canada del Oro Riverfront Park",
+    "slug": "canada-del-oro-riverfront-park-tucson-az",
+    "address": "551 W Lambert Ln, Oro Valley, AZ 85737, USA",
+    "lat": 32.3973332,
+    "lng": -110.9767427,
+    "rating": 4.6,
+    "reviewCount": 674,
+    "photos": [
+      "ATCDNfWjCM9V1mnwg0IkDWMR2w050E5fZV3I69P77MkDY_h1Xv5QoqsfWVmUu_om2t_kntYVjQh8cBKgY6mfdej4ju_aToMeUOlLswxQajoE7EZet-mIBvRZjb7C1fFuhOn77Xz8M58ZJdBnBpZFTjczBd67SuJQ2HZji-8bY1Ddg3kIEYKauwQxYcR-j5TCGuuoBNSJh1uDT1m68dRrl8b-WpkhAvgwnscO8JhZq4yXGqLeIRiIYs7-1LYL4csEJbmU4vHLSp79-yKIvexVfuIMaBrxAP4g8zjGHodJzbHbU7UhyWI5mug6qI6ze3UNu2kv9KwlYCrjY_ahV9wDjXdgILcDGyxfBORddYT7NFPe9tl57zQhgRmbJysEM_wddZWu6VfxOhYBCjuHjFiNh_5Hfvr-QzXfFCv6rkS8F7HUYz8"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJW89BS2AM1oYRzIqnsJSrFcQ",
+    "city": "Tucson",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJMXyffN0N1oYRmLaBENjWxrE",
+    "name": "Canada del Oro Riverfront Park - Tennis/Pickleball Court",
+    "slug": "canada-del-oro-riverfront-park-tennis-pickleball-court-tucson-az",
+    "address": "92WC+WPX, Oro Valley, AZ 85737, USA",
+    "lat": 32.3973625,
+    "lng": -110.9781406,
+    "rating": 4.5,
+    "reviewCount": 2,
+    "photos": [
+      "ATCDNfU-rQTMv7wU_zF8xJBf8JYKMszAfFhGmRPTnrG7r3FXoqywEptUYjdVGsAIQYK3dMbbYt3XTErBre399PoB4hF7eVojhREPgY0QT_ioqyAlv9S0zuGmAiHTpr8CFxBm9dyYEpNojiSSBUirIbUcz18KnCOBWr20J6xvRQdLyQmwMBBr1zqSWnr3wFTCGV4-u-7xcpQY2hrRHoXWGSpdqpliKpwcdlwTxiM7M02kRWo8EgxFMkfmist8JUboEeyR2y82qWLXxVFDeKnoOJQEwkT6zd0IpROf8Rp6IVUNalOoWPrE3L7uNfa7N-2qH9y2nsqZ1C9vvHad6nl3_RhYkLcrD9Ce6_TeKEhmlHrDNQVcAx2pwT8gorjXZIhpzMm1ZEs_7wdbG64UBXWvr6v-wP1KJKturYyGcRKT7MVU9BIncvyF"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJMXyffN0N1oYRmLaBENjWxrE",
+    "city": "Tucson",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJ8_14BOoM1oYRVjjwaXglL54",
+    "name": "James D. Kriegh Park",
+    "slug": "james-d-kriegh-park-tucson-az",
+    "address": "23 W Calle Concordia, Oro Valley, AZ 85704, USA",
+    "lat": 32.376314,
+    "lng": -110.9690269,
+    "rating": 4.6,
+    "reviewCount": 630,
+    "photos": [
+      "ATCDNfWSN8lvzN8sB_AUtbo5sSUWElnSdLbi2USZhjuLJxdtVFtnk5CVw9yvGIrv_eUb6o0ozpP8VMQfIPoId3rrsbNz0M40ml4as3y3y6KEK7r85EDnhg0sso85RboLn9WGEHKS17Ndpt4FNowi0fQhma4vfZep_ctnx4qxOXzMsFbzU3hjavzvcWJerPsMdbWNAteaXmv3BOY-5ll4JKYfLDkg_kZIGEltywlsEixnF7qULiz2bTjjcVhV-Ryh62er5lGCjkcTE7w54sPCOkgi3Pbnd4g5SZX1o0Br6-FjVrdU3mAmJv-5CikInwMGzUTPJinJayLFi2PXYcC0GTSdgTZnh7IcuBHTQ0w35kvcUPjhAZLqheBF0q5JAqKLXTnUeQEU77bBhnWpV5s9IItf3qXbeWWzLZZk_mXfMmUxjanAC8Nv"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ8_14BOoM1oYRVjjwaXglL54",
+    "city": "Tucson",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJ9wx3GYgL1oYRXneaLos8vR8",
+    "name": "Oro Valley Community Center",
+    "slug": "oro-valley-community-center-tucson-az",
+    "address": "10555 N La Cañada Dr, Oro Valley, AZ 85737, USA",
+    "lat": 32.4036851,
+    "lng": -110.9989212,
+    "rating": 4.3,
+    "reviewCount": 238,
+    "photos": [
+      "ATCDNfU4B9gDGpRAUBrulFLGxaBclVMQiNgCrhpsEG3EYHr7_PT_6cvACMXTw_HqESJvdGFYCwhx151b8vgdAK11_cBBh-AutyCxpdoHb6mzT1py3I2EJen0HFnwJhAuABB70D0idnBLgqSlxvKLJkEggq6ukAKmWksxsP-gmwchaygF1pKVnTE4eb13C1qiu4ZLTnlOp7j0SVbhEyTxYQiXI8K2IbMuxzmbhDPgkBKEAzLLznr0xrSG9V5WdSZJi1xdx7I-H5x7u44DJvHpgZHVtgc5MMozpyU6EHrmAZYbZcSKiKEsM9rFhZAO6Ot0Buqe8qLgy_GFs9KePXXb9lcqafN9TuCABAuLbN_0Enc8cvZOVftRPIa-6uYG09BUX0FBLmgH6bG2OCE3_pn_k-8xr5YMFX05qA2DndZrhbbgvgbeaQ"
+    ],
+    "types": [
+      "establishment",
+      "gym",
+      "health",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ9wx3GYgL1oYRXneaLos8vR8",
+    "city": "Tucson",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJK_MlGYRv1oYRZ2a_BsmVKmU",
+    "name": "Harriet Johnson Park",
+    "slug": "harriet-johnson-park-tucson-az",
+    "address": "6051 E 25th St, Tucson, AZ 85711, USA",
+    "lat": 32.2041309,
+    "lng": -110.86255,
+    "rating": 4.1,
+    "reviewCount": 174,
+    "photos": [
+      "ATCDNfUlKzakB9cFz4VXtyR8ksWazOZvzddVXvSRhfww0u_rd4oZm1UaI0Qm4oCINN0kOXuj3rWipTJveXN_lfEbEUPpqEvLJIrXnMmFlz3NP7V2rq__08wkLTEyAC9VHu6wGQrdGK9TUv6ooIDmZWgVIrxrF5vUQ8EsfqMVIMX0I4825gbf8qZkGjF-JkqoXlYLNvxK_IlKDSYMJ8vj2KlaJUP8KmNKIE_-b6KXRNoYpIkVYsBpdRyNP6HfU0aCPRe38PW0ktmVrn-fBIPROR_JE-1XdBYwDjcqn8-Xy61vS6kCmoOH50Aht6iLOh3c9sUVqOuzTRzDIKDUSfh1dQji_zeoAy01saSBE-ahr82-tp8_YR0C5cBf113zSNts4Q83T4fUFTpRjAuOlnouToh-FYMjOMDRMYnZuyBG5AHm_L3Em9Of"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJK_MlGYRv1oYRZ2a_BsmVKmU",
+    "city": "Tucson",
+    "state": "AZ"
+  },
+  {
+    "id": "ChIJ_TkFchB51oYRZVCWlhbN_po",
+    "name": "Roomy Tucson Home with Hot Tub and Pickleball Court! - Vacation Home",
+    "slug": "roomy-tucson-home-with-hot-tub-and-pickleball-court-vacation-home-tucson-az",
+    "address": "Drexel Heights, AZ 85746, USA",
+    "lat": 32.1129609,
+    "lng": -111.0334168,
+    "types": [
+      "establishment",
+      "lodging",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ_TkFchB51oYRZVCWlhbN_po",
+    "city": "Tucson",
+    "state": "AZ"
+  }
+]

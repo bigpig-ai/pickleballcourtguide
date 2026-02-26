@@ -1,0 +1,1708 @@
+[
+  {
+    "id": "ChIJR8YaNbyx2YgRAt1ITg8wots",
+    "name": "Dinko Pickleball Complex Miami",
+    "slug": "dinko-pickleball-complex-miami-miami-fl",
+    "address": "6301 NE 4th Ave, Miami, FL 33138, USA",
+    "lat": 25.8338749,
+    "lng": -80.18846549999999,
+    "rating": 4.8,
+    "reviewCount": 66,
+    "photos": [
+      "ATCDNfX88uCJjZ_bdg5jprfRKPFpEqvcqBlwL0kb9ZwwDecigyZcsECg5nzivHaKUBJG8ggfnXn5wZfHtZ832-Rxz_sBiZUpEhGFyGUZXjCnHZAojgUY6JV_cMze3SWrQzbBFn7qtRQr_M9NX51tnRBs_KkR6luP2h4BzMq8LNMKcOMAWCLwivqwBcNpyA737ErTBhel4K4bvuDSsPaCQW-DRDTWbB5jDr-mZNEGqWVQ4jUwpWQtnruz19STeAxM-7i4L2pwVhFdgXLjNK-O29ypmV_pk8Rqf92sjwFrTfNKs-QPRARrC-Wh6wI4wlqTer2fTSYkM72o6C9emV_yZKq-51QMXk0kjyZAXZuhOX8QXe-aAZAPazJFRWw5y6dhhKuPMPHFU8gsF_Mj1DCTIKSrinuJi66JWePNoXyMr_2xMQVNiMz3"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJR8YaNbyx2YgRAt1ITg8wots",
+    "city": "Miami",
+    "state": "FL"
+  },
+  {
+    "id": "ChIJvyc3B-e32YgRt9vqmnfbeFw",
+    "name": "Sip & Pickle - Pickleball Social Club",
+    "slug": "sip-pickle-pickleball-social-club-miami-fl",
+    "address": "2250 NW 2nd Ave, Miami, FL 33127, USA",
+    "lat": 25.7986643,
+    "lng": -80.19995519999999,
+    "rating": 4.2,
+    "reviewCount": 73,
+    "photos": [
+      "ATCDNfXI0fyh5iigVcwz0ZrvxCIUUJ3i3R8RylvFrzmeGkmubTsDeEtCKnm0AxVkLeiHJqelw5l-bshCU49_G2-3QAAL6-aWMotwjfHfLq9-4zKbWw8uoEmPkNH-vQQbV0PV80Ay7pLsIwO5Rqx9IzqH9RwGqiriMeLYMOl8gKGDVmbhaUr2CwVGkROkedLV2kMdnbPIzVmhPtmR4a2xatn0b5-ai_hQLUUc-ckHAvX7-jEnMvmmi0nORK0r2oqjFtMDeSklZF9RIO45y5OaO5tLObxIu1dhYo9beebXLwssk2o9MA"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJvyc3B-e32YgRt9vqmnfbeFw",
+    "city": "Miami",
+    "state": "FL"
+  },
+  {
+    "id": "ChIJndXdGwC32YgRZaJDl7tWyn0",
+    "name": "Bryan Park",
+    "slug": "bryan-park-miami-fl",
+    "address": "2301 SW 13th St, Miami, FL 33145, USA",
+    "lat": 25.7608041,
+    "lng": -80.2326607,
+    "rating": 4.6,
+    "reviewCount": 428,
+    "photos": [
+      "ATCDNfXtufmYzoSlBQnUXQ9_H-pejJGhvIkPpFoyhfw0YYQ3-PDSQZG34gtHupyzVYX2TDNCeYITET2D4YHh-P8wyh8iTz9iiQFKCRx7FgrTy4okRScG-fN6n-xcYZCQGm2vSwurxKQeVGzjeqmWaC95Vu6fvw4c4NOC4ejbc4hfXOZ_JVq33l7XLXcz4fcrseC8XlVKhLFtwEFqfhX-hHR70VzYPjBHl01E6lOBOUfUzttaDaLy7hkpNQIOQ8t2D60iythoJNDlP3ZEpNR5gmPvtCllPbnU3T4N3siyRY4Q04xJ5rHopDyGBljHH2ONfXZvejfMms98Ejt9N7B99G2lmFXWatbISLay_AzzLGfJX9x3eNaWO0-fkY7eWShbX7Y04om6qvQFt1rfXglAFXU_TTBeBOpjIwiekrvJZ7vr-d2WRgyD"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJndXdGwC32YgRZaJDl7tWyn0",
+    "city": "Miami",
+    "state": "FL"
+  },
+  {
+    "id": "ChIJ4Vnf5G6z2YgRlv-1GFUGU84",
+    "name": "Miami Beach Pickleball Courts",
+    "slug": "miami-beach-pickleball-courts-miami-fl",
+    "address": "2301 Alton Rd, Miami Beach, FL 33140, USA",
+    "lat": 25.8020763,
+    "lng": -80.1378048,
+    "rating": 4.7,
+    "reviewCount": 61,
+    "photos": [
+      "ATCDNfW-ajzFR-iDq7Yb1N3Fuwzgnpfa1H-qiPLmEj8gX_o2lUV93ThplDzBwFgjlGSF3r0IvDNjsm31Y8fOPSEPGhpqhmm6dQED5gDQ-Gkgms-DvoTIyMWFWfeclep-9v7Y3IivyGEckSdj9jAK8SB7RGry39bo-VZmUKpDAMuwBEIOulqKG-qPd8ckSeLv8Lv_AljVGGVLYtGxUQaPCbOrcauJ5epMjBdgrjHOX2uoXZZFHTEmSlFcCYzAI4Go1zw5ADve5F2v93mn2O6nf7zspWPnv0nqA2fNRPA62FPkd2ix4axtv2f0CU0mWlxkfacgcfMefpgnVK9DOpkW8cDB48B3-88wPxob8KNWbMJeKIm9kCOcVB8Tt-LSmqVTapOOPK_MJSH7WrgvW-207-qwTNlnohYUaSUTg-ofy_nVuUfuk4gz"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ4Vnf5G6z2YgRlv-1GFUGU84",
+    "city": "Miami",
+    "state": "FL"
+  },
+  {
+    "id": "ChIJRTEX3x-x2YgR4IkSfR51abw",
+    "name": "The Lab Pickleball",
+    "slug": "the-lab-pickleball-miami-fl",
+    "address": "1255 NW 135th St, North Miami, FL 33168, USA",
+    "lat": 25.898494,
+    "lng": -80.2219904,
+    "rating": 4.7,
+    "reviewCount": 24,
+    "photos": [
+      "ATCDNfXZhCkoJ1ma1H5g15BwJhTdpvlFUkPBAuQNcDJwCAWcXCkLIcWan9bIP1rhqrSP3NOkAGwOymoAS_t2CXiZ-5z5pSyB_m52hJiYRuioC1C3HdGVGed1U1RgkYhgQbhAha88VYRwBPa2krpBkMdq6UbibkyILMPPb9-DAMrSvhGguPHuiED9i5vWxkdn9_tjYJfKayptHvtXtwMkM_-HfoC3KSxpMGD9SvTjaWvOl62TiGkrcojoXIMYHu9taexlOQ836IDdZP5Djo8MA4QDkMb4KODBLyCz6rCWlGlk9YU"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJRTEX3x-x2YgR4IkSfR51abw",
+    "city": "Miami",
+    "state": "FL"
+  },
+  {
+    "id": "ChIJRRV5MQC12YgRr1gvgFcjoh0",
+    "name": "Pickleball Courts",
+    "slug": "pickleball-courts-miami-fl",
+    "address": "16 Fisher Island Dr, Miami Beach, FL 33109, USA",
+    "lat": 25.7589437,
+    "lng": -80.14112899999999,
+    "rating": 5,
+    "reviewCount": 1,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJRRV5MQC12YgRr1gvgFcjoh0",
+    "city": "Miami",
+    "state": "FL"
+  },
+  {
+    "id": "ChIJuyIZTwC32YgRkmqaCGm8rsc",
+    "name": "Woodside Park",
+    "slug": "woodside-park-miami-fl",
+    "address": "3701 SW 1st Ave, Miami, FL 33145, USA",
+    "lat": 25.747708,
+    "lng": -80.2185885,
+    "rating": 4.6,
+    "reviewCount": 19,
+    "photos": [
+      "ATCDNfXrJtTgWBVlOD-juYTyVwtvIaqR_uOLR0wKjHx78spF6EPc2FuXJNTntlXF-EPzeha7oWWGaHkZeMRV8B8PMOlHjLZ7zt-QjxTYYdRlbOP76jyXx3CA1jtHc8v5xcd-Qxua1pfqhYWp9-KhaQpEln-d1p5jg3dyntxHR-kien0vPG3d8HzIDcSgLUPn_Dt2SvT8JMMLEMR2DtOf0CGTUcnaGK4DS9bpeY0NhEiPHwjDdaw1peHEd4ZVYxNjTxndB1wsnb4Kg7dcbB43Z5DrbwtMM_Aif7lQFfq-BoI4cme-VfdmdN6SBoR2LrErJX1HcSXoV3qo4MMMKPFniHJLeJJzX9cvLT5efNc-5UhJgHKjS0vcbMdBHaiVJOPOiYwpYGsT4cx2KoziLvaJXfFAzKu6BglcPIsq9Slsph4PmdA5gLz3gX8kOz9cKUHeXjf3"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJuyIZTwC32YgRkmqaCGm8rsc",
+    "city": "Miami",
+    "state": "FL"
+  },
+  {
+    "id": "ChIJB63n1oi22YgRhdoK7p_88h8",
+    "name": "Triangle Park",
+    "slug": "triangle-park-miami-fl",
+    "address": "420 SW 11th St, Miami, FL 33130, USA",
+    "lat": 25.7629976,
+    "lng": -80.20101849999999,
+    "rating": 4.3,
+    "reviewCount": 231,
+    "photos": [
+      "ATCDNfW-7jPm_bu1wO8pmIlAHfaOXQ7OrXeuICJwWzfFMIwrjVrLd6C7RAf2k8dRrymoO_avKSCzO6kC-D0eDW4Mo3h0jC47fwDvA0UEs770PrhC4pQ9C2Xr7Qh-VNNlMVGJnD6gJiv_gU4q12BZfML02E9kgBpsHB7aGie24gwsFiBIbut8qwWdHQEps5wPY94WCMLZIh7MbOr_41Q-GP9XSnHa7DSKSOE8g6q5kB1Md0n_25hHxuZdYA-JR8mKeU9OHVZ-KM9EFSRVHyIa0v3hWDeMYD5zn28d6hRWyyF1vIZ-oKsWh4G0Ibx5PDRF6njUwBO1XMPYFYeLAIWLNClcvvP_CjeNJvRzGiiDR__wAyUVR2uDEIRP_crrnWVFkJz2zYn2bnoHgsceqy4_4efMvgGPddAETPoqKIFMtKDLOdJ4WUZvQHUz3Kb8JLdF8Va4"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJB63n1oi22YgRhdoK7p_88h8",
+    "city": "Miami",
+    "state": "FL"
+  },
+  {
+    "id": "ChIJh1wRCTC32YgR_-AzH5UA3-Y",
+    "name": "Coconut Grove Tennis Center",
+    "slug": "coconut-grove-tennis-center-miami-fl",
+    "address": "2875 Oak Ave, Miami, FL 33133, USA",
+    "lat": 25.7301913,
+    "lng": -80.2406705,
+    "rating": 3.8,
+    "reviewCount": 10,
+    "photos": [
+      "ATCDNfUVPyEsqQDgT-xrp_RLFXygL1rg8AU9inIKwyCmR0bLsjpH1tMxXaLDSCoDjHxZ9CeVSuVhcvaHXGfA7LXSbSzwmZ3_KUkt8f6_zU91pdzD6qrc4bQxoFD5vWyM7kKAeP2X4K-4XhBZ-eOCKKX6mSs5xZGbuPSRaRY5hHZJhpPoyRY_oN204UUae7Q09FVbShFhpTKXnTY_W6XSNJ4ExJs4d_cq7ZQ97N219ICcbazbV9tTBl7eP_5rpSh9Z1Vw357dRDSYGngzM4UKW6hjlG6YmC3PPfSXigcMbhe2tP4hqsErqP30lnyz2Z42-FOMipy3Tc7k1Um8hwbd5hZaWWf6NHARaS5ql6IMNhAHYwVMSMThLwzmVZQw75j0l3JJ_V5XYj-yL5sBm2n-p-sYYz62zkFW7FmI72yKxq-hOGHvXA"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJh1wRCTC32YgR_-AzH5UA3-Y",
+    "city": "Miami",
+    "state": "FL"
+  },
+  {
+    "id": "ChIJC9YFKQC_2YgRMqVvB379jT0",
+    "name": "Fair Expo Pickleball",
+    "slug": "fair-expo-pickleball-miami-fl",
+    "address": "10901 SW 24th St, Miami, FL 33165, USA",
+    "lat": 25.7478534,
+    "lng": -80.37388609999999,
+    "rating": 5,
+    "reviewCount": 122,
+    "photos": [
+      "ATCDNfUJF6NNWM5W5rcolLT3x9nCQwPmdBszenrkXRbTkDqAb6e33QqNfp-4VseEcILLzCO4JKR4mmh8QZht8ylavmu6HfdXvwQ3ZyfR8jTKRlj-JUNP7S00ztRZZ_nbtfs4u3-9gi5sPUGbMW7mqKdlW6klCaIPlin875sv_o8XKQ8hTBlsV0_2ad7Lu9P3D4hNvYOHKfKNHjCjhbi9Wb1_2RPxvGkiKVmv5ASjtzMKDVigBZGgNritZzkP8Io6Gtjn4A6OHqh2VnQge4EDnuG_j1ayiO4GDYawJCIWsRM4KFHkxUf2pjYPUtkBW22GSU-Q5j16Id4r0qSscNN9cGv7udDLsnj1elFgPP9j2Yq-E8Aigd_Zv3YNblSUY4zMMuHiKod4B6fFQs6W024p7tTnCphtILhYebyIRnYTs4CbAKW2ag"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJC9YFKQC_2YgRMqVvB379jT0",
+    "city": "Miami",
+    "state": "FL"
+  },
+  {
+    "id": "ChIJoTN2miOy2YgR6cydv_aH9I4",
+    "name": "Miami Shores Tennis and Pickleball Club",
+    "slug": "miami-shores-tennis-and-pickleball-club-miami-fl",
+    "address": "825 NE 100th St, Miami Shores, FL 33138, USA",
+    "lat": 25.867845,
+    "lng": -80.179811,
+    "rating": 4.7,
+    "reviewCount": 57,
+    "photos": [
+      "ATCDNfXgIsx92mzaCw3HoqkALjN1jAorGoBtC6eSDuxJJfrrw9Ub63PHkpUvCjRO3MYiDWRzDf2Xy6EdRYaI-uMruKIevRhFErjWaIWlXLihv1y1mFbdPmlAUPimAcEV5qFxmV9zu2Hasa0NLNiu2O7AvQc0pBTLWE4Fg6XjwzgnsJb5CGeSqEK232glU0XdKkCN4DfD9bCGeVAhCognSILxX_ssvUhH56qtS27cyjiKT9KOHVYB5cy3CVkvWUMAe_ou0PE3UOAmRFwGfPV5xcU1YUtr4OGoFhsowXaAclONi_c"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJoTN2miOy2YgR6cydv_aH9I4",
+    "city": "Miami",
+    "state": "FL"
+  },
+  {
+    "id": "ChIJ4_qeXlS22YgRndtO3tjVEv8",
+    "name": "Shenandoah Park",
+    "slug": "shenandoah-park-miami-fl",
+    "address": "1800 SW 21st Ave, Miami, FL 33145, USA",
+    "lat": 25.7553567,
+    "lng": -80.2290076,
+    "rating": 4.5,
+    "reviewCount": 1062,
+    "photos": [
+      "ATCDNfUphjU-tS2KUP-nIg39ax15DfoyUqXptRV12pUwdkAg158fq0bTVks8r62-uajELu1YWmdfsyFKsd8VkrQPptRoOeZkmRNiE4WMS9QuoVf4ctOWPoKm29GnJ5H7K5567leSnIF--pAL9TZKLVhvH2uK66vXLRVjoHVmv6TdSFKC8cuhNN0Zxp4rr_4jPYlMBnczJEz8c2EsLMEI7ZokVIHE0DscyykjnIFRCdAVm_sR4-SFM0AffvX0ia4e6Me8uFcuHxTEFtCt3ViL9exR3Z8ITflYu3gSY_y-UxX44YWat_NTg_z_cCBibfYJ8F_R-GBjB30rRfduFYEf3JRG-HcubuL_jyUvxGVokhvp5CgiDrmmo37jjOL3FT4_97KpcXzYOWaieCqiXLyMRGp9rOFiUiH5JWz9GV7kjDK8RrMGNlQ8"
+    ],
+    "types": [
+      "establishment",
+      "library",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ4_qeXlS22YgRndtO3tjVEv8",
+    "city": "Miami",
+    "state": "FL"
+  },
+  {
+    "id": "ChIJj3kP2MjB2YgRhF-pPTgrQKw",
+    "name": "Dink Club Pickleball Courts",
+    "slug": "dink-club-pickleball-courts-miami-fl",
+    "address": "10855 SW 112nd Ave, Miami, FL 33176, USA",
+    "lat": 25.6670085,
+    "lng": -80.372198,
+    "rating": 5,
+    "reviewCount": 28,
+    "photos": [
+      "ATCDNfVjSDoT0kJ40deSfNZXl8cd9SSWpNSf3xyt53KLxWm6Ls-v9SXMLVyLs15zqAyL7T3JjDkK65w3mbWE6wKirkcc4_8l3qjLSKiUWZwzEAVA84PJdUjzF4A6o72YV8dOxMEgu0GcMp-JaRIC9_iApa-lUUH8KV5LjmGSFJ57-TMQAwyqLfpMhx7hYrPt-ELVYp-h1tmx1bYRwrg91NmUHH8q8qKvhtu2ftSPpPf6zcvThCzyW_7uJObR_NX6PW1WUz5J0gFOEAPhirOHVbW4bTqYle_D_xXtUI6m8nhH8aEeaQ"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJj3kP2MjB2YgRhF-pPTgrQKw",
+    "city": "Miami",
+    "state": "FL"
+  },
+  {
+    "id": "ChIJx_LUFYy02YgR6QdtAQaetb8",
+    "name": "Flamingo Park Paddle/Racquetball Courts",
+    "slug": "flamingo-park-paddle-racquetball-courts-miami-fl",
+    "address": "1300 Meridian Ave, Miami Beach, FL 33139, USA",
+    "lat": 25.7845684,
+    "lng": -80.13808829999999,
+    "rating": 4.6,
+    "reviewCount": 8,
+    "photos": [
+      "ATCDNfUm67_7yLAoxj8QmgqWCmio6F4-eT2u3j9T-s5b2RRMXH-2ViuBGaE3RjSTbB1Y9E5TH94aZPula-gRieyMPnsNmRdoBGd7Z2KgXBquV0q_FsSIE0DsWpbgcznYNUmAwTNzMRiceAoqcMGRfQFGYB0mr3m1KOJXJdMu7n5CxB4g-ztoR23lvKCvgbey-dvEX9MSVwkiVfT2w1Kjws2n_iQPGgWomwVQhw7FfQ7FNTbLtBx_Y_NENwvlu6rmHtEdP0YUx-ScWVRiH3rC4TZqVBzAxSLZmzaTBcivFNF7wYPdIWJHLt8KDbMbsdWclcQjerD3Co2Vd6B-awMbkNPeSTweSXV2YTdtS13-RzMSvaIxlxEpUBCqK5a1QHOAPltf87MiChvV2IATE92qGPNLr-rgbxAGDmAS1ZFUMCcWtNapxHE25BN2QP_ig-nZP5Lt"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJx_LUFYy02YgR6QdtAQaetb8",
+    "city": "Miami",
+    "state": "FL"
+  },
+  {
+    "id": "ChIJtaxL6_y32YgR7_ChVcWolBE",
+    "name": "Mary Brickell Park",
+    "slug": "mary-brickell-park-miami-fl",
+    "address": "501 Brickell Ave, Miami, FL 33131, USA",
+    "lat": 25.7679173,
+    "lng": -80.1891277,
+    "rating": 4.7,
+    "reviewCount": 138,
+    "photos": [
+      "ATCDNfUwN_zBORlfBOoEoQuAq_1B2KDFCDaRCm-J_Q1NF3lVWSm-HSmFZf3SmNH-Jqmy0DrHlCTWWGOeNBkrrFCAVCvjMNDilShgeDp7kLTvOq3L-CwfYVbnEE2Aj44Qmm7ERmi3V7UKv4s4rw8DjmRAxdYp6iZrPAbZoButP6qYyq5JhUSyeefEWpn_7DahOFXO3cOJl4pnsVQRajTorpUq2sQZN0OfcR_iolZyI5zLBqfWROigmpI-cCre-a6RbAMmJe5JiFCyim5qMB5VQqRGOR7w4621CVwe9FoQ2O8-gp8_mCDL8q5w0q0fz62ThPFNw-q-84cSLzvgfCS6SHWLGnWAsFuFmqhLP3DVU9aJQ_XIBlHSHrBfUUiqt3lTXLxl6xYT7UCFJntmxu69MqCfrqUbAW_HAp11BnNXDN14tnTuPw"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJtaxL6_y32YgR7_ChVcWolBE",
+    "city": "Miami",
+    "state": "FL"
+  },
+  {
+    "id": "ChIJVS7SMia32YgRYuab-zgYAkY",
+    "name": "Curtis Park",
+    "slug": "curtis-park-miami-fl",
+    "address": "1901 NW 24th Ave, Miami, FL 33125, USA",
+    "lat": 25.79415,
+    "lng": -80.2349371,
+    "rating": 4.4,
+    "reviewCount": 585,
+    "photos": [
+      "ATCDNfWgbOB3HLfpAmlUBz12s-GWQMLQUTgonbztDWJ6wp17qz8r2TnINdfm6e6oCrkG3hkVpKmoemQhcdgXm62n8LO1qLSqMgNS2lYUfWsm5otgbr3b0Fhc5fO9vyP1uHhMxkX8TIE3G6khmRI3ofR7I2ztXy5Djzxmh3NPivhVmXm56DRLgSEfGRXqXXuOOVjvTZWwp6dKUs6JKL7LoZl_z1jCglcTF_EAOQCxJbeT6cvbkwrQtWDcvu3Jn6y0y983sKQk_M5CKIK1R3eR7F2tTQYRA3pPznldPLIttfjMtWxkpXo22QrDNyqkYZrCkAGsLjKU8rr0hNEqtfkjoSJa9RxW5ebJEoo45GlnP0zzK7fkyJ6VwSoo2XXIwkpdTjGu18mdG88_oThtFQvzSdArN8mXl-qU_bG6HQ2vEekbzOv7_A"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJVS7SMia32YgRYuab-zgYAkY",
+    "city": "Miami",
+    "state": "FL"
+  },
+  {
+    "id": "ChIJr6XIAKe32YgR06AfYpkn63s",
+    "name": "Coral Gate Park",
+    "slug": "coral-gate-park-miami-fl",
+    "address": "1415 SW 32nd Ave, Miami, FL 33145, USA",
+    "lat": 25.7581,
+    "lng": -80.24621669999999,
+    "rating": 4.6,
+    "reviewCount": 397,
+    "photos": [
+      "ATCDNfWoxBLl5DTNUWGag-kBjXzrC2Eh8fQ-20IFmpS3_bsxN82pCI6mrVUUE5wAloEj06fNjrYXsE4-F2e_gpqe8OcLSAvmnEkaXLDX6TJ-EMQojMK_BG3UQ3lgttw9eBVrT3H3dz7p1KPoRZ4ZPBJHdP3w6QweYKIN9d5vuv823bzh_ZDHR392wQQJiSM3lVBMzNMATrIUmHLYhUj9QtdVGAaihHOp3kMTiBBmQ0zB5RVfoQLWAcFeoNzeleGXpkcKU4Woeez9JzvLrRqSlFuQ3yEuoNvTNcLHmNk3OChyIW-ARtTrEzHIE3M4RX29Wt6-Cn7AzKaMS2CtyE5j7Hz_QosZQbxo9K5A_CyBYxVMzYIiOezbV7EZadd4KPWnkiaHoQi5NWj5tHPswC1hgjSrn-zru5BA85Td_gxdFHa2UQxJ6yc"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJr6XIAKe32YgR06AfYpkn63s",
+    "city": "Miami",
+    "state": "FL"
+  },
+  {
+    "id": "ChIJWSD-8a6x2YgRdk7moyT_G5o",
+    "name": "Ultra Padel Club",
+    "slug": "ultra-padel-club-miami-fl",
+    "address": "400 NE 67th St, Miami, FL 33138, USA",
+    "lat": 25.8356988,
+    "lng": -80.1884721,
+    "rating": 4.8,
+    "reviewCount": 573,
+    "photos": [
+      "ATCDNfUMxTRWBR3iif2csEv1RollQ5W2HFjPfq3eUzhZs9v7g_0ypQ8puXbn5QLQo9E2W-bUyS7MzFPWnI5pEYJygo5FUtPr7TGE6Oe_TebwEECcl0yL7K0euUhFa0u--XnR1qfnHeoczKapF8XK3gv6XKmA4z9_m-dRb8WlKmFr7i8p7uXXiVKBxwWdpSxf4RM2Y3hXHwQiKUxZYDuNFyxxS57cO1pxI9xWuVFNk0hL-gVTB8ufi-YFCQJvPs2ePj2B-30KJMh4hFDt1sMJOOP0xU7DWw3oFCVZhFX6OTZT5k1Ugg"
+    ],
+    "types": [
+      "establishment",
+      "health",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJWSD-8a6x2YgRdk7moyT_G5o",
+    "city": "Miami",
+    "state": "FL"
+  },
+  {
+    "id": "ChIJ0QUxbSe42YgRjw-PIjLEHkY",
+    "name": "Salvadore Park Tennis Center",
+    "slug": "salvadore-park-tennis-center-miami-fl",
+    "address": "1120 Andalusia Ave, Coral Gables, FL 33134, USA",
+    "lat": 25.7472207,
+    "lng": -80.277952,
+    "rating": 4.8,
+    "reviewCount": 858,
+    "photos": [
+      "ATCDNfV7Myl0QeOsZC8matIlx-eIYba1lh1ovoovU8JhIi9DhZPAT5SLOQJzXTLGcHUFKEr9Qmw4_utaNra5nkrGfYMCcJTYGlGcmVzxOBoXEhEIo0X4IQXrQec08enYGcHzqMOVGeuQlB8-BDBuCnET3rCucuq9o9_Tb15I6q3ExmdKj7tCGVQ86WesBQokwj3gMCUbqw118ssGOKQI2mdIM65eJA1nVg_16Rr1vJxMubSODh4MNUW5XDD7d6xfw_PniQhULKu50p_Qt0Ufm05wmqBaQQLxljVvZI7QawLbeLgFlZzLJQN3C4H7PYcHqUeiawS4JHoGDxiVz4eF_V0a-rFNy_j2dTEJ0l9zFmAti76H7U_QJfAYyaHWnr-cDeRkFaUt4HUXPpVTewFtwIppVVoYHDtQQp3hIv3Y-LJqMeuC7w"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ0QUxbSe42YgRjw-PIjLEHkY",
+    "city": "Miami",
+    "state": "FL"
+  },
+  {
+    "id": "ChIJMW0M0cm72YgRSwiIdDu90uM",
+    "name": "The Yards Pickleball Club",
+    "slug": "the-yards-pickleball-club-miami-fl",
+    "address": "7551 W 4th Ave, Hialeah, FL 33014, USA",
+    "lat": 25.8915822,
+    "lng": -80.2911487,
+    "rating": 4.5,
+    "reviewCount": 57,
+    "photos": [
+      "ATCDNfUctSIjbu9ouvBsZ7CHaV3dmegBbF2tK8PVMNsZtJESvhKlrcyHJr0lFoOQbjj8G9VNm7RGpKtXrHrX3OIBR1KdVdhERsAFxp_KIwt0AsNhIJ0pYKAf-yjTwO9TjMrFkUqGQoHm_LxQMNvJZi21v2Z2Evnk--Koe-bcV05k24tU-G8fjeLlYcv5u7ueIX6B9rYUfaSsEJUGeGxunwaI55DCnP5ZnS0BXZ9tofNdQIfDGOuOKUgj8zict3RUJv81KypVCxx3dpNNuWiW5iBuQ02ZNQ9CuZr-OIYv6S3q_LnAYDMQDt6B7V-tLEGNWmY9GVzFU1qVsrp65wB9BZCyu1Fi-cd2Lb7tLXuK-uHja69W5LbjKxH6bzwCA4ckAeNhxtmDzvyLkWh4t7pZzHYus_bLZ3XmRaZAZJDMFWfE28Ias9GRFq7djHyYy8_4Ahqe"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJMW0M0cm72YgRSwiIdDu90uM",
+    "city": "Miami",
+    "state": "FL"
+  },
+  {
+    "id": "ChIJd3rHx7-32YgRIyOu4dQ-uI4",
+    "name": "Douglas Park",
+    "slug": "douglas-park-miami-fl",
+    "address": "2755 SW 37th Ave, Miami, FL 33133, USA",
+    "lat": 25.7398333,
+    "lng": -80.2530294,
+    "rating": 4.6,
+    "reviewCount": 1215,
+    "photos": [
+      "ATCDNfUUqTknTkYGJYACbPjPAC1RV6lHh0gQex7mdyYzC3nATrK5rH0Ag3AcYiucPNH6XZx8yMcy0L5ecBbjwrF2UwcZRU4s3Z-u-fQumLlSmR7kHxYYlMLMzz12YswiWf7a1eeH0ZG9FEYMDisiQzh70uBqpfK3W7ro34YJFg43iz3vM1SrM9LC9hB9Q7DWXot-YxEKFuGO_e1qDdJT7T-3HD0VzafmrTYjOlAcWLX6tMyrhjLlKHn6f8tvXKPV6CXaugP0McWpQ5QXgMvDUZCaBfZFJLP-X8lBY_ypSoQpo5rpRslMZdfGiGxgbahKGBRkhTfsoiX6peOcvz-a2g38TjncSVzHeHE73Th_Tnv7mV7QPz7D5QsFqysQmC13XpoFx5QLm-DPxYllU5z47YunS9TxKINMy0Hjbz3efLebaCtnsA"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJd3rHx7-32YgRIyOu4dQ-uI4",
+    "city": "Miami",
+    "state": "FL"
+  },
+  {
+    "id": "ChIJqWsur5q22YgRLRqSqFB0ljk",
+    "name": "José Martí Park",
+    "slug": "jos-mart-park-miami-fl",
+    "address": "351 SW 4th Ave, Miami, FL 33130, USA",
+    "lat": 25.771168,
+    "lng": -80.20057609999999,
+    "rating": 4.5,
+    "reviewCount": 1648,
+    "photos": [
+      "ATCDNfXAjoCYOa2KJaJhs9m3dPR_X0nvDcPEfpLe9bjmB92o0jwHxBv6vkKE3zGSeq4IdJAGiDvxby1EJxRFyGi-UgwMnx0eMc4c_ZGAE73BXaaL0worRvb1DbtTbtDhzOtCZ7C1_F3dIUoAF6NA6SbidkGxgtOdfPRAtSb4fGhbvveOgeTb0nAR-ITxbeSZ1Ii7xk-c8UFlYEv6BI30DnmbnnlnSt17WDPYtXVh1Ncs77sAuO9b5H2vtXDcYXeYzcVg2OK1QBaAwZ8YcgDD_ezYQbOyQ5Q-h6hC45kPE-E4rtDJ4Pcwo-h4k9fUT8rKEsNvHM9pNlduBVOH1rwL2Yg18cpQ8Bdd2bB2P9g0cGWn0wLBjG95S76Gc32srQZXYfFoDXp2W0nMHGJOIoCmcJrhtg6xN5iO389ciAE6E6tBCyhMoA"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJqWsur5q22YgRLRqSqFB0ljk",
+    "city": "Miami",
+    "state": "FL"
+  },
+  {
+    "id": "ChIJ5ZUm-Gq02YgRktpehNxG0Gc",
+    "name": "Palm Island Park",
+    "slug": "palm-island-park-miami-fl",
+    "address": "159 Palm Ave, Miami Beach, FL 33139, USA",
+    "lat": 25.7806518,
+    "lng": -80.1625826,
+    "rating": 4.6,
+    "reviewCount": 217,
+    "photos": [
+      "ATCDNfUKE_8001OFMTtGjmjwsk2y0Y_fsQxP-HDchp430FrSUazgOW91gpIR6DB-Zbz5CohJYo7fe_EsjMmJAwKUPWhbz6SjSL_Zd7dHVj3OA6TzvAJOChA_3eeaYFChPIDJ8YZ1OcprwC1W_TzSF6flHfi6o7PiKUtE9d_nMxQkrA7T-vmbcK4Gur_fzyJDBMOfp40qSNdX44Au4hu6UFZmlBkF8uKfD5yfxIOJze1rhngCTJdo2odITCJGOtNjw_hHgUV_NfPGrepwhZxPzRUc73Fw19DvLtUxKMrO5L_eIwsKpXwBv4glzAsS_zAUDTlekS0H0kB8xTEUuMftEDIbdwIjxpDyG91B1_A_fPMe0gguMzflC9spuMwWVwczCWbRNVyyPX2sfSgYV-XJE_QV8uCfcCGx1XOVUr-Pg0qcdJqYaA"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ5ZUm-Gq02YgRktpehNxG0Gc",
+    "city": "Miami",
+    "state": "FL"
+  },
+  {
+    "id": "ChIJIxF605yz2YgRiByekK5AMko",
+    "name": "Pickleball Management Group",
+    "slug": "pickleball-management-group-miami-fl",
+    "address": "825 NE 100th St, Miami Shores, FL 33138, USA",
+    "lat": 25.8671341,
+    "lng": -80.1805423,
+    "rating": 5,
+    "reviewCount": 81,
+    "photos": [
+      "ATCDNfVcOQIVBdkfFwWjDYZYJ-edODCmonOWLfedj-f8EJYYdjO1Rih377d4FXyBDK-yEKuDo6fTr5R3Zr8udr9heBXJJf5M7XZn8qZtqIV5yRNQi-9dnbMRfgKurYSQc2jOWNwlWFOWRhscT00Jpwekji_VWM392LccYlvVQtEs9UXeWtthpI2Hdzl5-Qc0fpuvN_kh0lJm9Vo1KghoE23E3WYh2HZSz3fV77HqmCHxcgHT9jvoFENXLjCAaekm6RPrD8GXZ2zmexuGedlMT0Z2ce_WoMVSJd_MvtvZlXOkyytmvw"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJIxF605yz2YgRiByekK5AMko",
+    "city": "Miami",
+    "state": "FL"
+  },
+  {
+    "id": "ChIJPTTbEwCz2YgR7zO7qWJw3JY",
+    "name": "Pickleball Courts",
+    "slug": "pickleball-courts-miami-fl",
+    "address": "4365 N Michigan Ave, Miami Beach, FL 33140, USA",
+    "lat": 25.8163665,
+    "lng": -80.13517089999999,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJPTTbEwCz2YgR7zO7qWJw3JY",
+    "city": "Miami",
+    "state": "FL"
+  },
+  {
+    "id": "ChIJS62_YbzB2YgR-_39to3BB0g",
+    "name": "DETA Pickleball Club",
+    "slug": "deta-pickleball-club-miami-fl",
+    "address": "6401 Kendale Lakes Dr, Miami, FL 33183, USA",
+    "lat": 25.7060078,
+    "lng": -80.4263931,
+    "rating": 4.2,
+    "reviewCount": 81,
+    "photos": [
+      "ATCDNfX-SOzAOIop2ewb4gSv4ZKVSTlp05IaPXpV8ynfSbRsph6oGJmiBOmv27fFtmmQlypcuL7KN9caQBFRr9mXCH9LupbLzeYzwtx8BBcQB8sW2YbNt6xCidsN67Ok5cYYpH0yHRtKTFR5rrKncx00RVAxAkLtizzrbUHMYTUH_QabTdsAreGXAj4L8rsJBA57NXXVzZ8pDNBopmFX6UvZO8S0_zHLi3LB_ntG85l89UAR-NQdMLPG5d3jOaAcXBj1j0s1vB4M3RvhNCS-_bAsT2uvLLHE7zueePigVVz6-mIqxw"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJS62_YbzB2YgR-_39to3BB0g",
+    "city": "Miami",
+    "state": "FL"
+  },
+  {
+    "id": "ChIJ-U3rksW32YgRVy7c0Cuxuzw",
+    "name": "Kirk Munroe Tennis Center",
+    "slug": "kirk-munroe-tennis-center-miami-fl",
+    "address": "3101 Florida Ave, Miami, FL 33133, USA",
+    "lat": 25.7296617,
+    "lng": -80.244068,
+    "rating": 4.2,
+    "reviewCount": 67,
+    "photos": [
+      "ATCDNfV1uctRj1eH4HH-TyFF1u0m7hLUZj3z8i7ABH8A1VC4Uh5UikaLhgD9qM_znCf7OSHx2g8yoLA4ZbKQrvtRkgPuE0aCcJHH84UArAUpzF1VsV2ANGcTykLkfiFWFJZRipp9jPDpYK4TNnletUkmO8OHTrsIGYy1SHpsmzMlXYJ_vFy707qEpUiOQFGMQF3bA-1_876vB4Uqlj7mjr1jKTSf7TCQsYU47e9JOeS007zMWccHhX4cWZNbIBMn1yeZ62Ilp_WEX7JnCb9JPzI8eXy_BvbqVRuFdckZ-oTxlLsrD-9n_cCL0-IzdqHeRT7izZWaVTQTKtwpLnG2FUdZjtDhH0xBonfCl4jeHWY8WzDvutuLGC7-y1rNqvwGbX6N71pYYcmlNoUv1uBj3BmBX7W4261Iwib8UMDYpVUYabZwpw"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ-U3rksW32YgRVy7c0Cuxuzw",
+    "city": "Miami",
+    "state": "FL"
+  },
+  {
+    "id": "ChIJsTplVOu22YgRXAZiZkCw4ZU",
+    "name": "Henderson Park",
+    "slug": "henderson-park-miami-fl",
+    "address": "950 NW 3rd St, Miami, FL 33128, USA",
+    "lat": 25.7761858,
+    "lng": -80.21084429999999,
+    "rating": 4.2,
+    "reviewCount": 226,
+    "photos": [
+      "ATCDNfWucy9IYHhYr8-J23G7DgT8ePdyIFKWAcr2raZmP21UL7PDJG2nO_NSFc5ZEn4lNKh6QBe-plQStYOYPW9Kla_KPP7gzdyO8aRn3XE2drt9M8_eKw0pItLVxxtz4sIEBH0D6BR0Kn63NYs43d97ZhKAqKz5-bAD3uYCwxsuoOh7c8aeC7qMqNC4gG2lWJhr1gRZraJkC64ABG7Sv42pdbnh4XwIoBjCHbX0Qh6jwpwHFMF-c2XRB7B36Qox7s0Z5txu--mFtsNMbMnG9_xLQRtQSQm7gGCDWxWSVYJmiwz7jacsWDfCupCu-_sWsq4qWLOlYIQTqZzTycP5j30h8-iPvTDkb1ieokWD28Z5CY8jor0QMSAQhc3mHNCTK-C3lCT-mo4FK0_eHGxpZ2v_ZWaRMorK0gRThk_FLO8ZrKYPlg"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJsTplVOu22YgRXAZiZkCw4ZU",
+    "city": "Miami",
+    "state": "FL"
+  },
+  {
+    "id": "ChIJqcc8d3PK2YgRoulRaZIvAtc",
+    "name": "Calusa Park",
+    "slug": "calusa-park-miami-fl",
+    "address": "Key Biscayne, FL 33149, USA",
+    "lat": 25.7014288,
+    "lng": -80.1626722,
+    "rating": 4.7,
+    "reviewCount": 71,
+    "photos": [
+      "ATCDNfU_m0o5Q862FpTsuJEFSzigc0gQId8avUFPDcb4nw1IhBivSrsMSK_PdRam0ejzzl77MGXjODsnSYwFf-OripiRjLqqCnv8Lrtj83OAD_QhdRu7VhJGV8-nHSCnoCfbZPtl_OU2KVGVMw5WdklUbsDNlm5-QNbLU9HeA-E0-ouJyY4j3ihIMunFOWaScmdsVcBqMeTaU7A0ys1uPeO6Tns03JxQc_4Uo8rNAcwr68B3gyDTbuDIeQy7RoZeNNm5Sbd7H_WIO6_0zBApB6DcY6hWNzs_i6MjnYSgHOJmtAfOTI67fD78U89R97EJRZzHLnxYqOZn7QHpDM4slP4lI0K6h2hISH12-AxooxrnfJgh0x0286A9edNRFBMdRLr-oT-9wVVjz9Qh_VkopXd7qqdgMz-WuSpSFA3shW9QVj1QqXQ"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJqcc8d3PK2YgRoulRaZIvAtc",
+    "city": "Miami",
+    "state": "FL"
+  },
+  {
+    "id": "ChIJs8wQoXGz2YgRZU9yAeTVKcM",
+    "name": "Polo Park",
+    "slug": "polo-park-miami-fl",
+    "address": "4301 N Michigan Ave, Miami Beach, FL 33140, USA",
+    "lat": 25.815824,
+    "lng": -80.134849,
+    "rating": 4.6,
+    "reviewCount": 175,
+    "photos": [
+      "ATCDNfUCtXw4mTEm3dSt4ziIzYJazo-UwPbSVZAiFGnxFUbrVP_dEb1Ov1WYDOUgGutSkZHuRSTX-qnPt2nptkcMbaAH5VGsfGj2y11RaPXt7p4T_wCMq9S4c3eyQkyF16_UaMFWFauS2SvPQzUik7Tc1T2TWizhobpfOvEBzoeLQd2_8-bZ74LMTvxzfrNnqEg5DOh8pu98hDL2Yru86vcHUZAWikTAmy55w9un4CpeVtMXMl-29rVI7nk55elq-Md56S6iumYpsQDcMmrGE6PB-aMqh9kbSEae1pdBHO-SegtYmjYOVJVk019XJSZGQ8GLA5Z6lxLOScEoUBk_z77OmS5jFzxDOmVUELj7t7WPL-0YLEOE3juyQaswfi7axVJHiHK7VDaDEO6AFeAzx93HtOHrpSrUnNZNPuEKM0FrxP1aNCmy"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJs8wQoXGz2YgRZU9yAeTVKcM",
+    "city": "Miami",
+    "state": "FL"
+  },
+  {
+    "id": "ChIJ_UcTVRa32YgRoJ37Y-766nE",
+    "name": "Gibson Park",
+    "slug": "gibson-park-miami-fl",
+    "address": "350 NW 13th St, Miami, FL 33136, USA",
+    "lat": 25.7865189,
+    "lng": -80.2012214,
+    "rating": 4.4,
+    "reviewCount": 64,
+    "photos": [
+      "ATCDNfVSBmAm02b5zXiCnhcOdq72IdKVc7kNZzVDD3CP-vucKOXLKwRsIORI-9UF2A4kBVo-6_tGZRTb4Sbhf0zXWqW5z22nOf_23ihXpD_eQcAkR6oJ1MHr8s7HxUJQvCBsjge_ObUSD89N2ipE59Xk8HuHHn5kx_eGPE34uXuPhGnWTJOKKeZxFV42ATTJvwCefjuat92Frz-YwaE3vu0DGIbx8aF7L0yBHC6e09FFY2mKTTDVQ2mGT3YwnFWuGVPzfH6I1Mj5W-o5ssQIjcbRercn8eQ4qLhLLwGuXVbXKKV777fYcqB_SKTE4Rxd9DQea8LVARLhxyMyWa7ULJhrcZaFGVhRUt_f0FzliJrE37BSZqwph6NG9uTZEuivLR1ZqgPE_SStkmWKbPCyAkqacxb-RAf5W2ulT_mnoHPDvh4ayWlr"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ_UcTVRa32YgRoJ37Y-766nE",
+    "city": "Miami",
+    "state": "FL"
+  },
+  {
+    "id": "ChIJZcvxCEqx2YgRskLAc7l7eiY",
+    "name": "Moore Tennis Center",
+    "slug": "moore-tennis-center-miami-fl",
+    "address": "765 NW 36th St, Miami, FL 33127, USA",
+    "lat": 25.8100887,
+    "lng": -80.2096973,
+    "rating": 4.4,
+    "reviewCount": 34,
+    "photos": [
+      "ATCDNfWVuS2ouHQh8hkcHS69p7-3Zzt_JpgAAcRE62H9-tNAuApU5ABmYECdVVTy_icVtKi16DnRrCSR2849pKOXxPB2Rl6_U4Ra7PhaQkuU6YS5gjw26GDDUmCiVMJpkM1ovW4YCkhHXDywUKiGy1djXXk_mzj4CYVRBKwN8uzCAu8fo2nR5uhm1t-AB9dUA6muhMFPjdcxlwEzRnU-j_RsZu67f_pqRBCZ3XupvO8_zxoGMYV7rRhu5_2s4nhw7hXeEa9xCyblMwbBu_k_TcLX1PEXb3APg6IjiNoh98va0o-cH0g75IQm02p7jfs_10DrxOBCv4XqjbnD8Rf17i9ZKZX7RJVBeYDv0W48L3pxENjk5_J7sVbjQQE_Z1oWW5Q-vXBjNkmIo9SKzStQ8fmwsPEmzcUqs_uQFiX655H7PFYRqfUp"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJZcvxCEqx2YgRskLAc7l7eiY",
+    "city": "Miami",
+    "state": "FL"
+  },
+  {
+    "id": "ChIJYTggjQK02YgR5-xr4KOLS5s",
+    "name": "Margaret Pace Park",
+    "slug": "margaret-pace-park-miami-fl",
+    "address": "1745 N Bayshore Dr, Miami, FL 33132, USA",
+    "lat": 25.7935309,
+    "lng": -80.1857629,
+    "rating": 4.7,
+    "reviewCount": 3097,
+    "photos": [
+      "ATCDNfX86-UGQjRxqOzM-boQwyxiNEZ18KLqm85hbhsv_f-5reb3Vrt6qHH-QifVF3VnW1q8KxlSz2N1cQDShXok1pRCS8w_3Cr3reYpAtPEcjxN1CbgHnXFxuqLimXtEJmKkJEuH89BMSeFlBBJkFKAxCrDgwzWOJXAdoNDzk5q6JKdgTOQusJZRT0LFOFu_nHEupzo8QTm8C00dT9AQ-Gxadf0RaBhnMrmfVeNel4K9LDwa2tpyiAi8m0dUSB1Ahxpo3OmDwAjz7GEPK0ZfLTf-Gf0k10mNjJr2qLsyqTX_SJJnQ"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJYTggjQK02YgR5-xr4KOLS5s",
+    "city": "Miami",
+    "state": "FL"
+  },
+  {
+    "id": "ChIJm5zNqo602YgRAQm-9FsrA1E",
+    "name": "Flamingo Park Tennis Center",
+    "slug": "flamingo-park-tennis-center-miami-fl",
+    "address": "11th St &, Jefferson Ave, Miami Beach, FL 33139, USA",
+    "lat": 25.782605,
+    "lng": -80.13728499999999,
+    "rating": 4.7,
+    "reviewCount": 205,
+    "photos": [
+      "ATCDNfXRMvoPu0vA7Sny5RAA8S9KjOJD8YAq8WOp9WnV5FsBPy6_L73L2UUpcNwEGl_0mQ2Sw1sK69kPt1AhbFyx3SPDJmeC0CgLsBdSLEoVs_o7DXpe8EBEww_qinPBvAgGxpWvA3b4YJ5e5nhm3FWDrYU0W_99w5l3jp-VPSIb8xrm2yO_9zJpwgErWw-f3DahpeONGuRyt7tPaTT9q7Ir-IHt5o6wvXIFzcWIT2-eGyXNoR8MTiSVFbv7GBSRMQi_WLuUD2mqGCHq1abrR6T_OHLuh-fBPHgjOpDg0W7vriRKVEHEIDqQE-IJ8ix_WB2zuPQLnRZ2FTS8FjNB-aQMvB3aHKoBM3s7ncX_i1FG-MMKb5QTHIxcOT9k91SHOticAycWSJlsaOB4c5pWgmhAqe7KbTIb3JPjnBDYHVZjuDE"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJm5zNqo602YgRAQm-9FsrA1E",
+    "city": "Miami",
+    "state": "FL"
+  },
+  {
+    "id": "ChIJw3xRFoqt2YgRoYKxNwf3fUs",
+    "name": "Keystone Park",
+    "slug": "keystone-park-miami-fl",
+    "address": "13050 Ixora Ct, North Miami, FL 33181, USA",
+    "lat": 25.8966361,
+    "lng": -80.16047619999999,
+    "rating": 4.5,
+    "reviewCount": 237,
+    "photos": [
+      "ATCDNfXVhKKC9DHsD3SocF4oh_LxivndSzjWAzL2-MxoiT_ZT33JMy_6KvaZBe1LS2EReLMxqAbw5AdzfH80Dr_eXVGFOjoolLZAWWEGWC47o8CBeUjtj0IewnUCTrMkYWGIhq0pF_RVLyYgm9cCatUTTIfVlDLhW5xjITJmBxr9q-ZtqvbN-VGpIFVWfgXFLIjB-YI0o488Im6u4i5c0HiOZhpSSFeYbRb8sOM1MePk0I-poakswwDQH2dAbPlQhl2KFT0wGDItCYKn-KHilojRicwgTOpD5iVG4RXL7U0LbzoDN9nVIOsk1tpUqeHUibYvf79rUKtZW81x6tfAaVGKQg6ySY_rrPvSRRCeHSjjuoA39qVfovSgVS9p4QTS0ooDdb43ZWU5QA4JApX3hbXBn918UvTWgv_lL6UcB8SkRBgM2A8"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJw3xRFoqt2YgRoYKxNwf3fUs",
+    "city": "Miami",
+    "state": "FL"
+  },
+  {
+    "id": "ChIJu5oYksW32YgRzxIpujXx0mk",
+    "name": "Kirk Munroe Park",
+    "slug": "kirk-munroe-park-miami-fl",
+    "address": "3101 Florida Ave, Miami, FL 33133, USA",
+    "lat": 25.7289258,
+    "lng": -80.24421749999999,
+    "rating": 4.5,
+    "reviewCount": 28,
+    "photos": [
+      "ATCDNfWwQXthBDlvPOE5N1DeE1pErX5UAaRVXPJDxAukis-2k_03HUjNihHzslHqZfQ2XHVPKXATMcncgRcE6bsgYygIuQrHMk2vep6n3CcMNLbz-iyGrvOn1REyY2pN5s6tpYwgyVReMRBDXPdjYWk-m8eScajPX1UcYmXRnxLd9-oLZhk9hlcUdHyG6aIzzw-H_wcmRht6pV8Jze9UeItM7WexFeHZsBP5Ob-K17vcQJk3MgEVoy4o0WlBj-hviWYXNHguduWZtFq1iniZB1TNB1__Rr1_Q9tSskILpND4nviB9yck2WVwP7Tp1Uyly100HT6PbblgBimiRnW6hJhDKKSYZbkj5uKyjy0FoPQxTNPhhSa1bqNwxqZBxlmZNT39gEjoAd2N1B6bAxXiTqNKT5YT-ac9ER6D6gn7r8mU0k8CslIc"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJu5oYksW32YgRzxIpujXx0mk",
+    "city": "Miami",
+    "state": "FL"
+  },
+  {
+    "id": "ChIJFci2o5q22YgRSmIsskW7AB4",
+    "name": "City of Miami Parks & Recreation Department",
+    "slug": "city-of-miami-parks-recreation-department-miami-fl",
+    "address": "444 SW 2nd Ave, Miami, FL 33130, USA",
+    "lat": 25.7703716,
+    "lng": -80.19821329999999,
+    "rating": 2.9,
+    "reviewCount": 10,
+    "photos": [
+      "ATCDNfUR2bmMQ91kcMlc3kv0FZeO2G_NqxS_iFgC4pLeVghEkuRQRCk02Er8WkZwYi6qq5CyDiQxmwQDHmjQstl_AWcYRDW-dlaDBbe-TkNPKtTR83ENFCrcStzaLvDi282DWSVMpMUjHn1gUEBsBpaibAr5fELrUTMOO6RxyeB3Yg5H5xcie7I00N5w_CGxiuiDG7pFevOVsQTuUx37pzr6TZjPMjep2A9vVMV8MGYllVAnLPT4xF2lMRuhZK5ldNSfVNcIxh3I_V_--eA7q8yLCA7jGHv6SL1EDhXcIjl40CeJQjVE9nJ4PoGj_h9W57bYTwoBoOIz-BFeUW3jliQGJmM5msMPMcduGMwYqBl07JYc4X3MhDLhIJiFMi3GHuqZ1jxNHHKHmVZkNJKW8OV5jV0DCbA_pUq_ooCmSK-QVICejxwC"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJFci2o5q22YgRSmIsskW7AB4",
+    "city": "Miami",
+    "state": "FL"
+  },
+  {
+    "id": "ChIJQSccPyu_2YgRBWcBNOlfNpU",
+    "name": "Carlow Park",
+    "slug": "carlow-park-miami-fl",
+    "address": "10601 SW 5th St, Miami, FL 33174, USA",
+    "lat": 25.764434,
+    "lng": -80.36715600000001,
+    "rating": 4.4,
+    "reviewCount": 160,
+    "photos": [
+      "ATCDNfVF5nlRNbS5bxoAnPNteSTepHOXRtjjLLi4nlaSV2BGH9pDpNqTywH3f02VM-6RqGSzE_1n1djCFrRnauO8D_d6XWlvMcLxhgJPmZQePWIYLsaRSnVqt1GsSYBbhu6m8_aQh2-GVN7DokyYyoFfjVcf1kDdrLFA-DlZ7sksLUiPfpeUY0gqPjqjiwGudN9Hpl8g92XAQ3leDSkjG9q4RztI_oGZlfCvApbLJF7EhthEQQGq7QmgpqtSEGoHTO35ZTrpK7mo7A1ZWqaQ_7SEFq_R6cbMC8JkGe0FwoiB47XNjDlgdc9UdhAIgBs1cFSWpd-AFt3WXC4QGA4dm8P_x8NvkWUWf3EXq0_kWiUaEXGRVTQcvolu2sLzdNBQwb8xIxAYs3jTFUj07ItcGAMH0GNO7s9c7bmGOAXq22Q8CpKQPyI"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJQSccPyu_2YgRBWcBNOlfNpU",
+    "city": "Miami",
+    "state": "FL"
+  },
+  {
+    "id": "ChIJN8z-wAK02YgRNJTgGmDuV28",
+    "name": "Basketball Court",
+    "slug": "basketball-court-miami-fl",
+    "address": "1745 N Bayshore Dr, Miami, FL 33132, USA",
+    "lat": 25.7953731,
+    "lng": -80.1867169,
+    "rating": 4.7,
+    "reviewCount": 87,
+    "photos": [
+      "ATCDNfXAdQ89fz1zNnNwbnXaq3lDqmVuL3XPWevs8Esm8PcnuaDJnH4Wo8dgL8hlKHOFgjhXEmJ16UpxAKq68WagV0KK2Ec8M7cs04WlvUAsc22F0RuEIcpsO7gICpf-rs5hvRskjF41iEG3zqJpk3jhlDi8SU7kD0asw2nQxfbvxFj1eBYfSRl2Ipf4coWKnX6x4UxOUtZjMR5347MVYEkaPB2QNBQ3d6wcVRkHPtEz8dxV_pA71O_G9qdx3dnwZ3tKsedAaQfUn8k9KKGyk72o57fLgzkezHYXAOogZRDdxKxKq1RfcPb_ZePwO-JDHS-GdpVppK00XDE6tGC_XuLvuDUiiGddlIUKmZUXJnLicroPfPR_yWsJ25-ZRDUS0Odbqny-8Ozyel6HYePWoKbdpGubukhyzK2a0l3wk4V5McBxO9E"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJN8z-wAK02YgRNJTgGmDuV28",
+    "city": "Miami",
+    "state": "FL"
+  },
+  {
+    "id": "ChIJj51bCCGBqicRvCoRc-e6fJ8",
+    "name": "PLAY FUN: Tennis, Yoga, Fitness, Pilates, Basketball, Soccer & More",
+    "slug": "play-fun-tennis-yoga-fitness-pilates-basketball-soccer-more-miami-fl",
+    "address": "1501 Biscayne Blvd #501, Miami, FL 33132, USA",
+    "lat": 25.790745,
+    "lng": -80.1878552,
+    "rating": 5,
+    "reviewCount": 20,
+    "photos": [
+      "ATCDNfUZ0rNc-Wsbouncsq3P_NhLhvEBVGm4kRhbDLhvkePjCqtXx-X4ZIf-R6__mHTpfiZNNhAqRAAvPDTIiBFna5qT_8vtpaeNLxvc2ilb1XnLl1c0liCJSs2jq-4VTZiBg7wuQ8ftNpitsuZqzLWuZ_ubmqQNdo6AAAJ3A4JoDunaUFRiCVr50iA89bA2KQB7bWW93LfESIEKf92f-LtvcUppYFj5tllxGlQzVtEEQgLNWZK9aErmwYikg20vLiR6i9yRAUBj40DQk0kJQcbzgCFq0MsZVJETAYSJwXxzjVHBOg"
+    ],
+    "types": [
+      "establishment",
+      "gym",
+      "health",
+      "point_of_interest",
+      "school"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJj51bCCGBqicRvCoRc-e6fJ8",
+    "city": "Miami",
+    "state": "FL"
+  },
+  {
+    "id": "ChIJAQCsqa-22YgR6jAxnGMxnFQ",
+    "name": "Wynwood Padel Club",
+    "slug": "wynwood-padel-club-miami-fl",
+    "address": "1932 NW Miami Ct, Miami, FL 33136, USA",
+    "lat": 25.794798,
+    "lng": -80.196028,
+    "rating": 4.7,
+    "reviewCount": 151,
+    "photos": [
+      "ATCDNfWJL6QY0pp-wz-BkEC8KWuUC22otxQJs90pTKgohu-mWBjb9MI1YCIEnHPDVV11dwSVjXk-SR61UYU6j2gIhqTcz6dVwjt_Nwr578U9sq6QcD6CdguN-27o7JOKqVq0tDHnqRK6BjNcdjJF8GbEqxkn_LtFNu-crNLB2JtCKppNx2Re2F1NPl8um0GKx0x7GaCRpMzzM3Tp3KxFEJ4T_2do_FdqEmn-MtiiT7vRkt7OguTC9vvnzgdoD45GGVABTnt24OEdPIjO2bui9YQBkOEahHUi1hpSxCwDYw-QvqbVhA"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJAQCsqa-22YgR6jAxnGMxnFQ",
+    "city": "Miami",
+    "state": "FL"
+  },
+  {
+    "id": "ChIJOTe231K_2YgRbYiMcj5zZig",
+    "name": "Tamiami Pickleball Courts",
+    "slug": "tamiami-pickleball-courts-miami-fl",
+    "address": "2099 SW 117th Ave, Miami, FL 33175, USA",
+    "lat": 25.749588,
+    "lng": -80.38339959999999,
+    "rating": 3.4,
+    "reviewCount": 9,
+    "photos": [
+      "ATCDNfVWOUfPjbdhdZT3ItBQ3inWz9MsD1spDMuasLWCMfCH8GN-LVvqGnA3PH_ZO_wenLlyFCrB4FPwZCz-UwuSIISpH5qig1xwf6Yc9hrKlc3lxLMdzTPPunc0lrUDqCGfE6BHBycAH-GGNDCIHLCxdAkT6mN-Nw7ILvjhsOtjktTZdUsUI43l5pHGMzCX0XONZn41zdgNSm7r13fK-2SfzA22Ah0FkGbQl0pyqBRX41468xJhl-IELNVp-4v_lFnoQlqnXHUbKW_jX-wtHP_EqTvenTXqA9tiwN4fP7pPao7SDQgV4iZfG_QJkSaj_Q7X6M1kALEz0hYrLvs86852m6Qc8k6ZcdC0sIvbWSbsmiSfzdHOyXp8DfZnmyqLVcMLUl7Ttb-QG6KbmHh2SyDKVvx93gDMfDAo544CMeQI1QMN38PNygj8gcXx_gsxo_da"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJOTe231K_2YgRbYiMcj5zZig",
+    "city": "Miami",
+    "state": "FL"
+  },
+  {
+    "id": "ChIJiVJehlOx2YgRyN3kNUyBeLw",
+    "name": "Backhand City",
+    "slug": "backhand-city-miami-fl",
+    "address": "2980 McFarlane Rd, Miami, FL 33133, USA",
+    "lat": 25.7276469,
+    "lng": -80.24197989999999,
+    "rating": 4.9,
+    "reviewCount": 74,
+    "photos": [
+      "ATCDNfWL_GxLV5hO0PlyRdEXVgopezgzNBSz7-VhBqFYSP_9L4yEd6dQjmkQfqeCb2uNc0X8XFR6EevI6oLaCzzOeZ2SmeekbhIRKzZIn_dTF6cLUHC6MyzJCj1aTfumCu4FdF2vrD1TWDC9rqMIYt0Q17b9I_xL7ATHJggTfTCTVd-u0HESe62vjRSeug_1IZTERu8Yt1RItvYkbNmSl6aGLTh5BRqXhcslQSHy5aJzSrKH9n08_hQvvDLmShfIhO8n4yL7QI1WIM4zrWfqIXXaTMExOTrB9ZsUVhyt9Kx5LZ_O2w"
+    ],
+    "types": [
+      "establishment",
+      "health",
+      "point_of_interest",
+      "school"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJiVJehlOx2YgRyN3kNUyBeLw",
+    "city": "Miami",
+    "state": "FL"
+  },
+  {
+    "id": "ChIJOXR1TQCz2YgR9JUTmMn-7o8",
+    "name": "Tennis & Pickleball Courts",
+    "slug": "tennis-pickleball-courts-miami-fl",
+    "address": "9700 Park Dr, Miami Shores, FL 33138, USA",
+    "lat": 25.8650813,
+    "lng": -80.1828817,
+    "rating": 1,
+    "reviewCount": 1,
+    "photos": [
+      "ATCDNfXkVAzBlFRkeX-mN6-wKZlhTs1AlqDEaCtBGAxzVc7sAEJi3doGVKvhqNd1eI0lBWi2iKlII0IP5KJIat9H9lEHMuYkVNpFsoQ2AEgTtvQvvsBWgNmo8Kprwrp_PwVc_6x0q0hqHHt70ZHTh8sgysKWw42FtDyi0Y5qUJ9rGtJenWAyn1wrejoxlS44-opT4y6PM7y-G58Moagsgf6AweO7zKCuywre13h3DV4yluYEzxnVjVxUbzrXeL76JcYMD-J3_WfdQFeya76wGdNeDFCv80SxYiAPCCSZPFAv7365j0nXQ4fak72UQxf0PCzu1l4M4fxZrhIL9IIBRbCpEDDxhzkuRro0VzpZkggtcRSEZinY4mI8JfmS5UFadKjrp8I0uNu2sIdAyDZ8m4_s9tkBg5_PslWEpqmDPpYLzeXdeTKG_BnWyg3-r-1s7pIX"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJOXR1TQCz2YgR9JUTmMn-7o8",
+    "city": "Miami",
+    "state": "FL"
+  },
+  {
+    "id": "ChIJyWHDAAvH2YgROronBrS4l8U",
+    "name": "Kings Creek Village Recreation Center",
+    "slug": "kings-creek-village-recreation-center-miami-fl",
+    "address": "8333 SW 81st Ave, Miami, FL 33143, USA",
+    "lat": 25.6927946,
+    "lng": -80.324365,
+    "rating": 3.4,
+    "reviewCount": 5,
+    "photos": [
+      "ATCDNfX2Qvr5aYEdX-i9o_xNUFKHjmESbWRLhim5uEwQYf-7rKtRzUxDJmBj4Wq6yuFhw8ycZdXYNKRsst11FtkGdwKtzc8I2EXKKiJPsnXsFcEaAzAX1WeUd3qBaVvhXTw867welexaHbc6y2EAZ-jaShaJ9xDRu32J1PmGgLp7ZHMYnD8mh4fpLGtUyyJt6GW-nCTYzt_pwj7o-8uZVqz0Uf4OSPdimdmI7fJ7Ydg5q7YoX7Lhq50M3lVjDVeti8IAr-QyYYg2yiQfi8sI1hUQh_7lK3RaSpKi0Q3gFaL6R2GGTg7WzN7Uxt9rRrtZIt-YhkRU-aLyTnx5TCXhOuRHyS2ezkIOi0KdQiu8CfiU1etH66qnrOw6WpgYbiOnzE76gxTjaxU1NvV7Yg9_DompwALss7CA2j18TLVkrB4HoCVquhJJ"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJyWHDAAvH2YgROronBrS4l8U",
+    "city": "Miami",
+    "state": "FL"
+  },
+  {
+    "id": "ChIJzzUsHZC22YgRuWhuoB7f12I",
+    "name": "José Martí Gym",
+    "slug": "jos-mart-gym-miami-fl",
+    "address": "434 SW 3rd Ave, Miami, FL 33130, USA",
+    "lat": 25.769326,
+    "lng": -80.199399,
+    "rating": 4.3,
+    "reviewCount": 129,
+    "photos": [
+      "ATCDNfWOqjUEFAFDl9GPcKwjxDNgoAUPN7QIa7aqZE7R4tpgbWr5jwpAZdVJlJNATE05NrJsS0ELEtqFshIqxCF-pkkh1VSnUNRZ_wWA5cbbRMmlhNvS-fgcNg0XEs317-4sb-QBPyGQaGkP8WvzTHOrhxnEuabq11-w9KVxN86-Znfgiyzn6zQOUPM_QsxrUCYi02SOZvyZZPv20k3LNG6e9p9jwaZDbhUmbAdMWD5_vJX1hT6YuPR-LrGYA1eZO0-dB6Z6ul7uo-Txhc2Lx8zrgPtoPeYTEpOp7VKfDx69HlnoLAqrMFr1AbaoRB3AJw28_OPeSIAyJ9yF2nTHa_SZKAXa_zDS5a8Q-s8i4HVbiQ5uTcAeMZU-PoBCXUD6CL2696g_sGabgFUFXaFNCgfmiM_naCaBygysOOEvuD3IySw"
+    ],
+    "types": [
+      "establishment",
+      "gym",
+      "health",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJzzUsHZC22YgRuWhuoB7f12I",
+    "city": "Miami",
+    "state": "FL"
+  },
+  {
+    "id": "ChIJ7TW28zqx2YgRIYGHRm7Xmdk",
+    "name": "Charles Hadley Park",
+    "slug": "charles-hadley-park-miami-fl",
+    "address": "1350 NW 50th St, Miami, FL 33142, USA",
+    "lat": 25.819705,
+    "lng": -80.21898800000001,
+    "rating": 4.6,
+    "reviewCount": 1309,
+    "photos": [
+      "ATCDNfXt9-aL2oNFXg6FBnng7ibfkwyaHR5w38Ba1BmWr3aHYId3os6-KsGgsGLixGX2SuULNOwsAHGWuGtnjRUlBs-G5XOBHxLW20Ah0TNtbhGYqoyY--Ufso1SSz9d_oqRv9mLIYuzgtMXLefz4kujo4vSw8z1eRrxhJuQWP0vdDv8LxVFPB3B5ZSmb6SGsvecTudgUyVvW5BUFoEQS14IbZVelzWA0KUmsQvomMkuNEwCZ_SY0ov9cSBceCsm8zCBTFp9NPG31AhqzK0QhsMWvl-BUG8OdoTxpPJvSkp-lxKSYE9i6tnhq2mAyauFr4lPKNZizJvzpyAoJ-Mu-RV5x9Bw0bmZzvUD2aR79pf7aYKDTC6JZdPWSHRQz1X4YS98yH8cWQbtb3spU3nFlwcCurYttk-oZHxKRnepS7zGSqyHZw"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ7TW28zqx2YgRIYGHRm7Xmdk",
+    "city": "Miami",
+    "state": "FL"
+  },
+  {
+    "id": "ChIJeR9s4pm22YgRzZRIheHhPIM",
+    "name": "Miami-Dade Parks & Recreation",
+    "slug": "miami-dade-parks-recreation-miami-fl",
+    "address": "275 NW 2nd St, Miami, FL 33128, USA",
+    "lat": 25.7765445,
+    "lng": -80.1990617,
+    "rating": 4.8,
+    "reviewCount": 242,
+    "photos": [
+      "ATCDNfWm_7ZuP9eZ0X0b1YdfE-iE8yXu4tjWOb7Czc690BFpuwO-y0Qs6XkUs8gi8lxXwrEWjx2SyIxJNjy0tGZiyg8KVdYMrABimZ6rry7IDvDxJXuZGyZ1Q2e28tJDzrjeW7viTzPnmJ591i3H28OJdLgMHT-70BveJ8PQUaIR3D-U4nvLOG_1j5o4oKAXXvshg9ElAyEwWk85uIE0cyNsa5GEVU92yq4qDRgTR57UaLkNXEOBng1g-hJACp6guJ4zarPG57f9QQqZIIgRJFRGPT7NSXdePCZhNnk3MbDybmGVIi5weTIM4VECd3mwage9sorhfUwzHp18vrdM01gIQ9CMWFEIJiGryyHb2jJ3yZ2adwrJhpqhxFyZd-HhKIk2MsiAL55fzc4Kx7X0Y9JB2lTsuNfkZ4AKuFWUe8IcRaQ"
+    ],
+    "types": [
+      "establishment",
+      "local_government_office",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJeR9s4pm22YgRzZRIheHhPIM",
+    "city": "Miami",
+    "state": "FL"
+  },
+  {
+    "id": "ChIJqYRvETe_2YgRnOJTSr0CNHg",
+    "name": "Tamiami Park",
+    "slug": "tamiami-park-miami-fl",
+    "address": "11201 SW 24th St, Miami, FL 33165, USA",
+    "lat": 25.7490424,
+    "lng": -80.37652109999999,
+    "rating": 4.6,
+    "reviewCount": 5494,
+    "photos": [
+      "ATCDNfXUug4_Y_Q2R9gU74t4_lnpYN6I_mRiGU1wJ-VOUwJXeegiy1x-6jsJffQprOerVwVw0ryx7g3aBN3gFNjBJcZvg2QENWj9CnlzrNQicBQbB0_BZlGtRHYwaYEmJmogIQyA1xIlDxCq9UsgMAYvdTGDCgUf1Cyt-C3dJTfKOwTi8AQ9SveoPChMHwLlr-SwjyaAyFi6e0K6MPRzwPK7a-2pyfow9VJ74_Spe16to_BYOl8jjK8SgWHvdO4AsNXxxPBRv0jJGy9fvzp3sL4Yw_XbSlo9nFEAj7xy0PeCd8XBYzsSUAPNVwTOi1nwC_K4wgSmxqtP-54ccyuF76xb8N5xg68L3bQuBbaE1VAmDmkN9DyaXcGlo7XLH9F3TO6yT-F9ti4fiN1lTsYs_od8YGm8Vk9U9oWJph4FykLWtRl7K5Y"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJqYRvETe_2YgRnOJTSr0CNHg",
+    "city": "Miami",
+    "state": "FL"
+  },
+  {
+    "id": "ChIJ7x5gkCay2YgRzXJVAVwXLc4",
+    "name": "Miami Shores Recreation Department",
+    "slug": "miami-shores-recreation-department-miami-fl",
+    "address": "9617 Park Dr, Miami Shores, FL 33138, USA",
+    "lat": 25.8657928,
+    "lng": -80.1831377,
+    "rating": 4.6,
+    "reviewCount": 366,
+    "photos": [
+      "ATCDNfVHW8QwqRqrz6QvzFxaANDGF5qWi7sLOregriQ2Bzq4AUdYp6eknItSr-92wMwAzCbDW_Bc2SN85iRhF4qvbxUcosgrlNXHfPIBsQI166L34Y_a9LsqLKn-MZYJZSU_my-vBfz6bMMBWuYZwKuFtNob1s9MR-iUkBIyOszJDoa7U7CcAB6HFPScLdtxwgtObbu8fawiVhlp93lNrTBNqtAr04B3-6ynt6hjuJ53W6i2JLfcLUO8RAkEIAwqYjra1H0IiUbyvfW_B6ShXsXrM1JGujkUm7RzT8w8DOrmg9bntnyiL5alX_5FY4i4kqdsP2_i7KBsJXkKs4_v67IHdpb-quwaNAITdR-EKaNf2gEiRCF6WPwEfypVbs88jr-_0hf-XQGl_ZEMMzj-d2Pfjg7u4ot_zH4cjGwVfZDnsZ4nbg"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ7x5gkCay2YgRzXJVAVwXLc4",
+    "city": "Miami",
+    "state": "FL"
+  },
+  {
+    "id": "ChIJJ0nMfgC52YgRmP9u-kBaolo",
+    "name": "Big Five Pickleball Courts",
+    "slug": "big-five-pickleball-courts-miami-fl",
+    "address": "9234 SW 4th Terrace, Miami, FL 33174, USA",
+    "lat": 25.764248,
+    "lng": -80.34525699999999,
+    "rating": 5,
+    "reviewCount": 2,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJJ0nMfgC52YgRmP9u-kBaolo",
+    "city": "Miami",
+    "state": "FL"
+  },
+  {
+    "id": "ChIJTWjpck212YgRXiTeBkxMduA",
+    "name": "Flamingo Park Basketball Courts",
+    "slug": "flamingo-park-basketball-courts-miami-fl",
+    "address": "1200 Meridian Ave, Miami Beach, FL 33139, USA",
+    "lat": 25.7842238,
+    "lng": -80.1378909,
+    "rating": 4.7,
+    "reviewCount": 22,
+    "photos": [
+      "ATCDNfVCLl_Io96jMkwZkIjtBMUn6eOgzrx-9rZ9Ge4VAi3WyE6E502zrnRL9O8bMbIME62Vc5aJ77VFCeBzIKOWlj1tE7t0nKArPpkLxQkE3s_Ur_hMNtmf7huSWZ5JOmGydN4MIvuVHMJdGjvUP0-l9Rns2eeCAi9ijTqPaJHWRoj3zD9AHzZoKCF2JY_AkW7Ex0H5cn0MuV-QHGWmY3zOiukc-f6_lGL4wEAw8Q5_6Wn8Y-DlZztMkh536u3857t9vxgmdDHCvdq36mxQjxgrs1KjgGWm3icXgqTPu7Wo8-FXtSCTaO0NVOACwFm6Lf3-7wS74ebG4UfIfS05zNFnec3K9JiWPB5zMmRq7WmvQ7xbQH4jf5bk__Ic-CtSJ8c6IRvHEpmSVwqlqsWcw8h8GA4DGJopfy8nAsMHfgtrakyeAw"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJTWjpck212YgRXiTeBkxMduA",
+    "city": "Miami",
+    "state": "FL"
+  },
+  {
+    "id": "ChIJ7x5gkCay2YgROHuSrlsVXyY",
+    "name": "Miami Shores Tennis Center",
+    "slug": "miami-shores-tennis-center-miami-fl",
+    "address": "9617 Park Dr, Miami Shores, FL 33138, USA",
+    "lat": 25.8653113,
+    "lng": -80.1830298,
+    "rating": 4.5,
+    "reviewCount": 11,
+    "photos": [
+      "ATCDNfV3qF1qlDrDj8frx3LlfMAZ1Lc3af0tXeE1azSdVjBsDW8rFJnu5zsdMveNciMrETDgxcQa9T4sALwCk-Xl9zkN_FROQu3KsGwe9BQ5yJraxJaLSSujmEcG17-NDMeInrj-2s3ZVgNt_5fWVG9fR_DlL-PZikXd1JLvXVfdsv2fNRC585IPnVO1bmeUpCse1AqpWY6LiyI71gY8XPnrxawxjrvOCaMOtyAV90xM0rOYXE-88Odyd_K_l_4wpA6grIsnmCvs6qQDhxmjCoi8mpNkN7Vq8jFo2e9M2HE2e3B2ia20v4gQn-njnd6LI7SQmOaCCz5korad9fM3ZHiA1PLkxlvN5Adzp99KyWX1Uo7dCW3r1xVhf5eQF1rNn857dIGRcbRsN1RH3tD-Nj1xD1gT3jI-9pEi5Xcblcn6HQ"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ7x5gkCay2YgROHuSrlsVXyY",
+    "city": "Miami",
+    "state": "FL"
+  },
+  {
+    "id": "ChIJSb0kzl7H2YgRQq2dVov7hYU",
+    "name": "Miller Drive Park",
+    "slug": "miller-drive-park-miami-fl",
+    "address": "5510 SW 94th Ct, Miami, FL 33165, USA",
+    "lat": 25.7170523,
+    "lng": -80.3487801,
+    "rating": 4.5,
+    "reviewCount": 92,
+    "photos": [
+      "ATCDNfXvTzy7p97ktDpom8IpV_jeKhkEY9piogNdItQmhNYH0ii__ZiM2GPkh3exrxRxN_yDOld70WEe4q9ImctUf6YhusChxEtXoYc8waMTIh3CAidKti8EPyTf7aLekNCm0lKK7DHiC2_W84AQjov4EUxZ6UAmUP3kM8WDE88bbCMoP0yZyOIIj1JdhTtRiiY08SCJyeNlVtLWU7DkIBOXPJvEGrKIy4VZwkw4Sy7h2HeXSFBvDib2W96LnOvdBpkX869iRaDMvxQ5ZYgXUpHte5MiBeQjgJOZ1xDpR8OEmSMr0LGJ1K_bXhNmdMSBvBV-OdFD1yiPYLYICOYXzbCe8roXUVTy3e5QXDjxuwVIIzD2pwVQIfPdjdbPtTU0OCTVbd4Q7qnGA2VMJK87v5_t-u8BGM6I5x2TeHeW08EheTw4fw"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJSb0kzl7H2YgRQq2dVov7hYU",
+    "city": "Miami",
+    "state": "FL"
+  },
+  {
+    "id": "ChIJ7x5gkCay2YgRb5WfuTthFCQ",
+    "name": "C. Lawton McCall Community Center - Miami Shores",
+    "slug": "c-lawton-mccall-community-center-miami-shores-miami-fl",
+    "address": "9617 Park Dr, Miami Shores, FL 33138, USA",
+    "lat": 25.8642539,
+    "lng": -80.18323459999999,
+    "rating": 4.7,
+    "reviewCount": 76,
+    "photos": [
+      "ATCDNfV9SJR0L305m8881Gh5jcK1vq90DktUw286_1kTJzSOyUPwgqCfV66iWJ6EMrDLXIw5xC1XCgeWGVOhJGjpJDLav3zHG8EwjDV-414Y0R_whfrKfd107NCwvqzzuXcRobabQTi14hv8YOA6QlGI6alVfWs4DD3q56dARLvy8qfdsOFIZCwcaUGdmc9Zx-X8l2kRKGhjmsj8eIvevD_fLCcDcyzcJWcAvh71ZV4otVGFAqHT6lSjomPave0kpASnKlng0rtzdsLho7_NVZZdN9UnSuejy6mHUByqz-V7OG-2UpyXsZUKspefDw1hnuYttGnpXsPzp2JcXnHtXiX_a_EzTYXsAodcNVpDLgo3oKP9oy6d8hmzk6kbi0plaBVrQqtxl8K3rUxl5Momsf_xRgBsDryYf6p4ufUPsWDrmCnxTQ"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ7x5gkCay2YgRb5WfuTthFCQ",
+    "city": "Miami",
+    "state": "FL"
+  },
+  {
+    "id": "ChIJbepKrWWz2YgRg-LSLHr2RdM",
+    "name": "Miami Beach Tennis Center",
+    "slug": "miami-beach-tennis-center-miami-fl",
+    "address": "Tennis Building, 501 72nd St, Miami Beach, FL 33141, USA",
+    "lat": 25.8578212,
+    "lng": -80.1235106,
+    "rating": 4.5,
+    "reviewCount": 112,
+    "photos": [
+      "ATCDNfVJ9dmwRwi-8d0vE5iqAPFkfjXaRsPdmq2rXqN0kTrHtXe6TnUO3InkCxEnyM5fs6-Dp1bxpqidX5I8JVfSYwIolQ_H6jBm_C1CPU0OFY9mm4hXXb-QqW_k79vySXzq2hoAqn0C-IrkjVchGlvUhbrZzqp5TRW7P1859BnKPSgP_-TCG__pPN7_RcuueS8DCc-vOfGSijso9zlewgktKilNEG9piv_svB3PFV407NB0dcx91jVRitECLVMog-ekJrfK6bq_RSOZOXR8sjqubN_GVIkYlp6P8kF_bdPO3ZTLMnQxkqzLJbMKG7lpLFZ-iuQiHsmo-FNXbcYrAnqN8hLCbIfo8coGpRRJGmSUZReAPL5iJy4O50dUVr7OOTiW3VvnZMTA6sR5jy4F7ulNqfYkrqUvu3N5z3hn32tjWuTcjQ"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJbepKrWWz2YgRg-LSLHr2RdM",
+    "city": "Miami",
+    "state": "FL"
+  },
+  {
+    "id": "ChIJ05roRCC42YgRrZkXPdcTYdM",
+    "name": "Biltmore Tennis Center",
+    "slug": "biltmore-tennis-center-miami-fl",
+    "address": "1150 Anastasia Ave, Coral Gables, FL 33134, USA",
+    "lat": 25.740831,
+    "lng": -80.27689099999999,
+    "rating": 4.6,
+    "reviewCount": 69,
+    "photos": [
+      "ATCDNfX3CAt5e4wk0-XZ1lRAE0zWa-iaKERuKmVkdaWisv40dbvXGB0duwBl0Pyvgt06leS-guzsSG5iC7Kjm6fDlDGvj-09EPZGL_kt8bDnZrU6U5QnNaH3kCVK4gnGSq0u5HzEcCzEQm3HCE2mYu5SEUsxq4nDtlg-9USOC-stuUseJXbcdrR-9vvVVXaD8SrCbZO2IJgsVWUiRyLve-057-X9py5h84xboiSOD0Oe-v4cggI9jFvuzrvUSTj5JkAaqFw49WYTAjkBx7gqOvARhtt-nlEnqPzH4hCAOAlzR567KJMhJCCESM5anQitBS3hWWEZiqfbAbZ0HoRB_mSQjFrUYsYk1jcD6JPbJkoKvOIekR9QcOsF_6YXJfO6tluMI_QqbJMo-RddMwQ9WYx2rmQ8EW2fy967ZG3m72wYpuG9PgOr"
+    ],
+    "types": [
+      "establishment",
+      "health",
+      "point_of_interest",
+      "school"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ05roRCC42YgRrZkXPdcTYdM",
+    "city": "Miami",
+    "state": "FL"
+  },
+  {
+    "id": "ChIJLXuwSom02YgRzi6nUmT4PCE",
+    "name": "Flamingo Park",
+    "slug": "flamingo-park-miami-fl",
+    "address": "11th Street, Jefferson Ave, Miami Beach, FL 33139, USA",
+    "lat": 25.7840255,
+    "lng": -80.1374786,
+    "rating": 4.7,
+    "reviewCount": 2536,
+    "photos": [
+      "ATCDNfXhVGVdCDj-C2lRS4ngA5rvb6avJJgCxg1ynH8k9FHYzyapp38nhzZtBHwGt73IARCiIi-8iSUPj_AkIW4xBeIKmcXoz6xn0Sv_IKK9gb9PM6HCBdZPAC-FEONCrvI4Vn04T7hEUL7sx93g4ta-qjlzmonYoF8BoEh468bCsWHGyLViwl75IkPVeGsZzZVsilMs6cPG-6A0KAEN4oilaQWF_9dYznik141s5UeNeZgEO3eZvo1mLNXKXXxIrc4h7_6XROtrx2WEW_8i491ID2On2XRV-t0M8lsPRfFtHxZVBVOsr1JPxt7H9dk9Pku1PALmnY_uYwfSkeYqVAL0k4uFW0oHty5-w9BGo6rxGywZ53LhJGV4ZZ7cYqcdSWB2mn0x6i-2ClqL7jE99b2FlTd-ww1ad3TpuUxS_240rX4"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJLXuwSom02YgRzi6nUmT4PCE",
+    "city": "Miami",
+    "state": "FL"
+  },
+  {
+    "id": "ChIJR1GzKAS12YgRHP1KBc3vZEI",
+    "name": "Reserve Padel",
+    "slug": "reserve-padel-miami-fl",
+    "address": "Miami Seaplane Base, 1000 MacArthur Cswy, Miami, FL 33132, USA",
+    "lat": 25.7837402,
+    "lng": -80.1774703,
+    "rating": 4.3,
+    "reviewCount": 66,
+    "photos": [
+      "ATCDNfWYAAU49sFR6cHnHjLJSJ5wQm8PAsNBdSZtai3nBR65o7CsuWtc8TsxFXAKsbb6gnUVmlA4uz3eQv72_Qxpcy7rwEEO-Dc5l6EiYw-nwZNGLnpBUCa9mfRWvIMV7CfLzOKqs6q_uvo8cJWJJnyn7OQcZFopxqI2AUAJxlrQqbJbmQoK5AMHXwwyRuQ9DDSns8iiJxF59rETqlyrWkKcdBtloS5x5BjC3Ig1RYmG3jQuFJYyLo15sWKZqhjdHGTF-11VQJsQg2qFnnkL6OZPl3n0doMPC-2LOYgIbn6j80Gds4P_F4R9S8cEfXJH6a_R-e3SCODHrJFNnLGUh1IPl8Wym22-zB3htSYGICeeZLfxrbvnez-fx-D-0m5ibLLHryrQtq8UmYmJDIlFUzrM9Nqe3YSmdmI3KxJjk6BY8vwUickh"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJR1GzKAS12YgRHP1KBc3vZEI",
+    "city": "Miami",
+    "state": "FL"
+  },
+  {
+    "id": "ChIJ5cLDS7LH2YgRZUe5RrpselE",
+    "name": "Coral Pine Park",
+    "slug": "coral-pine-park-miami-fl",
+    "address": "6955 SW 104th St, Pinecrest, FL 33156, USA",
+    "lat": 25.6751062,
+    "lng": -80.3077947,
+    "rating": 4.5,
+    "reviewCount": 200,
+    "photos": [
+      "ATCDNfVep2MTIwi8E2jN_U6_zN6OTCL_-J8WnVlK4a099DTNu94nRxF-RFiEGJK8zq4zaxv2SEQv3UqmLIAT4rjDIAWNvHzm_5vSf8987VTL9njCO4TNrg1VJYcWaBP1dVxFrwM34tkWEGXsH4RmTJX8ODd-pCCi0MX_hnTFt21GLhYSOIYsvzHeWNl7F8mDNpazHVqgyGY1QWCTBvs6_RpeLD7Ax5pQt3oPlUyTn51D0e-dSQTJfPDe1vlNYYR9Bqs9NQ9CNKmhgMelNVCay044TiwwukjxlfdOQp4BU1rF2mmH4P5c2Rgyt8e_-dmGcBJphfS2rvJKbjpGR35ariDIzd_qumNiGziFOqbaIq1r-lffxmSZklrQKA6d9lJTwEXcS--HxLjOin0iK5X90jN365R5EjOkAYCJlP5gUmZyvwyez7kx"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ5cLDS7LH2YgRZUe5RrpselE",
+    "city": "Miami",
+    "state": "FL"
+  },
+  {
+    "id": "ChIJL4Xt1iO52YgRVVG3Udo1VlY",
+    "name": "ALE Pickleball Club",
+    "slug": "ale-pickleball-club-miami-fl",
+    "address": "9455 NW 40th Street Rd, Doral, FL 33178, USA",
+    "lat": 25.8083716,
+    "lng": -80.3505461,
+    "rating": 5,
+    "reviewCount": 24,
+    "photos": [
+      "ATCDNfWWKCC5cbVytCCP9THLzOUpZJ5Hy1G029k2Ftxb8CygA8TfMDuO65OyA9XSwevfwmobf74kf6UjEueChycWistDYCLjqvZySJt71yZPZD3xsVTVUUSudK4JM08gIMdsBNEPF2TJSeJwSDmDPjXTRrKlK7SlvIVVkOmYIb6qzTpBKTqqQLcm67moxr7Pdv6CLxexSigxem_LZZ3UrPycabkR943MqmQCXPcDO7gseq6w2RT-6KxNd5q92tK98Rc7bm0PjtrY_6OviT44oTgb6SqtFZ2E4EayiASBt9_eJL1DNQ"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJL4Xt1iO52YgRVVG3Udo1VlY",
+    "city": "Miami",
+    "state": "FL"
+  },
+  {
+    "id": "ChIJxarXNwCr2YgRZvrLZ_ZW9dQ",
+    "name": "The FORT Pickleball",
+    "slug": "the-fort-pickleball-miami-fl",
+    "address": "891 SW 34th St, Fort Lauderdale, FL 33315, USA",
+    "lat": 26.0817592,
+    "lng": -80.1510102,
+    "rating": 4.7,
+    "reviewCount": 263,
+    "photos": [
+      "ATCDNfWuObK_TjWorR6giDz6eVD7vpATB_vcwVnCNJes_b9IkFUKaqkZV8E5OeOcOR5oHCfmVjTm3EwgPMrdWG1FvlZr5g1AMAq4eVH1A2042lJ3Po0-mvmBXo_HOrYJ8YlXv_dvyMNCfUcKYe-FnydrgFL-w7ejWAS4lC0co_-19A-9ybnZ3fNhLzbPokvEw4KWtXxnU4kQIYQGaNvBq20Lait2tGuyndPyR3XHELQaxcN_mNCB7zEkL4LOVV3VhrHh4cHuI2JicoLcaRVFj-i4S5VF0cdhq4Jn0oAwZ1SvsMhCMA"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJxarXNwCr2YgRZvrLZ_ZW9dQ",
+    "city": "Miami",
+    "state": "FL"
+  },
+  {
+    "id": "ChIJFwsOWYAryGURJDpLHu5vmds",
+    "name": "Champions Padel Club",
+    "slug": "champions-padel-club-miami-fl",
+    "address": "1360 NW 88th Ave, Doral, FL 33172, USA",
+    "lat": 25.7858544,
+    "lng": -80.3396923,
+    "rating": 4.5,
+    "reviewCount": 38,
+    "photos": [
+      "ATCDNfV2qGpLCQOx6dQXdOA52t3GlnoE3S5kKyalMC0pAqmXnhwd4LRBND5UbXWAOMGK5LQ9HHPnfFlqSUCKSwa3QbNCurROIXMzo-hBcNLsdUtYgQ91hMuf5m7V60Uwufumohp4K1Ju6FDd9OM10tSoflhDy9gcpx0KzlY6YRyhR4JmlNszAjzHLooPWMAnFpg1Tuz058W2ocpqvfgAWIaW5sSrZLNUopDFSUXPLwg2xdDRl9Ju7UFBhNh_Pi0oImT09yec4qp03dCS2_D6n3cvI3Buwkt8cyCAyrxZRgowpYr1bQ"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJFwsOWYAryGURJDpLHu5vmds",
+    "city": "Miami",
+    "state": "FL"
+  },
+  {
+    "id": "ChIJsZ2pkd-r2YgR-H67FFkQ4kE",
+    "name": "Hollywood Pickleball Courts",
+    "slug": "hollywood-pickleball-courts-miami-fl",
+    "address": "850 Knights Rd, Hollywood, FL 33021, USA",
+    "lat": 26.0175211,
+    "lng": -80.1689798,
+    "rating": 4.5,
+    "reviewCount": 80,
+    "photos": [
+      "ATCDNfXtE9pHjBPlARbBia5NM6O3Ke1_97EsVzGszp0-l0RhwkzXN7xYHkD4UJwSEr5xays4GmLkuidSJihQYgdH2yg2IG_FjppTGrmwrdNTaSt-1WM4CzkaTEFkrD3PLcd8GwQNZ8-9P5dZGZ1rOhOWacGtx-yDsSLirhu88j3Kht282LSOwbEN2eaAbI0l40kcBygFkY2q3sFzHGHANayGvhKpQFOxVXqTQhvuyzQgjUOT3pKRUUA3DR_MdPYEASMHoI69vLXnt_U5TL2doFe20ITzgUjtemLhHKNciWe8vkAtvg"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJsZ2pkd-r2YgR-H67FFkQ4kE",
+    "city": "Miami",
+    "state": "FL"
+  },
+  {
+    "id": "ChIJ3b5uQVy72YgROxVtuKKCrJk",
+    "name": "Ola Club",
+    "slug": "ola-club-miami-fl",
+    "address": "8135 NW 56th St, Doral, FL 33166, USA",
+    "lat": 25.8243968,
+    "lng": -80.328865,
+    "rating": 5,
+    "reviewCount": 52,
+    "photos": [
+      "ATCDNfUOFvpSLSLK-U56CrVQLPUA6JV8CwTTbEfYtQLKSwV5-YCrT91eF9fwfzo1gaair8GsuBP0gmA4vzMoM4aEfsuud_k1VI1qPsUBpMuLEh9Kq8a6SCoipJYFBbzUbuoA_Wz0Pivzh6Z9DjyCU3wJJztuDnXySb-EuM6uFdreDlO1Xc5BYI9AvmPL3_3XDaDBoHWtzKE4CcqYLCVkh9xT7MJEGMu8RwIBP40Q5G7Mj6LpJP7pVa9YENYr7jIB2RV-NUYDy96WJ5Mk6CK-LcABx6MgMCZ5rwewT7QP4BdBwzppnLTIizhLAvYmW4cheG7kKOuW6hoo2LTEx9VDP8X80H5VFBJ3MRJ9EbLswUb25Y4H6c-o69IdN4hmL0hRwpSwXSjLYw5XJlgx0EGp62GiUog3fUrUe-q8Do28TU1ANSF52gSgs8aEgXxXRdaFWmdz"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ3b5uQVy72YgROxVtuKKCrJk",
+    "city": "Miami",
+    "state": "FL"
+  },
+  {
+    "id": "ChIJ-fIGIaCv2YgRJO__gpZzE0Q",
+    "name": "One Padel Indoor Club",
+    "slug": "one-padel-indoor-club-miami-fl",
+    "address": "300 NE 183rd St, Miami Gardens, FL 33179, USA",
+    "lat": 25.9423086,
+    "lng": -80.1950085,
+    "rating": 4.2,
+    "reviewCount": 48,
+    "photos": [
+      "ATCDNfVKgPZu7Vw8jwumYaY8in0IlwQ4CQ9cdwua0VbWg73nlEuR9zhA7MZroi1qHY9TTlQr-fx8Te5O8YMva7u2aOup9a70SvzHpJOTslYhaFQWV7kybjEwfVcuw-97AKblOCZWsshRrqNy-eJPJZttk0T-UyQw_1YAB985QWbU5wEsQsDqiVIFsOaZ5xgnhmlRuBWEE1CBV2nJQWR58Ll81zXbmCaMlXxiTfUDjX0sfbldtvjlsDvlYXgKE9wOxKdBS_BL1CSNdb_X4ZcKesqwVjhR7l1Tw9GJrxscV9ZoYdDIKQ"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ-fIGIaCv2YgRJO__gpZzE0Q",
+    "city": "Miami",
+    "state": "FL"
+  },
+  {
+    "id": "ChIJ5wiZt32z2YgRFnj6Xkyq36k",
+    "name": "Miami Beach Golf Club",
+    "slug": "miami-beach-golf-club-miami-fl",
+    "address": "2301 Alton Rd, Miami Beach, FL 33140, USA",
+    "lat": 25.801561,
+    "lng": -80.13766820000001,
+    "rating": 4.6,
+    "reviewCount": 1077,
+    "photos": [
+      "ATCDNfXQotlsd8kDf_PUxCRrD-v9nnLmUo67qPNKLZZjXjA1L8rWtlp20XoP9_nDCKEGvXfN-djiLZLnPH7nTI3f7hCMQkrTa4ebn3-8x5YYPs4DrdtViEQKUYYINQAvxz7rOrcYDSHzFXamY1INDaIDtayj0rBAv9q0yDTtoOae0EPnduFhKOL9H71eM4azlY5Y8fYfDCcKElUkfgMwc4pOGzo4Q0Wz45ofP_AnwFrwE-ec46DpOVU_KtQKBRUDrM1BhvR0RBXhcAWql9-4OLuXA9Y4JeLzFhQ8KjU7EViFXN14XUGAQtBCH5BlNMCtM3KBGJHhNGj6NegVnWAjXaDeC2qmtAhc5XeaE-uNVcKUswCRtPiPuwV0TSgQgFLjIcon6_J4Bbl0ZXV4116A9q0-SJvU90CPggl-hqZ3rxy30BbgurRDw6xklcQs4g244Z8y"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ5wiZt32z2YgRFnj6Xkyq36k",
+    "city": "Miami",
+    "state": "FL"
+  },
+  {
+    "id": "ChIJNZmePADF2YgROgNHojb7mEE",
+    "name": "Saga Bay Park",
+    "slug": "saga-bay-park-miami-fl",
+    "address": "8000 SW 205th St, Cutler Bay, FL 33189, USA",
+    "lat": 25.5763647,
+    "lng": -80.3203935,
+    "rating": 4.6,
+    "reviewCount": 226,
+    "photos": [
+      "ATCDNfWQ83UxLlmgxS6K--_huB9YEvAwwMthaXreIHHT-JsevP9pq11zXnfBYAXEA24Q0JcibJZuWbWdz9LtVnuDsOYbqo79zD80UHmhX3xcNwQlhFYpzHY21TaqWUOwxG8NCx4VYqfRkYub_OiVwAQDkYIkTM0lUh1qkF5ZGskLRaf76dY17YMG1DxY6UpChBNPOFtfy32hlXA_rxxjXTZorYUYykaS_IRpGuIe568NGS1WdrY8zSgdL0NIbozO9qUm8VcQRT_MQaimJpQfrjrzJ6kRDEwR3jJU0P9ncqmqYO33fg"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJNZmePADF2YgROgNHojb7mEE",
+    "city": "Miami",
+    "state": "FL"
+  },
+  {
+    "id": "ChIJ1dAOdn2p2YgRCctOmxBpwgk",
+    "name": "JoliSports",
+    "slug": "jolisports-miami-fl",
+    "address": "10901 SW 24th St, Miami, FL 33165, USA",
+    "lat": 25.7474195,
+    "lng": -80.3739283,
+    "rating": 5,
+    "reviewCount": 24,
+    "photos": [
+      "ATCDNfUL2dPWBk8OKcxqCV4jDpJlAq5oayxHSuXQR96s-WrXRCijfzU6wYMjJjd0hWsqj7Mpudsst1oAu7sHgSTkOajx_a05dv1_yL29Njk4oAw0PWvUuoQf89i2-Iv4R7r53I7ja4tmnsRqSRfRX3LPMmmXbMJoHoIFBwW9fMduiD6Dx_MIfx-mbxnk4KJIvtlKQXU1MiemZfsVk341lPtEo5VQo5XBvGFH54L4qYiOP8yqHthSSmyNVXjNyMBMj0ahkQyzP__IfnZUkIufJ4ujgxAQoLWExwY-A0u_K2VW9vgX9w"
+    ],
+    "types": [
+      "establishment",
+      "health",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ1dAOdn2p2YgRCctOmxBpwgk",
+    "city": "Miami",
+    "state": "FL"
+  },
+  {
+    "id": "ChIJ4bhbuOG32YgR88EpX7nKFcE",
+    "name": "Regency Padel",
+    "slug": "regency-padel-miami-fl",
+    "address": "1000 NW 42nd Ave, Miami, FL 33126, USA",
+    "lat": 25.7817615,
+    "lng": -80.26557389999999,
+    "rating": 5,
+    "reviewCount": 20,
+    "photos": [
+      "ATCDNfU7Cw_ztPhre8JBDGOEIQqUw5BWZCFjm9HD8gfUJwh2mfqh5oA4zDhzU5TUZ_QZzL5fLv-E0kpkjLTBI_J-47lFBJqRRMA5wEEMQWPOXTeaTE61dn6UCQjUqpr58vy-0pETc7pveChS9H-RRF3SaLw4SKf3H7AZU2MnKPOy0LTgpl6z-oXWhKETFdN0fawTyn_rnmDmvFe9RNyIktl5VDFuMi_a8pnh-CGlvLjvLnJwZuxDb_8dFGQJmtPn9b87R-PWntHX4gBv7o7lpt5X5lp9qvPpUYEmI4m3kL79U1zyTA"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJ4bhbuOG32YgR88EpX7nKFcE",
+    "city": "Miami",
+    "state": "FL"
+  },
+  {
+    "id": "ChIJj9bPawAJ2YgRANS9Dqz-sdw",
+    "name": "Epic Pickleball & Padel Athletic Club",
+    "slug": "epic-pickleball-padel-athletic-club-miami-fl",
+    "address": "12801 W Sunrise Blvd, Sunrise, FL 33323, USA",
+    "lat": 26.1511201,
+    "lng": -80.3237262,
+    "rating": 4.3,
+    "reviewCount": 85,
+    "photos": [
+      "ATCDNfUgeBR3xBlg8tPVQGc6aXp5Lw-TDfdDcdHsLUXvLlb3OgtqU-WRNg0S04dWRphsftqKtRFwAXcaDce0YsituSlwxud0u_k8FsY-oC8VnkzGqcF0ukBMCxbfw5GUT_SgwfsBHSCXcBfIDgM0S70r7O_D-OdbMg4Ol2gu7RWuBBo9yxbyHn14Aehp6Y1aLyLlyh4GTAXeTJihF5cji0PCAto4SLnGKwqfS-nu67myKy4QlDBGLSIBSVIBgiPxHzSqQMXsYzHkpWzJ4j8jJ1Mf4ttfXSWuMqrwFgiVY6BAk1t00ko7DwabQ15Z84SJpq8hUrYULt7zwE75HpWfpvMKQyNNkS2qzgLb0fN8o4L4mvW5GGtcENAiJ9FMntsO89VUl76A2bLlT8oc8Bvi2Vizd8N__Kqu2k5MSKOwa7WaTp7Xt2ODB97EOFo57NdMPA"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "store"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJj9bPawAJ2YgRANS9Dqz-sdw",
+    "city": "Miami",
+    "state": "FL"
+  },
+  {
+    "id": "ChIJIXwL-mK42YgRQWQDwRRTWtM",
+    "name": "Tropical Park Tennis Center",
+    "slug": "tropical-park-tennis-center-miami-fl",
+    "address": "7900 SW 40th St, Miami, FL 33155, USA",
+    "lat": 25.7290505,
+    "lng": -80.3255101,
+    "rating": 4.3,
+    "reviewCount": 123,
+    "photos": [
+      "ATCDNfXcbN9DQ9x3_SKDL6Qg6dNDEkOVDiB3FO0Zlw9l2sFqXGo3Jt3jabS5rRtWbNWQDD-mpLpZYDsybPGm9PtvTSuSSkFxqs1EHHRM0SXP2Q75b9jArkNWguVQgxxsv4qzmjQKv5SQzWx9AVNvEmn7mCdHd7-bvq9Hnvrd4XqIJTH7dsFSxEddpZr4lwmmB1OCJ_gYcNa2YlVfCcg0JH0JLdjVF9ZoFAGi40cHE4jMh-RjnMRK6o6as5Iaqm1LG4segXOq9yAd9H8ICgxxcLzTW8ehMkx6QlGEj1nrMpCvAHoOE_Qa9ibsLpvULHVjZdvskcKgeTyANneQElalQw3iqsrJralszx4E_aMgc_g9QXMWW3fEWma9tTumJ876ts9nnXn2jzkchEk__y3FYl0lWmGz5LkO6yu7S0NeBbVjAjrbrQ"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJIXwL-mK42YgRQWQDwRRTWtM",
+    "city": "Miami",
+    "state": "FL"
+  },
+  {
+    "id": "ChIJSQw94xGo2YgRbGWdTJCdy-s",
+    "name": "South Florida Pickleball Academy",
+    "slug": "south-florida-pickleball-academy-miami-fl",
+    "address": "3801 S Pine Island Rd, Davie, FL 33328, USA",
+    "lat": 26.0729904,
+    "lng": -80.2653579,
+    "rating": 5,
+    "reviewCount": 3,
+    "photos": [
+      "ATCDNfU2l_vh5X4WI03KcvcuPXJIhimHrwp-fjTYUfHFt_8VXNX0zuGuDH06fSbcNZz_3bS_vVNKtIefw7FkMkNSrRI9PKadlie-jZiJGlbPq7cnoXN3Seogch5LZqYLldz1k2tm5i4RMaAoOEIo-KyN9n1FCgj91WlsLtP2xfKRwwGWZKs8mW-Uj1e5zgClplBz28hxGic_YLyLzbR8E2UNGbAeVdSY9Rx5kKXt5S5qFe1DdsZKNSHbtw5MxjeBKq-tORKmwbJUk1dk2fGz2E-6UPmOlOu6aTI4vMqhltKDGyQhg6yEzeacz9L5vq2GKlDvwyPZa8WtGP60YediuEE5jMvg86Fpj4w-w2eGHFFaHYNzRlHXs5Pew0GjBLW4jzrGa5IPktNdzvrH2HwG4HSu-LGMad3yeXnRaTHIFj7AU0jaCw"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJSQw94xGo2YgRbGWdTJCdy-s",
+    "city": "Miami",
+    "state": "FL"
+  },
+  {
+    "id": "ChIJQWtockUP2YgROh5e7cXVVJs",
+    "name": "Riverside Park-Pickleball Courts",
+    "slug": "riverside-park-pickleball-courts-miami-fl",
+    "address": "6PJC+F6C, 205 Coral Ridge Dr #205, Coral Springs, FL 33071, USA",
+    "lat": 26.2311875,
+    "lng": -80.2794844,
+    "rating": 4.9,
+    "reviewCount": 19,
+    "photos": [
+      "ATCDNfWGQf-hcdH3OEc2aUlFPU1aprd3fcgm2R6dmLbPuyYYRGU6S-5AHerf4wl4hnDFPCZCHXtnFicLJCyEezYT58QQXrRvujvkklKe96ft5AtcyC2f9Fo7l7fUGn3v_tDWjdb0xl1ndrPL3dO7bTAob_kM7x3bUKOV-IS5ikviqZXANnHJyXn9jRpcvwb5HHTWClB4TGX_ehYjSpOay1ALXpoljrh0FFrAMu73YZP-vcTdi2V3u3jARt1O4pDofuRCE1azB8N7NKhNnI8Xs9p_tnDDaTvwYmUnQJKHJSe9md5gn7cqX57MH_Hjh87EKtEQt1b1p6TsNEYgfnuSEH-M_bo-_5s7E7HSQ_3Os-TULtasklycsF9tu98dU-3FvkQH9s3n_RkNWIClS8xf5tOiW65MauoPB21rxXWtZfPEqfSwJg"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJQWtockUP2YgROh5e7cXVVJs",
+    "city": "Miami",
+    "state": "FL"
+  },
+  {
+    "id": "ChIJeTRFVDql2YgR3KYvTHKCB-I",
+    "name": "Miami Lakes Optimist Park",
+    "slug": "miami-lakes-optimist-park-miami-fl",
+    "address": "6411 NW 162nd St, Miami Lakes, FL 33014, USA",
+    "lat": 25.9195844,
+    "lng": -80.3077308,
+    "rating": 4.6,
+    "reviewCount": 781,
+    "photos": [
+      "ATCDNfXesWJ24IZwUoKPnF08bfw6v112EeDH-LwnXYg0bisCSui7h1RttRuLqPghAplx5K-lGtuVU6UxieAFfrjkhvTeTIxZ4Hj07ifus2547Jmdr-e9rb3TVEAIK3G1KmwCrWsSYVVi9erKdOMSOtF9a5B7PerH7UhQebNDpTGDpiEE3O2e2Qh-KtP7HKUBjHXHu-OIN9GTAswCRYnlF0mOz4hyqhxplIefaHBMADdp7R_AjYNHfjSu9dBYbgQvNZG3JNpVWrKZkZnRoI9C0DhOO6ADAXbRP24fyZJmDQbNTtLc5A"
+    ],
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJeTRFVDql2YgR3KYvTHKCB-I",
+    "city": "Miami",
+    "state": "FL"
+  },
+  {
+    "id": "ChIJsdi8g6i22YgR2dTU4JcYW6Y",
+    "name": "Real Padel Miami",
+    "slug": "real-padel-miami-miami-fl",
+    "address": "1739 NE 2nd Ave, Miami, FL 33132, USA",
+    "lat": 25.7925177,
+    "lng": -80.1903318,
+    "rating": 4.3,
+    "reviewCount": 116,
+    "photos": [
+      "ATCDNfXViwMVn5w4ER_f6Q9psv5-UFDaMEoJRdEJxCiU3BClUihFH-S8_W58NIMEM54PtHJEf6zktz8uaFaur_L7sD1FfosTBMkOvWjBNjnBUMuHDBUDmhHNQHa3i6EqOLBWIzDdrMKQSWB35Zg5XMr4ntRwb9Im3ruaP3lqqndSndzLWvIujZxlE0JFgJS3dYQgknDEujvhHolNmN_kOpdGifUuJp6cF1TZTFflI6c0o470TTCvBT2-CGEJuJGgwofG04Q08ew33g5xOdaRe7SMb0G3EZv-mUts3c5QPcOu4AaQ8Q"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJsdi8g6i22YgR2dTU4JcYW6Y",
+    "city": "Miami",
+    "state": "FL"
+  },
+  {
+    "id": "ChIJeUIZtADvk4gR86QRwscZXyU",
+    "name": "Bayside Pickleball Club",
+    "slug": "bayside-pickleball-club-miami-fl",
+    "address": "626 Serenoa Rd, Santa Rosa Beach, FL 32459, USA",
+    "lat": 30.347953,
+    "lng": -86.0684349,
+    "rating": 5,
+    "reviewCount": 30,
+    "photos": [
+      "ATCDNfU6En53lFz9FE0AHhuEBKEgwRmp6ORxt1GZ_6B6rp9QFpyi_fbOOzHemfwQY7O2aWYBa4soe-wFBnhs-x4IP7ddD2XocA4vyEcfuavygrtbHMPd0hZ98jhrLeMpr14fRH_uIsdNsDL1ocnBkydUMrQR6e-pTLEjwLfcGQFel8r_oOtCzD5XtPHGT9vUkd_eocyVE0rQL99Uwyqbv6YqPiR36yFm0m1J164wDSCCOA1MAWMjUseaxM2Xl3vuaTZfoajfsephTkOXoLO-swHxsaH4hlmBxy8wRJNhwznV4xC8pA"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJeUIZtADvk4gR86QRwscZXyU",
+    "city": "Miami",
+    "state": "FL"
+  },
+  {
+    "id": "ChIJswGxEgCt2YgR3Beeuj4c_yo",
+    "name": "Haulover Pickleball - 8 Courts",
+    "slug": "haulover-pickleball-8-courts-miami-fl",
+    "address": "Miami Beach, FL 33154, USA",
+    "lat": 25.9141309,
+    "lng": -80.12387939999999,
+    "rating": 3.8,
+    "reviewCount": 4,
+    "photos": [
+      "ATCDNfUVR_3ckMTiP8YrIETS1brn8jFQkIPWZCTlo0ZuzymAS8-iupevfhzcNQPXNTW784vc0U6JbA3d6iTXfkhOVyMhrSwpI3XFJM97YeJXIpypjR1M3EjgO8zM5Y7tIddLOptPMkRNAcIqGmTncoKhynnmLzvqCAY8bUtyrkdHmLdSTbPyRGfsNwYo4fx7kCMtsVRmeF37PvlawZS8f5mndDDaTBBjBvvC0ewZZIaDBtwOGGeMt_6KjM27orvusaRu_pmqWCVMj_z2RkHlqxAog4Dnet6XNZthyeSV5Ut3TIVmnBR3BwQ1XGRCxJ3sOp6kDEjSJ-d0Y9rJAlxyfwxpLNuvCTijaHQjFqSEtosFcffybGBTBOcbUXTZfSOdAxWYBNNaqJ2YUPVxNou4XawU1kNpZE_VkSz4VhcUet9wc7U"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJswGxEgCt2YgR3Beeuj4c_yo",
+    "city": "Miami",
+    "state": "FL"
+  },
+  {
+    "id": "ChIJRY15Tt642YgR8uVlvwvJQo8",
+    "name": "Big Five Club Inc",
+    "slug": "big-five-club-inc-miami-fl",
+    "address": "600 SW 92nd Ave, Miami, FL 33174, USA",
+    "lat": 25.7638796,
+    "lng": -80.3453013,
+    "rating": 4.4,
+    "reviewCount": 448,
+    "photos": [
+      "ATCDNfVmjp6mMFuNhkmU3f9z5tMGSIm5o21xsWIMlP0qhw_1hNHjyW1UA89N8NY8MD_M446aO2KZyqG3sKNau14ApAMYVyCvTECFHnubSigOnCPbrPC4yGajvRuRmLSf1VzSX49WIuEpydYcQxJuocdeVCApif0uUFJU02zVXpTaRQYWML4PQyktVcFzCYrV7-DhzUnum-8y8GSf4xzWz5e6qLd5aadNAq2VYH-FchNrob0I6pP9M4TQRay8s2zlLqpTV5RjVADK0yNrJzlqu4KCqsux-Orbjx-COquF9GjCYSy7nJ770LxJPYGqHHIElf7yGLDDjttxY_1is5y3R3kJDMpjWoH9dnQlqqmhiQQUg1I6pq_dllXAJ1I50vlvIKVf6bmdp5vXrpC5_M9VC5SgIV5m6a8cTIyY4m4GMpJOg9O3AL1GwluMXohtfSJcjBCM"
+    ],
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "placeId": "ChIJRY15Tt642YgR8uVlvwvJQo8",
+    "city": "Miami",
+    "state": "FL"
+  }
+]
