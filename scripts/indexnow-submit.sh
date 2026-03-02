@@ -4,7 +4,7 @@
 set -euo pipefail
 
 SITE="https://pickleballcourtguide.com"
-INDEXNOW_KEY="pickleballcourtguide2026"
+INDEXNOW_KEY="e3f4232f147c4a369ca36036e53679c5"
 
 if [[ -n "${1:-}" ]]; then
   # Submit a single URL
