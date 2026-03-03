@@ -1,5 +1,6 @@
 import { MetadataRoute } from "next";
 import { cities, states } from "@/data/cities";
+import { blogPosts } from "@/data/blog-posts";
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const base = "https://pickleballcourtguide.com";
@@ -11,17 +12,25 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.8,
   }));
 
-  const blogPages = states.map((state) => ({
+  const stateBlogPages = states.map((state) => ({
     url: `${base}/blog/best-pickleball-courts-${state.toLowerCase().replace(/\s+/g, "-")}`,
     lastModified: new Date(),
     changeFrequency: "monthly" as const,
     priority: 0.6,
   }));
 
+  const blogPostPages = blogPosts.map((post) => ({
+    url: `${base}/blog/${post.slug}`,
+    lastModified: new Date(post.publishedDate),
+    changeFrequency: "monthly" as const,
+    priority: 0.7,
+  }));
+
   return [
     { url: base, lastModified: new Date(), changeFrequency: "daily", priority: 1 },
     { url: `${base}/blog`, lastModified: new Date(), changeFrequency: "weekly", priority: 0.7 },
     ...cityPages,
-    ...blogPages,
+    ...stateBlogPages,
+    ...blogPostPages,
   ];
 }

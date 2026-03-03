@@ -3,6 +3,8 @@ import { SearchBar } from "@/components/SearchBar";
 import { AdSlot } from "@/components/AdSlot";
 import { popularCities, cities } from "@/data/cities";
 import { MapPin, Star, Users, Zap } from "lucide-react";
+import { getTopProducts } from "@/data/affiliate-products";
+import { ProductCard } from "@/components/ProductCard";
 
 export default function HomePage() {
   return (
@@ -81,6 +83,24 @@ export default function HomePage() {
             >
               {city.name}, {city.stateCode}
             </Link>
+          ))}
+        </div>
+      </section>
+
+      {/* Top Gear */}
+      <section className="max-w-7xl mx-auto px-4 py-12">
+        <div className="flex items-center justify-between mb-6">
+          <div>
+            <h2 className="text-2xl md:text-3xl font-bold">Top Pickleball Gear</h2>
+            <p className="text-gray-500 mt-1">Our top picks for 2026</p>
+          </div>
+          <Link href="/gear" className="text-emerald-600 hover:underline text-sm font-medium">
+            View all gear →
+          </Link>
+        </div>
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
+          {getTopProducts(3).map((product) => (
+            <ProductCard key={product.name} product={product} />
           ))}
         </div>
       </section>

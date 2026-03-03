@@ -6,6 +6,8 @@ import { CourtCard } from "@/components/CourtCard";
 import { MapEmbed } from "@/components/MapEmbed";
 import { SearchBar } from "@/components/SearchBar";
 import { AdSlot } from "@/components/AdSlot";
+import { getTopProducts } from "@/data/affiliate-products";
+import { ProductCard } from "@/components/ProductCard";
 
 type Props = { params: Promise<{ cityState: string }> };
 
@@ -112,6 +114,20 @@ export default async function CityPage({ params }: Props) {
             <li>Check court hours — popular locations fill up quickly during peak times</li>
             <li>Bring your own paddle and balls unless visiting a dedicated pickleball facility</li>
           </ul>
+        </section>
+
+        {/* Recommended Gear */}
+        <section className="mt-12">
+          <h2 className="text-xl font-bold mb-1">Recommended Gear</h2>
+          <p className="text-sm text-gray-500 mb-4">Top-rated pickleball equipment to bring to courts in {city.name}.</p>
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
+            {getTopProducts(3).map((product) => (
+              <ProductCard key={product.name} product={product} />
+            ))}
+          </div>
+          <p className="text-xs text-gray-400 mt-3">
+            As an Amazon Associate, we earn from qualifying purchases.
+          </p>
         </section>
       </div>
     </>

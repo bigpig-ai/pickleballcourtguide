@@ -3,6 +3,8 @@ import { notFound } from "next/navigation";
 import Link from "next/link";
 import { states, cities } from "@/data/cities";
 import { AdSlot } from "@/components/AdSlot";
+import { getTopProducts } from "@/data/affiliate-products";
+import { ProductCard } from "@/components/ProductCard";
 
 type Props = { params: Promise<{ slug: string }> };
 
@@ -94,6 +96,19 @@ export default async function BlogPostPage({ params }: Props) {
       </div>
 
       <AdSlot slot="blog-bottom" className="mt-8 h-24" />
+
+      <div className="mt-10 border-t pt-8">
+        <h2 className="text-xl font-bold mb-1">Recommended Gear</h2>
+        <p className="text-sm text-gray-500 mb-4">Top-rated pickleball equipment to up your game.</p>
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
+          {getTopProducts(3).map((product) => (
+            <ProductCard key={product.name} product={product} />
+          ))}
+        </div>
+        <p className="text-xs text-gray-400 mt-3">
+          As an Amazon Associate, we earn from qualifying purchases.
+        </p>
+      </div>
     </article>
   );
 }

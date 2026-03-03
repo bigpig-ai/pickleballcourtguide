@@ -19,16 +19,11 @@ export function getCachedCourts(citySlug: string): Court[] {
   try {
     const raw = readFileSync(cachePath, "utf-8");
     const courts = JSON.parse(raw);
-    
-    // Reconstruct photo URLs from references
-    const apiKey = process.env.NEXT_PUBLIC_GOOGLE_MAPS_API_KEY || process.env.GOOGLE_MAPS_PLATFORM_API_KEY;
+
+    // Use static placeholder instead of paid Google Places Photos API
     return courts.map((court: any) => ({
       ...court,
-      photos: court.photos?.map((ref: string) =>
-        ref.startsWith("http")
-          ? ref
-          : `https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=${ref}&key=${apiKey}`
-      ),
+      photos: court.photos?.length ? ["/images/court-placeholder.jpg"] : [],
     }));
   } catch (err) {
     console.error(`Failed to read cache for ${citySlug}:`, err);
