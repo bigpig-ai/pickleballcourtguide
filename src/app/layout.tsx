@@ -1,11 +1,24 @@
 import type { Metadata } from "next";
-import { Inter } from "next/font/google";
+import { Outfit, DM_Sans } from "next/font/google";
 import Script from "next/script";
 import "./globals.css";
 import { Header } from "@/components/Header";
 import { Footer } from "@/components/Footer";
+import ClaimBanner from "@/components/ClaimBanner";
 
-const inter = Inter({ subsets: ["latin"] });
+const outfit = Outfit({
+  subsets: ["latin"],
+  variable: "--font-outfit",
+  display: "swap",
+  weight: ["400", "500", "600", "700", "800", "900"],
+});
+
+const dmSans = DM_Sans({
+  subsets: ["latin"],
+  variable: "--font-dm-sans",
+  display: "swap",
+  weight: ["400", "500", "600", "700"],
+});
 
 const gaId = process.env.NEXT_PUBLIC_GA_ID;
 const gaActive = gaId && gaId !== "G-PLACEHOLDER" && gaId.startsWith("G-");
@@ -26,9 +39,40 @@ export const metadata: Metadata = {
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
+  const websiteJsonLd = {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    name: "Pickleball Court Guide",
+    url: "https://pickleballcourtguide.com",
+    description: "Find the best pickleball courts near you. Search by city, browse ratings, hours, and photos.",
+    potentialAction: {
+      "@type": "SearchAction",
+      target: "https://pickleballcourtguide.com/pickleball-courts/{search_term_string}",
+      "query-input": "required name=search_term_string",
+    },
+  };
+
+  const orgJsonLd = {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    name: "Pickleball Court Guide",
+    url: "https://pickleballcourtguide.com",
+    logo: "https://pickleballcourtguide.com/favicon.ico",
+    sameAs: [],
+  };
+
   return (
-    <html lang="en">
+    <html lang="en" className={`${outfit.variable} ${dmSans.variable}`}>
       <head>
+        {/* JSON-LD Structured Data */}
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(websiteJsonLd) }}
+        />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(orgJsonLd) }}
+        />
         {/* Google AdSense */}
         <Script
           async
@@ -37,8 +81,9 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           strategy="afterInteractive"
         />
       </head>
-      <body className={`${inter.className} antialiased`}>
+      <body className={`${dmSans.className} antialiased`}>
         <Header />
+        <ClaimBanner />
         <main className="min-h-screen">{children}</main>
         <Footer />
 
