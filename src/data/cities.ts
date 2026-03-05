@@ -68,8 +68,51 @@ export function getCityBySlug(slug: string): City | undefined {
 }
 
 export const states = [
-  "Florida", "California", "Arizona", "Texas", "Colorado", 
+  "Florida", "California", "Arizona", "Texas", "Colorado",
   "Washington", "Oregon", "North Carolina", "Georgia", "Tennessee",
   "New York", "Massachusetts", "Pennsylvania", "Ohio", "Illinois",
-  "Minnesota", "Indiana", "Missouri", "Nevada", "South Carolina"
+  "Minnesota", "Indiana", "Missouri", "Nevada", "South Carolina",
+  "District of Columbia", "Hawaii", "Idaho", "Nebraska", "Utah"
 ];
+
+export interface StateInfo {
+  name: string;
+  code: string;
+  slug: string;
+}
+
+export const stateSlugMap: Record<string, StateInfo> = {
+  "florida": { name: "Florida", code: "FL", slug: "florida" },
+  "california": { name: "California", code: "CA", slug: "california" },
+  "arizona": { name: "Arizona", code: "AZ", slug: "arizona" },
+  "texas": { name: "Texas", code: "TX", slug: "texas" },
+  "colorado": { name: "Colorado", code: "CO", slug: "colorado" },
+  "washington": { name: "Washington", code: "WA", slug: "washington" },
+  "oregon": { name: "Oregon", code: "OR", slug: "oregon" },
+  "north-carolina": { name: "North Carolina", code: "NC", slug: "north-carolina" },
+  "georgia": { name: "Georgia", code: "GA", slug: "georgia" },
+  "tennessee": { name: "Tennessee", code: "TN", slug: "tennessee" },
+  "new-york": { name: "New York", code: "NY", slug: "new-york" },
+  "massachusetts": { name: "Massachusetts", code: "MA", slug: "massachusetts" },
+  "pennsylvania": { name: "Pennsylvania", code: "PA", slug: "pennsylvania" },
+  "ohio": { name: "Ohio", code: "OH", slug: "ohio" },
+  "illinois": { name: "Illinois", code: "IL", slug: "illinois" },
+  "minnesota": { name: "Minnesota", code: "MN", slug: "minnesota" },
+  "indiana": { name: "Indiana", code: "IN", slug: "indiana" },
+  "missouri": { name: "Missouri", code: "MO", slug: "missouri" },
+  "nevada": { name: "Nevada", code: "NV", slug: "nevada" },
+  "south-carolina": { name: "South Carolina", code: "SC", slug: "south-carolina" },
+  "district-of-columbia": { name: "District of Columbia", code: "DC", slug: "district-of-columbia" },
+  "hawaii": { name: "Hawaii", code: "HI", slug: "hawaii" },
+  "idaho": { name: "Idaho", code: "ID", slug: "idaho" },
+  "nebraska": { name: "Nebraska", code: "NE", slug: "nebraska" },
+  "utah": { name: "Utah", code: "UT", slug: "utah" },
+};
+
+export function getCitiesByState(stateCode: string): City[] {
+  return cities.filter((c) => c.stateCode === stateCode);
+}
+
+export function getStateBySlug(slug: string): StateInfo | undefined {
+  return stateSlugMap[slug];
+}

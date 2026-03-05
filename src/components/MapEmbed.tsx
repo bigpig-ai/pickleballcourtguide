@@ -7,7 +7,7 @@ export function MapEmbed({ lat, lng, zoom = 13, query }: { lat: number; lng: num
     : `https://www.google.com/maps/embed/v1/view?key=${apiKey}&center=${lat},${lng}&zoom=${zoom}`;
 
   return (
-    <div className="w-full h-[400px] rounded-xl overflow-hidden border">
+    <div className="w-full h-[400px] rounded-2xl overflow-hidden border border-gray-200 shadow-sm">
       <iframe
         src={src}
         width="100%"

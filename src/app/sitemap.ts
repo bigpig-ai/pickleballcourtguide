@@ -1,5 +1,5 @@
 import { MetadataRoute } from "next";
-import { cities, states } from "@/data/cities";
+import { cities, states, stateSlugMap } from "@/data/cities";
 import { blogPosts } from "@/data/blog-posts";
 
 export default function sitemap(): MetadataRoute.Sitemap {
@@ -10,6 +10,13 @@ export default function sitemap(): MetadataRoute.Sitemap {
     lastModified: new Date(),
     changeFrequency: "weekly" as const,
     priority: 0.8,
+  }));
+
+  const statePages = Object.values(stateSlugMap).map((state) => ({
+    url: `${base}/pickleball-courts/state/${state.slug}`,
+    lastModified: new Date(),
+    changeFrequency: "weekly" as const,
+    priority: 0.9,
   }));
 
   const stateBlogPages = states.map((state) => ({
@@ -26,9 +33,20 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.7,
   }));
 
+  const staticPages = [
+    `${base}/privacy`,
+    `${base}/terms`,
+    `${base}/affiliate-disclosure`,
+    `${base}/contact`,
+    `${base}/claim`,
+    `${base}/gear`,
+  ].map((url) => ({ url, lastModified: new Date(), changeFrequency: "yearly" as const, priority: 0.3 }));
+
   return [
     { url: base, lastModified: new Date(), changeFrequency: "daily", priority: 1 },
     { url: `${base}/blog`, lastModified: new Date(), changeFrequency: "weekly", priority: 0.7 },
+    ...staticPages,
+    ...statePages,
     ...cityPages,
     ...stateBlogPages,
     ...blogPostPages,

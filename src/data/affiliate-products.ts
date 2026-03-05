@@ -1,6 +1,6 @@
 export interface AffiliateProduct {
   name: string;
-  category: "paddle" | "ball" | "shoe" | "equipment";
+  category: "paddle" | "ball" | "shoe" | "equipment" | "net" | "bag";
   priceRange: string;
   rating: number;
   amazonUrl: string;
@@ -121,6 +121,56 @@ export const affiliateProducts: AffiliateProduct[] = [
     rating: 4.3,
     amazonUrl: amazonSearch("pickleball ball hopper holder"),
     description: "Pick up balls without bending. Holds 60+ balls.",
+  },
+  // Nets
+  {
+    name: "JOOLA Portable Pickleball Net System",
+    category: "net",
+    priceRange: "$120-140",
+    rating: 4.6,
+    amazonUrl: amazonSearch("JOOLA portable pickleball net regulation"),
+    description: "Powder-coated steel frame, regulation size, sets up in under 4 minutes.",
+  },
+  {
+    name: "A11N Portable Pickleball Net",
+    category: "net",
+    priceRange: "$65-80",
+    rating: 4.4,
+    amazonUrl: amazonSearch("A11N portable pickleball net"),
+    description: "Best budget net. Sturdy steel frame and easy setup for under $80.",
+  },
+  {
+    name: "Selkirk Sport Portable Pickleball Net",
+    category: "net",
+    priceRange: "$180-200",
+    rating: 4.7,
+    amazonUrl: amazonSearch("Selkirk portable pickleball net"),
+    description: "Tournament-grade construction. Heavy-gauge steel and premium nylon netting.",
+  },
+  // Bags
+  {
+    name: "JOOLA Pickleball Backpack",
+    category: "bag",
+    priceRange: "$55-65",
+    rating: 4.6,
+    amazonUrl: amazonSearch("JOOLA pickleball backpack"),
+    description: "Padded paddle sleeve, ventilated shoe pocket, fence hook. Best all-around bag.",
+  },
+  {
+    name: "Selkirk Team Pickleball Backpack",
+    category: "bag",
+    priceRange: "$70-85",
+    rating: 4.7,
+    amazonUrl: amazonSearch("Selkirk pickleball backpack"),
+    description: "Pro-quality build with thermal-lined paddle sleeve and waterproof shoe compartment.",
+  },
+  {
+    name: "Franklin Pickleball Sling Bag",
+    category: "bag",
+    priceRange: "$30-40",
+    rating: 4.3,
+    amazonUrl: amazonSearch("Franklin pickleball sling bag"),
+    description: "Lightweight sling for 2 paddles and essentials. Great budget carry option.",
   },
 ];
 
