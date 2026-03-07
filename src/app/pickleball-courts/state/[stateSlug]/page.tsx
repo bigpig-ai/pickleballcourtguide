@@ -5,6 +5,7 @@ import { getCachedCourts } from "@/lib/courts-cache";
 import { AdSlot } from "@/components/AdSlot";
 import { getTopProducts } from "@/data/affiliate-products";
 import { ProductCard } from "@/components/ProductCard";
+import { ShareButtons } from "@/components/ShareButtons";
 import { MapPin, ArrowRight, Building2 } from "lucide-react";
 import Link from "next/link";
 
@@ -25,6 +26,15 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     openGraph: {
       title: `Pickleball Courts in ${state.name}`,
       description: `Complete guide to pickleball courts in ${state.name}. ${cityCount} cities covered with ratings, hours, and more.`,
+      url: `https://pickleballcourtguide.com/pickleball-courts/state/${stateSlug}`,
+      type: "website",
+      images: [{ url: "/opengraph-image", width: 1200, height: 630, alt: `Pickleball Courts in ${state.name}` }],
+    },
+    twitter: {
+      card: "summary_large_image",
+      title: `Pickleball Courts in ${state.name}`,
+      description: `Complete guide to pickleball courts in ${state.name}. ${cityCount} cities covered.`,
+      images: ["/opengraph-image"],
     },
   };
 }
@@ -93,6 +103,12 @@ export default async function StatePage({ params }: Props) {
           <p className="text-emerald-100/80 text-sm md:text-base max-w-lg">
             {totalCourts} courts across {citiesWithCounts.length} cities in {state.name}
           </p>
+          <div className="mt-4">
+            <ShareButtons
+              url={`https://pickleballcourtguide.com/pickleball-courts/state/${state.slug}`}
+              title={`Pickleball Courts in ${state.name}`}
+            />
+          </div>
         </div>
         <div className="absolute bottom-0 left-0 right-0 h-12 bg-gradient-to-t from-[var(--background)] to-transparent" />
       </section>

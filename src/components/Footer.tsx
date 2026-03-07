@@ -101,6 +101,24 @@ export function Footer() {
           </div>
         </div>
 
+        {/* Sister Sites */}
+        <div className="mt-10 pt-6 border-t border-emerald-800/50">
+          <h3 className="font-[var(--font-outfit)] font-bold text-sm uppercase tracking-wider text-emerald-400 mb-3">
+            Our Network
+          </h3>
+          <div className="flex flex-wrap gap-x-6 gap-y-2 text-sm text-emerald-200/70">
+            <a href="https://socaldogguide.com" target="_blank" rel="noopener noreferrer" className="hover:text-white transition-colors">
+              South Bay Dog Guide
+            </a>
+            <a href="https://laxhomeservices.com" target="_blank" rel="noopener noreferrer" className="hover:text-white transition-colors">
+              South Bay Home Services
+            </a>
+            <a href="https://thefamilyscout.com" target="_blank" rel="noopener noreferrer" className="hover:text-white transition-colors">
+              Family Events &amp; Activities
+            </a>
+          </div>
+        </div>
+
         {/* Bottom bar */}
         <div className="mt-12 pt-6 border-t border-emerald-800/50 flex flex-col sm:flex-row items-center justify-between gap-3">
           <p className="text-sm text-emerald-400/50">

@@ -7,6 +7,7 @@ import { getTopProducts } from "@/data/affiliate-products";
 import { ProductCard } from "@/components/ProductCard";
 import { getBlogPost, getBlogPostSlugs } from "@/data/blog-posts";
 import { RelatedPosts } from "@/components/RelatedPosts";
+import { ShareButtons } from "@/components/ShareButtons";
 import { BookOpen, ArrowRight, ChevronDown } from "lucide-react";
 
 type Props = { params: Promise<{ slug: string }> };
@@ -30,6 +31,19 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     return {
       title: `Best Pickleball Courts in ${guide.state} | 2026 Guide`,
       description: `Complete guide to the best pickleball courts in ${guide.state}. Find courts in ${guide.cities.map((c) => c.name).join(", ")} and more.`,
+      openGraph: {
+        title: `Best Pickleball Courts in ${guide.state} | 2026 Guide`,
+        description: `Complete guide to the best pickleball courts in ${guide.state}.`,
+        url: `https://pickleballcourtguide.com/blog/${slug}`,
+        type: "article",
+        images: [{ url: "/opengraph-image", width: 1200, height: 630, alt: `Pickleball Courts in ${guide.state}` }],
+      },
+      twitter: {
+        card: "summary_large_image",
+        title: `Best Pickleball Courts in ${guide.state} | 2026 Guide`,
+        description: `Complete guide to the best pickleball courts in ${guide.state}.`,
+        images: ["/opengraph-image"],
+      },
     };
   }
   const post = getBlogPost(slug);
@@ -37,6 +51,19 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     return {
       title: `${post.title} | Pickleball Court Guide`,
       description: post.description,
+      openGraph: {
+        title: post.title,
+        description: post.description,
+        url: `https://pickleballcourtguide.com/blog/${slug}`,
+        type: "article",
+        images: [{ url: "/opengraph-image", width: 1200, height: 630, alt: post.title }],
+      },
+      twitter: {
+        card: "summary_large_image",
+        title: post.title,
+        description: post.description,
+        images: ["/opengraph-image"],
+      },
     };
   }
   return {};
@@ -50,6 +77,16 @@ export default async function BlogPostPage({ params }: Props) {
 
   // Blog post rendering
   if (blogPost) {
+    const breadcrumbJsonLd = {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      itemListElement: [
+        { "@type": "ListItem", position: 1, name: "Home", item: "https://pickleballcourtguide.com" },
+        { "@type": "ListItem", position: 2, name: "Blog", item: "https://pickleballcourtguide.com/blog" },
+        { "@type": "ListItem", position: 3, name: blogPost.title, item: `https://pickleballcourtguide.com/blog/${slug}` },
+      ],
+    };
+
     const blogPostJsonLd = {
       "@context": "https://schema.org",
       "@type": "BlogPosting",
@@ -76,6 +113,7 @@ export default async function BlogPostPage({ params }: Props) {
 
     return (
       <>
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd) }} />
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(blogPostJsonLd) }}
@@ -118,6 +156,12 @@ export default async function BlogPostPage({ params }: Props) {
             <p className="text-emerald-200/70 mt-3 text-sm">
               {blogPost.publishedDate} &bull; {blogPost.readingTime}
             </p>
+            <div className="mt-4">
+              <ShareButtons
+                url={`https://pickleballcourtguide.com/blog/${slug}`}
+                title={blogPost.title}
+              />
+            </div>
           </div>
           <div className="absolute bottom-0 left-0 right-0 h-12 bg-gradient-to-t from-[var(--background)] to-transparent" />
         </section>
@@ -209,6 +253,12 @@ export default async function BlogPostPage({ params }: Props) {
             Best Pickleball Courts in {stateGuide.state}
           </h1>
           <p className="text-emerald-200/70 mt-3 text-sm">Updated for 2026 &bull; Complete Directory</p>
+          <div className="mt-4">
+            <ShareButtons
+              url={`https://pickleballcourtguide.com/blog/${slug}`}
+              title={`Best Pickleball Courts in ${stateGuide.state}`}
+            />
+          </div>
         </div>
         <div className="absolute bottom-0 left-0 right-0 h-12 bg-gradient-to-t from-[var(--background)] to-transparent" />
       </section>

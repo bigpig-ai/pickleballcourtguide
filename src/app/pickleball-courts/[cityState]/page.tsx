@@ -8,6 +8,7 @@ import { SearchBar } from "@/components/SearchBar";
 import { AdSlot } from "@/components/AdSlot";
 import { getTopProducts } from "@/data/affiliate-products";
 import { ProductCard } from "@/components/ProductCard";
+import { ShareButtons } from "@/components/ShareButtons";
 import { MapPin, Star, ArrowRight } from "lucide-react";
 import Link from "next/link";
 
@@ -23,10 +24,19 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   if (!city) return {};
   return {
     title: `Best Pickleball Courts in ${city.name}, ${city.stateCode} | 2026 Guide`,
-    description: `Find the best pickleball courts in ${city.name}, ${city.state}. Browse ratings, photos, hours, and directions for all ${city.name} pickleball facilities.`,
+    description: `Find ${city.name} pickleball courts near me. Browse ratings, photos, hours & directions for all ${city.name}, ${city.state} pickleball facilities. Updated 2026.`,
     openGraph: {
       title: `Pickleball Courts in ${city.name}, ${city.stateCode}`,
       description: `Complete guide to pickleball courts in ${city.name}. Find indoor & outdoor courts, ratings, and more.`,
+      url: `https://pickleballcourtguide.com/pickleball-courts/${cityState}`,
+      type: "website",
+      images: [{ url: "/opengraph-image", width: 1200, height: 630, alt: `Pickleball Courts in ${city.name}` }],
+    },
+    twitter: {
+      card: "summary_large_image",
+      title: `Pickleball Courts in ${city.name}, ${city.stateCode}`,
+      description: `Find ${city.name} pickleball courts near me. Browse ratings, photos & hours for all ${city.name} pickleball facilities.`,
+      images: ["/opengraph-image"],
     },
   };
 }
@@ -43,6 +53,18 @@ export default async function CityPage({ params }: Props) {
 
   const stateInfo = Object.values(stateSlugMap).find((s) => s.code === city.stateCode);
 
+  const breadcrumbJsonLd = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    itemListElement: [
+      { "@type": "ListItem", position: 1, name: "Home", item: "https://pickleballcourtguide.com" },
+      ...(stateInfo
+        ? [{ "@type": "ListItem", position: 2, name: stateInfo.name, item: `https://pickleballcourtguide.com/pickleball-courts/state/${stateInfo.slug}` }]
+        : []),
+      { "@type": "ListItem", position: stateInfo ? 3 : 2, name: `${city.name}, ${city.stateCode}`, item: `https://pickleballcourtguide.com/pickleball-courts/${city.slug}` },
+    ],
+  };
+
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "ItemList",
@@ -51,7 +73,7 @@ export default async function CityPage({ params }: Props) {
       "@type": "ListItem",
       position: i + 1,
       item: {
-        "@type": "LocalBusiness",
+        "@type": "SportsActivityLocation",
         name: court.name,
         address: court.address,
         ...(court.rating && { aggregateRating: { "@type": "AggregateRating", ratingValue: court.rating, reviewCount: court.reviewCount } }),
@@ -61,6 +83,7 @@ export default async function CityPage({ params }: Props) {
 
   return (
     <>
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
 
       {/* City Hero */}
@@ -99,8 +122,14 @@ export default async function CityPage({ params }: Props) {
             {courts.length} pickleball courts and facilities found in {city.name}, {city.stateCode}
           </p>
 
-          <div className="mt-5">
+          <div className="mt-5 flex flex-col sm:flex-row sm:items-center gap-4">
             <SearchBar />
+          </div>
+          <div className="mt-4">
+            <ShareButtons
+              url={`https://pickleballcourtguide.com/pickleball-courts/${city.slug}`}
+              title={`Pickleball Courts in ${city.name}, ${city.stateCode}`}
+            />
           </div>
         </div>
         <div className="absolute bottom-0 left-0 right-0 h-12 bg-gradient-to-t from-[var(--background)] to-transparent" />

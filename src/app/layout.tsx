@@ -5,6 +5,7 @@ import "./globals.css";
 import { Header } from "@/components/Header";
 import { Footer } from "@/components/Footer";
 import ClaimBanner from "@/components/ClaimBanner";
+import StickyGearBar from "@/components/StickyGearBar";
 
 const outfit = Outfit({
   subsets: ["latin"],
@@ -26,11 +27,20 @@ const gaActive = gaId && gaId !== "G-PLACEHOLDER" && gaId.startsWith("G-");
 export const metadata: Metadata = {
   title: "Find Pickleball Courts Near You | Pickleball Court Guide",
   description: "Find the best pickleball courts near you. Search by city, browse ratings, hours, and photos. The most comprehensive pickleball court directory for 2026.",
+  metadataBase: new URL("https://pickleballcourtguide.com"),
   openGraph: {
     title: "Find Pickleball Courts Near You | Pickleball Court Guide",
     description: "The most comprehensive pickleball court directory. Find courts, read reviews, and play.",
+    url: "https://pickleballcourtguide.com",
     siteName: "Pickleball Court Guide",
     type: "website",
+    images: [{ url: "/opengraph-image", width: 1200, height: 630, alt: "Pickleball Court Guide" }],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Find Pickleball Courts Near You | Pickleball Court Guide",
+    description: "The most comprehensive pickleball court directory. Find courts, read reviews, and play.",
+    images: ["/opengraph-image"],
   },
   robots: { index: true, follow: true },
   verification: {
@@ -85,6 +95,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <Header />
         <ClaimBanner />
         <main className="min-h-screen">{children}</main>
+        <StickyGearBar />
         <Footer />
 
         {/* Google Analytics 4 */}
