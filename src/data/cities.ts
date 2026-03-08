@@ -59,6 +59,10 @@ export const cities: City[] = [
   { name: "Honolulu", state: "Hawaii", stateCode: "HI", slug: "honolulu-hi", lat: 21.307, lng: -157.858 },
   { name: "Palm Springs", state: "California", stateCode: "CA", slug: "palm-springs-ca", lat: 33.830, lng: -116.545 },
   { name: "Charleston", state: "South Carolina", stateCode: "SC", slug: "charleston-sc", lat: 32.777, lng: -79.932 },
+  { name: "Virginia Beach", state: "Virginia", stateCode: "VA", slug: "virginia-beach-va", lat: 36.853, lng: -75.978 },
+  { name: "Panama City", state: "Florida", stateCode: "FL", slug: "panama-city-fl", lat: 30.159, lng: -85.660 },
+  { name: "Akron", state: "Ohio", stateCode: "OH", slug: "akron-oh", lat: 41.081, lng: -81.519 },
+  { name: "Fresno", state: "California", stateCode: "CA", slug: "fresno-ca", lat: 36.737, lng: -119.787 },
 ];
 
 export const popularCities = cities.slice(0, 12);
@@ -72,7 +76,8 @@ export const states = [
   "Washington", "Oregon", "North Carolina", "Georgia", "Tennessee",
   "New York", "Massachusetts", "Pennsylvania", "Ohio", "Illinois",
   "Minnesota", "Indiana", "Missouri", "Nevada", "South Carolina",
-  "District of Columbia", "Hawaii", "Idaho", "Nebraska", "Utah"
+  "District of Columbia", "Hawaii", "Idaho", "Nebraska", "Utah",
+  "Virginia"
 ];
 
 export interface StateInfo {
@@ -107,6 +112,7 @@ export const stateSlugMap: Record<string, StateInfo> = {
   "idaho": { name: "Idaho", code: "ID", slug: "idaho" },
   "nebraska": { name: "Nebraska", code: "NE", slug: "nebraska" },
   "utah": { name: "Utah", code: "UT", slug: "utah" },
+  "virginia": { name: "Virginia", code: "VA", slug: "virginia" },
 };
 
 export function getCitiesByState(stateCode: string): City[] {
